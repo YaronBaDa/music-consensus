@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="theme-color" content="#1a1a2e">
+  <title>Music Consensus — Album Reviews Aggregated</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css?v=1">
+</head>
+<body>
+  <!-- Header -->
+  <header class="app-header">
+    <div class="header-inner">
+      <a href="./" class="logo">
+        <span class="logo-icon">🎵</span>
+        <span class="logo-text">Music Consensus</span>
+      </a>
+      <nav class="main-nav">
+        <a href="#albums" class="nav-link active">Albums</a>
+        <a href="#about" class="nav-link">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-inner">
+      <h1>Every Album Score,<br><span class="gradient-text">One Place</span></h1>
+      <p>Aggregating reviews from AOTY, Metacritic, RateYourMusic &amp; Discogs into a single consensus score.</p>
+      <div class="hero-stats">
+        <div class="stat"><strong id="albumCount">0</strong><span>Albums</span></div>
+        <div class="stat"><strong>4</strong><span>Sources</span></div>
+        <div class="stat"><strong id="decadeCount">0</strong><span>Decades</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Filters Bar -->
+  <div class="filters-bar" id="filtersBar">
+    <div class="filters-inner">
+      <div class="search-box">
+        <input type="text" id="searchInput" placeholder="Search albums, artists..." autocomplete="off">
+        <span class="search-icon">🔍</span>
+      </div>
+      <div class="filter-group">
+        <select id="decadeFilter">
+          <option value="">All Decades</option>
+          <option value="2020">2020s</option>
+          <option value="2010">2010s</option>
+          <option value="1990">1990s</option>
+          <option value="1980">1980s</option>
+          <option value="1970">1970s</option>
+          <option value="1960">1960s</option>
+        </select>
+        <select id="genreFilter">
+          <option value="">All Genres</option>
+        </select>
+        <select id="sortSelect">
+          <option value="consensus">Consensus Score</option>
+          <option value="year">Year</option>
+          <option value="artist">Artist</option>
+          <option value="album">Album</option>
+          <option value="aoty">AOTY Score</option>
+          <option value="metacritic">Metacritic</option>
+        </select>
+      </div>
+      <button class="clear-btn" id="clearFilters" style="display:none">Clear</button>
+    </div>
+  </div>
+
+  <!-- Album Grid -->
+  <main class="albums-section" id="albums">
+    <div class="albums-grid" id="albumsGrid">
+      <!-- Albums rendered by JS -->
+    </div>
+    <div class="loading-state" id="loadingState">
+      <div class="spinner"></div>
+      <p>Loading albums...</p>
+    </div>
+    <div class="empty-state" id="emptyState" style="display:none">
+      <p>No albums found matching your filters.</p>
+    </div>
+  </main>
+
+  <!-- Album Detail Modal -->
+  <div class="modal-overlay" id="modalOverlay">
+    <div class="modal-content" id="modalContent">
+      <button class="modal-close" id="modalClose">✕</button>
+      <div class="modal-body" id="modalBody">
+        <!-- Rendered by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- About Section -->
+  <section class="about-section" id="about">
+    <div class="about-inner">
+      <h2>How It Works</h2>
+      <div class="about-grid">
+        <div class="about-card">
+          <div class="about-icon">📊</div>
+          <h3>Aggregate Scores</h3>
+          <p>We collect ratings from AOTY (critics &amp; users), Metacritic (professional reviews), RateYourMusic (community), and Discogs (collectors).</p>
+        </div>
+        <div class="about-card">
+          <div class="about-icon">🧮</div>
+          <h3>Consensus Algorithm</h3>
+          <p>Each source is normalized to a 0-100 scale, then averaged with equal weight. Missing sources are excluded — no penalty for limited data.</p>
+        </div>
+        <div class="about-card">
+          <div class="about-icon">🎯</div>
+          <h3>Decade Charts</h3>
+          <p>Top 100 albums per decade, ranked by consensus. Filter by genre, year, or source. Discover hidden gems and confirm the classics.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="app-footer">
+    <p>Music Consensus — Data from AOTY, Metacritic, RateYourMusic &amp; Discogs</p>
+  </footer>
+
+  <script src="app.js?v=1"></script>
+</body>
+</html>
