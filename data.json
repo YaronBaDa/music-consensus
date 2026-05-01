@@ -9186,9 +9186,10 @@
     "year": 2017,
     "metacritic": 85,
     "source": "Metacritic 2017",
-    "consensus": 85,
-    "reviews": 1,
-    "genre": "Folk"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Folk",
+    "discogs": 90
   },
   {
     "artist": "The Weather Station",
@@ -9196,10 +9197,11 @@
     "year": 2017,
     "metacritic": 85,
     "source": "Metacritic 2017",
-    "consensus": 85,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/8e775a8d96f98389fe6b49ecd2018e8e/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/8e775a8d96f98389fe6b49ecd2018e8e/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Father John Misty",
@@ -9207,10 +9209,11 @@
     "year": 2017,
     "metacritic": 85,
     "source": "Metacritic 2017",
-    "consensus": 85,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/065622a89d9463c34cfe5f7cdaf037e2/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/065622a89d9463c34cfe5f7cdaf037e2/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Ryuichi Sakamoto",
@@ -9218,10 +9221,11 @@
     "year": 2017,
     "metacritic": 85,
     "source": "Metacritic 2017",
-    "consensus": 85,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Classical",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/ee4d7f4427dcc9bf350203bbadbf92ea/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/ee4d7f4427dcc9bf350203bbadbf92ea/1000x1000-000000-80-0-0.jpg",
+    "discogs": 91
   },
   {
     "artist": "Pwr Bttm",
@@ -9229,10 +9233,11 @@
     "year": 2017,
     "metacritic": 85,
     "source": "Metacritic 2017",
-    "consensus": 85,
-    "reviews": 1,
+    "consensus": 82,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/dd1772a59a2beb01e697c6edd2bcd0a7/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/dd1772a59a2beb01e697c6edd2bcd0a7/1000x1000-000000-80-0-0.jpg",
+    "discogs": 79
   },
   {
     "artist": "Young Thug",
@@ -10170,10 +10175,11 @@
     "year": 2016,
     "metacritic": 85,
     "source": "Metacritic 2016",
-    "consensus": 85,
-    "reviews": 1,
+    "consensus": 83,
+    "reviews": 2,
     "genre": "Folk",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/9e2b6f9c0782862216c06635b8108921/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/9e2b6f9c0782862216c06635b8108921/1000x1000-000000-80-0-0.jpg",
+    "discogs": 81
   },
   {
     "artist": "Neurosis",
@@ -10181,10 +10187,11 @@
     "year": 2016,
     "metacritic": 85,
     "source": "Metacritic 2016",
-    "consensus": 85,
-    "reviews": 1,
+    "consensus": 83,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/8ffa23423e33ab57370dc50c7e47ef83/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/8ffa23423e33ab57370dc50c7e47ef83/1000x1000-000000-80-0-0.jpg",
+    "discogs": 81
   },
   {
     "artist": "Anderson .Paak",
@@ -10192,10 +10199,11 @@
     "year": 2016,
     "metacritic": 85,
     "source": "Metacritic 2016",
-    "consensus": 85,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "R&B",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/dc2fac96693ccae66ea8e0a43069c716/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/dc2fac96693ccae66ea8e0a43069c716/1000x1000-000000-80-0-0.jpg",
+    "discogs": 92
   },
   {
     "artist": "Danny Brown",
@@ -10203,10 +10211,11 @@
     "year": 2016,
     "metacritic": 85,
     "source": "Metacritic 2016",
-    "consensus": 85,
-    "reviews": 1,
+    "consensus": 89,
+    "reviews": 2,
     "genre": "Electronic",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/fccdcc562c0de3c46ca7646001dc52d6/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/fccdcc562c0de3c46ca7646001dc52d6/1000x1000-000000-80-0-0.jpg",
+    "discogs": 93
   },
   {
     "artist": "The Hotelier",
@@ -10215,9 +10224,10 @@
     "metacritic": 85,
     "source": "Metacritic 2016",
     "consensus": 85,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/c1e96f4080e4c3974778ef835cabfc3d/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/c1e96f4080e4c3974778ef835cabfc3d/1000x1000-000000-80-0-0.jpg",
+    "discogs": 85
   },
   {
     "artist": "Aesop Rock",
@@ -10225,10 +10235,11 @@
     "year": 2016,
     "metacritic": 85,
     "source": "Metacritic 2016",
-    "consensus": 85,
-    "reviews": 1,
+    "consensus": 89,
+    "reviews": 2,
     "genre": "Hip Hop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/4d1c7b68797920363b9a04bce5270945/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/4d1c7b68797920363b9a04bce5270945/1000x1000-000000-80-0-0.jpg",
+    "discogs": 93
   },
   {
     "artist": "John K. Samson",
@@ -10236,10 +10247,11 @@
     "year": 2016,
     "metacritic": 85,
     "source": "Metacritic 2016",
-    "consensus": 85,
-    "reviews": 1,
+    "consensus": 87,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/9b33d9aeeac64af0e0e414b53f551300/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/9b33d9aeeac64af0e0e414b53f551300/1000x1000-000000-80-0-0.jpg",
+    "discogs": 89
   },
   {
     "artist": "Kevin Morby",
@@ -11274,10 +11286,11 @@
     "year": 2015,
     "metacritic": 85,
     "source": "Metacritic 2015",
-    "consensus": 85,
-    "reviews": 1,
+    "consensus": 87,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/1f9257cf2ddea98cec01f2820a8d8acf/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/1f9257cf2ddea98cec01f2820a8d8acf/1000x1000-000000-80-0-0.jpg",
+    "discogs": 89
   },
   {
     "artist": "Jazmine Sullivan",
