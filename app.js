@@ -31,12 +31,12 @@ async function loadData() {
     // Pre-compute consensus scores
     allAlbums.forEach(a => {
       a.consensus = getConsensusScore(a);
+      a.decade = String(a.year).slice(0, 3) + '0';
     });
-    populateYearFilter();
     populateGenreFilter();
     updateStats();
-    // Default to 2026
-    document.getElementById('yearFilter').value = '2026';
+    // Default to 2020s decade (includes 2026)
+    document.getElementById('decadeFilter').value = '2020';
     applyFilters();
     document.getElementById('loadingState').style.display = 'none';
   } catch (e) {
@@ -49,19 +49,6 @@ function updateStats() {
   document.getElementById('albumCount').textContent = allAlbums.length;
   const sources = new Set(allAlbums.map(a => a.source).filter(Boolean));
   document.getElementById('sourceCount').textContent = sources.size;
-}
-
-function populateYearFilter() {
-  const years = new Set();
-  allAlbums.forEach(a => { if (a.year) years.add(a.year); });
-  const select = document.getElementById('yearFilter');
-  // Keep the "All Years" option, add year options descending
-  Array.from(years).sort((a, b) => b - a).forEach(y => {
-    const opt = document.createElement('option');
-    opt.value = String(y);
-    opt.textContent = y;
-    select.appendChild(opt);
-  });
 }
 
 function populateGenreFilter() {
@@ -136,13 +123,13 @@ function renderAlbums(albums) {
 // Filters
 function applyFilters() {
   const search = document.getElementById('searchInput').value.toLowerCase();
-  const year = document.getElementById('yearFilter').value;
+  const decade = document.getElementById('decadeFilter').value;
   const genre = document.getElementById('genreFilter').value;
   const sort = document.getElementById('sortSelect').value;
 
   filteredAlbums = allAlbums.filter(a => {
     if (search && !a.album.toLowerCase().includes(search) && !a.artist.toLowerCase().includes(search)) return false;
-    if (year && String(a.year) !== year) return false;
+    if (decade && a.decade !== decade) return false;
     if (genre && a.genre !== genre) return false;
     return true;
   });
@@ -161,7 +148,7 @@ function applyFilters() {
 
   renderAlbums(filteredAlbums);
 
-  const hasFilters = search || year || genre;
+  const hasFilters = search || decade || genre;
   document.getElementById('clearFilters').style.display = hasFilters ? 'block' : 'none';
 }
 
@@ -225,12 +212,12 @@ function closeModal() {
 
 // Event listeners
 document.getElementById('searchInput').addEventListener('input', applyFilters);
-document.getElementById('yearFilter').addEventListener('change', applyFilters);
+document.getElementById('decadeFilter').addEventListener('change', applyFilters);
 document.getElementById('genreFilter').addEventListener('change', applyFilters);
 document.getElementById('sortSelect').addEventListener('change', applyFilters);
 document.getElementById('clearFilters').addEventListener('click', () => {
   document.getElementById('searchInput').value = '';
-  document.getElementById('yearFilter').value = '2026';
+  document.getElementById('decadeFilter').value = '2020';
   document.getElementById('genreFilter').value = '';
   applyFilters();
 });
