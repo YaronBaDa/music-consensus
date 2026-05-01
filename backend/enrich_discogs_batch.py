@@ -12,7 +12,7 @@ import urllib.parse
 from difflib import SequenceMatcher
 
 USER_AGENT = "ConsensusBot/1.0 (contact@example.com)"
-BATCH_SIZE = 250  # ~8 min per run at 2s delay
+BATCH_SIZE = 100  # ~3.5 min per run at 2s delay
 
 def fuzzy_ratio(a, b):
     return SequenceMatcher(None, a.lower(), b.lower()).ratio()
@@ -87,6 +87,9 @@ def main():
 
     count = 0
     found = 0
+    save_interval = 10  # Write data.json every N albums to reduce I/O
+    pending_scores = []  # Buffer scores to apply in batches
+
     for a in albums_sorted:
         key = f"{a['artist'].lower()}|||{a['album'].lower()}"
         if key in processed:
@@ -97,29 +100,34 @@ def main():
 
         score = search_discogs(a["artist"], a["album"])
         if score:
-            # Update original album
-            for orig in albums:
-                if orig["artist"] == a["artist"] and orig["album"] == a["album"]:
-                    orig["discogs"] = score
-                    scores = []
-                    if "metacritic" in orig:
-                        scores.append(orig["metacritic"])
-                    scores.append(score)
-                    if "musicbrainz" in orig:
-                        scores.append(orig["musicbrainz"])
-                    orig["consensus"] = round(sum(scores) / len(scores))
-                    orig["reviews"] = len(scores)
-                    found += 1
-                    break
+            pending_scores.append((a["artist"], a["album"], score))
+            found += 1
 
         processed.add(key)
         count += 1
 
-        # Save after every album (atomic)
+        # Save checkpoint after every album (small, fast)
         with open(checkpoint_file, "w") as f:
             json.dump({"processed_keys": list(processed)}, f)
-        with open("../data.json", "w") as f:
-            json.dump(albums, f, indent=2)
+
+        # Apply buffered scores and save data.json periodically
+        if count % save_interval == 0 or count >= BATCH_SIZE:
+            for artist, album, score in pending_scores:
+                for orig in albums:
+                    if orig["artist"] == artist and orig["album"] == album:
+                        orig["discogs"] = score
+                        scores = []
+                        if "metacritic" in orig:
+                            scores.append(orig["metacritic"])
+                        scores.append(score)
+                        if "musicbrainz" in orig:
+                            scores.append(orig["musicbrainz"])
+                        orig["consensus"] = round(sum(scores) / len(scores))
+                        orig["reviews"] = len(scores)
+                        break
+            pending_scores = []
+            with open("../data.json", "w") as f:
+                json.dump(albums, f, indent=2)
 
         time.sleep(2.0)
 
@@ -127,6 +135,23 @@ def main():
             print(f"Batch limit reached. Processed {count} this run, found {found} scores.")
             print(f"Total processed: {len(processed)}/{len(albums_sorted)}")
             return
+
+    # Flush any remaining buffered scores
+    for artist, album, score in pending_scores:
+        for orig in albums:
+            if orig["artist"] == artist and orig["album"] == album:
+                orig["discogs"] = score
+                scores = []
+                if "metacritic" in orig:
+                    scores.append(orig["metacritic"])
+                scores.append(score)
+                if "musicbrainz" in orig:
+                    scores.append(orig["musicbrainz"])
+                orig["consensus"] = round(sum(scores) / len(scores))
+                orig["reviews"] = len(scores)
+                break
+    with open("../data.json", "w") as f:
+        json.dump(albums, f, indent=2)
 
     # All done
     if os.path.exists(checkpoint_file):

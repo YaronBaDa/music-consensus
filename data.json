@@ -370,10 +370,11 @@
     "year": 2025,
     "metacritic": 86,
     "source": "Metacritic 2025",
-    "consensus": 86,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Hip Hop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/d28d8c3998126186ca91667f6b06352f/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/d28d8c3998126186ca91667f6b06352f/1000x1000-000000-80-0-0.jpg",
+    "discogs": 95
   },
   {
     "artist": "Richard Dawson",
@@ -382,9 +383,10 @@
     "metacritic": 86,
     "source": "Metacritic 2025",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/22/dd/6222ddb8-e5f4-c20c-a001-c373f92864d9/887833016664.png/600x600bb.jpg",
-    "consensus": 86,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 91
   },
   {
     "artist": "Snocaps",
@@ -392,10 +394,11 @@
     "year": 2025,
     "metacritic": 86,
     "source": "Metacritic 2025",
-    "consensus": 86,
-    "reviews": 1,
+    "consensus": 92,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/ccdc3183cb684e731ee010a5fb7851d9/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/ccdc3183cb684e731ee010a5fb7851d9/1000x1000-000000-80-0-0.jpg",
+    "discogs": 97
   },
   {
     "artist": "Patterson Hood",
@@ -403,9 +406,10 @@
     "year": 2025,
     "metacritic": 86,
     "source": "Metacritic 2025",
-    "consensus": 86,
-    "reviews": 1,
-    "genre": "Various"
+    "consensus": 85,
+    "reviews": 2,
+    "genre": "Various",
+    "discogs": 84
   },
   {
     "artist": "Cass McCombs",
@@ -414,9 +418,10 @@
     "metacritic": 86,
     "source": "Metacritic 2025",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/2f/31/b22f310d-7994-a551-d309-6f3cdc48a1ad/887828054763.png/600x600bb.jpg",
-    "consensus": 86,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 90,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 93
   },
   {
     "artist": "Robert Plant",
@@ -425,9 +430,10 @@
     "metacritic": 86,
     "source": "Metacritic 2025",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/48/cc/0348cc21-27f7-c7b5-5a75-597f9d741673/075597894462.jpg/600x600bb.jpg",
-    "consensus": 86,
-    "reviews": 1,
-    "genre": "Rock"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Rock",
+    "discogs": 89
   },
   {
     "artist": "Ichiko Aoba",
@@ -436,9 +442,10 @@
     "metacritic": 86,
     "source": "Metacritic 2025",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/5b/5b/875b5b86-30f3-d50a-de93-5bb5ad4cb141/49449.jpg/600x600bb.jpg",
-    "consensus": 86,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 91
   },
   {
     "artist": "Yaya Bey",
@@ -1586,9 +1593,10 @@
     "metacritic": 86,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/86/77/65867726-16da-51e7-5a24-7f1cdf0f3d83/102161.jpg/600x600bb.jpg",
-    "consensus": 86,
-    "reviews": 1,
-    "genre": "Pop"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Pop",
+    "discogs": 91
   },
   {
     "artist": "Elbow",
@@ -1597,9 +1605,10 @@
     "metacritic": 86,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/ea/79/e3ea790a-5093-951c-b7f6-f7d7c01924f5/25UMGIM60770.rgb.jpg/600x600bb.jpg",
-    "consensus": 86,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 91
   },
   {
     "artist": "Yard Act",
@@ -1607,10 +1616,11 @@
     "year": 2024,
     "metacritic": 86,
     "source": "Metacritic 2024",
-    "consensus": 86,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/7ce8a42a04743ddc6dc7acdbdfb9859d/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/7ce8a42a04743ddc6dc7acdbdfb9859d/1000x1000-000000-80-0-0.jpg",
+    "discogs": 93
   },
   {
     "artist": "Mount Eerie",
@@ -1619,9 +1629,10 @@
     "metacritic": 86,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/cd/98/a3cd98f9-cf82-f7f7-5874-b3fdb427f16c/85218091910.jpg/600x600bb.jpg",
-    "consensus": 86,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 90,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 94
   },
   {
     "artist": "Poppy",
@@ -12165,10 +12176,11 @@
     "year": 2014,
     "metacritic": 86,
     "source": "Metacritic 2014",
-    "consensus": 86,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Metal",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/336f63c696a620c28379fb9ee6665849/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/336f63c696a620c28379fb9ee6665849/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Wild Beasts",
@@ -12176,10 +12188,11 @@
     "year": 2014,
     "metacritic": 86,
     "source": "Metacritic 2014",
-    "consensus": 86,
-    "reviews": 1,
+    "consensus": 85,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/302b1b7331a7c7e6055bab44112243f5/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/302b1b7331a7c7e6055bab44112243f5/1000x1000-000000-80-0-0.jpg",
+    "discogs": 84
   },
   {
     "artist": "Leonard Cohen",
@@ -12187,10 +12200,11 @@
     "year": 2014,
     "metacritic": 86,
     "source": "Metacritic 2014",
-    "consensus": 86,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/7e35ac1fa7e34e199e0dfc1b95591fc9/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/7e35ac1fa7e34e199e0dfc1b95591fc9/1000x1000-000000-80-0-0.jpg",
+    "discogs": 89
   },
   {
     "artist": "The War on Drugs",
@@ -12198,10 +12212,11 @@
     "year": 2014,
     "metacritic": 86,
     "source": "Metacritic 2014",
-    "consensus": 86,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/464e9f5f4011af364517775204753daf/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/464e9f5f4011af364517775204753daf/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Steve Gunn",
@@ -12210,9 +12225,10 @@
     "metacritic": 86,
     "source": "Metacritic 2014",
     "consensus": 86,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/d53677f6f55549c81401195f7163f01a/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/d53677f6f55549c81401195f7163f01a/1000x1000-000000-80-0-0.jpg",
+    "discogs": 86
   },
   {
     "artist": "The Marmozets",
@@ -12221,9 +12237,10 @@
     "metacritic": 86,
     "source": "Metacritic 2014",
     "consensus": 86,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/76515b9c2d6dfba0e68ea2b2c227311a/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/76515b9c2d6dfba0e68ea2b2c227311a/1000x1000-000000-80-0-0.jpg",
+    "discogs": 86
   },
   {
     "artist": "Sun Kil Moon",
@@ -13192,9 +13209,10 @@
     "metacritic": 86,
     "source": "Metacritic 2013",
     "consensus": 86,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/e197884d92a9cafbbbfdf9ef9ad9eac6/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/e197884d92a9cafbbbfdf9ef9ad9eac6/1000x1000-000000-80-0-0.jpg",
+    "discogs": 86
   },
   {
     "artist": "The James Hunter Six",
@@ -13202,10 +13220,11 @@
     "year": 2013,
     "metacritic": 86,
     "source": "Metacritic 2013",
-    "consensus": 86,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Jazz",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/88a2092dcafa7c57529fba3c8c80a77b/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/88a2092dcafa7c57529fba3c8c80a77b/1000x1000-000000-80-0-0.jpg",
+    "discogs": 93
   },
   {
     "artist": "Wayne Shorter",
@@ -13213,10 +13232,11 @@
     "year": 2013,
     "metacritic": 86,
     "source": "Metacritic 2013",
-    "consensus": 86,
-    "reviews": 1,
+    "consensus": 91,
+    "reviews": 2,
     "genre": "Jazz",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/b8361f739552c9aa609b8406bc705651/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/b8361f739552c9aa609b8406bc705651/1000x1000-000000-80-0-0.jpg",
+    "discogs": 96
   },
   {
     "artist": "Killer Mike",
@@ -13224,10 +13244,11 @@
     "year": 2013,
     "metacritic": 86,
     "source": "Metacritic 2013",
-    "consensus": 86,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Hip Hop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/10a14fbc219b5d248987d23295fc02be/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/10a14fbc219b5d248987d23295fc02be/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Laura Marling",
@@ -13235,10 +13256,11 @@
     "year": 2013,
     "metacritic": 86,
     "source": "Metacritic 2013",
-    "consensus": 86,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/ae0705c28a4049fdab38d0d248806417/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/ae0705c28a4049fdab38d0d248806417/1000x1000-000000-80-0-0.jpg",
+    "discogs": 89
   },
   {
     "artist": "The Mavericks",
@@ -13246,10 +13268,11 @@
     "year": 2013,
     "metacritic": 86,
     "source": "Metacritic 2013",
-    "consensus": 86,
-    "reviews": 1,
+    "consensus": 87,
+    "reviews": 2,
     "genre": "Country",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/32da06b78741b247d86e87799b25566e/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/32da06b78741b247d86e87799b25566e/1000x1000-000000-80-0-0.jpg",
+    "discogs": 88
   },
   {
     "artist": "Chance the Rapper",
@@ -37007,8 +37030,9 @@
     "source": "Metacritic 2026",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d1bf640f97aec1447bcff6c81ab92d90/1000x1000-000000-80-0-0.jpg",
     "genre": "Folk",
-    "consensus": 87,
-    "reviews": 1
+    "consensus": 90,
+    "reviews": 2,
+    "discogs": 94
   },
   {
     "artist": "Dry Cleaning",
@@ -37018,8 +37042,9 @@
     "source": "Metacritic 2026",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6ffd7c8ee78ec3bb4b1f737b350779d5/1000x1000-000000-80-0-0.jpg",
     "genre": "Post-Punk",
-    "consensus": 87,
-    "reviews": 1
+    "consensus": 89,
+    "reviews": 2,
+    "discogs": 91
   },
   {
     "artist": "RAYE",
@@ -37029,8 +37054,9 @@
     "source": "Metacritic 2026",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b181b1871e57fb1f7273b43343941766/1000x1000-000000-80-0-0.jpg",
     "genre": "Pop",
-    "consensus": 87,
-    "reviews": 1
+    "consensus": 93,
+    "reviews": 2,
+    "discogs": 99
   },
   {
     "artist": "My New Band Believe",
