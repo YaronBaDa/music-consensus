@@ -84,6 +84,19 @@ function renderAlbums(albums) {
     const scoreClass = getScoreClass(album.consensus);
     const cover = album.cover || 'https://via.placeholder.com/300x300/1a1a2e/6b6b8a?text=No+Cover';
 
+    const sourcePills = [
+      { key: 'metacritic', label: 'M', color: '#4ecdc4' },
+      { key: 'discogs', label: 'D', color: '#a78bfa' },
+      { key: 'musicbrainz', label: 'MB', color: '#f472b6' },
+      { key: 'aoty_critic', label: 'A', color: '#ff6b6b' },
+      { key: 'aoty_user', label: 'AU', color: '#ff8e8e' },
+      { key: 'rym', label: 'R', color: '#ffe66d' },
+    ].map(s => {
+      const val = album[s.key];
+      if (val == null) return '';
+      return `<span class="source-pill" style="background:${s.color}20;color:${s.color};border-color:${s.color}40">${s.label} ${val}</span>`;
+    }).join('');
+
     return `
       <article class="album-card" onclick="openModal(${idx})">
         <div class="album-cover-wrap">
@@ -98,6 +111,7 @@ function renderAlbums(albums) {
             <span>${album.year}</span>
             ${album.genre ? `<span class="album-genre">${album.genre}</span>` : ''}
           </div>
+          ${sourcePills ? `<div class="album-sources">${sourcePills}</div>` : ''}
         </div>
       </article>
     `;
