@@ -307,7 +307,7 @@ def build_dataset():
     all_albums = []
     
     # 1. Metacritic year charts (2000-2025)
-    for year in range(2025, 1999, -1):
+    for year in range(2026, 1999, -1):
         albums = scrape_metacritic_year(year)
         all_albums.extend(albums)
     
