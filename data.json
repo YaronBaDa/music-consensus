@@ -6746,9 +6746,10 @@
     "metacritic": 88,
     "source": "Metacritic 2019",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/56/ac/01/56ac0168-a135-412e-c949-0d550fc19d6a/886448232902.jpg/600x600bb.jpg",
-    "consensus": 88,
-    "reviews": 1,
-    "genre": "Hip Hop"
+    "consensus": 89,
+    "reviews": 2,
+    "genre": "Hip Hop",
+    "discogs": 90
   },
   {
     "artist": "Bill Callahan",
@@ -6757,9 +6758,10 @@
     "metacritic": 88,
     "source": "Metacritic 2019",
     "consensus": 88,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/8cf0680b329f3df84c214591cb6ef72a/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/8cf0680b329f3df84c214591cb6ef72a/1000x1000-000000-80-0-0.jpg",
+    "discogs": 87
   },
   {
     "artist": "Big Thief",
@@ -7717,9 +7719,10 @@
     "year": 2018,
     "metacritic": 88,
     "source": "Metacritic 2018",
-    "consensus": 88,
-    "reviews": 1,
-    "genre": "Electronic"
+    "consensus": 90,
+    "reviews": 2,
+    "genre": "Electronic",
+    "discogs": 91
   },
   {
     "artist": "Jeff Rosenstock",
@@ -7727,9 +7730,10 @@
     "year": 2018,
     "metacritic": 88,
     "source": "Metacritic 2018",
-    "consensus": 88,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 86,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 85
   },
   {
     "artist": "Idles",
@@ -7737,9 +7741,10 @@
     "year": 2018,
     "metacritic": 88,
     "source": "Metacritic 2018",
-    "consensus": 88,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 90,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 91
   },
   {
     "artist": "Behemoth",
@@ -7748,8 +7753,9 @@
     "metacritic": 88,
     "source": "Metacritic 2018",
     "consensus": 88,
-    "reviews": 1,
-    "genre": "Metal"
+    "reviews": 2,
+    "genre": "Metal",
+    "discogs": 88
   },
   {
     "artist": "Marianne Faithfull",
@@ -7758,9 +7764,10 @@
     "metacritic": 88,
     "source": "Metacritic 2018",
     "consensus": 88,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Pop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/b57b9326d9a2caba4a94fbd042b357b4/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/b57b9326d9a2caba4a94fbd042b357b4/1000x1000-000000-80-0-0.jpg",
+    "discogs": 88
   },
   {
     "artist": "Janelle Mon\u00e1e",
@@ -7857,9 +7864,10 @@
     "metacritic": 87,
     "source": "Metacritic 2018",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8a/13/38/8a133891-1b3a-2f3c-c54b-80fd895eb2b9/191400004665.png/600x600bb.jpg",
-    "consensus": 87,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 89
   },
   {
     "artist": "Young Fathers",
@@ -7869,8 +7877,9 @@
     "source": "Metacritic 2018",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/26/16/9e26165f-6078-44d5-1d74-1959d1775bf3/5054429135954.png/600x600bb.jpg",
     "consensus": 87,
-    "reviews": 1,
-    "genre": "Alternative"
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 87
   },
   {
     "artist": "Amen Dunes",
@@ -7879,9 +7888,10 @@
     "metacritic": 87,
     "source": "Metacritic 2018",
     "consensus": 87,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/9055a8ad6748c3fdc5cf87b9d7d1e1f0/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/9055a8ad6748c3fdc5cf87b9d7d1e1f0/1000x1000-000000-80-0-0.jpg",
+    "discogs": 87
   },
   {
     "artist": "Kali Uchis",
@@ -7889,10 +7899,11 @@
     "year": 2018,
     "metacritic": 87,
     "source": "Metacritic 2018",
-    "consensus": 87,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "R&B",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/6029bd790f31c5112f62c352adb27572/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/6029bd790f31c5112f62c352adb27572/1000x1000-000000-80-0-0.jpg",
+    "discogs": 93
   },
   {
     "artist": "Bruce Springsteen",
@@ -7900,10 +7911,11 @@
     "year": 2018,
     "metacritic": 87,
     "source": "Metacritic 2018",
-    "consensus": 87,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/8dce6c16ae87420a5321272385f6026f/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/8dce6c16ae87420a5321272385f6026f/1000x1000-000000-80-0-0.jpg",
+    "discogs": 92
   },
   {
     "artist": "SOPHIE",
@@ -8812,9 +8824,10 @@
     "metacritic": 88,
     "source": "Metacritic 2017",
     "consensus": 88,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/9cb8e7bb37509a8de6b41dcd108a2207/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/9cb8e7bb37509a8de6b41dcd108a2207/1000x1000-000000-80-0-0.jpg",
+    "discogs": 88
   },
   {
     "artist": "Brand New",
@@ -8823,9 +8836,10 @@
     "metacritic": 88,
     "source": "Metacritic 2017",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/c4/47/27c4474e-513f-1d2e-8ac8-3a5df7bbf669/616892525844.png/600x600bb.jpg",
-    "consensus": 88,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 90,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 91
   },
   {
     "artist": "Fever Ray",
@@ -8833,10 +8847,11 @@
     "year": 2017,
     "metacritic": 87,
     "source": "Metacritic 2017",
-    "consensus": 87,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/20c9105ecd4ae9bbb200dd2f1578309c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/20c9105ecd4ae9bbb200dd2f1578309c/1000x1000-000000-80-0-0.jpg",
+    "discogs": 84
   },
   {
     "artist": "Rapsody",
@@ -8844,10 +8859,11 @@
     "year": 2017,
     "metacritic": 87,
     "source": "Metacritic 2017",
-    "consensus": 87,
-    "reviews": 1,
+    "consensus": 89,
+    "reviews": 2,
     "genre": "Hip Hop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/eae6029acd7e13d6bd97f6feac9d39bf/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/eae6029acd7e13d6bd97f6feac9d39bf/1000x1000-000000-80-0-0.jpg",
+    "discogs": 91
   },
   {
     "artist": "Oxbow",
@@ -8856,9 +8872,10 @@
     "metacritic": 87,
     "source": "Metacritic 2017",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/0e/9f/0b0e9fef-06c1-3f4d-4365-9165ffb746d0/64832.jpg/600x600bb.jpg",
-    "consensus": 87,
-    "reviews": 1,
-    "genre": "Rock"
+    "consensus": 89,
+    "reviews": 2,
+    "genre": "Rock",
+    "discogs": 91
   },
   {
     "artist": "Charly Bliss",
@@ -8866,10 +8883,11 @@
     "year": 2017,
     "metacritic": 87,
     "source": "Metacritic 2017",
-    "consensus": 87,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/f15690c14c1230d3a41aa984555d9ee5/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/f15690c14c1230d3a41aa984555d9ee5/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Arca",
@@ -8877,10 +8895,11 @@
     "year": 2017,
     "metacritic": 87,
     "source": "Metacritic 2017",
-    "consensus": 87,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Electronic",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/493d7e506bb79ba12ed2488485cc8f1c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/493d7e506bb79ba12ed2488485cc8f1c/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Circuit des Yeux",
@@ -8888,10 +8907,11 @@
     "year": 2017,
     "metacritic": 87,
     "source": "Metacritic 2017",
-    "consensus": 87,
-    "reviews": 1,
+    "consensus": 89,
+    "reviews": 2,
     "genre": "Pop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/386dd8eb55f79442e43178075ac0c346/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/386dd8eb55f79442e43178075ac0c346/1000x1000-000000-80-0-0.jpg",
+    "discogs": 91
   },
   {
     "artist": "SZA",
@@ -8899,10 +8919,11 @@
     "year": 2017,
     "metacritic": 87,
     "source": "Metacritic 2017",
-    "consensus": 87,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "R&B",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/a1a3326c5d9176c763fc3fd847b86681/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/a1a3326c5d9176c763fc3fd847b86681/1000x1000-000000-80-0-0.jpg",
+    "discogs": 93
   },
   {
     "artist": "The Horrors",
@@ -9880,8 +9901,9 @@
     "source": "Metacritic 2016",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/b9/60/5ab96021-5206-a6ba-7c66-166288e8d694/880882649852_Cover.jpg/600x600bb.jpg",
     "consensus": 88,
-    "reviews": 1,
-    "genre": "Rock"
+    "reviews": 2,
+    "genre": "Rock",
+    "discogs": 89
   },
   {
     "artist": "Radiohead",
@@ -9889,10 +9911,11 @@
     "year": 2016,
     "metacritic": 88,
     "source": "Metacritic 2016",
-    "consensus": 88,
-    "reviews": 1,
+    "consensus": 89,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/e9232e4391ed1206cc0bd6ab17822177/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/e9232e4391ed1206cc0bd6ab17822177/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Run the Jewels",
@@ -9900,9 +9923,10 @@
     "year": 2016,
     "metacritic": 88,
     "source": "Metacritic 2016",
-    "consensus": 88,
-    "reviews": 1,
-    "genre": "Hip Hop"
+    "consensus": 89,
+    "reviews": 2,
+    "genre": "Hip Hop",
+    "discogs": 90
   },
   {
     "artist": "Common",
@@ -36948,8 +36972,9 @@
     "metacritic": 89,
     "source": "Metacritic 2026",
     "cover": "https://cdn-images.dzcdn.net/images/cover/646cfaefe204bf997ea2978fd428c120/1000x1000-000000-80-0-0.jpg",
-    "consensus": 89,
-    "reviews": 1
+    "consensus": 91,
+    "reviews": 2,
+    "discogs": 93
   },
   {
     "artist": "Underscores",
@@ -36959,8 +36984,9 @@
     "source": "Metacritic 2026",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2b7ebf336f61c1aca52c0bfec0a4b30e/1000x1000-000000-80-0-0.jpg",
     "genre": "Pop-Punk",
-    "consensus": 89,
-    "reviews": 1
+    "consensus": 93,
+    "reviews": 2,
+    "discogs": 97
   },
   {
     "artist": "The Black Crowes",
