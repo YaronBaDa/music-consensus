@@ -4385,10 +4385,11 @@
     "year": 2021,
     "metacritic": 95,
     "source": "Metacritic 2021",
-    "consensus": 95,
-    "reviews": 1,
+    "consensus": 82,
+    "reviews": 2,
     "genre": "Hip Hop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/eeacd46090a3a5854b3b1a7d4689f4a6/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/eeacd46090a3a5854b3b1a7d4689f4a6/1000x1000-000000-80-0-0.jpg",
+    "discogs": 70
   },
   {
     "artist": "Self Esteem",
@@ -5481,10 +5482,11 @@
     "year": 2020,
     "metacritic": 95,
     "source": "Metacritic 2020",
-    "consensus": 95,
-    "reviews": 1,
+    "consensus": 92,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/be4a296519e74a95ea7cb136edbc0831/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/be4a296519e74a95ea7cb136edbc0831/1000x1000-000000-80-0-0.jpg",
+    "discogs": 89
   },
   {
     "artist": "Perfume Genius",
@@ -8720,10 +8722,11 @@
     "year": 2017,
     "metacritic": 95,
     "source": "Metacritic 2017",
-    "consensus": 95,
-    "reviews": 1,
+    "consensus": 94,
+    "reviews": 2,
     "genre": "Hip Hop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/7ce6b8452fae425557067db6e6a1cad5/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/7ce6b8452fae425557067db6e6a1cad5/1000x1000-000000-80-0-0.jpg",
+    "discogs": 92
   },
   {
     "artist": "Mount Eerie",
@@ -9808,10 +9811,11 @@
     "year": 2016,
     "metacritic": 95,
     "source": "Metacritic 2016",
-    "consensus": 95,
-    "reviews": 1,
+    "consensus": 92,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/2f56afef882248f44ed5f7157cb81df2/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/2f56afef882248f44ed5f7157cb81df2/1000x1000-000000-80-0-0.jpg",
+    "discogs": 88
   },
   {
     "artist": "Beyonc\u00e9",
@@ -11940,9 +11944,10 @@
     "year": 2014,
     "metacritic": 95,
     "source": "Metacritic 2014",
-    "consensus": 95,
-    "reviews": 1,
-    "genre": "R&B"
+    "consensus": 94,
+    "reviews": 2,
+    "genre": "R&B",
+    "discogs": 94
   },
   {
     "artist": "Behemoth",
@@ -26944,10 +26949,11 @@
     "year": 2000,
     "metacritic": 95,
     "source": "Metacritic 2000",
-    "consensus": 95,
-    "reviews": 1,
+    "consensus": 92,
+    "reviews": 2,
     "genre": "Hip Hop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/646d6414a24faaccf67c1d7e01f7d095/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/646d6414a24faaccf67c1d7e01f7d095/1000x1000-000000-80-0-0.jpg",
+    "discogs": 89
   },
   {
     "artist": "Primal Scream",
@@ -35659,66 +35665,72 @@
     "album": "Sgt. Pepper's Lonely Hearts Club Band",
     "year": 1967,
     "source": "Curated 1960s",
-    "consensus": 100,
-    "reviews": 1,
+    "consensus": 96,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/4fcb73352b17d47429a273c5112632b0/1000x1000-000000-80-0-0.jpg",
-    "metacritic": 100
+    "metacritic": 100,
+    "discogs": 91
   },
   {
     "artist": "The Beach Boys",
     "album": "Pet Sounds",
     "year": 1966,
     "source": "Curated 1960s",
-    "consensus": 99,
-    "reviews": 1,
+    "consensus": 96,
+    "reviews": 2,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ddfe7ab3d0a960099debb0bf56c70460/1000x1000-000000-80-0-0.jpg",
-    "metacritic": 99
+    "metacritic": 99,
+    "discogs": 93
   },
   {
     "artist": "The Beatles",
     "album": "Revolver",
     "year": 1966,
     "source": "Curated 1960s",
-    "consensus": 98,
-    "reviews": 1,
+    "consensus": 96,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6e1e24a3e4311371abd2c888b1f0e13e/1000x1000-000000-80-0-0.jpg",
-    "metacritic": 98
+    "metacritic": 98,
+    "discogs": 94
   },
   {
     "artist": "Bob Dylan",
     "album": "Highway 61 Revisited",
     "year": 1965,
     "source": "Curated 1960s",
-    "consensus": 97,
-    "reviews": 1,
+    "consensus": 94,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/96193f14db0501c035bd43ab93960317/1000x1000-000000-80-0-0.jpg",
-    "metacritic": 97
+    "metacritic": 97,
+    "discogs": 92
   },
   {
     "artist": "The Beatles",
     "album": "Rubber Soul",
     "year": 1965,
     "source": "Curated 1960s",
-    "consensus": 96,
-    "reviews": 1,
+    "consensus": 94,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/da80520440d5d29876b9df3e375793b5/1000x1000-000000-80-0-0.jpg",
-    "metacritic": 96
+    "metacritic": 96,
+    "discogs": 92
   },
   {
     "artist": "The Beatles",
     "album": "The White Album",
     "year": 1968,
     "source": "Curated 1960s",
-    "consensus": 95,
-    "reviews": 1,
+    "consensus": 94,
+    "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f9f73f9df228ccc7bed024078ebb4da0/1000x1000-000000-80-0-0.jpg",
-    "metacritic": 95
+    "metacritic": 95,
+    "discogs": 94
   },
   {
     "artist": "Jimi Hendrix",
