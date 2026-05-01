@@ -18,6 +18,7 @@ function getConsensusScore(album) {
   if (album.metacritic != null) scores.push(album.metacritic);
   if (album.rym != null) scores.push(album.rym);
   if (album.discogs != null) scores.push(album.discogs);
+  if (album.musicbrainz != null) scores.push(album.musicbrainz);
   if (scores.length === 0) return 0;
   return Math.round(scores.reduce((a, b) => a + b, 0) / scores.length);
 }
@@ -149,6 +150,7 @@ function openModal(index) {
     { name: 'Metacritic', key: 'metacritic', color: '#4ecdc4' },
     { name: 'RateYourMusic', key: 'rym', color: '#ffe66d' },
     { name: 'Discogs', key: 'discogs', color: '#a78bfa' },
+    { name: 'MusicBrainz', key: 'musicbrainz', color: '#f472b6' },
   ];
 
   const breakdown = sources.map(s => {
