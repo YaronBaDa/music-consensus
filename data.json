@@ -51,10 +51,11 @@
     "year": 2025,
     "metacritic": 91,
     "source": "Metacritic 2025",
-    "consensus": 91,
-    "reviews": 1,
+    "consensus": 94,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/6e947717dede73960b99908b7d5a1eb9/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/6e947717dede73960b99908b7d5a1eb9/1000x1000-000000-80-0-0.jpg",
+    "discogs": 97
   },
   {
     "artist": "Heartworms",
@@ -63,9 +64,10 @@
     "metacritic": 91,
     "source": "Metacritic 2025",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/28/28/322828e2-6e5b-9cd2-1bba-6ca16a41fa64/5400863169473_cover.jpg/600x600bb.jpg",
-    "consensus": 91,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 90,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 89
   },
   {
     "artist": "Deftones",
@@ -1142,9 +1144,10 @@
     "metacritic": 91,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/af/4d/0eaf4d12-f853-60c5-ed34-f7378c44cfe8/0840401715536.png/600x600bb.jpg",
-    "consensus": 91,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 90,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 89
   },
   {
     "artist": "Beyonc\u00e9",
@@ -1153,9 +1156,10 @@
     "metacritic": 91,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/9c/17/c69c17df-1835-77e7-58c1-ca04d44a0611/196871853736.jpg/600x600bb.jpg",
-    "consensus": 91,
-    "reviews": 1,
-    "genre": "Country"
+    "consensus": 94,
+    "reviews": 2,
+    "genre": "Country",
+    "discogs": 96
   },
   {
     "artist": "Cindy Lee",
@@ -1164,9 +1168,10 @@
     "metacritic": 91,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/0b/51/3c/0b513cec-1c7c-5814-b3cb-b9d6c7ebd934/artwork.jpg/600x600bb.jpg",
-    "consensus": 91,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 93,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 95
   },
   {
     "artist": "Jessica Pratt",
@@ -2243,9 +2248,10 @@
     "metacritic": 91,
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/d5/e8/8ed5e81f-c3c7-fb8c-3a03-40c2f150f36a/38346.jpg/600x600bb.jpg",
-    "consensus": 91,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 90,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 89
   },
   {
     "artist": "Corinne Bailey Rae",
@@ -2254,9 +2260,10 @@
     "metacritic": 91,
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/95/06/4e/95064e92-511c-47df-1173-d45a6846df06/197188937881.jpg/600x600bb.jpg",
-    "consensus": 91,
-    "reviews": 1,
-    "genre": "R&B"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "R&B",
+    "discogs": 86
   },
   {
     "artist": "Olivia Rodrigo",
@@ -2265,9 +2272,10 @@
     "metacritic": 91,
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9e/0d/17/9e0d17e0-c068-fbd9-fd85-610cc87c86aa/23UMGIM71511.rgb.jpg/600x600bb.jpg",
-    "consensus": 91,
-    "reviews": 1,
-    "genre": "Pop"
+    "consensus": 92,
+    "reviews": 2,
+    "genre": "Pop",
+    "discogs": 94
   },
   {
     "artist": "Taylor Swift",
@@ -4441,10 +4449,11 @@
     "year": 2021,
     "metacritic": 91,
     "source": "Metacritic 2021",
-    "consensus": 91,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/a0c96c278181ea3f0ebee43f7998fb68/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/a0c96c278181ea3f0ebee43f7998fb68/1000x1000-000000-80-0-0.jpg",
+    "discogs": 88
   },
   {
     "artist": "Taylor Swift",
@@ -4452,9 +4461,10 @@
     "year": 2021,
     "metacritic": 91,
     "source": "Metacritic 2021",
-    "consensus": 91,
-    "reviews": 1,
-    "genre": "Pop"
+    "consensus": 92,
+    "reviews": 2,
+    "genre": "Pop",
+    "discogs": 93
   },
   {
     "artist": "Biffy Clyro",
@@ -4462,9 +4472,10 @@
     "year": 2021,
     "metacritic": 91,
     "source": "Metacritic 2021",
-    "consensus": 91,
-    "reviews": 1,
-    "genre": "Rock"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Rock",
+    "discogs": 86
   },
   {
     "artist": "Wolf Alice",
@@ -4473,9 +4484,10 @@
     "metacritic": 91,
     "source": "Metacritic 2021",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6e/35/2e/6e352e5c-0c30-dbb2-a383-0a2e2feaa000/192641849060.jpg/600x600bb.jpg",
-    "consensus": 91,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 92,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 92
   },
   {
     "artist": "Converge",
@@ -5506,9 +5518,10 @@
     "metacritic": 91,
     "source": "Metacritic 2020",
     "consensus": 91,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/54700ef348afad721deb62655c65e953/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/54700ef348afad721deb62655c65e953/1000x1000-000000-80-0-0.jpg",
+    "discogs": 91
   },
   {
     "artist": "Creeper",
@@ -5516,10 +5529,11 @@
     "year": 2020,
     "metacritic": 91,
     "source": "Metacritic 2020",
-    "consensus": 91,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/f13831c6dbb86054e8a7693a689fc394/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/f13831c6dbb86054e8a7693a689fc394/1000x1000-000000-80-0-0.jpg",
+    "discogs": 88
   },
   {
     "artist": "Phoebe Bridgers",
@@ -6581,9 +6595,10 @@
     "metacritic": 91,
     "source": "Metacritic 2019",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/54/f6/fc/54f6fc73-6a18-d97a-a634-a4630ec35593/WeyesBlood_TitanicRising_3600.jpg/600x600bb.jpg",
-    "consensus": 91,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 92,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 92
   },
   {
     "artist": "Little Simz",
@@ -6591,10 +6606,11 @@
     "year": 2019,
     "metacritic": 91,
     "source": "Metacritic 2019",
-    "consensus": 91,
-    "reviews": 1,
+    "consensus": 92,
+    "reviews": 2,
     "genre": "Hip Hop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/5732947e09b91128f20bfd43de537a11/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/5732947e09b91128f20bfd43de537a11/1000x1000-000000-80-0-0.jpg",
+    "discogs": 92
   },
   {
     "artist": "Baroness",
@@ -6603,9 +6619,10 @@
     "metacritic": 91,
     "source": "Metacritic 2019",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/98/28/f8/9828f8b8-82bc-891e-7453-ea6f766304ba/855380008715.png/600x600bb.jpg",
-    "consensus": 91,
-    "reviews": 1,
-    "genre": "Rock"
+    "consensus": 87,
+    "reviews": 2,
+    "genre": "Rock",
+    "discogs": 83
   },
   {
     "artist": "Raphael Saadiq",
@@ -8768,10 +8785,11 @@
     "year": 2017,
     "metacritic": 91,
     "source": "Metacritic 2017",
-    "consensus": 91,
-    "reviews": 1,
+    "consensus": 92,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/0c424dbe627530cd06a6fd408baba3f3/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/0c424dbe627530cd06a6fd408baba3f3/1000x1000-000000-80-0-0.jpg",
+    "discogs": 94
   },
   {
     "artist": "Converge",
@@ -9877,10 +9895,11 @@
     "year": 2016,
     "metacritic": 91,
     "source": "Metacritic 2016",
-    "consensus": 91,
-    "reviews": 1,
+    "consensus": 89,
+    "reviews": 2,
     "genre": "Hip Hop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/b6c2edcd791348b9040fbfdf87a0adf5/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/b6c2edcd791348b9040fbfdf87a0adf5/1000x1000-000000-80-0-0.jpg",
+    "discogs": 87
   },
   {
     "artist": "Chance the Rapper",
@@ -12001,9 +12020,10 @@
     "metacritic": 91,
     "source": "Metacritic 2014",
     "consensus": 91,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/dc11315ffc5931c09f37d7be5741115c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/dc11315ffc5931c09f37d7be5741115c/1000x1000-000000-80-0-0.jpg",
+    "discogs": 91
   },
   {
     "artist": "St. Vincent",
@@ -14103,10 +14123,11 @@
     "year": 2012,
     "metacritic": 91,
     "source": "Metacritic 2012",
-    "consensus": 91,
-    "reviews": 1,
+    "consensus": 92,
+    "reviews": 2,
     "genre": "Pop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/519400e29d268f449cf00af879e71af6/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/519400e29d268f449cf00af879e71af6/1000x1000-000000-80-0-0.jpg",
+    "discogs": 92
   },
   {
     "artist": "Kendrick Lamar",
@@ -14115,9 +14136,10 @@
     "metacritic": 91,
     "source": "Metacritic 2012",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/86/ec/3686ec99-dec4-0a01-8b74-2d8a9a0263a7/12UMGIM52988.rgb.jpg/600x600bb.jpg",
-    "consensus": 91,
-    "reviews": 1,
-    "genre": "Hip Hop"
+    "consensus": 92,
+    "reviews": 2,
+    "genre": "Hip Hop",
+    "discogs": 94
   },
   {
     "artist": "Fiona Apple",
@@ -15145,9 +15167,10 @@
     "year": 2011,
     "metacritic": 92,
     "source": "Metacritic 2011",
-    "consensus": 92,
-    "reviews": 1,
-    "genre": "Rock"
+    "consensus": 87,
+    "reviews": 2,
+    "genre": "Rock",
+    "discogs": 82
   },
   {
     "artist": "Saigon",
@@ -16194,10 +16217,11 @@
     "year": 2010,
     "metacritic": 91,
     "source": "Metacritic 2010",
-    "consensus": 91,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "R&B",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/14b4c30f4d3e7abab606a4b51e807279/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/14b4c30f4d3e7abab606a4b51e807279/1000x1000-000000-80-0-0.jpg",
+    "discogs": 82
   },
   {
     "artist": "Jamey Johnson",
@@ -20483,10 +20507,11 @@
     "year": 2006,
     "metacritic": 92,
     "source": "Metacritic 2006",
-    "consensus": 92,
-    "reviews": 1,
+    "consensus": 91,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/7898ce8fb9f81e3e5b9cee6b90be698a/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/7898ce8fb9f81e3e5b9cee6b90be698a/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Bob Dylan",
@@ -22672,10 +22697,11 @@
     "year": 2004,
     "metacritic": 92,
     "source": "Metacritic 2004",
-    "consensus": 92,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Hip Hop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/6692ca16df3f3195044467b93644066a/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/6692ca16df3f3195044467b93644066a/1000x1000-000000-80-0-0.jpg",
+    "discogs": 88
   },
   {
     "artist": "The Streets",
@@ -23728,9 +23754,10 @@
     "metacritic": 92,
     "source": "Metacritic 2003",
     "consensus": 92,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/370483b6b448fafeeff053a1556467da/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/370483b6b448fafeeff053a1556467da/1000x1000-000000-80-0-0.jpg",
+    "discogs": 91
   },
   {
     "artist": "Outkast",
@@ -35839,11 +35866,12 @@
     "album": "Tommy",
     "year": 1969,
     "source": "Curated 1960s",
-    "consensus": 92,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/93f4ab6d46cc9d96afa34c871123f69d/1000x1000-000000-80-0-0.jpg",
-    "metacritic": 92
+    "metacritic": 92,
+    "discogs": 84
   },
   {
     "artist": "The Rolling Stones",
@@ -35851,10 +35879,11 @@
     "year": 1969,
     "source": "Curated 1960s",
     "consensus": 92,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/966fa939bd79e15d413abf0764f8a3b5/1000x1000-000000-80-0-0.jpg",
-    "metacritic": 92
+    "metacritic": 92,
+    "discogs": 92
   },
   {
     "artist": "The Doors",
