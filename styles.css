@@ -251,18 +251,21 @@ html, body {
   position: absolute;
   top: 0.75rem;
   left: 0.75rem;
-  width: 32px;
-  height: 32px;
-  background: var(--accent);
-  border-radius: 50%;
+  min-width: 24px;
+  height: 20px;
+  padding: 0 6px;
+  background: rgba(0,0,0,0.45);
+  backdrop-filter: blur(4px);
+  border-radius: 4px;
   display: flex;
   align-items: center;
   justify-content: center;
   font-family: 'Space Grotesk', sans-serif;
-  font-weight: 700;
-  font-size: 0.8rem;
-  color: white;
+  font-weight: 600;
+  font-size: 0.65rem;
+  color: rgba(255,255,255,0.75);
   z-index: 2;
+  letter-spacing: 0.3px;
 }
 
 .album-cover-wrap {
@@ -284,14 +287,16 @@ html, body {
 
 .album-consensus {
   position: absolute;
-  top: 0.75rem;
+  bottom: 0.75rem;
   right: 0.75rem;
-  padding: 0.25rem 0.625rem;
+  padding: 0.35rem 0.85rem;
   border-radius: 9999px;
   font-family: 'Space Grotesk', sans-serif;
-  font-weight: 700;
-  font-size: 0.85rem;
+  font-weight: 800;
+  font-size: 1.05rem;
   z-index: 2;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.35);
+  letter-spacing: -0.3px;
 }
 
 .score-excellent { background: #22c55e; color: white; }

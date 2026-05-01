@@ -49,6 +49,8 @@ function updateStats() {
   document.getElementById('albumCount').textContent = allAlbums.length;
   const sources = new Set(allAlbums.map(a => a.source).filter(Boolean));
   document.getElementById('sourceCount').textContent = sources.size;
+  const decades = new Set(allAlbums.map(a => String(a.year).slice(0,3)+'0'));
+  document.getElementById('decadeCount').textContent = decades.size;
 }
 
 function populateGenreFilter() {
