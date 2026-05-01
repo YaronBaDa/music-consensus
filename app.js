@@ -142,6 +142,7 @@ function applyFilters() {
       case 'artist': return a.artist.localeCompare(b.artist);
       case 'album': return a.album.localeCompare(b.album);
       case 'metacritic': return (b.metacritic || 0) - (a.metacritic || 0);
+      case 'discogs': return (b.discogs || 0) - (a.discogs || 0);
       default: return 0;
     }
   });
