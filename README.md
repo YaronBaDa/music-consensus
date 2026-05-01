@@ -1,6 +1,6 @@
-# Music Consensus
+# Consensus
 
-Aggregating album reviews from AOTY, Metacritic, RateYourMusic & Discogs into a single consensus score.
+Aggregating album reviews from multiple sources into a single consensus score.
 
 ## How It Works
 

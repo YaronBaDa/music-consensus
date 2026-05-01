@@ -1,4 +1,4 @@
-// Music Consensus Frontend
+// Consensus Frontend
 let allAlbums = [];
 let filteredAlbums = [];
 
