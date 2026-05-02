@@ -2915,8 +2915,9 @@
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a3/db/fe/a3dbfe8c-f55d-89c2-af59-b6338316363e/607396654635.png/600x600bb.jpg",
     "consensus": 84,
-    "reviews": 1,
-    "genre": "Country"
+    "reviews": 2,
+    "genre": "Country",
+    "discogs": 85
   },
   {
     "artist": "Grian Chatten",
@@ -2925,9 +2926,10 @@
     "metacritic": 84,
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/96/ad/0096aded-6ae2-21ad-0943-de965120f760/0720841303701_Cover.jpg/600x600bb.jpg",
-    "consensus": 84,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 92
   },
   {
     "artist": "Complete Mountain Almanac",
@@ -2936,9 +2938,10 @@
     "metacritic": 84,
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/34/55/c4/3455c457-9fe8-5beb-3cb3-0449780da430/5400863079734_cover.jpg/600x600bb.jpg",
-    "consensus": 84,
-    "reviews": 1,
-    "genre": "Folk"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Folk",
+    "discogs": 92
   },
   {
     "artist": "Bonnie \"Prince\" Billy",
@@ -2947,9 +2950,10 @@
     "metacritic": 84,
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e7/ee/18/e7ee18f6-8ee4-8e5e-029e-6ed00d9de88d/781484091059.png/600x600bb.jpg",
-    "consensus": 84,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 82,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 81
   },
   {
     "artist": "Blur",
@@ -2958,9 +2962,10 @@
     "metacritic": 84,
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/48/f6/1a/48f61a3b-9987-a6b9-98e5-8f947fd1c33e/5054197755040.jpg/600x600bb.jpg",
-    "consensus": 84,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 86,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 87
   },
   {
     "artist": "Troye Sivan",
@@ -2969,9 +2974,10 @@
     "metacritic": 84,
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/00/60/20006070-f7d5-a5ec-b82f-6125fb757e40/dj.fqqflvso.jpg/600x600bb.jpg",
-    "consensus": 84,
-    "reviews": 1,
-    "genre": "Pop"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Pop",
+    "discogs": 92
   },
   {
     "artist": "Shirley Collins",
@@ -2981,8 +2987,9 @@
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/99/89/68/998968e8-08e8-0a27-3f44-50c00887918c/887828049462.png/600x600bb.jpg",
     "consensus": 84,
-    "reviews": 1,
-    "genre": "Folk"
+    "reviews": 2,
+    "genre": "Folk",
+    "discogs": 83
   },
   {
     "artist": "Blondshell",
@@ -2990,10 +2997,11 @@
     "year": 2023,
     "metacritic": 84,
     "source": "Metacritic 2023",
-    "consensus": 84,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/540ee50d66b91920062893ce9edeff4f/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/540ee50d66b91920062893ce9edeff4f/1000x1000-000000-80-0-0.jpg",
+    "discogs": 91
   },
   {
     "artist": "Forest Swords",
@@ -3002,9 +3010,10 @@
     "metacritic": 84,
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5b/1b/92/5b1b92f2-098f-0d53-f80d-02e8f003d1d0/5054429176070.png/600x600bb.jpg",
-    "consensus": 84,
-    "reviews": 1,
-    "genre": "Electronic"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Electronic",
+    "discogs": 91
   },
   {
     "artist": "Billy Nomates",
@@ -3012,10 +3021,11 @@
     "year": 2023,
     "metacritic": 84,
     "source": "Metacritic 2023",
-    "consensus": 84,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/1760447e4550bcfbdf7f33b56d3526c1/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/1760447e4550bcfbdf7f33b56d3526c1/1000x1000-000000-80-0-0.jpg",
+    "discogs": 89
   },
   {
     "artist": "Kali Uchis",
@@ -3024,9 +3034,10 @@
     "metacritic": 84,
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/19/9f/27199f16-aa05-4d73-4bda-59f83a3b4755/4065328469324.png/600x600bb.jpg",
-    "consensus": 84,
-    "reviews": 1,
-    "genre": "R&B"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "R&B",
+    "discogs": 92
   },
   {
     "artist": "Bob Dylan",
@@ -3035,9 +3046,10 @@
     "metacritic": 84,
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/1e/3f/c51e3f1e-0696-f322-64d6-ee84fe6e48da/196589814418.jpg/600x600bb.jpg",
-    "consensus": 84,
-    "reviews": 1,
-    "genre": "Rock"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Rock",
+    "discogs": 91
   },
   {
     "artist": "Loraine James",
