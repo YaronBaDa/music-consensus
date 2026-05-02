@@ -1022,9 +1022,10 @@
     "metacritic": 83,
     "source": "Metacritic 2025",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/e0/e6/48e0e604-c6d2-6733-beb0-e7ba7433ad31/887828055364.png/600x600bb.jpg",
-    "consensus": 83,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 85,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 87
   },
   {
     "artist": "Pulp",
@@ -1033,9 +1034,10 @@
     "metacritic": 83,
     "source": "Metacritic 2025",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/5b/f4/a2/5bf4a2f8-f854-3e7a-d6f1-3896f1d5ca2c/artwork.jpg/600x600bb.jpg",
-    "consensus": 83,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 87,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 91
   },
   {
     "artist": "Makaya McCraven",
@@ -1043,9 +1045,10 @@
     "year": 2025,
     "metacritic": 83,
     "source": "Metacritic 2025",
-    "consensus": 83,
-    "reviews": 1,
-    "genre": "Drum & Bass"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Drum & Bass",
+    "discogs": 93
   },
   {
     "artist": "Radiohead",
@@ -1053,10 +1056,11 @@
     "year": 2025,
     "metacritic": 83,
     "source": "Metacritic 2025",
-    "consensus": 83,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/93741fef5a0ab42a872f71da222eccb5/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/93741fef5a0ab42a872f71da222eccb5/1000x1000-000000-80-0-0.jpg",
+    "discogs": 93
   },
   {
     "artist": "Bob Mould",
@@ -1065,9 +1069,10 @@
     "metacritic": 83,
     "source": "Metacritic 2025",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/ad/89/edad8949-1f9f-5156-6956-b6d1107e4258/4099964140163.jpg/600x600bb.jpg",
-    "consensus": 83,
-    "reviews": 1,
-    "genre": "Rock"
+    "consensus": 87,
+    "reviews": 2,
+    "genre": "Rock",
+    "discogs": 91
   },
   {
     "artist": "Ethel Cain",
@@ -1075,10 +1080,11 @@
     "year": 2025,
     "metacritic": 83,
     "source": "Metacritic 2025",
-    "consensus": 83,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/1dda38e18b58c457068d3c16d7c7181c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/1dda38e18b58c457068d3c16d7c7181c/1000x1000-000000-80-0-0.jpg",
+    "discogs": 97
   },
   {
     "artist": "Clipse",
@@ -1087,9 +1093,10 @@
     "metacritic": 83,
     "source": "Metacritic 2025",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/a4/97/3ba497f7-a590-6e1a-01ae-7f34169018ed/1625.jpg/600x600bb.jpg",
-    "consensus": 83,
-    "reviews": 1,
-    "genre": "Hip Hop"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Hip Hop",
+    "discogs": 94
   },
   {
     "artist": "Benjamin Booker",
@@ -1098,9 +1105,10 @@
     "metacritic": 83,
     "source": "Metacritic 2025",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/63/92/c66392e7-4d27-7f5f-1622-849157d88b31/198846349404.jpg/600x600bb.jpg",
-    "consensus": 83,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 92
   },
   {
     "artist": "Amaarae",
@@ -1109,9 +1117,10 @@
     "metacritic": 83,
     "source": "Metacritic 2025",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ef/b5/15/efb5150c-4f74-f392-b074-f59c67eb277d/5063072878729_cover.jpg/600x600bb.jpg",
-    "consensus": 83,
-    "reviews": 1,
-    "genre": "Pop"
+    "consensus": 90,
+    "reviews": 2,
+    "genre": "Pop",
+    "discogs": 96
   },
   {
     "artist": "Charli xcx",
@@ -2188,9 +2197,10 @@
     "metacritic": 83,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/fa/c8/01fac88f-187c-4462-2375-cbd5ee2ef932/24UMGIM65492.rgb.jpg/600x600bb.jpg",
-    "consensus": 83,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 93
   },
   {
     "artist": "Nala Sinephro",
@@ -2199,9 +2209,10 @@
     "metacritic": 83,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/b8/46/98b84638-476a-ea68-151f-e844017594de/5056614798067.png/600x600bb.jpg",
-    "consensus": 83,
-    "reviews": 1,
-    "genre": "Jazz"
+    "consensus": 89,
+    "reviews": 2,
+    "genre": "Jazz",
+    "discogs": 95
   },
   {
     "artist": "Haley Heynderickx",
@@ -2210,9 +2221,10 @@
     "metacritic": 83,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/d3/c6/70d3c614-76a7-bc2e-1f4d-95c7fe2cda26/198588760086.jpg/600x600bb.jpg",
-    "consensus": 83,
-    "reviews": 1,
-    "genre": "Folk"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Folk",
+    "discogs": 93
   },
   {
     "artist": "Underworld",
