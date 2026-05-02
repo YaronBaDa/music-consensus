@@ -76,10 +76,11 @@
     "year": 2025,
     "metacritic": 90,
     "source": "Metacritic 2025",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 91,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/c4ba2ef789f09b0ac549867d97f4a229/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/c4ba2ef789f09b0ac549867d97f4a229/1000x1000-000000-80-0-0.jpg",
+    "discogs": 92
   },
   {
     "artist": "Mavis Staples",
@@ -88,9 +89,10 @@
     "metacritic": 90,
     "source": "Metacritic 2025",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/18/70/071870a3-2f96-4f81-2ced-37e30efa2f13/0045778807864.png/600x600bb.jpg",
-    "consensus": 90,
-    "reviews": 1,
-    "genre": "R&B"
+    "consensus": 92,
+    "reviews": 2,
+    "genre": "R&B",
+    "discogs": 95
   },
   {
     "artist": "Benefits",
@@ -99,9 +101,10 @@
     "metacritic": 90,
     "source": "Metacritic 2025",
     "consensus": 90,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/db4ea2ec4c8c19bf8962a8b33b9204f1/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/db4ea2ec4c8c19bf8962a8b33b9204f1/1000x1000-000000-80-0-0.jpg",
+    "discogs": 91
   },
   {
     "artist": "Perfume Genius",
@@ -111,8 +114,9 @@
     "source": "Metacritic 2025",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/82/d5/2b82d50c-e3c2-3881-260c-8e94f36d6ef6/191401210577.png/600x600bb.jpg",
     "consensus": 90,
-    "reviews": 1,
-    "genre": "Alternative"
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 90
   },
   {
     "artist": "Cardiacs",
@@ -120,10 +124,11 @@
     "year": 2025,
     "metacritic": 90,
     "source": "Metacritic 2025",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 92,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/6e958aad4102d2dd4550b43dd821e5c2/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/6e958aad4102d2dd4550b43dd821e5c2/1000x1000-000000-80-0-0.jpg",
+    "discogs": 95
   },
   {
     "artist": "Geese",
@@ -131,10 +136,11 @@
     "year": 2025,
     "metacritic": 89,
     "source": "Metacritic 2025",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 92,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/1a3a5db10b99646e925aa979d01c4c80/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/1a3a5db10b99646e925aa979d01c4c80/1000x1000-000000-80-0-0.jpg",
+    "discogs": 95
   },
   {
     "artist": "Nourished By Time",
@@ -142,10 +148,11 @@
     "year": 2025,
     "metacritic": 89,
     "source": "Metacritic 2025",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 91,
+    "reviews": 2,
     "genre": "R&B",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/792fac936881061db2f543c87f0e52ff/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/792fac936881061db2f543c87f0e52ff/1000x1000-000000-80-0-0.jpg",
+    "discogs": 93
   },
   {
     "artist": "The London Suede",
@@ -154,9 +161,10 @@
     "metacritic": 89,
     "source": "Metacritic 2025",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/01/c9/3101c938-ac38-fdfe-dfb4-a9fa7e00d9f2/4099964172164.jpg/600x600bb.jpg",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Various"
+    "consensus": 91,
+    "reviews": 2,
+    "genre": "Various",
+    "discogs": 93
   },
   {
     "artist": "Ryan Davis & The Roadhouse Band",
@@ -165,9 +173,10 @@
     "metacritic": 89,
     "source": "Metacritic 2025",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/5d/f2/335df2ac-3a2a-89aa-8636-c574045c5ad1/198704487170_Cover.jpg/600x600bb.jpg",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 94,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 98
   },
   {
     "artist": "Blood Orange",
@@ -1183,9 +1192,10 @@
     "metacritic": 90,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/71/38/ab7138ca-5377-12ab-1270-fe413685d2f2/3663729350244_cover.jpg/600x600bb.jpg",
-    "consensus": 90,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 91,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 92
   },
   {
     "artist": "Bill Ryder-Jones",
@@ -1194,9 +1204,10 @@
     "metacritic": 90,
     "source": "Metacritic 2024",
     "consensus": 90,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/88db1de5318c982f2c03f9885b8b3f74/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/88db1de5318c982f2c03f9885b8b3f74/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Mdou Moctar",
@@ -1205,9 +1216,10 @@
     "metacritic": 90,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/83/14/1b8314cd-b452-d492-bd5a-9593565170f7/191401203173.png/600x600bb.jpg",
-    "consensus": 90,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 87
   },
   {
     "artist": "Nick Cave & the Bad Seeds",
@@ -1216,9 +1228,10 @@
     "metacritic": 89,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/17/46/d6/1746d67e-8617-3626-08f4-e2ef7806d74d/5400863157920_cover.jpg/600x600bb.jpg",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 90,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 92
   },
   {
     "artist": "Being Dead",
@@ -1226,10 +1239,11 @@
     "year": 2024,
     "metacritic": 89,
     "source": "Metacritic 2024",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/0757a4c9821e2a6884fcec38147721b7/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/0757a4c9821e2a6884fcec38147721b7/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Mannequin Pussy",
@@ -1237,10 +1251,11 @@
     "year": 2024,
     "metacritic": 89,
     "source": "Metacritic 2024",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 92,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/58619ef11d8b808a7d1cb2eea9d4bc0c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/58619ef11d8b808a7d1cb2eea9d4bc0c/1000x1000-000000-80-0-0.jpg",
+    "discogs": 94
   },
   {
     "artist": "Kim Deal",
@@ -1249,9 +1264,10 @@
     "metacritic": 89,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/40/31/e44031a0-ae9e-df5b-d77f-4c0af74ff37e/191400073371.png/600x600bb.jpg",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 90,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 91
   },
   {
     "artist": "Billie Eilish",
@@ -2288,9 +2304,10 @@
     "metacritic": 90,
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c1/31/18/c131181b-ca3e-d945-16b2-48ea6bcd64d4/23UM1IM11868.rgb.jpg/600x600bb.jpg",
-    "consensus": 90,
-    "reviews": 1,
-    "genre": "Pop"
+    "consensus": 92,
+    "reviews": 2,
+    "genre": "Pop",
+    "discogs": 93
   },
   {
     "artist": "Mitski",
@@ -2300,8 +2317,9 @@
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8f/4b/40/8f4b4044-d02b-dc25-7d01-7d9d225fdce4/40240.jpg/600x600bb.jpg",
     "consensus": 90,
-    "reviews": 1,
-    "genre": "Alternative"
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 90
   },
   {
     "artist": "Boygenius",
@@ -2309,10 +2327,11 @@
     "year": 2023,
     "metacritic": 90,
     "source": "Metacritic 2023",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 92,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/c36d43e83edce2aebe1a0624c9b2bcdf/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/c36d43e83edce2aebe1a0624c9b2bcdf/1000x1000-000000-80-0-0.jpg",
+    "discogs": 93
   },
   {
     "artist": "billy woods",
@@ -3373,10 +3392,11 @@
     "year": 2022,
     "metacritic": 90,
     "source": "Metacritic 2022",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Various",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/0ef7d0ca42118e251e9e82a36294f77a/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/0ef7d0ca42118e251e9e82a36294f77a/1000x1000-000000-80-0-0.jpg",
+    "discogs": 81
   },
   {
     "artist": "Jockstrap",
@@ -5563,10 +5583,11 @@
     "year": 2020,
     "metacritic": 90,
     "source": "Metacritic 2020",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 92,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/9eb3062eebc26c7a131ad6984f53137c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/9eb3062eebc26c7a131ad6984f53137c/1000x1000-000000-80-0-0.jpg",
+    "discogs": 93
   },
   {
     "artist": "Pa Salieu",
@@ -5574,9 +5595,10 @@
     "year": 2020,
     "metacritic": 90,
     "source": "Metacritic 2020",
-    "consensus": 90,
-    "reviews": 1,
-    "genre": "Hip Hop"
+    "consensus": 92,
+    "reviews": 2,
+    "genre": "Hip Hop",
+    "discogs": 94
   },
   {
     "artist": "Moses Sumney",
@@ -5585,9 +5607,10 @@
     "metacritic": 90,
     "source": "Metacritic 2020",
     "consensus": 90,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/8f080b6317c6737083a02208d1caa7d2/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/8f080b6317c6737083a02208d1caa7d2/1000x1000-000000-80-0-0.jpg",
+    "discogs": 91
   },
   {
     "artist": "Run the Jewels",
@@ -6653,9 +6676,10 @@
     "metacritic": 90,
     "source": "Metacritic 2019",
     "consensus": 90,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "R&B",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/0f3c84b892fb50ced646cbd489e4abfb/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/0f3c84b892fb50ced646cbd489e4abfb/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Rapsody",
@@ -6665,8 +6689,9 @@
     "source": "Metacritic 2019",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/44/29/95/442995c9-7cf7-8bbd-eac3-9ebcd507cb78/19UMGIM73088.rgb.jpg/600x600bb.jpg",
     "consensus": 90,
-    "reviews": 1,
-    "genre": "Hip Hop"
+    "reviews": 2,
+    "genre": "Hip Hop",
+    "discogs": 89
   },
   {
     "artist": "Dave",
@@ -6675,9 +6700,10 @@
     "metacritic": 90,
     "source": "Metacritic 2019",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c0/f5/ff/c0f5ff76-4daf-a94c-51a7-83d1c462da76/artwork.jpg/600x600bb.jpg",
-    "consensus": 90,
-    "reviews": 1,
-    "genre": "Hip Hop"
+    "consensus": 93,
+    "reviews": 2,
+    "genre": "Hip Hop",
+    "discogs": 96
   },
   {
     "artist": "Michael Kiwanuka",
@@ -7732,10 +7758,11 @@
     "year": 2018,
     "metacritic": 90,
     "source": "Metacritic 2018",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 91,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/98a094450f258f3687f7d2d394207dab/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/98a094450f258f3687f7d2d394207dab/1000x1000-000000-80-0-0.jpg",
+    "discogs": 92
   },
   {
     "artist": "Robyn",
@@ -9929,9 +9956,10 @@
     "metacritic": 92,
     "source": "Metacritic 2016",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/5f/54/1f/5f541fad-83ea-ffaa-3979-4cf528496764/886446019253.jpg/600x600bb.jpg",
-    "consensus": 92,
-    "reviews": 1,
-    "genre": "Rock"
+    "consensus": 91,
+    "reviews": 2,
+    "genre": "Rock",
+    "discogs": 90
   },
   {
     "artist": "A Tribe Called Quest",
@@ -10996,10 +11024,11 @@
     "year": 2015,
     "metacritic": 90,
     "source": "Metacritic 2015",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 91,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/122a6ace3852ad75a05aa435d17b38b3/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/122a6ace3852ad75a05aa435d17b38b3/1000x1000-000000-80-0-0.jpg",
+    "discogs": 92
   },
   {
     "artist": "Sleater-Kinney",
@@ -11007,10 +11036,11 @@
     "year": 2015,
     "metacritic": 90,
     "source": "Metacritic 2015",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/06d0972a44c1c7d1283182fdcbc4a034/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/06d0972a44c1c7d1283182fdcbc4a034/1000x1000-000000-80-0-0.jpg",
+    "discogs": 81
   },
   {
     "artist": "Napalm Death",
@@ -13103,10 +13133,11 @@
     "year": 2013,
     "metacritic": 90,
     "source": "Metacritic 2013",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 87,
+    "reviews": 2,
     "genre": "Various",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/8972dcb3e847deab4d5f704cacf021cf/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/8972dcb3e847deab4d5f704cacf021cf/1000x1000-000000-80-0-0.jpg",
+    "discogs": 84
   },
   {
     "artist": "Nils Frahm",
@@ -13114,10 +13145,11 @@
     "year": 2013,
     "metacritic": 90,
     "source": "Metacritic 2013",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Electronic",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/56d8bf1bf33d44404278f46cd994f778/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/56d8bf1bf33d44404278f46cd994f778/1000x1000-000000-80-0-0.jpg",
+    "discogs": 85
   },
   {
     "artist": "Ashley Monroe",
@@ -16286,9 +16318,10 @@
     "metacritic": 91,
     "source": "Metacritic 2010",
     "consensus": 91,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Country",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/f87753e58cd4c8b87128d764d7a78fc9/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/f87753e58cd4c8b87128d764d7a78fc9/1000x1000-000000-80-0-0.jpg",
+    "discogs": 91
   },
   {
     "artist": "Big Boi",
@@ -16296,10 +16329,11 @@
     "year": 2010,
     "metacritic": 90,
     "source": "Metacritic 2010",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Hip Hop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/26a7b6e6fb2cdacc5a3f6c0ba29026c7/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/26a7b6e6fb2cdacc5a3f6c0ba29026c7/1000x1000-000000-80-0-0.jpg",
+    "discogs": 87
   },
   {
     "artist": "Ali Farka Toure And Toumani Diabate",
@@ -17329,10 +17363,11 @@
     "year": 2009,
     "metacritic": 93,
     "source": "Metacritic 2009",
-    "consensus": 93,
-    "reviews": 1,
+    "consensus": 92,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/72d4420c914e498f78e745826da358cd/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/72d4420c914e498f78e745826da358cd/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Woody Guthrie",
@@ -18395,10 +18430,11 @@
     "year": 2008,
     "metacritic": 90,
     "source": "Metacritic 2008",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 91,
+    "reviews": 2,
     "genre": "Electronic",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/68c9d74d81b7639e5c3ca473061ca6d6/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/68c9d74d81b7639e5c3ca473061ca6d6/1000x1000-000000-80-0-0.jpg",
+    "discogs": 92
   },
   {
     "artist": "Plush",
@@ -19470,10 +19506,11 @@
     "year": 2007,
     "metacritic": 90,
     "source": "Metacritic 2007",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 92,
+    "reviews": 2,
     "genre": "Electronic",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/2c6b0935f528487b2fae6b0a5caf2c94/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/2c6b0935f528487b2fae6b0a5caf2c94/1000x1000-000000-80-0-0.jpg",
+    "discogs": 94
   },
   {
     "artist": "Burial",
@@ -19482,9 +19519,10 @@
     "metacritic": 90,
     "source": "Metacritic 2007",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9d/0f/1c/9d0f1c2b-2fae-d8ac-3920-ce9ec5bc85b5/7982.jpg/600x600bb.jpg",
-    "consensus": 90,
-    "reviews": 1,
-    "genre": "Electronic"
+    "consensus": 92,
+    "reviews": 2,
+    "genre": "Electronic",
+    "discogs": 94
   },
   {
     "artist": "Radiohead",
@@ -21630,10 +21668,11 @@
     "year": 2005,
     "metacritic": 90,
     "source": "Metacritic 2005",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 91,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/76f4c6ec0218b725a57390efeba5e6aa/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/76f4c6ec0218b725a57390efeba5e6aa/1000x1000-000000-80-0-0.jpg",
+    "discogs": 92
   },
   {
     "artist": "My Morning Jacket",
@@ -21641,10 +21680,11 @@
     "year": 2005,
     "metacritic": 90,
     "source": "Metacritic 2005",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/f9d02c10335e8632c68d7112e516906f/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/f9d02c10335e8632c68d7112e516906f/1000x1000-000000-80-0-0.jpg",
+    "discogs": 83
   },
   {
     "artist": "Isol\u00e9e",
@@ -22768,10 +22808,11 @@
     "year": 2004,
     "metacritic": 91,
     "source": "Metacritic 2004",
-    "consensus": 91,
-    "reviews": 1,
+    "consensus": 84,
+    "reviews": 2,
     "genre": "Pop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/1ca1b9bd6cf02ff2b32b90a7e8cbef07/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/1ca1b9bd6cf02ff2b32b90a7e8cbef07/1000x1000-000000-80-0-0.jpg",
+    "discogs": 78
   },
   {
     "artist": "Candi Staton",
@@ -22779,10 +22820,11 @@
     "year": 2004,
     "metacritic": 90,
     "source": "Metacritic 2004",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 89,
+    "reviews": 2,
     "genre": "Pop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/e68af1c03e6a77097f3629b3c2e0cb74/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/e68af1c03e6a77097f3629b3c2e0cb74/1000x1000-000000-80-0-0.jpg",
+    "discogs": 88
   },
   {
     "artist": "Arcade Fire",
@@ -22790,10 +22832,11 @@
     "year": 2004,
     "metacritic": 90,
     "source": "Metacritic 2004",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 91,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/d73ebc04554b4ab4a334fa9acaa5f9af/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/d73ebc04554b4ab4a334fa9acaa5f9af/1000x1000-000000-80-0-0.jpg",
+    "discogs": 92
   },
   {
     "artist": "John Cale",
@@ -23828,10 +23871,11 @@
     "year": 2003,
     "metacritic": 91,
     "source": "Metacritic 2003",
-    "consensus": 91,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Hip Hop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/f81783b6cc6030733cd475f820855562/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/f81783b6cc6030733cd475f820855562/1000x1000-000000-80-0-0.jpg",
+    "discogs": 88
   },
   {
     "artist": "Four Tet",
@@ -24911,10 +24955,11 @@
     "year": 2002,
     "metacritic": 90,
     "source": "Metacritic 2002",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Pop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/54aaae4fa34f58177d45f223e777d19a/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/54aaae4fa34f58177d45f223e777d19a/1000x1000-000000-80-0-0.jpg",
+    "discogs": 85
   },
   {
     "artist": "Tom Waits",
@@ -24923,9 +24968,10 @@
     "metacritic": 90,
     "source": "Metacritic 2002",
     "consensus": 90,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/634daabe3cd69b7d81198b8afa702580/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/634daabe3cd69b7d81198b8afa702580/1000x1000-000000-80-0-0.jpg",
+    "discogs": 89
   },
   {
     "artist": "Queens of the Stone Age",
@@ -26013,10 +26059,11 @@
     "year": 2001,
     "metacritic": 91,
     "source": "Metacritic 2001",
-    "consensus": 91,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/3a4a576d1620b948ddbc72d43577f1da/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/3a4a576d1620b948ddbc72d43577f1da/1000x1000-000000-80-0-0.jpg",
+    "discogs": 85
   },
   {
     "artist": "The Strokes",
@@ -27107,10 +27154,11 @@
     "year": 2000,
     "metacritic": 90,
     "source": "Metacritic 2000",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/48e863dbb0d08d487a27e7b28c0f96ae/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/48e863dbb0d08d487a27e7b28c0f96ae/1000x1000-000000-80-0-0.jpg",
+    "discogs": 82
   },
   {
     "artist": "Aimee Mann",
@@ -35438,9 +35486,10 @@
     "metacritic": 90,
     "source": "Metacritic Rock",
     "consensus": 90,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/339c03be231a03e5791ba5826f797f4a/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/339c03be231a03e5791ba5826f797f4a/1000x1000-000000-80-0-0.jpg",
+    "discogs": 91
   },
   {
     "artist": "Lucinda Williams",
@@ -35967,77 +36016,84 @@
     "album": "The Doors",
     "year": 1967,
     "source": "Curated 1960s",
-    "consensus": 91,
-    "reviews": 1,
+    "consensus": 92,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/0c9aa34d47d60e1e3193bc03eb9591eb/1000x1000-000000-80-0-0.jpg",
-    "metacritic": 91
+    "metacritic": 91,
+    "discogs": 93
   },
   {
     "artist": "The Beatles",
     "album": "A Hard Day's Night",
     "year": 1964,
     "source": "Curated 1960s",
-    "consensus": 91,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7d1c6019481f5b2b2a6e5de1ee57425c/1000x1000-000000-80-0-0.jpg",
-    "metacritic": 91
+    "metacritic": 91,
+    "discogs": 86
   },
   {
     "artist": "James Brown",
     "album": "Live at the Apollo",
     "year": 1963,
     "source": "Curated 1960s",
-    "consensus": 91,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "R&B",
     "cover": "https://cdn-images.dzcdn.net/images/cover/1e837d8dc2e51ea3751f82cd84dede20/1000x1000-000000-80-0-0.jpg",
-    "metacritic": 91
+    "metacritic": 91,
+    "discogs": 84
   },
   {
     "artist": "Aretha Franklin",
     "album": "I Never Loved a Man the Way I Love You",
     "year": 1967,
     "source": "Curated 1960s",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 92,
+    "reviews": 2,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/9e9ba9115d0fb62879d1bb672ee67c07/1000x1000-000000-80-0-0.jpg",
-    "metacritic": 90
+    "metacritic": 90,
+    "discogs": 93
   },
   {
     "artist": "Led Zeppelin",
     "album": "Led Zeppelin II",
     "year": 1969,
     "source": "Curated 1960s",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 92,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/a5fdd04471cb7d6ec8a663621bdd9bee/1000x1000-000000-80-0-0.jpg",
-    "metacritic": 90
+    "metacritic": 90,
+    "discogs": 94
   },
   {
     "artist": "The Rolling Stones",
     "album": "Aftermath",
     "year": 1966,
     "source": "Curated 1960s",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 87,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8d88273e39d8806c6041b413a8c4cf74/1000x1000-000000-80-0-0.jpg",
-    "metacritic": 90
+    "metacritic": 90,
+    "discogs": 84
   },
   {
     "artist": "John Coltrane",
     "album": "A Love Supreme",
     "year": 1965,
     "source": "Curated 1960s",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 92,
+    "reviews": 2,
     "genre": "Jazz",
     "cover": "https://cdn-images.dzcdn.net/images/cover/41ae651a2f190e6f8dff4669367e710e/1000x1000-000000-80-0-0.jpg",
-    "metacritic": 90
+    "metacritic": 90,
+    "discogs": 95
   },
   {
     "artist": "The Kinks",
