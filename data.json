@@ -31,8 +31,9 @@
     "source": "Metacritic 2025",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/0b/d3/b00bd346-7b14-da61-28b0-94d2ea03f58e/093624826873.jpg/600x600bb.jpg",
     "consensus": 94,
-    "reviews": 1,
-    "genre": "Alternative"
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 95
   },
   {
     "artist": "Dove Ellis",
@@ -1122,9 +1123,10 @@
     "metacritic": 93,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/25/d9/5b25d98e-3734-a7fd-c198-69ffd088d10f/24UMGIM94240.rgb.jpg/600x600bb.jpg",
-    "consensus": 93,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 92,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 91
   },
   {
     "artist": "Blood Incantation",
@@ -1133,9 +1135,10 @@
     "metacritic": 92,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/4e/2d/bb4e2d8d-4c15-ba91-ecf1-84a0162815ea/196871925433.jpg/600x600bb.jpg",
-    "consensus": 92,
-    "reviews": 1,
-    "genre": "Rock"
+    "consensus": 94,
+    "reviews": 2,
+    "genre": "Rock",
+    "discogs": 97
   },
   {
     "artist": "Laura Marling",
@@ -2238,8 +2241,9 @@
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/10/51/f2/1051f2cc-195f-ddb6-2d9e-26c74f0387fd/197187988518.jpg/600x600bb.jpg",
     "consensus": 94,
-    "reviews": 1,
-    "genre": "Alternative"
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 95
   },
   {
     "artist": "Julie Byrne",
@@ -3310,10 +3314,11 @@
     "year": 2022,
     "metacritic": 94,
     "source": "Metacritic 2022",
-    "consensus": 94,
-    "reviews": 1,
+    "consensus": 93,
+    "reviews": 2,
     "genre": "Pop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/66ae12120936d9660d3e30a7db7627b8/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/66ae12120936d9660d3e30a7db7627b8/1000x1000-000000-80-0-0.jpg",
+    "discogs": 92
   },
   {
     "artist": "Nova Twins",
@@ -3321,10 +3326,11 @@
     "year": 2022,
     "metacritic": 92,
     "source": "Metacritic 2022",
-    "consensus": 92,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/b33865f7f7479108133e087001148419/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/b33865f7f7479108133e087001148419/1000x1000-000000-80-0-0.jpg",
+    "discogs": 87
   },
   {
     "artist": "Black Country, New Road",
@@ -3333,9 +3339,10 @@
     "metacritic": 92,
     "source": "Metacritic 2022",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/6a/c6/8f6ac6c6-5bcd-fa25-94f2-fd9922725215/5054429151442.png/600x600bb.jpg",
-    "consensus": 92,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 94,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 95
   },
   {
     "artist": "Beyonc\u00e9",
@@ -4416,10 +4423,11 @@
     "year": 2021,
     "metacritic": 92,
     "source": "Metacritic 2021",
-    "consensus": 92,
-    "reviews": 1,
+    "consensus": 91,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/8f49e834fe45fa4c6f68b8a936c7910b/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/8f49e834fe45fa4c6f68b8a936c7910b/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Turnstile",
@@ -4427,10 +4435,11 @@
     "year": 2021,
     "metacritic": 92,
     "source": "Metacritic 2021",
-    "consensus": 92,
-    "reviews": 1,
+    "consensus": 93,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/55f64d043168056c98e485907752d490/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/55f64d043168056c98e485907752d490/1000x1000-000000-80-0-0.jpg",
+    "discogs": 94
   },
   {
     "artist": "Dave",
@@ -4439,9 +4448,10 @@
     "metacritic": 92,
     "source": "Metacritic 2021",
     "consensus": 92,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Hip Hop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/fbf2218aa7d8262098c19097bd10cb21/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/fbf2218aa7d8262098c19097bd10cb21/1000x1000-000000-80-0-0.jpg",
+    "discogs": 93
   },
   {
     "artist": "Nick Cave & Warren Ellis",
@@ -7673,10 +7683,11 @@
     "year": 2018,
     "metacritic": 93,
     "source": "Metacritic 2018",
-    "consensus": 93,
-    "reviews": 1,
+    "consensus": 91,
+    "reviews": 2,
     "genre": "Hip Hop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/17b1b7869ed48873aed02f7448ccbeec/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/17b1b7869ed48873aed02f7448ccbeec/1000x1000-000000-80-0-0.jpg",
+    "discogs": 89
   },
   {
     "artist": "Rolo Tomassi",
@@ -7684,10 +7695,11 @@
     "year": 2018,
     "metacritic": 92,
     "source": "Metacritic 2018",
-    "consensus": 92,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/960195655d4a4d12ae2748845383bf5b/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/960195655d4a4d12ae2748845383bf5b/1000x1000-000000-80-0-0.jpg",
+    "discogs": 84
   },
   {
     "artist": "Architects",
@@ -8774,10 +8786,11 @@
     "year": 2017,
     "metacritic": 93,
     "source": "Metacritic 2017",
-    "consensus": 93,
-    "reviews": 1,
+    "consensus": 94,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/75b9f63a3afc3686b1cee2f1cd30f5e4/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/75b9f63a3afc3686b1cee2f1cd30f5e4/1000x1000-000000-80-0-0.jpg",
+    "discogs": 94
   },
   {
     "artist": "Lorde",
@@ -9879,9 +9892,10 @@
     "metacritic": 92,
     "source": "Metacritic 2016",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/53/65/d2536587-c7f3-9153-4677-f5a2f3e9e5ad/886447691120.jpg/600x600bb.jpg",
-    "consensus": 92,
-    "reviews": 1,
-    "genre": "Pop"
+    "consensus": 94,
+    "reviews": 2,
+    "genre": "Pop",
+    "discogs": 95
   },
   {
     "artist": "Leonard Cohen",
@@ -12023,8 +12037,9 @@
     "metacritic": 92,
     "source": "Metacritic 2014",
     "consensus": 92,
-    "reviews": 1,
-    "genre": "Rock"
+    "reviews": 2,
+    "genre": "Rock",
+    "discogs": 93
   },
   {
     "artist": "The Hotelier",
@@ -13052,9 +13067,10 @@
     "metacritic": 92,
     "source": "Metacritic 2013",
     "consensus": 92,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Metal",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/30f637f96692cada700e8c2a48162a93/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/30f637f96692cada700e8c2a48162a93/1000x1000-000000-80-0-0.jpg",
+    "discogs": 91
   },
   {
     "artist": "Bassekou Kouyate & Ngoni Ba",
@@ -14125,10 +14141,11 @@
     "year": 2012,
     "metacritic": 93,
     "source": "Metacritic 2012",
-    "consensus": 93,
-    "reviews": 1,
+    "consensus": 94,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/b199ff86225eed922ea644f06a28c460/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/b199ff86225eed922ea644f06a28c460/1000x1000-000000-80-0-0.jpg",
+    "discogs": 94
   },
   {
     "artist": "Frank Ocean",
@@ -16220,9 +16237,10 @@
     "metacritic": 94,
     "source": "Metacritic 2010",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/37/da/7c/37da7cc5-2b6f-9bb8-30ba-8a8c3be3e16a/00602527584973.rgb.jpg/600x600bb.jpg",
-    "consensus": 94,
-    "reviews": 1,
-    "genre": "Hip Hop"
+    "consensus": 93,
+    "reviews": 2,
+    "genre": "Hip Hop",
+    "discogs": 92
   },
   {
     "artist": "Janelle Mon\u00e1e",
@@ -17297,10 +17315,11 @@
     "year": 2009,
     "metacritic": 93,
     "source": "Metacritic 2009",
-    "consensus": 93,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Folk",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/a53fed2193f6aa7502cd39137a870241/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/a53fed2193f6aa7502cd39137a870241/1000x1000-000000-80-0-0.jpg",
+    "discogs": 84
   },
   {
     "artist": "Animal Collective",
@@ -20509,10 +20528,11 @@
     "year": 2006,
     "metacritic": 94,
     "source": "Metacritic 2006",
-    "consensus": 94,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "World",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/cb2a4a4139c2a6f40ce8bf1f99dcc0f0/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/cb2a4a4139c2a6f40ce8bf1f99dcc0f0/1000x1000-000000-80-0-0.jpg",
+    "discogs": 82
   },
   {
     "artist": "Tom Waits",
@@ -22700,9 +22720,10 @@
     "metacritic": 93,
     "source": "Metacritic 2004",
     "consensus": 93,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Hip Hop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/22d68d10ed024e92b65d010d5df24c04/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/22d68d10ed024e92b65d010d5df24c04/1000x1000-000000-80-0-0.jpg",
+    "discogs": 93
   },
   {
     "artist": "Dizzee Rascal",
@@ -25955,10 +25976,11 @@
     "year": 2001,
     "metacritic": 93,
     "source": "Metacritic 2001",
-    "consensus": 93,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Pop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/fe7dabab3b1deec3ecdec630e3b6df7a/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/fe7dabab3b1deec3ecdec630e3b6df7a/1000x1000-000000-80-0-0.jpg",
+    "discogs": 80
   },
   {
     "artist": "Los Super Seven",
@@ -35836,22 +35858,24 @@
     "album": "Are You Experienced",
     "year": 1967,
     "source": "Curated 1960s",
-    "consensus": 95,
-    "reviews": 1,
+    "consensus": 94,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2be4cec45c66da0629745c9efcd39fec/1000x1000-000000-80-0-0.jpg",
-    "metacritic": 95
+    "metacritic": 95,
+    "discogs": 93
   },
   {
     "artist": "The Velvet Underground",
     "album": "The Velvet Underground & Nico",
     "year": 1967,
     "source": "Curated 1960s",
-    "consensus": 95,
-    "reviews": 1,
+    "consensus": 94,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f5e3bdb447ff459bc7d585352a92a6f5/1000x1000-000000-80-0-0.jpg",
-    "metacritic": 95
+    "metacritic": 95,
+    "discogs": 92
   },
   {
     "artist": "The Beatles",
@@ -35859,32 +35883,35 @@
     "year": 1969,
     "source": "Curated 1960s",
     "consensus": 94,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/aa94ab293730bb7845d2aa8c672b2c29/1000x1000-000000-80-0-0.jpg",
-    "metacritic": 94
+    "metacritic": 94,
+    "discogs": 95
   },
   {
     "artist": "The Rolling Stones",
     "album": "Beggars Banquet",
     "year": 1968,
     "source": "Curated 1960s",
-    "consensus": 93,
-    "reviews": 1,
+    "consensus": 91,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/007ca308040f3efeff845f2fb4e87a2a/1000x1000-000000-80-0-0.jpg",
-    "metacritic": 93
+    "metacritic": 93,
+    "discogs": 89
   },
   {
     "artist": "Bob Dylan",
     "album": "Blonde on Blonde",
     "year": 1966,
     "source": "Curated 1960s",
-    "consensus": 93,
-    "reviews": 1,
+    "consensus": 92,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/0a59ebd1192454bac7b5d273f0b017c9/1000x1000-000000-80-0-0.jpg",
-    "metacritic": 93
+    "metacritic": 93,
+    "discogs": 90
   },
   {
     "artist": "The Who",
