@@ -7537,10 +7537,11 @@
     "year": 2019,
     "metacritic": 83,
     "source": "Metacritic 2019",
-    "consensus": 83,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Pop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/1fb2897d2e3a0cb80d739bfde74aab20/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/1fb2897d2e3a0cb80d739bfde74aab20/1000x1000-000000-80-0-0.jpg",
+    "discogs": 93
   },
   {
     "artist": "Black Belt Eagle Scout",
@@ -8635,10 +8636,11 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 83,
-    "reviews": 1,
+    "consensus": 89,
+    "reviews": 2,
     "genre": "Electronic",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/73acfe3d114e4fc7357aaee3066c71af/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/73acfe3d114e4fc7357aaee3066c71af/1000x1000-000000-80-0-0.jpg",
+    "discogs": 95
   },
   {
     "artist": "Thou",
@@ -8646,10 +8648,11 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 83,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Metal",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/85921cea8031dd19e86338e6c96ccfaa/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/85921cea8031dd19e86338e6c96ccfaa/1000x1000-000000-80-0-0.jpg",
+    "discogs": 92
   },
   {
     "artist": "Julia Holter",
@@ -8657,10 +8660,11 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 83,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/8dfa790030abc3f7c0137ae6ae97fea2/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/8dfa790030abc3f7c0137ae6ae97fea2/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Lucrecia Dalt",
@@ -8668,10 +8672,11 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 83,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/60e9eed113fadc596c8839ef121442a2/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/60e9eed113fadc596c8839ef121442a2/1000x1000-000000-80-0-0.jpg",
+    "discogs": 88
   },
   {
     "artist": "Elvis Costello & the Imposters",
@@ -8679,10 +8684,11 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 83,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/d08fa17c237d8bcbe8b79d2d43dfeccf/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/d08fa17c237d8bcbe8b79d2d43dfeccf/1000x1000-000000-80-0-0.jpg",
+    "discogs": 92
   },
   {
     "artist": "Fucked Up",
@@ -8690,10 +8696,11 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 83,
-    "reviews": 1,
+    "consensus": 84,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/061a53a917b01fa46b42ee0c041d6b42/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/061a53a917b01fa46b42ee0c041d6b42/1000x1000-000000-80-0-0.jpg",
+    "discogs": 84
   },
   {
     "artist": "nao",
@@ -8701,10 +8708,11 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 83,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "R&B",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/f062f13c7fa706597125c318a72e3f20/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/f062f13c7fa706597125c318a72e3f20/1000x1000-000000-80-0-0.jpg",
+    "discogs": 92
   },
   {
     "artist": "Ry Cooder",
@@ -8712,9 +8720,10 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 83,
-    "reviews": 1,
-    "genre": "Rock"
+    "consensus": 84,
+    "reviews": 2,
+    "genre": "Rock",
+    "discogs": 84
   },
   {
     "artist": "Caroline Rose",
@@ -8722,9 +8731,10 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 83,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 86,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 90
   },
   {
     "artist": "Iceage",
@@ -8733,8 +8743,9 @@
     "metacritic": 83,
     "source": "Metacritic 2018",
     "consensus": 83,
-    "reviews": 1,
-    "genre": "Alternative"
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 83
   },
   {
     "artist": "Nils Frahm",
@@ -8742,9 +8753,10 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 83,
-    "reviews": 1,
-    "genre": "Electronic"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Electronic",
+    "discogs": 94
   },
   {
     "artist": "Go-Kart Mozart",
