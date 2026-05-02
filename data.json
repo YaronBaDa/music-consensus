@@ -7154,10 +7154,11 @@
     "year": 2019,
     "metacritic": 84,
     "source": "Metacritic 2019",
-    "consensus": 84,
-    "reviews": 1,
+    "consensus": 81,
+    "reviews": 2,
     "genre": "Electronic",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/04be9f1ae427f8027f204eb95c945b5b/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/04be9f1ae427f8027f204eb95c945b5b/1000x1000-000000-80-0-0.jpg",
+    "discogs": 78
   },
   {
     "artist": "The Muffs",
@@ -7165,10 +7166,11 @@
     "year": 2019,
     "metacritic": 84,
     "source": "Metacritic 2019",
-    "consensus": 84,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/604068d77ab45acadb11d530adebced4/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/604068d77ab45acadb11d530adebced4/1000x1000-000000-80-0-0.jpg",
+    "discogs": 89
   },
   {
     "artist": "Elbow",
@@ -7177,9 +7179,10 @@
     "metacritic": 84,
     "source": "Metacritic 2019",
     "consensus": 84,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/2983fc901944136935d9cf34c1852562/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/2983fc901944136935d9cf34c1852562/1000x1000-000000-80-0-0.jpg",
+    "discogs": 83
   },
   {
     "artist": "The Delines",
@@ -7187,10 +7190,11 @@
     "year": 2019,
     "metacritic": 84,
     "source": "Metacritic 2019",
-    "consensus": 84,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/ba0be3d5fd0e86e0cd13bbf958fd7ff4/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/ba0be3d5fd0e86e0cd13bbf958fd7ff4/1000x1000-000000-80-0-0.jpg",
+    "discogs": 89
   },
   {
     "artist": "Jenny Hval",
@@ -7199,9 +7203,10 @@
     "metacritic": 84,
     "source": "Metacritic 2019",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/8f/a3/6e/8fa36e9c-0b39-7d00-2403-7930ea06f4bf/843563119105.png/600x600bb.jpg",
-    "consensus": 84,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 92
   },
   {
     "artist": "Inter Arma",
@@ -7209,10 +7214,11 @@
     "year": 2019,
     "metacritic": 84,
     "source": "Metacritic 2019",
-    "consensus": 84,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Metal",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/6d935041e02f243fb4fc36fc50ecfa47/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/6d935041e02f243fb4fc36fc50ecfa47/1000x1000-000000-80-0-0.jpg",
+    "discogs": 91
   },
   {
     "artist": "Kate Tempest",
@@ -7220,9 +7226,10 @@
     "year": 2019,
     "metacritic": 84,
     "source": "Metacritic 2019",
-    "consensus": 84,
-    "reviews": 1,
-    "genre": "Hip Hop"
+    "consensus": 86,
+    "reviews": 2,
+    "genre": "Hip Hop",
+    "discogs": 87
   },
   {
     "artist": "Mega Bog",
@@ -7230,10 +7237,11 @@
     "year": 2019,
     "metacritic": 84,
     "source": "Metacritic 2019",
-    "consensus": 84,
-    "reviews": 1,
+    "consensus": 87,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/eeca9edba83f3ec958d581030b960b8f/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/eeca9edba83f3ec958d581030b960b8f/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Bruce Springsteen",
@@ -7241,10 +7249,11 @@
     "year": 2019,
     "metacritic": 84,
     "source": "Metacritic 2019",
-    "consensus": 84,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/bfdad592570bd6a6bb35061e9df67bdb/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/bfdad592570bd6a6bb35061e9df67bdb/1000x1000-000000-80-0-0.jpg",
+    "discogs": 88
   },
   {
     "artist": "Devin Townsend",
@@ -7252,10 +7261,11 @@
     "year": 2019,
     "metacritic": 84,
     "source": "Metacritic 2019",
-    "consensus": 84,
-    "reviews": 1,
+    "consensus": 87,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/9014350c2b1ec130610943ac2a18e78a/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/9014350c2b1ec130610943ac2a18e78a/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Beth Gibbons",
@@ -7263,9 +7273,10 @@
     "year": 2019,
     "metacritic": 84,
     "source": "Metacritic 2019",
-    "consensus": 84,
-    "reviews": 1,
-    "genre": "Rock"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Rock",
+    "discogs": 93
   },
   {
     "artist": "Jessica Pratt",
@@ -7274,9 +7285,10 @@
     "metacritic": 84,
     "source": "Metacritic 2019",
     "consensus": 84,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Folk",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/5d6fcadea6bce78fc8828c7f90461730/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/5d6fcadea6bce78fc8828c7f90461730/1000x1000-000000-80-0-0.jpg",
+    "discogs": 85
   },
   {
     "artist": "Thom Yorke",
@@ -7284,10 +7296,11 @@
     "year": 2019,
     "metacritic": 84,
     "source": "Metacritic 2019",
-    "consensus": 84,
-    "reviews": 1,
+    "consensus": 87,
+    "reviews": 2,
     "genre": "Electronic",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/e8679978abb780b5e923383c575a7803/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/e8679978abb780b5e923383c575a7803/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Leonard Cohen",
