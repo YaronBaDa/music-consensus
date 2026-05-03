@@ -1285,9 +1285,10 @@
     "metacritic": 89,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/ed/1a/7ced1a15-61bb-9df1-658a-f543bf8b4b15/26UMGIM41197.rgb.jpg/600x600bb.jpg",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 91,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 93
   },
   {
     "artist": "Johnny Blue Skies",
@@ -1295,10 +1296,11 @@
     "year": 2024,
     "metacritic": 89,
     "source": "Metacritic 2024",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 91,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/056aa3fb4a910b287889205eaa45f9ee/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/056aa3fb4a910b287889205eaa45f9ee/1000x1000-000000-80-0-0.jpg",
+    "discogs": 93
   },
   {
     "artist": "Waxahatchee",
@@ -1307,9 +1309,10 @@
     "metacritic": 89,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dc/95/97/dc9597a1-3479-f780-8c51-bfe91236fa09/0045778786060.png/600x600bb.jpg",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Folk"
+    "consensus": 90,
+    "reviews": 2,
+    "genre": "Folk",
+    "discogs": 90
   },
   {
     "artist": "Arooj Aftab",
@@ -1318,9 +1321,10 @@
     "metacritic": 89,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/3c/0b/543c0b89-91d5-88c8-2da7-a39c45b4439f/24UMGIM26384.rgb.jpg/600x600bb.jpg",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Jazz"
+    "consensus": 90,
+    "reviews": 2,
+    "genre": "Jazz",
+    "discogs": 91
   },
   {
     "artist": "Los Campesinos!",
@@ -1340,9 +1344,10 @@
     "metacritic": 89,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6d/00/8c/6d008c01-074d-e2af-c691-943a155e4a60/00196922832147_Cover.jpg/600x600bb.jpg",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 90,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 90
   },
   {
     "artist": "Fontaines D.C.",
@@ -1350,10 +1355,11 @@
     "year": 2024,
     "metacritic": 89,
     "source": "Metacritic 2024",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/8fd422a840884ba1dfaccc3bb42ad67d/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/8fd422a840884ba1dfaccc3bb42ad67d/1000x1000-000000-80-0-0.jpg",
+    "discogs": 91
   },
   {
     "artist": "Beth Gibbons",
@@ -2351,10 +2357,11 @@
     "year": 2023,
     "metacritic": 90,
     "source": "Metacritic 2023",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 92,
+    "reviews": 2,
     "genre": "Hip Hop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/bcafcc7b293eeb0cdb59720b33cba541/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/bcafcc7b293eeb0cdb59720b33cba541/1000x1000-000000-80-0-0.jpg",
+    "discogs": 94
   },
   {
     "artist": "Jessie Ware",
@@ -2363,9 +2370,10 @@
     "metacritic": 89,
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6f/82/49/6f824933-4a3a-324b-4243-48c0cce0dace/22UMGIM88087.rgb.jpg/600x600bb.jpg",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Pop"
+    "consensus": 92,
+    "reviews": 2,
+    "genre": "Pop",
+    "discogs": 94
   },
   {
     "artist": "Wednesday",
@@ -2373,10 +2381,11 @@
     "year": 2023,
     "metacritic": 89,
     "source": "Metacritic 2023",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/afea29fe6ef006c50d2fbbdbe0007ab7/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/afea29fe6ef006c50d2fbbdbe0007ab7/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Lankum",
@@ -2385,9 +2394,10 @@
     "metacritic": 89,
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/2a/e0/52/2ae0528d-6761-6aa4-99a9-b5a79802d58a/191402039276.png/600x600bb.jpg",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Folk"
+    "consensus": 91,
+    "reviews": 2,
+    "genre": "Folk",
+    "discogs": 93
   },
   {
     "artist": "Creeper",
@@ -2396,9 +2406,10 @@
     "metacritic": 89,
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/31/0f/cb310fce-3560-5098-de62-dc47adc11032/5401148006674_cover.jpg/600x600bb.jpg",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Rock"
+    "consensus": 86,
+    "reviews": 2,
+    "genre": "Rock",
+    "discogs": 84
   },
   {
     "artist": "The Clientele",
@@ -2408,8 +2419,9 @@
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/be/87/1fbe8703-9186-111f-d329-a4c56699aa10/57331.jpg/600x600bb.jpg",
     "consensus": 89,
-    "reviews": 1,
-    "genre": "Alternative"
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 89
   },
   {
     "artist": "Neil Young",
@@ -3394,9 +3406,10 @@
     "metacritic": 91,
     "source": "Metacritic 2022",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/fe/ba/43/feba43be-99e8-ad8c-9fad-1bfdea7a4e98/196589344267.jpg/600x600bb.jpg",
-    "consensus": 91,
-    "reviews": 1,
-    "genre": "Pop"
+    "consensus": 94,
+    "reviews": 2,
+    "genre": "Pop",
+    "discogs": 96
   },
   {
     "artist": "SZA",
@@ -3416,10 +3429,11 @@
     "year": 2022,
     "metacritic": 89,
     "source": "Metacritic 2022",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/116aa3d4e6e9ae5102267f9839f88f74/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/116aa3d4e6e9ae5102267f9839f88f74/1000x1000-000000-80-0-0.jpg",
+    "discogs": 91
   },
   {
     "artist": "Florist",
@@ -3428,9 +3442,10 @@
     "metacritic": 89,
     "source": "Metacritic 2022",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/87/70/b7/8770b778-33fb-a6ae-91e6-09416361660b/644110408792.png/600x600bb.jpg",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 88
   },
   {
     "artist": "Just Mustard",
@@ -3439,9 +3454,10 @@
     "metacritic": 89,
     "source": "Metacritic 2022",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/b1/13/b7b11329-57c7-cc74-53f2-1e018028b0bc/0720841301905_Cover.jpg/600x600bb.jpg",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 88
   },
   {
     "artist": "Sudan Archives",
@@ -3449,10 +3465,11 @@
     "year": 2022,
     "metacritic": 89,
     "source": "Metacritic 2022",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Pop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/18f8cbda3d68819f902c9edf36975005/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/18f8cbda3d68819f902c9edf36975005/1000x1000-000000-80-0-0.jpg",
+    "discogs": 91
   },
   {
     "artist": "Binker & Moses",
@@ -3472,9 +3489,10 @@
     "metacritic": 89,
     "source": "Metacritic 2022",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4b/09/80/4b098047-98f9-6cfc-322b-0514ba2a4394/31849.jpg/600x600bb.jpg",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 87
   },
   {
     "artist": "Angel Olsen",
@@ -4550,9 +4568,10 @@
     "metacritic": 89,
     "source": "Metacritic 2021",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9f/ec/91/9fec9166-1310-9126-39b3-48ca61091152/0045778777068.png/600x600bb.jpg",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Rock"
+    "consensus": 90,
+    "reviews": 2,
+    "genre": "Rock",
+    "discogs": 92
   },
   {
     "artist": "For Those I Love",
@@ -4560,9 +4579,10 @@
     "year": 2021,
     "metacritic": 89,
     "source": "Metacritic 2021",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Electronic"
+    "consensus": 92,
+    "reviews": 2,
+    "genre": "Electronic",
+    "discogs": 94
   },
   {
     "artist": "The Weather Station",
@@ -4570,9 +4590,10 @@
     "year": 2021,
     "metacritic": 89,
     "source": "Metacritic 2021",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 86
   },
   {
     "artist": "Laura Mvula",
@@ -4581,9 +4602,10 @@
     "metacritic": 89,
     "source": "Metacritic 2021",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/49/ee/a5/49eea513-6c89-034d-4d3b-8a51cf292669/190295058791.jpg/600x600bb.jpg",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Pop"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Pop",
+    "discogs": 86
   },
   {
     "artist": "Squid",
@@ -4592,9 +4614,10 @@
     "metacritic": 89,
     "source": "Metacritic 2021",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/1f/cd/f71fcd9d-0705-687e-d31e-5580355c8ba8/0801061031435.png/600x600bb.jpg",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 90,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 90
   },
   {
     "artist": "Rhiannon Giddens",
@@ -4603,9 +4626,10 @@
     "metacritic": 89,
     "source": "Metacritic 2021",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/c0/f2/33c0f2ad-107b-32a5-2e1d-d4a0ab318f08/075597915716.jpg/600x600bb.jpg",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Folk"
+    "consensus": 90,
+    "reviews": 2,
+    "genre": "Folk",
+    "discogs": 90
   },
   {
     "artist": "Snail Mail",
@@ -5630,10 +5654,11 @@
     "year": 2020,
     "metacritic": 89,
     "source": "Metacritic 2020",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Hip Hop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/5ae29becf8f98f9a4d8dcf4597183d96/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/5ae29becf8f98f9a4d8dcf4597183d96/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Rina Sawayama",
@@ -5641,10 +5666,11 @@
     "year": 2020,
     "metacritic": 89,
     "source": "Metacritic 2020",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/88de13781a0b5afdf89261ec1391ac9e/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/88de13781a0b5afdf89261ec1391ac9e/1000x1000-000000-80-0-0.jpg",
+    "discogs": 91
   },
   {
     "artist": "BC Camplight",
@@ -26162,10 +26188,11 @@
     "year": 2001,
     "metacritic": 91,
     "source": "Metacritic 2001",
-    "consensus": 91,
-    "reviews": 1,
+    "consensus": 92,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/700f0375d5ac8570f16a2c7eb128303f/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/700f0375d5ac8570f16a2c7eb128303f/1000x1000-000000-80-0-0.jpg",
+    "discogs": 92
   },
   {
     "artist": "The Avalanches",
