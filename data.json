@@ -26903,13 +26903,14 @@
     "year": 2006,
     "metacritic": 82,
     "source": "Metacritic 2006",
-    "consensus": 83,
+    "consensus": 85,
     "reviews": 2,
     "genre": "Country",
     "cover": "https://cdn-images.dzcdn.net/images/cover/cd1fb17e7debb69a17cdccfb2b52e8bd/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 23,
-    "aoty_url": "https://www.albumoftheyear.org/album/1262-johnny-cash-american-v-a-hundred-highways.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1262-johnny-cash-american-v-a-hundred-highways.php",
+    "discogs": 88
   },
   {
     "artist": "Charalambides",
@@ -26917,12 +26918,13 @@
     "year": 2006,
     "metacritic": 82,
     "source": "Metacritic 2006",
-    "consensus": 80,
+    "consensus": 82,
     "reviews": 2,
     "genre": "Various",
     "aoty_critic": 77,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/27508-charalambides-a-vintage-burden.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/27508-charalambides-a-vintage-burden.php",
+    "discogs": 83
   },
   {
     "artist": "Vitalic",
@@ -26930,10 +26932,11 @@
     "year": 2006,
     "metacritic": 82,
     "source": "Metacritic 2006",
-    "consensus": 82,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Electronic",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/bb7014c58d1d29c3b0562808b2d2558b/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/bb7014c58d1d29c3b0562808b2d2558b/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Vince Gill",
@@ -26942,9 +26945,10 @@
     "metacritic": 82,
     "source": "Metacritic 2006",
     "consensus": 82,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Country",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/22116d93ab937c654abe0fd2237de833/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/22116d93ab937c654abe0fd2237de833/1000x1000-000000-80-0-0.jpg",
+    "discogs": 83
   },
   {
     "artist": "Bruce Springsteen",
@@ -26952,13 +26956,14 @@
     "year": 2006,
     "metacritic": 82,
     "source": "Metacritic 2006",
-    "consensus": 79,
+    "consensus": 84,
     "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/434e651a2c83a6a0ea659ea2fa34137c/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 16,
-    "aoty_url": "https://www.albumoftheyear.org/album/6296-bruce-springsteen-we-shall-overcome-the-seeger-sessions.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6296-bruce-springsteen-we-shall-overcome-the-seeger-sessions.php",
+    "discogs": 86
   },
   {
     "artist": "Sonic Youth",
@@ -26966,13 +26971,14 @@
     "year": 2006,
     "metacritic": 82,
     "source": "Metacritic 2006",
-    "consensus": 80,
+    "consensus": 84,
     "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2c00627644be9a6f6ce55840d787ef5e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 24,
-    "aoty_url": "https://www.albumoftheyear.org/album/359-sonic-youth-rather-ripped.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/359-sonic-youth-rather-ripped.php",
+    "discogs": 87
   },
   {
     "artist": "Aphex Twin",
@@ -28334,7 +28340,8 @@
     "cover": "https://cdn-images.dzcdn.net/images/cover/55311bb657ae2e39afd1bd75676b6241/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/25886-kano-home-sweet-home.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/25886-kano-home-sweet-home.php",
+    "discogs": 83
   },
   {
     "artist": "Broken Social Scene",
@@ -28342,13 +28349,14 @@
     "year": 2005,
     "metacritic": 82,
     "source": "Metacritic 2005",
-    "consensus": 80,
+    "consensus": 86,
     "reviews": 2,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d444c53aaa051c0c19289c4a8f26963d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 24,
-    "aoty_url": "https://www.albumoftheyear.org/album/491-broken-social-scene-broken-social-scene.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/491-broken-social-scene-broken-social-scene.php",
+    "discogs": 89
   },
   {
     "artist": "Iron & Wine",
@@ -28356,9 +28364,10 @@
     "year": 2005,
     "metacritic": 82,
     "source": "Metacritic 2005",
-    "consensus": 82,
-    "reviews": 1,
-    "genre": "Folk"
+    "consensus": 86,
+    "reviews": 2,
+    "genre": "Folk",
+    "discogs": 89
   },
   {
     "artist": "Gorillaz",
@@ -28366,13 +28375,14 @@
     "year": 2005,
     "metacritic": 82,
     "source": "Metacritic 2005",
-    "consensus": 80,
+    "consensus": 88,
     "reviews": 2,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/3dc29a565149240729afc08e1f251b46/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 30,
-    "aoty_url": "https://www.albumoftheyear.org/album/1353-gorillaz-demon-days.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1353-gorillaz-demon-days.php",
+    "discogs": 93
   },
   {
     "artist": "Low",
@@ -28380,13 +28390,14 @@
     "year": 2005,
     "metacritic": 82,
     "source": "Metacritic 2005",
-    "consensus": 78,
+    "consensus": 84,
     "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8a3c9a379ea0073296f2ac51cb7d8253/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 75,
     "aoty_reviews": 23,
-    "aoty_url": "https://www.albumoftheyear.org/album/2467-low-the-great-destroyer.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2467-low-the-great-destroyer.php",
+    "discogs": 86
   },
   {
     "artist": "Nickel Creek",
@@ -28394,12 +28405,13 @@
     "year": 2005,
     "metacritic": 82,
     "source": "Metacritic 2005",
-    "consensus": 83,
+    "consensus": 80,
     "reviews": 2,
     "genre": "Country",
     "aoty_critic": 84,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/37997-nickel-creek-why-should-the-fire-die.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/37997-nickel-creek-why-should-the-fire-die.php",
+    "discogs": 78
   },
   {
     "artist": "Bloc Party",
@@ -28407,12 +28419,13 @@
     "year": 2005,
     "metacritic": 82,
     "source": "Metacritic 2005",
-    "consensus": 81,
+    "consensus": 87,
     "reviews": 2,
     "genre": "Alternative",
     "aoty_critic": 80,
     "aoty_reviews": 23,
-    "aoty_url": "https://www.albumoftheyear.org/album/905-bloc-party-silent-alarm.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/905-bloc-party-silent-alarm.php",
+    "discogs": 92
   },
   {
     "artist": "The National",
@@ -28420,12 +28433,13 @@
     "year": 2005,
     "metacritic": 82,
     "source": "Metacritic 2005",
-    "consensus": 80,
+    "consensus": 85,
     "reviews": 2,
     "genre": "Alternative",
     "aoty_critic": 78,
     "aoty_reviews": 16,
-    "aoty_url": "https://www.albumoftheyear.org/album/322-the-national-alligator.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/322-the-national-alligator.php",
+    "discogs": 88
   },
   {
     "artist": "Xiu Xiu",
