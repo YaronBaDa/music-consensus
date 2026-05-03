@@ -13423,13 +13423,14 @@
     "metacritic": 92,
     "source": "Metacritic 2016",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/5f/54/1f/5f541fad-83ea-ffaa-3979-4cf528496764/886446019253.jpg/600x600bb.jpg",
-    "consensus": 90,
-    "reviews": 3,
+    "consensus": 88,
+    "reviews": 4,
     "genre": "Rock",
     "discogs": 90,
     "aoty_critic": 89,
     "aoty_reviews": 32,
-    "aoty_url": "https://www.albumoftheyear.org/album/62251-leonard-cohen-you-want-it-darker.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/62251-leonard-cohen-you-want-it-darker.php",
+    "aoty_user": 82
   },
   {
     "artist": "A Tribe Called Quest",
@@ -13461,14 +13462,15 @@
     "year": 2016,
     "metacritic": 89,
     "source": "Metacritic 2016",
-    "consensus": 90,
-    "reviews": 3,
+    "consensus": 88,
+    "reviews": 4,
     "genre": "Soul",
     "cover": "https://cdn-images.dzcdn.net/images/cover/36b361c2c916b333a0b7c6f949c32099/1000x1000-000000-80-0-0.jpg",
     "discogs": 92,
     "aoty_critic": 88,
     "aoty_reviews": 32,
-    "aoty_url": "https://www.albumoftheyear.org/album/62660-solange-a-seat-at-the-table.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/62660-solange-a-seat-at-the-table.php",
+    "aoty_user": 83
   },
   {
     "artist": "Drive-By Truckers",
@@ -13477,13 +13479,14 @@
     "metacritic": 88,
     "source": "Metacritic 2016",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/b9/60/5ab96021-5206-a6ba-7c66-166288e8d694/880882649852_Cover.jpg/600x600bb.jpg",
-    "consensus": 88,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Rock",
     "discogs": 89,
     "aoty_critic": 86,
     "aoty_reviews": 17,
-    "aoty_url": "https://www.albumoftheyear.org/album/56912-drive-by-truckers-american-band.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/56912-drive-by-truckers-american-band.php",
+    "aoty_user": 74
   },
   {
     "artist": "Radiohead",
@@ -13492,13 +13495,14 @@
     "metacritic": 88,
     "source": "Metacritic 2016",
     "consensus": 88,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/e9232e4391ed1206cc0bd6ab17822177/1000x1000-000000-80-0-0.jpg",
     "discogs": 90,
     "aoty_critic": 87,
     "aoty_reviews": 51,
-    "aoty_url": "https://www.albumoftheyear.org/album/54767-radiohead-a-moon-shaped-pool.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/54767-radiohead-a-moon-shaped-pool.php",
+    "aoty_user": 88
   },
   {
     "artist": "Run the Jewels",
@@ -13506,13 +13510,14 @@
     "year": 2016,
     "metacritic": 88,
     "source": "Metacritic 2016",
-    "consensus": 88,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Hip Hop",
     "discogs": 90,
     "aoty_critic": 86,
     "aoty_reviews": 39,
-    "aoty_url": "https://www.albumoftheyear.org/album/66437-run-the-jewels-run-the-jewels-3.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/66437-run-the-jewels-run-the-jewels-3.php",
+    "aoty_user": 82
   },
   {
     "artist": "Common",
@@ -13521,12 +13526,13 @@
     "metacritic": 88,
     "source": "Metacritic 2016",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/64/92/6d/64926dcf-1c32-26db-2553-75734568b955/00602557124255.rgb.jpg/600x600bb.jpg",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Hip Hop",
     "aoty_critic": 81,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/63613-common-black-america-again.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/63613-common-black-america-again.php",
+    "aoty_user": 72
   },
   {
     "artist": "Robbie Fulks",
@@ -13534,12 +13540,13 @@
     "year": 2016,
     "metacritic": 87,
     "source": "Metacritic 2016",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Folk",
     "aoty_critic": 80,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/48848-robbie-fulks-upland-stories.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/48848-robbie-fulks-upland-stories.php",
+    "aoty_user": 73
   },
   {
     "artist": "David Bowie",
@@ -13557,12 +13564,13 @@
     "year": 2016,
     "metacritic": 87,
     "source": "Metacritic 2016",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 85,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 86,
     "aoty_reviews": 40,
-    "aoty_url": "https://www.albumoftheyear.org/album/56124-angel-olsen-my-woman.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/56124-angel-olsen-my-woman.php",
+    "aoty_user": 83
   },
   {
     "artist": "Frank Ocean",
@@ -13570,13 +13578,14 @@
     "year": 2016,
     "metacritic": 87,
     "source": "Metacritic 2016",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 87,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/aa7e6de00b0810f5051aa60b489f58d8/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 86,
     "aoty_reviews": 42,
-    "aoty_url": "https://www.albumoftheyear.org/album/58949-frank-ocean-blonde.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/58949-frank-ocean-blonde.php",
+    "aoty_user": 89
   },
   {
     "artist": "Mitski",
@@ -13584,13 +13593,14 @@
     "year": 2016,
     "metacritic": 87,
     "source": "Metacritic 2016",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 85,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/494fdb6075864c792809c7d9b24d6417/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 30,
-    "aoty_url": "https://www.albumoftheyear.org/album/51364-mitski-puberty-2.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/51364-mitski-puberty-2.php",
+    "aoty_user": 84
   },
   {
     "artist": "NAILS",
@@ -13598,13 +13608,14 @@
     "year": 2016,
     "metacritic": 87,
     "source": "Metacritic 2016",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 84,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b8782efee43f8408fbbf9fa6001dce4e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/53736-nails-you-will-never-be-one-of-us.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/53736-nails-you-will-never-be-one-of-us.php",
+    "aoty_user": 81
   },
   {
     "artist": "Bon Iver",
@@ -13613,12 +13624,13 @@
     "metacritic": 87,
     "source": "Metacritic 2016",
     "genre": "Pop",
-    "consensus": 87,
-    "reviews": 2,
+    "consensus": 85,
+    "reviews": 3,
     "cover": "https://cdn-images.dzcdn.net/images/cover/bd132a0670b07c6aadc4a7ee0efc8f6f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 87,
     "aoty_reviews": 49,
-    "aoty_url": "https://www.albumoftheyear.org/album/59737-bon-iver-22-a-million.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/59737-bon-iver-22-a-million.php",
+    "aoty_user": 82
   },
   {
     "artist": "Ital Tek",
@@ -13627,12 +13639,13 @@
     "metacritic": 86,
     "source": "Metacritic 2016",
     "genre": "Electronic",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "cover": "https://cdn-images.dzcdn.net/images/cover/bfda0fa618a19f3f76f8f393be418a21/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/48897-ital-tek-hollowed.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/48897-ital-tek-hollowed.php",
+    "aoty_user": 75
   },
   {
     "artist": "Sturgill Simpson",
@@ -13640,13 +13653,14 @@
     "year": 2016,
     "metacritic": 86,
     "source": "Metacritic 2016",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 84,
+    "reviews": 3,
     "genre": "Country",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ffa809b9e9a775cd669dda21248a2262/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 23,
-    "aoty_url": "https://www.albumoftheyear.org/album/51297-sturgill-simpson-a-sailors-guide-to-earth.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/51297-sturgill-simpson-a-sailors-guide-to-earth.php",
+    "aoty_user": 81
   },
   {
     "artist": "Michael Kiwanuka",
@@ -13654,13 +13668,14 @@
     "year": 2016,
     "metacritic": 86,
     "source": "Metacritic 2016",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Soul",
     "cover": "https://cdn-images.dzcdn.net/images/cover/813f4d7abf1e494e35f8c82f0d77ca5b/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 25,
-    "aoty_url": "https://www.albumoftheyear.org/album/52824-michael-kiwanuka-love-hate.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/52824-michael-kiwanuka-love-hate.php",
+    "aoty_user": 80
   },
   {
     "artist": "Maxwell",
@@ -13679,13 +13694,14 @@
     "year": 2016,
     "metacritic": 86,
     "source": "Metacritic 2016",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/01848bf309213ce56bd1bca13c72f636/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/54714-ian-william-craig-centres.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/54714-ian-william-craig-centres.php",
+    "aoty_user": 78
   },
   {
     "artist": "Car Seat Headrest",
@@ -13693,13 +13709,14 @@
     "year": 2016,
     "metacritic": 86,
     "source": "Metacritic 2016",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 85,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/db8f64034cb0307fb763c83d8022dd02/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 30,
-    "aoty_url": "https://www.albumoftheyear.org/album/52315-car-seat-headrest-teens-of-denial.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/52315-car-seat-headrest-teens-of-denial.php",
+    "aoty_user": 87
   },
   {
     "artist": "The Dillinger Escape Plan",
@@ -13707,13 +13724,14 @@
     "year": 2016,
     "metacritic": 86,
     "source": "Metacritic 2016",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Metal",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ed8be38c12454640ee64618034975710/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/58874-the-dillinger-escape-plan-dissociation.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/58874-the-dillinger-escape-plan-dissociation.php",
+    "aoty_user": 81
   },
   {
     "artist": "Margo Price",
@@ -13721,13 +13739,14 @@
     "year": 2016,
     "metacritic": 86,
     "source": "Metacritic 2016",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Country",
     "cover": "https://cdn-images.dzcdn.net/images/cover/88ca503bf83c8bcf17fc27cd1192918e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 13,
-    "aoty_url": "https://www.albumoftheyear.org/album/48022-margo-price-midwest-farmers-daughter.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/48022-margo-price-midwest-farmers-daughter.php",
+    "aoty_user": 75
   },
   {
     "artist": "William Bell",
@@ -13735,13 +13754,14 @@
     "year": 2016,
     "metacritic": 86,
     "source": "Metacritic 2016",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "R&B",
     "cover": "https://cdn-images.dzcdn.net/images/cover/12c4fae6182a09d3aab485e129597f6e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/56109-william-bell-this-is-where-i-live.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/56109-william-bell-this-is-where-i-live.php",
+    "aoty_user": 75
   },
   {
     "artist": "Teho Teardo",
@@ -13771,14 +13791,15 @@
     "year": 2016,
     "metacritic": 85,
     "source": "Metacritic 2016",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 80,
+    "reviews": 4,
     "genre": "Folk",
     "cover": "https://cdn-images.dzcdn.net/images/cover/9e2b6f9c0782862216c06635b8108921/1000x1000-000000-80-0-0.jpg",
     "discogs": 81,
     "aoty_critic": 82,
     "aoty_reviews": 28,
-    "aoty_url": "https://www.albumoftheyear.org/album/53308-paul-simon-stranger-to-stranger.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/53308-paul-simon-stranger-to-stranger.php",
+    "aoty_user": 72
   },
   {
     "artist": "Neurosis",
@@ -13786,14 +13807,15 @@
     "year": 2016,
     "metacritic": 85,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 80,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8ffa23423e33ab57370dc50c7e47ef83/1000x1000-000000-80-0-0.jpg",
     "discogs": 81,
     "aoty_critic": 80,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/56913-neurosis-fires-within-fires.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/56913-neurosis-fires-within-fires.php",
+    "aoty_user": 73
   },
   {
     "artist": "Anderson .Paak",
@@ -13801,14 +13823,15 @@
     "year": 2016,
     "metacritic": 85,
     "source": "Metacritic 2016",
-    "consensus": 86,
-    "reviews": 3,
+    "consensus": 85,
+    "reviews": 4,
     "genre": "R&B",
     "cover": "https://cdn-images.dzcdn.net/images/cover/dc2fac96693ccae66ea8e0a43069c716/1000x1000-000000-80-0-0.jpg",
     "discogs": 92,
     "aoty_critic": 81,
     "aoty_reviews": 20,
-    "aoty_url": "https://www.albumoftheyear.org/album/47911-anderson-paak-malibu.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/47911-anderson-paak-malibu.php",
+    "aoty_user": 83
   },
   {
     "artist": "Danny Brown",
@@ -13816,14 +13839,15 @@
     "year": 2016,
     "metacritic": 85,
     "source": "Metacritic 2016",
-    "consensus": 87,
-    "reviews": 3,
+    "consensus": 88,
+    "reviews": 4,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/fccdcc562c0de3c46ca7646001dc52d6/1000x1000-000000-80-0-0.jpg",
     "discogs": 93,
     "aoty_critic": 84,
     "aoty_reviews": 37,
-    "aoty_url": "https://www.albumoftheyear.org/album/59995-danny-brown-atrocity-exhibition.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/59995-danny-brown-atrocity-exhibition.php",
+    "aoty_user": 90
   },
   {
     "artist": "The Hotelier",
@@ -13831,14 +13855,15 @@
     "year": 2016,
     "metacritic": 85,
     "source": "Metacritic 2016",
-    "consensus": 84,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/c1e96f4080e4c3974778ef835cabfc3d/1000x1000-000000-80-0-0.jpg",
     "discogs": 85,
     "aoty_critic": 81,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/52198-the-hotelier-goodness.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/52198-the-hotelier-goodness.php",
+    "aoty_user": 76
   },
   {
     "artist": "Aesop Rock",
@@ -13847,13 +13872,14 @@
     "metacritic": 85,
     "source": "Metacritic 2016",
     "consensus": 86,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/4d1c7b68797920363b9a04bce5270945/1000x1000-000000-80-0-0.jpg",
     "discogs": 93,
     "aoty_critic": 81,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/50207-aesop-rock-the-impossible-kid.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/50207-aesop-rock-the-impossible-kid.php",
+    "aoty_user": 84
   },
   {
     "artist": "John K. Samson",
@@ -13861,14 +13887,15 @@
     "year": 2016,
     "metacritic": 85,
     "source": "Metacritic 2016",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/9b33d9aeeac64af0e0e414b53f551300/1000x1000-000000-80-0-0.jpg",
     "discogs": 89,
     "aoty_critic": 82,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/59951-john-k-samson-winter-wheat.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/59951-john-k-samson-winter-wheat.php",
+    "aoty_user": 77
   },
   {
     "artist": "Kevin Morby",
@@ -13876,13 +13903,14 @@
     "year": 2016,
     "metacritic": 84,
     "source": "Metacritic 2016",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/54cd5483ce09f778d50d64fd4066b836/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 26,
-    "aoty_url": "https://www.albumoftheyear.org/album/48662-kevin-morby-singing-saw.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/48662-kevin-morby-singing-saw.php",
+    "aoty_user": 77
   },
   {
     "artist": "Kate Bush",
@@ -13900,13 +13928,14 @@
     "year": 2016,
     "metacritic": 84,
     "source": "Metacritic 2016",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Jazz",
     "cover": "https://cdn-images.dzcdn.net/images/cover/352cd6e17a32e683a68a80c4c06ac558/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/49461-esperanza-spalding-emilys-devolution.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/49461-esperanza-spalding-emilys-devolution.php",
+    "aoty_user": 75
   },
   {
     "artist": "Nels Cline",
@@ -13914,13 +13943,14 @@
     "year": 2016,
     "metacritic": 84,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Jazz",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d373f474e841fe1554ba3917c5366a0f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/56704-nels-cline-lovers.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/56704-nels-cline-lovers.php",
+    "aoty_user": 68
   },
   {
     "artist": "Loretta Lynn",
@@ -13928,13 +13958,14 @@
     "year": 2016,
     "metacritic": 84,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Country",
     "cover": "https://cdn-images.dzcdn.net/images/cover/36ea50ae1860176a92892ae217ff4e74/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 20,
-    "aoty_url": "https://www.albumoftheyear.org/album/44998-loretta-lynn-full-circle.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/44998-loretta-lynn-full-circle.php",
+    "aoty_user": 68
   },
   {
     "artist": "Kate Tempest",
@@ -13942,13 +13973,14 @@
     "year": 2016,
     "metacritic": 84,
     "source": "Metacritic 2016",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/1cf56039133431987cb2e7e4befa7cc5/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 17,
-    "aoty_url": "https://www.albumoftheyear.org/album/61165-kae-tempest-let-them-eat-chaos.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/61165-kae-tempest-let-them-eat-chaos.php",
+    "aoty_user": 77
   },
   {
     "artist": "Touch\u00e9 Amor\u00e9",
@@ -13956,13 +13988,14 @@
     "year": 2016,
     "metacritic": 84,
     "source": "Metacritic 2016",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/158b44d05d31451db6f32f3d5bed6d5a/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/56896-touche-amore-stage-four.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/56896-touche-amore-stage-four.php",
+    "aoty_user": 82
   },
   {
     "artist": "Virginia Wing",
@@ -13970,13 +14003,14 @@
     "year": 2016,
     "metacritic": 84,
     "source": "Metacritic 2016",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/5127dfc1b1ff8c6fd009878fdf631a98/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/64900-virginia-wing-forward-constant-motion.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/64900-virginia-wing-forward-constant-motion.php",
+    "aoty_user": 71
   },
   {
     "artist": "Pinegrove",
@@ -13984,12 +14018,13 @@
     "year": 2016,
     "metacritic": 84,
     "source": "Metacritic 2016",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 78,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/48083-pinegrove-cardinal.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/48083-pinegrove-cardinal.php",
+    "aoty_user": 78
   },
   {
     "artist": "Jenny Hval",
@@ -13997,12 +14032,13 @@
     "year": 2016,
     "metacritic": 84,
     "source": "Metacritic 2016",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 82,
     "aoty_reviews": 25,
-    "aoty_url": "https://www.albumoftheyear.org/album/55389-jenny-hval-blood-bitch.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/55389-jenny-hval-blood-bitch.php",
+    "aoty_user": 78
   },
   {
     "artist": "BJ the Chicago Kid",
@@ -14010,12 +14046,13 @@
     "year": 2016,
     "metacritic": 84,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "R&B",
     "aoty_critic": 80,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/48937-bj-the-chicago-kid-in-my-mind.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/48937-bj-the-chicago-kid-in-my-mind.php",
+    "aoty_user": 67
   },
   {
     "artist": "Karl Blau",
@@ -14023,12 +14060,13 @@
     "year": 2016,
     "metacritic": 84,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 79,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/50506-karl-blau-introducing-karl-blau.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/50506-karl-blau-introducing-karl-blau.php",
+    "aoty_user": 75
   },
   {
     "artist": "Anna Meredith",
@@ -14036,12 +14074,13 @@
     "year": 2016,
     "metacritic": 84,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 81,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/48529-anna-meredith-varmints.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/48529-anna-meredith-varmints.php",
+    "aoty_user": 78
   },
   {
     "artist": "Little Simz",
@@ -14049,12 +14088,13 @@
     "year": 2016,
     "metacritic": 84,
     "source": "Metacritic 2016",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 76,
+    "reviews": 3,
     "genre": "Hip Hop",
     "aoty_critic": 73,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/67111-little-simz-stillness-in-wonderland.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/67111-little-simz-stillness-in-wonderland.php",
+    "aoty_user": 70
   },
   {
     "artist": "Helen Money",
@@ -14082,13 +14122,14 @@
     "year": 2016,
     "metacritic": 83,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7a96766387c24a1b89fd3d5853ceabb7/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 27,
-    "aoty_url": "https://www.albumoftheyear.org/album/59540-lambchop-flotus.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/59540-lambchop-flotus.php",
+    "aoty_user": 73
   },
   {
     "artist": "Bob Mould",
@@ -14096,13 +14137,14 @@
     "year": 2016,
     "metacritic": 83,
     "source": "Metacritic 2016",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2d130827d27bfdc938f99e396a3fbc9a/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 24,
-    "aoty_url": "https://www.albumoftheyear.org/album/48248-bob-mould-patch-the-sky.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/48248-bob-mould-patch-the-sky.php",
+    "aoty_user": 73
   },
   {
     "artist": "Skepta",
@@ -14110,13 +14152,14 @@
     "year": 2016,
     "metacritic": 83,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/00d76bb7f6e44cced9df5099c8aa7faa/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 23,
-    "aoty_url": "https://www.albumoftheyear.org/album/53724-skepta-konnichiwa.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/53724-skepta-konnichiwa.php",
+    "aoty_user": 77
   },
   {
     "artist": "Colin Stetson",
@@ -14135,13 +14178,14 @@
     "year": 2016,
     "metacritic": 83,
     "source": "Metacritic 2016",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6d0604c301298b09ad63b0af1490a660/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/54454-andy-shauf-the-party.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/54454-andy-shauf-the-party.php",
+    "aoty_user": 78
   },
   {
     "artist": "Whitney",
@@ -14149,13 +14193,14 @@
     "year": 2016,
     "metacritic": 83,
     "source": "Metacritic 2016",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ffb9e577d16a38b20e222ea73944bac4/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 24,
-    "aoty_url": "https://www.albumoftheyear.org/album/52287-whitney-light-upon-the-lake.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/52287-whitney-light-upon-the-lake.php",
+    "aoty_user": 79
   },
   {
     "artist": "Kyle Dixon",
@@ -14173,13 +14218,14 @@
     "year": 2016,
     "metacritic": 83,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 84,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2af258fde71377905667fb0eac389547/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 18,
-    "aoty_url": "https://www.albumoftheyear.org/album/51655-king-gizzard-the-lizard-wizard-nonagon-infinity.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/51655-king-gizzard-the-lizard-wizard-nonagon-infinity.php",
+    "aoty_user": 86
   },
   {
     "artist": "Neko Case",
@@ -14187,13 +14233,14 @@
     "year": 2016,
     "metacritic": 83,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6e237a1c8f3aa7075c20b0e3ca30cf73/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 29,
-    "aoty_url": "https://www.albumoftheyear.org/album/51025-neko-case-caselangveirs.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/51025-neko-case-caselangveirs.php",
+    "aoty_user": 77
   },
   {
     "artist": "YG",
@@ -14201,13 +14248,14 @@
     "year": 2016,
     "metacritic": 83,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2ca15d0f87d7ccfbbda863de181bc8e7/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/55891-yg-still-brazy.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/55891-yg-still-brazy.php",
+    "aoty_user": 78
   },
   {
     "artist": "The Avalanches",
@@ -14216,12 +14264,13 @@
     "metacritic": 83,
     "source": "Metacritic 2016",
     "consensus": 82,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/a74b0b0dec95cb146e83e52c8a27054e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 47,
-    "aoty_url": "https://www.albumoftheyear.org/album/55870-the-avalanches-wildflower.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/55870-the-avalanches-wildflower.php",
+    "aoty_user": 81
   },
   {
     "artist": "Damien Jurado",
@@ -14229,13 +14278,14 @@
     "year": 2016,
     "metacritic": 83,
     "source": "Metacritic 2016",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/31e194398bb2528ed2d2f63b8b306adf/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/47853-damien-jurado-visions-of-us-on-the-land.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/47853-damien-jurado-visions-of-us-on-the-land.php",
+    "aoty_user": 75
   },
   {
     "artist": "Lucinda Williams",
