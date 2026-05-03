@@ -11780,13 +11780,14 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 81,
+    "reviews": 4,
     "genre": "Alternative",
     "discogs": 83,
     "aoty_critic": 81,
     "aoty_reviews": 30,
-    "aoty_url": "https://www.albumoftheyear.org/album/103893-iceage-beyondless.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/103893-iceage-beyondless.php",
+    "aoty_user": 76
   },
   {
     "artist": "Nils Frahm",
@@ -11794,13 +11795,14 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 86,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Electronic",
     "discogs": 94,
     "aoty_critic": 80,
     "aoty_reviews": 21,
-    "aoty_url": "https://www.albumoftheyear.org/album/94578-nils-frahm-all-melody.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/94578-nils-frahm-all-melody.php",
+    "aoty_user": 76
   },
   {
     "artist": "Go-Kart Mozart",
@@ -11818,12 +11820,13 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Folk",
     "aoty_critic": 81,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/100497-stick-in-the-wheel-follow-them-true.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/100497-stick-in-the-wheel-follow-them-true.php",
+    "aoty_user": 74
   },
   {
     "artist": "The Beths",
@@ -11831,13 +11834,14 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ad3b30c06c9ec5f177ba01b789b1f562/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/110477-the-beths-future-me-hates-me.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/110477-the-beths-future-me-hates-me.php",
+    "aoty_user": 79
   },
   {
     "artist": "High on Fire",
@@ -11845,13 +11849,14 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d97f62d6ef576c26580c65b67198dd98/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/118093-high-on-fire-electric-messiah.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/118093-high-on-fire-electric-messiah.php",
+    "aoty_user": 74
   },
   {
     "artist": "Public Access T.V.",
@@ -11859,13 +11864,14 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/3ca9e12fb3073dbcb8320c8abd856ff5/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/102944-public-access-tv-street-safari.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/102944-public-access-tv-street-safari.php",
+    "aoty_user": 74
   },
   {
     "artist": "Father John Misty",
@@ -11873,13 +11879,14 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/bc606a420c4671c835177c1e3addd4f7/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 40,
-    "aoty_url": "https://www.albumoftheyear.org/album/108218-father-john-misty-gods-favorite-customer.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/108218-father-john-misty-gods-favorite-customer.php",
+    "aoty_user": 78
   },
   {
     "artist": "Shame",
@@ -11887,13 +11894,14 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/0e10395cb99ef2326f25c6683a68890d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 26,
-    "aoty_url": "https://www.albumoftheyear.org/album/95465-shame-songs-of-praise.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/95465-shame-songs-of-praise.php",
+    "aoty_user": 77
   },
   {
     "artist": "Oneohtrix Point Never",
@@ -11901,13 +11909,14 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d54f9e420ccb02b0aefb01ce7c006901/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 29,
-    "aoty_url": "https://www.albumoftheyear.org/album/107010-oneohtrix-point-never-age-of.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/107010-oneohtrix-point-never-age-of.php",
+    "aoty_user": 72
   },
   {
     "artist": "Kendrick Lamar",
@@ -11915,14 +11924,15 @@
     "year": 2017,
     "metacritic": 95,
     "source": "Metacritic 2017",
-    "consensus": 93,
-    "reviews": 3,
+    "consensus": 91,
+    "reviews": 4,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7ce6b8452fae425557067db6e6a1cad5/1000x1000-000000-80-0-0.jpg",
     "discogs": 92,
     "aoty_critic": 93,
     "aoty_reviews": 44,
-    "aoty_url": "https://www.albumoftheyear.org/album/76870-kendrick-lamar-damn.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/76870-kendrick-lamar-damn.php",
+    "aoty_user": 85
   },
   {
     "artist": "Mount Eerie",
@@ -11931,13 +11941,14 @@
     "metacritic": 93,
     "source": "Metacritic 2017",
     "consensus": 92,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/75b9f63a3afc3686b1cee2f1cd30f5e4/1000x1000-000000-80-0-0.jpg",
     "discogs": 94,
     "aoty_critic": 90,
     "aoty_reviews": 20,
-    "aoty_url": "https://www.albumoftheyear.org/album/70612-mount-eerie-a-crow-looked-at-me.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/70612-mount-eerie-a-crow-looked-at-me.php",
+    "aoty_user": 89
   },
   {
     "artist": "Lorde",
@@ -11945,14 +11956,15 @@
     "year": 2017,
     "metacritic": 91,
     "source": "Metacritic 2017",
-    "consensus": 92,
-    "reviews": 3,
+    "consensus": 91,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/0c424dbe627530cd06a6fd408baba3f3/1000x1000-000000-80-0-0.jpg",
     "discogs": 94,
     "aoty_critic": 91,
     "aoty_reviews": 43,
-    "aoty_url": "https://www.albumoftheyear.org/album/73950-lorde-melodrama.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/73950-lorde-melodrama.php",
+    "aoty_user": 88
   },
   {
     "artist": "Converge",
@@ -11960,13 +11972,14 @@
     "year": 2017,
     "metacritic": 89,
     "source": "Metacritic 2017",
-    "consensus": 87,
-    "reviews": 2,
+    "consensus": 85,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2c950fca0cec0eeb7646d6c67061cbc2/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 22,
-    "aoty_url": "https://www.albumoftheyear.org/album/87215-converge-the-dusk-in-us.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/87215-converge-the-dusk-in-us.php",
+    "aoty_user": 81
   },
   {
     "artist": "Creeper",
@@ -11975,13 +11988,14 @@
     "metacritic": 89,
     "source": "Metacritic 2017",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/50/7a/8e/507a8efb-1188-46e9-cd28-c5abb622cd06/dj.pstogftg.jpg/600x600bb.jpg",
-    "consensus": 86,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Rock",
     "discogs": 83,
     "aoty_critic": 86,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/64674-creeper-eternity-in-your-arms.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/64674-creeper-eternity-in-your-arms.php",
+    "aoty_user": 72
   },
   {
     "artist": "Jlin",
@@ -11989,14 +12003,15 @@
     "year": 2017,
     "metacritic": 89,
     "source": "Metacritic 2017",
-    "consensus": 87,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/5d9907d968b355d379cc53ffb8876c5f/1000x1000-000000-80-0-0.jpg",
     "discogs": 89,
     "aoty_critic": 84,
     "aoty_reviews": 16,
-    "aoty_url": "https://www.albumoftheyear.org/album/74996-jlin-black-origami.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/74996-jlin-black-origami.php",
+    "aoty_user": 73
   },
   {
     "artist": "Vince Staples",
@@ -12005,13 +12020,14 @@
     "metacritic": 89,
     "source": "Metacritic 2017",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/cc/18/a1/cc18a183-be4f-9f5d-786f-af293d2edaf2/17UM1IM00779.rgb.jpg/600x600bb.jpg",
-    "consensus": 88,
-    "reviews": 3,
+    "consensus": 87,
+    "reviews": 4,
     "genre": "Hip Hop",
     "discogs": 89,
     "aoty_critic": 87,
     "aoty_reviews": 28,
-    "aoty_url": "https://www.albumoftheyear.org/album/79796-vince-staples-big-fish-theory.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/79796-vince-staples-big-fish-theory.php",
+    "aoty_user": 82
   },
   {
     "artist": "Valerie June",
@@ -12019,14 +12035,15 @@
     "year": 2017,
     "metacritic": 89,
     "source": "Metacritic 2017",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Folk",
     "cover": "https://cdn-images.dzcdn.net/images/cover/c1864b30785faafd35b2f1efb7f29b2e/1000x1000-000000-80-0-0.jpg",
     "discogs": 84,
     "aoty_critic": 83,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/64274-valerie-june-the-order-of-time.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/64274-valerie-june-the-order-of-time.php",
+    "aoty_user": 73
   },
   {
     "artist": "St. Vincent",
@@ -12034,14 +12051,15 @@
     "year": 2017,
     "metacritic": 88,
     "source": "Metacritic 2017",
-    "consensus": 87,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/9cb8e7bb37509a8de6b41dcd108a2207/1000x1000-000000-80-0-0.jpg",
     "discogs": 88,
     "aoty_critic": 86,
     "aoty_reviews": 47,
-    "aoty_url": "https://www.albumoftheyear.org/album/89104-st-vincent-masseduction.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/89104-st-vincent-masseduction.php",
+    "aoty_user": 80
   },
   {
     "artist": "Brand New",
@@ -12050,13 +12068,14 @@
     "metacritic": 88,
     "source": "Metacritic 2017",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/c4/47/27c4474e-513f-1d2e-8ac8-3a5df7bbf669/616892525844.png/600x600bb.jpg",
-    "consensus": 88,
-    "reviews": 3,
+    "consensus": 87,
+    "reviews": 4,
     "genre": "Alternative",
     "discogs": 91,
     "aoty_critic": 85,
     "aoty_reviews": 16,
-    "aoty_url": "https://www.albumoftheyear.org/album/87408-brand-new-science-fiction.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/87408-brand-new-science-fiction.php",
+    "aoty_user": 83
   },
   {
     "artist": "Fever Ray",
@@ -12064,14 +12083,15 @@
     "year": 2017,
     "metacritic": 87,
     "source": "Metacritic 2017",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/20c9105ecd4ae9bbb200dd2f1578309c/1000x1000-000000-80-0-0.jpg",
     "discogs": 84,
     "aoty_critic": 84,
     "aoty_reviews": 27,
-    "aoty_url": "https://www.albumoftheyear.org/album/93218-fever-ray-plunge.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/93218-fever-ray-plunge.php",
+    "aoty_user": 74
   },
   {
     "artist": "Rapsody",
@@ -12079,14 +12099,15 @@
     "year": 2017,
     "metacritic": 87,
     "source": "Metacritic 2017",
-    "consensus": 88,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/eae6029acd7e13d6bd97f6feac9d39bf/1000x1000-000000-80-0-0.jpg",
     "discogs": 91,
     "aoty_critic": 85,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/89633-rapsody-lailas-wisdom.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/89633-rapsody-lailas-wisdom.php",
+    "aoty_user": 80
   },
   {
     "artist": "Oxbow",
@@ -12106,14 +12127,15 @@
     "year": 2017,
     "metacritic": 87,
     "source": "Metacritic 2017",
-    "consensus": 86,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f15690c14c1230d3a41aa984555d9ee5/1000x1000-000000-80-0-0.jpg",
     "discogs": 90,
     "aoty_critic": 82,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/75689-charly-bliss-guppy.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/75689-charly-bliss-guppy.php",
+    "aoty_user": 75
   },
   {
     "artist": "Arca",
@@ -12121,14 +12143,15 @@
     "year": 2017,
     "metacritic": 87,
     "source": "Metacritic 2017",
-    "consensus": 86,
-    "reviews": 3,
+    "consensus": 85,
+    "reviews": 4,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/493d7e506bb79ba12ed2488485cc8f1c/1000x1000-000000-80-0-0.jpg",
     "discogs": 90,
     "aoty_critic": 82,
     "aoty_reviews": 23,
-    "aoty_url": "https://www.albumoftheyear.org/album/73019-arca-arca.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/73019-arca-arca.php",
+    "aoty_user": 81
   },
   {
     "artist": "Circuit des Yeux",
@@ -12136,14 +12159,15 @@
     "year": 2017,
     "metacritic": 87,
     "source": "Metacritic 2017",
-    "consensus": 87,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/386dd8eb55f79442e43178075ac0c346/1000x1000-000000-80-0-0.jpg",
     "discogs": 91,
     "aoty_critic": 83,
     "aoty_reviews": 13,
-    "aoty_url": "https://www.albumoftheyear.org/album/86180-circuit-des-yeux-reaching-for-indigo.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/86180-circuit-des-yeux-reaching-for-indigo.php",
+    "aoty_user": 76
   },
   {
     "artist": "SZA",
@@ -12151,14 +12175,15 @@
     "year": 2017,
     "metacritic": 87,
     "source": "Metacritic 2017",
-    "consensus": 88,
-    "reviews": 3,
+    "consensus": 87,
+    "reviews": 4,
     "genre": "R&B",
     "cover": "https://cdn-images.dzcdn.net/images/cover/a1a3326c5d9176c763fc3fd847b86681/1000x1000-000000-80-0-0.jpg",
     "discogs": 93,
     "aoty_critic": 83,
     "aoty_reviews": 24,
-    "aoty_url": "https://www.albumoftheyear.org/album/70504-sza-ctrl.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/70504-sza-ctrl.php",
+    "aoty_user": 84
   },
   {
     "artist": "The Horrors",
@@ -12166,13 +12191,14 @@
     "year": 2017,
     "metacritic": 87,
     "source": "Metacritic 2017",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/3d796d9c489a9c0f7cdd12a65c20c6a4/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 29,
-    "aoty_url": "https://www.albumoftheyear.org/album/83206-the-horrors-v.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/83206-the-horrors-v.php",
+    "aoty_user": 76
   },
   {
     "artist": "Power Trip",
@@ -12181,12 +12207,13 @@
     "metacritic": 86,
     "source": "Metacritic 2017",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/2a/be/362abe75-1b10-b481-2de1-9278768f975f/886446219318.jpg/600x600bb.jpg",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Metal",
     "aoty_critic": 80,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/65476-power-trip-nightmare-logic.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/65476-power-trip-nightmare-logic.php",
+    "aoty_user": 80
   },
   {
     "artist": "Vijay Iyer",
@@ -12195,12 +12222,13 @@
     "metacritic": 86,
     "source": "Metacritic 2017",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/c9/01/c5c901f2-5dfa-ba75-5a08-ba5abecb4b6b/00602557673890.rgb.jpg/600x600bb.jpg",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Jazz",
     "aoty_critic": 81,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/83538-vijay-iyer-far-from-over.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/83538-vijay-iyer-far-from-over.php",
+    "aoty_user": 78
   },
   {
     "artist": "The Replacements",
@@ -12220,12 +12248,13 @@
     "metacritic": 86,
     "source": "Metacritic 2017",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/aa/99/b5/aa99b504-2656-85c4-965a-3bc80e52d0f2/666017319728_cover.jpg/600x600bb.jpg",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Electronic",
     "aoty_critic": 80,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/89594-four-tet-new-energy.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/89594-four-tet-new-energy.php",
+    "aoty_user": 77
   },
   {
     "artist": "Gas",
@@ -12234,12 +12263,13 @@
     "metacritic": 86,
     "source": "Metacritic 2017",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b4/26/e0/b426e0c5-db92-1c2d-1c5a-e78889d2a6b3/880319824111_cover.jpg/600x600bb.jpg",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Electronic",
     "aoty_critic": 77,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/75248-gas-narkopop.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/75248-gas-narkopop.php",
+    "aoty_user": 71
   },
   {
     "artist": "Sampha",
@@ -12248,12 +12278,13 @@
     "metacritic": 86,
     "source": "Metacritic 2017",
     "consensus": 84,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/60d3c764e8925c0eb855b605b09a7434/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 38,
-    "aoty_url": "https://www.albumoftheyear.org/album/64884-sampha-process.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/64884-sampha-process.php",
+    "aoty_user": 83
   },
   {
     "artist": "Magnetic Fields",
@@ -12261,13 +12292,14 @@
     "year": 2017,
     "metacritic": 86,
     "source": "Metacritic 2017",
-    "consensus": 85,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b1c70bc85f9efd754dfb67c540243358/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 26,
-    "aoty_url": "https://www.albumoftheyear.org/album/66791-the-magnetic-fields-50-song-memoir.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/66791-the-magnetic-fields-50-song-memoir.php",
+    "aoty_user": 75
   },
   {
     "artist": "Paul Weller",
@@ -12275,13 +12307,14 @@
     "year": 2017,
     "metacritic": 86,
     "source": "Metacritic 2017",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/55393075ac1d8eac58be02254b18e3e7/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 18,
-    "aoty_url": "https://www.albumoftheyear.org/album/70734-paul-weller-a-kind-revolution.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/70734-paul-weller-a-kind-revolution.php",
+    "aoty_user": 71
   },
   {
     "artist": "Tinariwen",
@@ -12290,12 +12323,13 @@
     "metacritic": 86,
     "source": "Metacritic 2017",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/75/55/f0/7555f01d-92a0-6e03-5daa-0c57787ef61f/0045778746705.png/600x600bb.jpg",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 80,
     "aoty_reviews": 16,
-    "aoty_url": "https://www.albumoftheyear.org/album/63901-tinariwen-elwan.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/63901-tinariwen-elwan.php",
+    "aoty_user": 76
   },
   {
     "artist": "Rodney Crowell",
@@ -12303,13 +12337,14 @@
     "year": 2017,
     "metacritic": 86,
     "source": "Metacritic 2017",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Folk",
     "cover": "https://cdn-images.dzcdn.net/images/cover/c08aae0520680e73888b60ff6c8d0073/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/69529-rodney-crowell-close-ties.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/69529-rodney-crowell-close-ties.php",
+    "aoty_user": 66
   },
   {
     "artist": "Sharon Jones & the Dap-Kings",
@@ -12317,13 +12352,14 @@
     "year": 2017,
     "metacritic": 86,
     "source": "Metacritic 2017",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "R&B",
     "cover": "https://cdn-images.dzcdn.net/images/cover/444b876345c602c4cb41cc178f3ca7ad/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 24,
-    "aoty_url": "https://www.albumoftheyear.org/album/91920-sharon-jones-the-dap-kings-soul-of-a-woman.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/91920-sharon-jones-the-dap-kings-soul-of-a-woman.php",
+    "aoty_user": 76
   },
   {
     "artist": "LCD Soundsystem",
@@ -12331,13 +12367,14 @@
     "year": 2017,
     "metacritic": 86,
     "source": "Metacritic 2017",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/466b59cac13e24f83912e0aa6ed3d6e5/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 47,
-    "aoty_url": "https://www.albumoftheyear.org/album/82572-lcd-soundsystem-american-dream.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/82572-lcd-soundsystem-american-dream.php",
+    "aoty_user": 77
   },
   {
     "artist": "PVRIS",
@@ -12345,13 +12382,14 @@
     "year": 2017,
     "metacritic": 86,
     "source": "Metacritic 2017",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/0be8a0ca10d9f6642b9aad36f03b86af/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/87499-pvris-all-we-know-of-heaven-all-we-need-of-hell.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/87499-pvris-all-we-know-of-heaven-all-we-need-of-hell.php",
+    "aoty_user": 77
   },
   {
     "artist": "Algiers",
@@ -12359,13 +12397,14 @@
     "year": 2017,
     "metacritic": 86,
     "source": "Metacritic 2017",
-    "consensus": 85,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/3e133f65612093169f76710134df7752/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 26,
-    "aoty_url": "https://www.albumoftheyear.org/album/78573-algiers-the-underside-of-power.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/78573-algiers-the-underside-of-power.php",
+    "aoty_user": 77
   },
   {
     "artist": "Bedouine",
@@ -12373,13 +12412,14 @@
     "year": 2017,
     "metacritic": 85,
     "source": "Metacritic 2017",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/22461833facac42b6a984d4ad461f278/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 13,
-    "aoty_url": "https://www.albumoftheyear.org/album/79465-bedouine-bedouine.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/79465-bedouine-bedouine.php",
+    "aoty_user": 75
   },
   {
     "artist": "Protomartyr",
@@ -12387,12 +12427,13 @@
     "year": 2017,
     "metacritic": 85,
     "source": "Metacritic 2017",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 83,
     "aoty_reviews": 25,
-    "aoty_url": "https://www.albumoftheyear.org/album/84702-protomartyr-relatives-in-descent.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/84702-protomartyr-relatives-in-descent.php",
+    "aoty_user": 80
   },
   {
     "artist": "The National",
@@ -12400,12 +12441,13 @@
     "year": 2017,
     "metacritic": 85,
     "source": "Metacritic 2017",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 84,
     "aoty_reviews": 48,
-    "aoty_url": "https://www.albumoftheyear.org/album/79437-the-national-sleep-well-beast.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/79437-the-national-sleep-well-beast.php",
+    "aoty_user": 81
   },
   {
     "artist": "The xx",
@@ -12413,12 +12455,13 @@
     "year": 2017,
     "metacritic": 85,
     "source": "Metacritic 2017",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 81,
     "aoty_reviews": 48,
-    "aoty_url": "https://www.albumoftheyear.org/album/65192-the-xx-i-see-you.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/65192-the-xx-i-see-you.php",
+    "aoty_user": 75
   },
   {
     "artist": "Moses Sumney",
@@ -12426,12 +12469,13 @@
     "year": 2017,
     "metacritic": 85,
     "source": "Metacritic 2017",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 81,
     "aoty_reviews": 16,
-    "aoty_url": "https://www.albumoftheyear.org/album/84701-moses-sumney-aromanticism.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/84701-moses-sumney-aromanticism.php",
+    "aoty_user": 79
   },
   {
     "artist": "The Moonlandingz",
@@ -12439,12 +12483,13 @@
     "year": 2017,
     "metacritic": 85,
     "source": "Metacritic 2017",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 80,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/66372-moonlandingz-interplanetary-class-classics.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/66372-moonlandingz-interplanetary-class-classics.php",
+    "aoty_user": 72
   },
   {
     "artist": "Laura Marling",
@@ -12452,13 +12497,14 @@
     "year": 2017,
     "metacritic": 85,
     "source": "Metacritic 2017",
-    "consensus": 86,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Folk",
     "discogs": 90,
     "aoty_critic": 83,
     "aoty_reviews": 42,
-    "aoty_url": "https://www.albumoftheyear.org/album/66284-laura-marling-semper-femina.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/66284-laura-marling-semper-femina.php",
+    "aoty_user": 77
   },
   {
     "artist": "The Weather Station",
@@ -12466,14 +12512,15 @@
     "year": 2017,
     "metacritic": 85,
     "source": "Metacritic 2017",
-    "consensus": 86,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8e775a8d96f98389fe6b49ecd2018e8e/1000x1000-000000-80-0-0.jpg",
     "discogs": 90,
     "aoty_critic": 83,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/90932-the-weather-station-the-weather-station.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/90932-the-weather-station-the-weather-station.php",
+    "aoty_user": 75
   },
   {
     "artist": "Father John Misty",
@@ -12481,14 +12528,15 @@
     "year": 2017,
     "metacritic": 85,
     "source": "Metacritic 2017",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/065622a89d9463c34cfe5f7cdaf037e2/1000x1000-000000-80-0-0.jpg",
     "discogs": 90,
     "aoty_critic": 81,
     "aoty_reviews": 42,
-    "aoty_url": "https://www.albumoftheyear.org/album/70464-father-john-misty-pure-comedy.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/70464-father-john-misty-pure-comedy.php",
+    "aoty_user": 82
   },
   {
     "artist": "Ryuichi Sakamoto",
@@ -12496,14 +12544,15 @@
     "year": 2017,
     "metacritic": 85,
     "source": "Metacritic 2017",
-    "consensus": 87,
-    "reviews": 3,
+    "consensus": 85,
+    "reviews": 4,
     "genre": "Classical",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ee4d7f4427dcc9bf350203bbadbf92ea/1000x1000-000000-80-0-0.jpg",
     "discogs": 91,
     "aoty_critic": 84,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/75040--ryuichi-sakamoto-async.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/75040--ryuichi-sakamoto-async.php",
+    "aoty_user": 80
   },
   {
     "artist": "Pwr Bttm",
@@ -12511,14 +12560,15 @@
     "year": 2017,
     "metacritic": 85,
     "source": "Metacritic 2017",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 78,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/dd1772a59a2beb01e697c6edd2bcd0a7/1000x1000-000000-80-0-0.jpg",
     "discogs": 79,
     "aoty_critic": 85,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/72342-pwr-bttm-pageant.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/72342-pwr-bttm-pageant.php",
+    "aoty_user": 62
   },
   {
     "artist": "Young Thug",
@@ -26904,7 +26954,7 @@
     "metacritic": 82,
     "source": "Metacritic 2006",
     "consensus": 85,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Country",
     "cover": "https://cdn-images.dzcdn.net/images/cover/cd1fb17e7debb69a17cdccfb2b52e8bd/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
@@ -26918,8 +26968,8 @@
     "year": 2006,
     "metacritic": 82,
     "source": "Metacritic 2006",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Various",
     "aoty_critic": 77,
     "aoty_reviews": 6,
@@ -26956,8 +27006,8 @@
     "year": 2006,
     "metacritic": 82,
     "source": "Metacritic 2006",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/434e651a2c83a6a0ea659ea2fa34137c/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
@@ -26971,8 +27021,8 @@
     "year": 2006,
     "metacritic": 82,
     "source": "Metacritic 2006",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2c00627644be9a6f6ce55840d787ef5e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
@@ -28335,7 +28385,7 @@
     "metacritic": 82,
     "source": "Metacritic 2005",
     "consensus": 82,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/55311bb657ae2e39afd1bd75676b6241/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
@@ -28349,8 +28399,8 @@
     "year": 2005,
     "metacritic": 82,
     "source": "Metacritic 2005",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d444c53aaa051c0c19289c4a8f26963d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
@@ -28375,8 +28425,8 @@
     "year": 2005,
     "metacritic": 82,
     "source": "Metacritic 2005",
-    "consensus": 88,
-    "reviews": 2,
+    "consensus": 85,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/3dc29a565149240729afc08e1f251b46/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
@@ -28390,8 +28440,8 @@
     "year": 2005,
     "metacritic": 82,
     "source": "Metacritic 2005",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8a3c9a379ea0073296f2ac51cb7d8253/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 75,
@@ -28405,8 +28455,8 @@
     "year": 2005,
     "metacritic": 82,
     "source": "Metacritic 2005",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Country",
     "aoty_critic": 84,
     "aoty_reviews": 6,
@@ -28419,8 +28469,8 @@
     "year": 2005,
     "metacritic": 82,
     "source": "Metacritic 2005",
-    "consensus": 87,
-    "reviews": 2,
+    "consensus": 85,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 80,
     "aoty_reviews": 23,
@@ -28433,8 +28483,8 @@
     "year": 2005,
     "metacritic": 82,
     "source": "Metacritic 2005",
-    "consensus": 85,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 78,
     "aoty_reviews": 16,
