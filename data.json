@@ -17815,9 +17815,10 @@
     "year": 2013,
     "metacritic": 88,
     "source": "Metacritic 2013",
-    "consensus": 88,
-    "reviews": 1,
-    "genre": "Rock"
+    "consensus": 90,
+    "reviews": 2,
+    "genre": "Rock",
+    "discogs": 91
   },
   {
     "artist": "My Bloody Valentine",
@@ -19216,14 +19217,15 @@
     "year": 2012,
     "metacritic": 88,
     "source": "Metacritic 2012",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Jazz",
     "cover": "https://cdn-images.dzcdn.net/images/cover/37dc047da30727c1fbf455fcff9a729c/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 6,
     "aoty_url": "https://www.albumoftheyear.org/album/18694-vijay-iyer-accelerando.php",
-    "aoty_user": 77
+    "aoty_user": 77,
+    "discogs": 86
   },
   {
     "artist": "Tame Impala",
@@ -19231,14 +19233,15 @@
     "year": 2012,
     "metacritic": 88,
     "source": "Metacritic 2012",
-    "consensus": 86,
-    "reviews": 3,
+    "consensus": 87,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/9fe30ce99ef17cb1250bef071f15ccee/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 86,
     "aoty_reviews": 36,
     "aoty_url": "https://www.albumoftheyear.org/album/3879-tame-impala-lonerism.php",
-    "aoty_user": 84
+    "aoty_user": 84,
+    "discogs": 90
   },
   {
     "artist": "Sweet Billy Pilgrim",
@@ -19247,13 +19250,14 @@
     "metacritic": 88,
     "source": "Metacritic 2012",
     "consensus": 82,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/de53275470e90b27af99a2c9fa1010f5/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 12,
     "aoty_url": "https://www.albumoftheyear.org/album/4815-sweet-billy-pilgrim-crown-and-treaty.php",
-    "aoty_user": 76
+    "aoty_user": 76,
+    "discogs": 84
   },
   {
     "artist": "Converge",
@@ -19261,14 +19265,15 @@
     "year": 2012,
     "metacritic": 88,
     "source": "Metacritic 2012",
-    "consensus": 86,
-    "reviews": 3,
+    "consensus": 88,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d3d1d1b579612cf1ff22b773ef3c1c2c/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 20,
     "aoty_url": "https://www.albumoftheyear.org/album/4075-converge-all-we-love-we-leave-behind.php",
-    "aoty_user": 85
+    "aoty_user": 85,
+    "discogs": 92
   },
   {
     "artist": "Moritz von Oswald Trio",
@@ -20548,13 +20553,14 @@
     "year": 2011,
     "metacritic": 88,
     "source": "Metacritic 2011",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Hip Hop",
     "aoty_critic": 83,
     "aoty_reviews": 5,
     "aoty_url": "https://www.albumoftheyear.org/album/58171-phonte-charity-starts-at-home.php",
-    "aoty_user": 79
+    "aoty_user": 79,
+    "discogs": 85
   },
   {
     "artist": "Tom Waits",
@@ -20562,14 +20568,15 @@
     "year": 2011,
     "metacritic": 88,
     "source": "Metacritic 2011",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d85e3d2dd356fa3e0718c58d4412f1fe/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 86,
     "aoty_reviews": 43,
     "aoty_url": "https://www.albumoftheyear.org/album/2843-tom-waits-bad-as-me.php",
-    "aoty_user": 75
+    "aoty_user": 75,
+    "discogs": 87
   },
   {
     "artist": "The Roots",
@@ -20577,14 +20584,15 @@
     "year": 2011,
     "metacritic": 88,
     "source": "Metacritic 2011",
-    "consensus": 86,
-    "reviews": 3,
+    "consensus": 88,
+    "reviews": 4,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/1037378b65347f1f9ea42acf29d249a7/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 26,
     "aoty_url": "https://www.albumoftheyear.org/album/2932-the-roots-undun.php",
-    "aoty_user": 88
+    "aoty_user": 88,
+    "discogs": 93
   },
   {
     "artist": "Thursday",
@@ -21930,10 +21938,11 @@
     "year": 2010,
     "metacritic": 88,
     "source": "Metacritic 2010",
-    "consensus": 88,
-    "reviews": 1,
+    "consensus": 84,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/03074f3d71d52586e9e411cfc511910a/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/03074f3d71d52586e9e411cfc511910a/1000x1000-000000-80-0-0.jpg",
+    "discogs": 81
   },
   {
     "artist": "Black Tambourine",
@@ -21941,10 +21950,11 @@
     "year": 2010,
     "metacritic": 88,
     "source": "Metacritic 2010",
-    "consensus": 88,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/9ba74f4302a03a5b0d40065183e16af7/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/9ba74f4302a03a5b0d40065183e16af7/1000x1000-000000-80-0-0.jpg",
+    "discogs": 91
   },
   {
     "artist": "Marc Ribot",
@@ -23301,13 +23311,14 @@
     "year": 2009,
     "metacritic": 88,
     "source": "Metacritic 2009",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Hip Hop",
     "aoty_critic": 86,
     "aoty_reviews": 22,
     "aoty_url": "https://www.albumoftheyear.org/album/1104-raekwon-only-built-4-cuban-linx-pt-ii.php",
-    "aoty_user": 81
+    "aoty_user": 81,
+    "discogs": 87
   },
   {
     "artist": "Sunn O)))",
@@ -23315,10 +23326,11 @@
     "year": 2009,
     "metacritic": 88,
     "source": "Metacritic 2009",
-    "consensus": 88,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/f9ef3c9bcce40de1f3e7a2bcf04cc06a/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/f9ef3c9bcce40de1f3e7a2bcf04cc06a/1000x1000-000000-80-0-0.jpg",
+    "discogs": 91
   },
   {
     "artist": "Baroness",
@@ -24682,13 +24694,14 @@
     "metacritic": 88,
     "source": "Metacritic 2008",
     "consensus": 85,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/bc438dc4c5215f0b936cf22fdc72d1bf/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 87,
     "aoty_reviews": 33,
     "aoty_url": "https://www.albumoftheyear.org/album/828-tv-on-the-radio-dear-science.php",
-    "aoty_user": 79
+    "aoty_user": 79,
+    "discogs": 86
   },
   {
     "artist": "Shugo Tokumaru",
@@ -24696,14 +24709,15 @@
     "year": 2008,
     "metacritic": 88,
     "source": "Metacritic 2008",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 81,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6385d074723bf25465734f32e17f60f8/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 6,
     "aoty_url": "https://www.albumoftheyear.org/album/858-shugo-tokumaru-exit.php",
-    "aoty_user": 77
+    "aoty_user": 77,
+    "discogs": 77
   },
   {
     "artist": "Bon Iver",
@@ -24711,10 +24725,11 @@
     "year": 2008,
     "metacritic": 88,
     "source": "Metacritic 2008",
-    "consensus": 88,
-    "reviews": 1,
+    "consensus": 89,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/2af56dee5db12e4af6323afa26257ccf/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/2af56dee5db12e4af6323afa26257ccf/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Dennis Wilson",
@@ -26064,14 +26079,15 @@
     "year": 2007,
     "metacritic": 88,
     "source": "Metacritic 2007",
-    "consensus": 89,
-    "reviews": 3,
+    "consensus": 90,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/a175af9b7d329bc678cb4d26fc13d6de/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 87,
     "aoty_reviews": 31,
     "aoty_url": "https://www.albumoftheyear.org/album/363-radiohead-in-rainbows.php",
-    "aoty_user": 93
+    "aoty_user": 93,
+    "discogs": 94
   },
   {
     "artist": "Panda Bear",
@@ -27521,13 +27537,14 @@
     "metacritic": 88,
     "source": "Metacritic 2006",
     "consensus": 85,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/9d83570933b71163e82901426964ac68/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 88,
     "aoty_reviews": 28,
     "aoty_url": "https://www.albumoftheyear.org/album/437-tv-on-the-radio-return-to-cookie-mountain.php",
-    "aoty_user": 79
+    "aoty_user": 79,
+    "discogs": 86
   },
   {
     "artist": "Destroyer",
@@ -27535,14 +27552,15 @@
     "year": 2006,
     "metacritic": 88,
     "source": "Metacritic 2006",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 87,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2e9205897ac94a82058c244f9059c088/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 16,
     "aoty_url": "https://www.albumoftheyear.org/album/313-destroyer-destroyers-rubies.php",
-    "aoty_user": 83
+    "aoty_user": 83,
+    "discogs": 91
   },
   {
     "artist": "Ghostface Killah",
@@ -27550,14 +27568,15 @@
     "year": 2006,
     "metacritic": 88,
     "source": "Metacritic 2006",
-    "consensus": 84,
-    "reviews": 3,
+    "consensus": 85,
+    "reviews": 4,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/16434ab968bcd8d8e307b6d2e21053ea/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 18,
     "aoty_url": "https://www.albumoftheyear.org/album/445-ghostface-killah-fishscale.php",
-    "aoty_user": 82
+    "aoty_user": 82,
+    "discogs": 86
   },
   {
     "artist": "Los Lobos",
@@ -28910,14 +28929,15 @@
     "year": 2005,
     "metacritic": 88,
     "source": "Metacritic 2005",
-    "consensus": 84,
-    "reviews": 3,
+    "consensus": 85,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/3ebae53bd6532d41e1ac112db50d4fa8/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 13,
     "aoty_url": "https://www.albumoftheyear.org/album/494-lightning-bolt-hypermagic-mountain.php",
-    "aoty_user": 81
+    "aoty_user": 81,
+    "discogs": 88
   },
   {
     "artist": "Sleater-Kinney",
@@ -28926,13 +28946,14 @@
     "metacritic": 88,
     "source": "Metacritic 2005",
     "consensus": 86,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/5e4b55c11dc74e401f38d2bbd1c75470/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 19,
     "aoty_url": "https://www.albumoftheyear.org/album/486-sleater-kinney-the-woods.php",
-    "aoty_user": 84
+    "aoty_user": 84,
+    "discogs": 89
   },
   {
     "artist": "Antony and the Johnsons",
@@ -28955,14 +28976,15 @@
     "year": 2005,
     "metacritic": 88,
     "source": "Metacritic 2005",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/652e79c8573efe946f9e3189346741b8/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 86,
     "aoty_reviews": 23,
     "aoty_url": "https://www.albumoftheyear.org/album/481-mia-arular.php",
-    "aoty_user": 82
+    "aoty_user": 82,
+    "discogs": 87
   },
   {
     "artist": "Konono No. 1",
@@ -30421,14 +30443,15 @@
     "year": 2004,
     "metacritic": 88,
     "source": "Metacritic 2004",
-    "consensus": 84,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6dfda147826380ae0286a85e3d2433be/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 87,
     "aoty_reviews": 13,
     "aoty_url": "https://www.albumoftheyear.org/album/8753-dungen-ta-det-lugnt.php",
-    "aoty_user": 77
+    "aoty_user": 77,
+    "discogs": 93
   },
   {
     "artist": "Elliott Smith",
@@ -30436,14 +30459,15 @@
     "year": 2004,
     "metacritic": 88,
     "source": "Metacritic 2004",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/19451804bfc8da6ca86c4a9793f6530f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 22,
     "aoty_url": "https://www.albumoftheyear.org/album/510-elliott-smith-from-a-basement-on-the-hill.php",
-    "aoty_user": 83
+    "aoty_user": 83,
+    "discogs": 90
   },
   {
     "artist": "Devendra Banhart",
@@ -30451,14 +30475,15 @@
     "year": 2004,
     "metacritic": 88,
     "source": "Metacritic 2004",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 81,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8dedf34f46b6335d09a72c3d62a43023/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 18,
     "aoty_url": "https://www.albumoftheyear.org/album/509-devendra-banhart-rejoicing-in-the-hands.php",
-    "aoty_user": 75
+    "aoty_user": 75,
+    "discogs": 78
   },
   {
     "artist": "Nick Cave & the Bad Seeds",
@@ -30467,13 +30492,14 @@
     "metacritic": 88,
     "source": "Metacritic 2004",
     "consensus": 85,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f640819823014a5d25c09f37ba28be8e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 21,
     "aoty_url": "https://www.albumoftheyear.org/album/511-nick-cave-the-bad-seeds-abattoir-blues-the-lyre-of-orpheus.php",
-    "aoty_user": 83
+    "aoty_user": 83,
+    "discogs": 84
   },
   {
     "artist": "Kanye West",
