@@ -373,13 +373,14 @@
     "metacritic": 87,
     "source": "Metacritic 2025",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/c9/0c/a4c90c93-0623-9f8a-ab02-f9673b8b4448/51450.jpg/600x600bb.jpg",
-    "consensus": 79,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 81,
     "aoty_reviews": 11,
     "aoty_url": "https://www.albumoftheyear.org/album/1221594-william-tyler-time-indefinite.php",
-    "aoty_user": 69
+    "aoty_user": 69,
+    "discogs": 95
   },
   {
     "artist": "Agriculture",
@@ -387,14 +388,15 @@
     "year": 2025,
     "metacritic": 87,
     "source": "Metacritic 2025",
-    "consensus": 84,
-    "reviews": 3,
+    "consensus": 87,
+    "reviews": 4,
     "genre": "Metal",
     "cover": "https://cdn-images.dzcdn.net/images/cover/03332467dc45fd7c276632ff158c3373/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 86,
     "aoty_reviews": 10,
     "aoty_url": "https://www.albumoftheyear.org/album/1384270-agriculture-the-spiritual-sound.php",
-    "aoty_user": 78
+    "aoty_user": 78,
+    "discogs": 96
   },
   {
     "artist": "John Glacier",
@@ -402,14 +404,15 @@
     "year": 2025,
     "metacritic": 87,
     "source": "Metacritic 2025",
-    "consensus": 80,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2b12cc83ae147900357b9f9aca7a0f84/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 8,
     "aoty_url": "https://www.albumoftheyear.org/album/1130943-john-glacier-like-a-ribbon.php",
-    "aoty_user": 71
+    "aoty_user": 71,
+    "discogs": 94
   },
   {
     "artist": "caroline",
@@ -418,13 +421,14 @@
     "metacritic": 87,
     "source": "Metacritic 2025",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/00/86/6d008699-873d-5c48-c7ef-e3651e988001/191402059274.png/600x600bb.jpg",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 84,
     "aoty_reviews": 17,
     "aoty_url": "https://www.albumoftheyear.org/album/1285858-caroline-caroline-2.php",
-    "aoty_user": 76
+    "aoty_user": 76,
+    "discogs": 90
   },
   {
     "artist": "Swans",
@@ -432,14 +436,15 @@
     "year": 2025,
     "metacritic": 87,
     "source": "Metacritic 2025",
-    "consensus": 84,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b2449aaec11e1007d63485307dd0c11f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 13,
     "aoty_url": "https://www.albumoftheyear.org/album/1133856-swans-birthing.php",
-    "aoty_user": 81
+    "aoty_user": 81,
+    "discogs": 94
   },
   {
     "artist": "Tyler Childers",
@@ -447,14 +452,15 @@
     "year": 2025,
     "metacritic": 87,
     "source": "Metacritic 2025",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Country",
     "cover": "https://cdn-images.dzcdn.net/images/cover/a80abc9bf0c912f047c1a469edf0f484/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 9,
     "aoty_url": "https://www.albumoftheyear.org/album/1351440-tyler-childers-snipe-hunter.php",
-    "aoty_user": 74
+    "aoty_user": 74,
+    "discogs": 89
   },
   {
     "artist": "Dave",
@@ -463,13 +469,14 @@
     "metacritic": 87,
     "source": "Metacritic 2025",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/c6/fd/03c6fd7c-b08f-b2db-8263-3b09e2414e5d/0.jpg/600x600bb.jpg",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Hip Hop",
     "aoty_critic": 82,
     "aoty_reviews": 8,
     "aoty_url": "https://www.albumoftheyear.org/album/1486319-dave-the-boy-who-played-the-harp.php",
-    "aoty_user": 80
+    "aoty_user": 80,
+    "discogs": 94
   },
   {
     "artist": "U.S. Girls",
@@ -477,14 +484,15 @@
     "year": 2025,
     "metacritic": 87,
     "source": "Metacritic 2025",
-    "consensus": 77,
-    "reviews": 3,
+    "consensus": 79,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d4e992986e9780fdfd40f4b6961b6a98/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 12,
     "aoty_url": "https://www.albumoftheyear.org/album/1309594-us-girls-scratch-it.php",
-    "aoty_user": 67
+    "aoty_user": 67,
+    "discogs": 84
   },
   {
     "artist": "FKA twigs",
@@ -493,13 +501,14 @@
     "metacritic": 87,
     "source": "Metacritic 2025",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/c6/b5/c9c6b584-29a8-0b97-1ec6-cfdf034228b9/075679623805.jpg/600x600bb.jpg",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 88,
+    "reviews": 4,
     "genre": "Electronic",
     "aoty_critic": 87,
     "aoty_reviews": 33,
     "aoty_url": "https://www.albumoftheyear.org/album/959465-fka-twigs-eusexua.php",
-    "aoty_user": 82
+    "aoty_user": 82,
+    "discogs": 94
   },
   {
     "artist": "Valerie June",
@@ -508,13 +517,14 @@
     "metacritic": 87,
     "source": "Metacritic 2025",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ec/2c/68/ec2c6850-d367-653a-d491-13555f854b4a/24CRGIM47000.rgb.jpg/600x600bb.jpg",
-    "consensus": 80,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Folk",
     "aoty_critic": 82,
     "aoty_reviews": 8,
     "aoty_url": "https://www.albumoftheyear.org/album/1215472-valerie-june-owls-omens-and-oracles.php",
-    "aoty_user": 72
+    "aoty_user": 72,
+    "discogs": 88
   },
   {
     "artist": "Little Simz",
@@ -2016,14 +2026,15 @@
     "year": 2024,
     "metacritic": 87,
     "source": "Metacritic 2024",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 85,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/dd332564a161a2c9ca582d55505462cd/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 86,
     "aoty_reviews": 21,
     "aoty_url": "https://www.albumoftheyear.org/album/791162-hurray-for-the-riff-raff-the-past-is-still-alive.php",
-    "aoty_user": 74
+    "aoty_user": 74,
+    "discogs": 93
   },
   {
     "artist": "Nadine Shah",
@@ -2032,13 +2043,14 @@
     "metacritic": 87,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/33/9a/e9339a1a-0bc2-3cf3-17cf-cf4e7e06b5f3/23UM1IM13819.rgb.jpg/600x600bb.jpg",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 84,
     "aoty_reviews": 22,
     "aoty_url": "https://www.albumoftheyear.org/album/773988-nadine-shah-filthy-underneath.php",
-    "aoty_user": 72
+    "aoty_user": 72,
+    "discogs": 89
   },
   {
     "artist": "ScHoolboy Q",
@@ -2047,13 +2059,14 @@
     "metacritic": 87,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ae/8f/87/ae8f872e-36cf-18de-26e0-2fd0730f7b69/24UMGIM14953.rgb.jpg/600x600bb.jpg",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 85,
+    "reviews": 4,
     "genre": "Hip Hop",
     "aoty_critic": 81,
     "aoty_reviews": 8,
     "aoty_url": "https://www.albumoftheyear.org/album/863982-schoolboy-q-blue-lips.php",
-    "aoty_user": 78
+    "aoty_user": 78,
+    "discogs": 94
   },
   {
     "artist": "Kendrick Lamar",
@@ -31784,14 +31797,15 @@
     "year": 2003,
     "metacritic": 88,
     "source": "Metacritic 2003",
-    "consensus": 84,
-    "reviews": 3,
+    "consensus": 85,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/32215271e549ff911c628eb2e32730f6/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 86,
     "aoty_reviews": 19,
     "aoty_url": "https://www.albumoftheyear.org/album/525-the-shins-chutes-too-narrow.php",
-    "aoty_user": 79
+    "aoty_user": 79,
+    "discogs": 88
   },
   {
     "artist": "Pernice Brothers",
@@ -31799,14 +31813,15 @@
     "year": 2003,
     "metacritic": 88,
     "source": "Metacritic 2003",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/db64e61d99c00b3a799d4a8f0a42e789/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 75,
     "aoty_reviews": 11,
     "aoty_url": "https://www.albumoftheyear.org/album/1769-pernice-brothers-yours-mine-ours.php",
-    "aoty_user": 80
+    "aoty_user": 80,
+    "discogs": 89
   },
   {
     "artist": "Caribou",
@@ -31815,13 +31830,14 @@
     "metacritic": 88,
     "source": "Metacritic 2003",
     "consensus": 83,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/e5c10ed2236447b4deef2844d1b35dbf/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 13,
     "aoty_url": "https://www.albumoftheyear.org/album/973-caribou-up-in-flames.php",
-    "aoty_user": 78
+    "aoty_user": 78,
+    "discogs": 82
   },
   {
     "artist": "Damien Jurado",
@@ -31829,14 +31845,15 @@
     "year": 2003,
     "metacritic": 88,
     "source": "Metacritic 2003",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/750c7915c171ec8fba27a4fccb271d56/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 6,
     "aoty_url": "https://www.albumoftheyear.org/album/1870-damien-jurado-where-shall-you-take-me.php",
-    "aoty_user": 78
+    "aoty_user": 78,
+    "discogs": 87
   },
   {
     "artist": "Drive-By Truckers",
@@ -33165,14 +33182,15 @@
     "year": 2002,
     "metacritic": 88,
     "source": "Metacritic 2002",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/af155fdf7aea8e0f5e31a30dc4c44e09/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 8,
     "aoty_url": "https://www.albumoftheyear.org/album/583-spoon-kill-the-moonlight.php",
-    "aoty_user": 78
+    "aoty_user": 78,
+    "discogs": 89
   },
   {
     "artist": "Wilco",
@@ -34526,10 +34544,11 @@
     "year": 2001,
     "metacritic": 88,
     "source": "Metacritic 2001",
-    "consensus": 88,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/b6f2d3f31ae444b8d0e0e9e88303ef49/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/b6f2d3f31ae444b8d0e0e9e88303ef49/1000x1000-000000-80-0-0.jpg",
+    "discogs": 84
   },
   {
     "artist": "Bj\u00f6rk",
@@ -34537,14 +34556,15 @@
     "year": 2001,
     "metacritic": 88,
     "source": "Metacritic 2001",
-    "consensus": 88,
-    "reviews": 3,
+    "consensus": 90,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/4bd6b0232c2092faf145101453cb1051/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 18,
     "aoty_url": "https://www.albumoftheyear.org/album/979-bjork-vespertine.php",
-    "aoty_user": 93
+    "aoty_user": 93,
+    "discogs": 94
   },
   {
     "artist": "Jay-Z",
@@ -34553,13 +34573,14 @@
     "metacritic": 88,
     "source": "Metacritic 2001",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/19/c0/e3/19c0e3b6-4c2f-17ee-2a4a-6e2208de8aa6/00857366006951.rgb.jpg/600x600bb.jpg",
-    "consensus": 87,
-    "reviews": 3,
+    "consensus": 88,
+    "reviews": 4,
     "genre": "Hip Hop",
     "aoty_critic": 85,
     "aoty_reviews": 11,
     "aoty_url": "https://www.albumoftheyear.org/album/577-jay-z-the-blueprint.php",
-    "aoty_user": 88
+    "aoty_user": 88,
+    "discogs": 91
   },
   {
     "artist": "Unwound",
@@ -35880,14 +35901,15 @@
     "year": 2000,
     "metacritic": 88,
     "source": "Metacritic 2000",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2acafc30a5555be1661abe5181bdb73b/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 15,
     "aoty_url": "https://www.albumoftheyear.org/album/942-pj-harvey-stories-from-the-city-stories-from-the-sea.php",
-    "aoty_user": 85
+    "aoty_user": 85,
+    "discogs": 92
   },
   {
     "artist": "The New Pornographers",
@@ -47240,42 +47262,45 @@
     "album": "Disraeli Gears",
     "year": 1967,
     "source": "Curated 1960s",
-    "consensus": 89,
-    "reviews": 2,
+    "consensus": 88,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/cd4e963c5b53c7dbf3762ef9711af1f7/1000x1000-000000-80-0-0.jpg",
     "metacritic": 88,
     "aoty_critic": 90,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/7019-cream-disraeli-gears.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7019-cream-disraeli-gears.php",
+    "discogs": 87
   },
   {
     "artist": "The Doors",
     "album": "Strange Days",
     "year": 1967,
     "source": "Curated 1960s",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 84,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/1873aa414258d3e79d6aa8965fdc85bf/1000x1000-000000-80-0-0.jpg",
     "metacritic": 88,
     "aoty_critic": 77,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/7764-the-doors-strange-days.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7764-the-doors-strange-days.php",
+    "discogs": 87
   },
   {
     "artist": "The Byrds",
     "album": "Sweetheart of the Rodeo",
     "year": 1968,
     "source": "Curated 1960s",
-    "consensus": 92,
-    "reviews": 2,
+    "consensus": 91,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/4a064f21e9ced3d4a0084ab5bdb07df3/1000x1000-000000-80-0-0.jpg",
     "metacritic": 88,
     "aoty_critic": 95,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/7024-the-byrds-sweetheart-of-the-rodeo.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7024-the-byrds-sweetheart-of-the-rodeo.php",
+    "discogs": 89
   },
   {
     "artist": "The Rolling Stones",
@@ -47283,13 +47308,14 @@
     "year": 1967,
     "source": "Curated 1960s",
     "consensus": 86,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/075a4b46ccfb884d37cf0bfdcfadaf70/1000x1000-000000-80-0-0.jpg",
     "metacritic": 88,
     "aoty_critic": 83,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/6407-the-rolling-stones-between-the-buttons.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6407-the-rolling-stones-between-the-buttons.php",
+    "discogs": 86
   },
   {
     "artist": "Aretha Franklin",
@@ -47297,13 +47323,14 @@
     "year": 1968,
     "source": "Curated 1960s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/a7/ac/e3a7aca0-48e1-0882-8e25-3d68f7ba3a72/603497896646.jpg/600x600bb.jpg",
-    "consensus": 94,
-    "reviews": 2,
+    "consensus": 92,
+    "reviews": 3,
     "genre": "Pop",
     "metacritic": 88,
     "aoty_critic": 100,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/6685-aretha-franklin-lady-soul.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6685-aretha-franklin-lady-soul.php",
+    "discogs": 87
   },
   {
     "artist": "The Jimi Hendrix Experience",
@@ -47311,13 +47338,14 @@
     "year": 1968,
     "source": "Curated 1960s",
     "consensus": 94,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/0b39a81631baab00f970d8f5a7e19304/1000x1000-000000-80-0-0.jpg",
     "metacritic": 88,
     "aoty_critic": 100,
     "aoty_reviews": 4,
-    "aoty_url": "https://www.albumoftheyear.org/album/5706-the-jimi-hendrix-experience-electric-ladyland.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5706-the-jimi-hendrix-experience-electric-ladyland.php",
+    "discogs": 94
   },
   {
     "artist": "The Beatles",
@@ -47338,14 +47366,15 @@
     "album": "Bringing It All Back Home",
     "year": 1965,
     "source": "Curated 1960s",
-    "consensus": 94,
-    "reviews": 2,
+    "consensus": 92,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/583efe54588cd777cb0916d2e914a96c/1000x1000-000000-80-0-0.jpg",
     "metacritic": 88,
     "aoty_critic": 100,
     "aoty_reviews": 4,
-    "aoty_url": "https://www.albumoftheyear.org/album/5603-bob-dylan-bringing-it-all-back-home.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5603-bob-dylan-bringing-it-all-back-home.php",
+    "discogs": 89
   },
   {
     "artist": "The Rolling Stones",
