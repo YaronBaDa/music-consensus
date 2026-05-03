@@ -7,7 +7,7 @@
   <meta name="theme-color" content="#1a1a2e">
   <title>Consensus — Best Albums Ranked</title>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=4">
+  <link rel="stylesheet" href="styles.css?v=5">
 </head>
 <body>
   <!-- Header -->
@@ -28,7 +28,7 @@
   <section class="hero">
     <div class="hero-inner">
       <h1>Best Albums <span class="gradient-text">Ranked</span></h1>
-      <p>Aggregating reviews from Metacritic, Discogs & more into a single consensus score across all eras.</p>
+      <p>Aggregating reviews from Metacritic, AOTY, Discogs & more into a single consensus score across all eras.</p>
       <div class="hero-stats">
         <div class="stat"><strong id="albumCount">0</strong><span>Albums</span></div>
         <div class="stat"><strong id="sourceCount">2+</strong><span>Sources</span></div>
@@ -64,6 +64,8 @@
           <option value="artist">Artist</option>
           <option value="album">Album</option>
           <option value="metacritic">Metacritic</option>
+          <option value="aoty_critic">AOTY Critic</option>
+          <option value="aoty_user">AOTY User</option>
           <option value="discogs">Discogs</option>
         </select>
       </div>
@@ -121,9 +123,9 @@
 
   <!-- Footer -->
   <footer class="app-footer">
-    <p>Consensus — Best Albums Ranked. Data from Metacritic, Discogs &amp; more.</p>
+    <p>Consensus — Best Albums Ranked. Data from Metacritic, AOTY, Discogs &amp; more.</p>
   </footer>
 
-  <script src="app.js?v=4"></script>
+  <script src="app.js?v=5"></script>
 </body>
 </html>
