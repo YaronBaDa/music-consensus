@@ -41427,12 +41427,13 @@
     "year": 1984,
     "source": "Wikipedia 1980s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/aa/2d/74/aa2d74eb-dd26-250b-bd80-25d6e2f1ae72/00602557466812.rgb.jpg/600x600bb.jpg",
-    "consensus": 75,
-    "reviews": 1,
+    "consensus": 74,
+    "reviews": 2,
     "genre": "Pop",
     "aoty_critic": 75,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/41210-lloyd-cole-and-the-commotions-rattlesnakes.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/41210-lloyd-cole-and-the-commotions-rattlesnakes.php",
+    "aoty_user": 74
   },
   {
     "artist": "The Smiths",
@@ -41450,12 +41451,13 @@
     "year": 1984,
     "source": "Wikipedia 1980s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/88/93/da/8893da24-c559-a08a-b750-07185eb9960a/652637041200.png/600x600bb.jpg",
-    "consensus": 92,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Alternative",
     "aoty_critic": 92,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/6490-cocteau-twins-treasure.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6490-cocteau-twins-treasure.php",
+    "aoty_user": 85
   },
   {
     "artist": "Meat Puppets",
@@ -41463,12 +41465,13 @@
     "year": 1984,
     "source": "Wikipedia 1980s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/64/5c/5c/mzi.vvhmwsjn.jpg/600x600bb.jpg",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 84,
+    "reviews": 2,
     "genre": "Rock",
     "aoty_critic": 90,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/6494-meat-puppets-meat-puppets-ii.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6494-meat-puppets-meat-puppets-ii.php",
+    "aoty_user": 78
   },
   {
     "artist": "Manuel G\u00f6ttsching",
@@ -41476,24 +41479,26 @@
     "year": 1984,
     "source": "Wikipedia 1980s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/73/9a/58/739a58f3-4be3-a51b-5c94-a30b06577946/4260017594442_3000.jpg/600x600bb.jpg",
-    "consensus": 96,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Electronic",
     "aoty_critic": 96,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/6522-manuel-gottsching-e2-e4.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6522-manuel-gottsching-e2-e4.php",
+    "aoty_user": 83
   },
   {
     "artist": "H\u00fcsker D\u00fc",
     "album": "New Day Rising",
     "year": 1985,
     "source": "Wikipedia 1980s",
-    "consensus": 100,
-    "reviews": 1,
+    "consensus": 89,
+    "reviews": 2,
     "genre": "Alternative",
     "aoty_critic": 100,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/5580-husker-du-new-day-rising.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5580-husker-du-new-day-rising.php",
+    "aoty_user": 78
   },
   {
     "artist": "The Smiths",
@@ -41501,12 +41506,13 @@
     "year": 1985,
     "source": "Wikipedia 1980s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/74/1f/ff/741fff7e-e99e-757d-e600-e19d9df0d078/745099189563.jpg/600x600bb.jpg",
-    "consensus": 68,
-    "reviews": 1,
+    "consensus": 74,
+    "reviews": 2,
     "genre": "Alternative",
     "aoty_critic": 68,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/5637-the-smiths-meat-is-murder.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5637-the-smiths-meat-is-murder.php",
+    "aoty_user": 80
   },
   {
     "artist": "Tears For Fears",
@@ -41514,12 +41520,13 @@
     "year": 1985,
     "source": "Wikipedia 1980s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/41/43/744143ae-afad-8380-106e-1c1bc48922e4/14UMGIM34762.rgb.jpg/600x600bb.jpg",
-    "consensus": 82,
-    "reviews": 1,
+    "consensus": 83,
+    "reviews": 2,
     "genre": "Rock",
     "aoty_critic": 82,
     "aoty_reviews": 4,
-    "aoty_url": "https://www.albumoftheyear.org/album/7627-tears-for-fears-songs-from-the-big-chair.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7627-tears-for-fears-songs-from-the-big-chair.php",
+    "aoty_user": 84
   },
   {
     "artist": "Suzanne Vega",
@@ -41535,24 +41542,26 @@
     "album": "Low-Life",
     "year": 1985,
     "source": "Wikipedia 1980s",
-    "consensus": 80,
-    "reviews": 1,
+    "consensus": 82,
+    "reviews": 2,
     "genre": "Pop",
     "aoty_critic": 80,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/6600-new-order-low-life.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6600-new-order-low-life.php",
+    "aoty_user": 84
   },
   {
     "artist": "Dire Straits",
     "album": "Brothers In Arms",
     "year": 1985,
     "source": "Wikipedia 1980s",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 84,
+    "reviews": 2,
     "genre": "Rock",
     "aoty_critic": 89,
     "aoty_reviews": 4,
-    "aoty_url": "https://www.albumoftheyear.org/album/7626-dire-straits-brothers-in-arms.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7626-dire-straits-brothers-in-arms.php",
+    "aoty_user": 80
   },
   {
     "artist": "Marillion",
@@ -41568,12 +41577,13 @@
     "album": "Steve McQueen",
     "year": 1985,
     "source": "Wikipedia 1980s",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Pop",
     "aoty_critic": 90,
     "aoty_reviews": 4,
-    "aoty_url": "https://www.albumoftheyear.org/album/7910-prefab-sprout-steve-mcqueen.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7910-prefab-sprout-steve-mcqueen.php",
+    "aoty_user": 83
   },
   {
     "artist": "Rites Of Spring",
@@ -41589,112 +41599,121 @@
     "album": "Rum Sodomy & The Lash",
     "year": 1985,
     "source": "Wikipedia 1980s",
-    "consensus": 86,
-    "reviews": 1,
+    "consensus": 82,
+    "reviews": 2,
     "genre": "Pop",
     "aoty_critic": 86,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/6503-the-pogues-rum-sodomy-the-lash.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6503-the-pogues-rum-sodomy-the-lash.php",
+    "aoty_user": 78
   },
   {
     "artist": "The Cure",
     "album": "The Head On The Door",
     "year": 1985,
     "source": "Wikipedia 1980s",
-    "consensus": 75,
-    "reviews": 1,
+    "consensus": 79,
+    "reviews": 2,
     "genre": "Alternative",
     "aoty_critic": 75,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/4389-the-cure-the-head-on-the-door.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4389-the-cure-the-head-on-the-door.php",
+    "aoty_user": 83
   },
   {
     "artist": "Kate Bush",
     "album": "Hounds Of Love",
     "year": 1985,
     "source": "Wikipedia 1980s",
-    "consensus": 96,
-    "reviews": 1,
+    "consensus": 93,
+    "reviews": 2,
     "genre": "Pop",
     "aoty_critic": 96,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/6495-kate-bush-hounds-of-love.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6495-kate-bush-hounds-of-love.php",
+    "aoty_user": 90
   },
   {
     "artist": "The Replacements",
     "album": "Tim",
     "year": 1985,
     "source": "Wikipedia 1980s",
-    "consensus": 95,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Pop",
     "aoty_critic": 95,
     "aoty_reviews": 4,
-    "aoty_url": "https://www.albumoftheyear.org/album/5370-the-replacements-tim.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5370-the-replacements-tim.php",
+    "aoty_user": 82
   },
   {
     "artist": "The Fall",
     "album": "This Nation's Saving Grace",
     "year": 1985,
     "source": "Wikipedia 1980s",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 85,
+    "reviews": 2,
     "genre": "Alternative",
     "aoty_critic": 90,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/6332-the-fall-this-nations-saving-grace.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6332-the-fall-this-nations-saving-grace.php",
+    "aoty_user": 80
   },
   {
     "artist": "Tom Waits",
     "album": "Rain Dogs",
     "year": 1985,
     "source": "Wikipedia 1980s",
-    "consensus": 99,
-    "reviews": 1,
+    "consensus": 92,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/e7e6c50574793c59bbc76285ab981e61/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 99,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/4220-tom-waits-rain-dogs.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4220-tom-waits-rain-dogs.php",
+    "aoty_user": 85
   },
   {
     "artist": "The Jesus And Mary Chain",
     "album": "Psychocandy",
     "year": 1985,
     "source": "Wikipedia 1980s",
-    "consensus": 100,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/23ebdb505657897c03feb60ef71c82bb/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 100,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/5130-the-jesus-and-mary-chain-psychocandy.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5130-the-jesus-and-mary-chain-psychocandy.php",
+    "aoty_user": 79
   },
   {
     "artist": "The Mekons",
     "album": "Fear and Whiskey",
     "year": 1985,
     "source": "Wikipedia 1980s",
-    "consensus": 82,
-    "reviews": 1,
+    "consensus": 78,
+    "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/11be43e4f5538b721714cfa5c22f7521/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/6518-mekons-fear-and-whiskey.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6518-mekons-fear-and-whiskey.php",
+    "aoty_user": 73
   },
   {
     "artist": "Big Black",
     "album": "Atomizer",
     "year": 1986,
     "source": "Wikipedia 1980s",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8b40a351d836326ed5a05923e86a804e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 90,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/5990-big-black-atomizer.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5990-big-black-atomizer.php",
+    "aoty_user": 83
   },
   {
     "artist": "Janet Jackson",
@@ -41702,90 +41721,97 @@
     "year": 1986,
     "source": "Wikipedia 1980s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ed/b0/20/edb02000-b77f-22f4-6b7f-c46f62d4517c/00602547592361.rgb.jpg/600x600bb.jpg",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Pop",
     "aoty_critic": 90,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/17024-janet-control.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/17024-janet-control.php",
+    "aoty_user": 82
   },
   {
     "artist": "Talk Talk",
     "album": "The Colour Of Spring",
     "year": 1986,
     "source": "Wikipedia 1980s",
-    "consensus": 63,
-    "reviews": 1,
+    "consensus": 72,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8f946458459124422cd3f8f4cc189d6a/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 63,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/6513-talk-talk-the-colour-of-spring.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6513-talk-talk-the-colour-of-spring.php",
+    "aoty_user": 81
   },
   {
     "artist": "Metallica",
     "album": "Master Of Puppets",
     "year": 1986,
     "source": "Wikipedia 1980s",
-    "consensus": 100,
-    "reviews": 1,
+    "consensus": 94,
+    "reviews": 2,
     "genre": "Metal",
     "cover": "https://cdn-images.dzcdn.net/images/cover/291e2af9295ca885b154eee75dfa0432/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 100,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/4222-metallica-master-of-puppets.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4222-metallica-master-of-puppets.php",
+    "aoty_user": 89
   },
   {
     "artist": "Steve Earle",
     "album": "Guitar Town",
     "year": 1986,
     "source": "Wikipedia 1980s",
-    "consensus": 85,
-    "reviews": 1,
+    "consensus": 76,
+    "reviews": 2,
     "genre": "Country",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d061b771e756050b68c77c3759521086/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/7003-steve-earle-guitar-town.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7003-steve-earle-guitar-town.php",
+    "aoty_user": 67
   },
   {
     "artist": "Run-DMC",
     "album": "Raising Hell",
     "year": 1986,
     "source": "Wikipedia 1980s",
-    "consensus": 100,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/df4b8cf8a601facf7e8800569f686ba3/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 100,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/6399-run-dmc-raising-hell.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6399-run-dmc-raising-hell.php",
+    "aoty_user": 76
   },
   {
     "artist": "Peter Gabriel",
     "album": "So",
     "year": 1986,
     "source": "Wikipedia 1980s",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/5f6501830e0fd1309550d25dd2056c18/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 90,
     "aoty_reviews": 4,
-    "aoty_url": "https://www.albumoftheyear.org/album/7632-peter-gabriel-so.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7632-peter-gabriel-so.php",
+    "aoty_user": 82
   },
   {
     "artist": "Sonic Youth",
     "album": "EVOL",
     "year": 1986,
     "source": "Wikipedia 1980s",
-    "consensus": 88,
-    "reviews": 1,
+    "consensus": 84,
+    "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6b3cbb49c85449bb72ef6a21ffd7632f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 88,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/6427-sonic-youth-evol.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6427-sonic-youth-evol.php",
+    "aoty_user": 80
   },
   {
     "artist": "The Smiths",
@@ -41793,12 +41819,13 @@
     "year": 1986,
     "source": "Wikipedia 1980s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1a/e8/70/1ae870c3-b402-096b-c4c4-8022af5a2ed9/745099189662.jpg/600x600bb.jpg",
-    "consensus": 100,
-    "reviews": 1,
+    "consensus": 94,
+    "reviews": 2,
     "genre": "Alternative",
     "aoty_critic": 100,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/4217-the-smiths-the-queen-is-dead.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4217-the-smiths-the-queen-is-dead.php",
+    "aoty_user": 88
   },
   {
     "artist": "The Housemartins",
@@ -41806,168 +41833,181 @@
     "year": 1986,
     "source": "Wikipedia 1980s",
     "consensus": 80,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/fda18619616f2f41b04982448f5df12d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/20536-the-housemartins-london-0-hull-4.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/20536-the-housemartins-london-0-hull-4.php",
+    "aoty_user": 79
   },
   {
     "artist": "R.E.M.",
     "album": "Lifes Rich Pageant",
     "year": 1986,
     "source": "Wikipedia 1980s",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d2387ffc05fc02cbc15b34120892cbdc/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 90,
     "aoty_reviews": 4,
-    "aoty_url": "https://www.albumoftheyear.org/album/6104-rem-lifes-rich-pageant.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6104-rem-lifes-rich-pageant.php",
+    "aoty_user": 81
   },
   {
     "artist": "Crowded House",
     "album": "Crowded House",
     "year": 1986,
     "source": "Wikipedia 1980s",
-    "consensus": 70,
-    "reviews": 1,
+    "consensus": 72,
+    "reviews": 2,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/797cfed6ecc569b95afd34ba55784fba/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 70,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/7625-crowded-house-crowded-house.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7625-crowded-house-crowded-house.php",
+    "aoty_user": 75
   },
   {
     "artist": "Bon Jovi",
     "album": "Slippery When Wet",
     "year": 1986,
     "source": "Wikipedia 1980s",
-    "consensus": 80,
-    "reviews": 1,
+    "consensus": 74,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/1f0365311a9d03c267f175e0ef79f40c/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/17040-bon-jovi-slippery-when-wet.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/17040-bon-jovi-slippery-when-wet.php",
+    "aoty_user": 68
   },
   {
     "artist": "Paul Simon",
     "album": "Graceland",
     "year": 1986,
     "source": "Wikipedia 1980s",
-    "consensus": 100,
-    "reviews": 1,
+    "consensus": 92,
+    "reviews": 2,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8a8c3843f9daf46b8a660b26ef56cb4d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 100,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/6511-paul-simon-graceland.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6511-paul-simon-graceland.php",
+    "aoty_user": 83
   },
   {
     "artist": "Billy Bragg",
     "album": "Talking with the Taxman About Poetry",
     "year": 1986,
     "source": "Wikipedia 1980s",
-    "consensus": 85,
-    "reviews": 1,
+    "consensus": 78,
+    "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d8aca434e57f7fe0246f1612442c6aea/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/18375-billy-bragg-talking-with-the-taxman-about-poetry.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/18375-billy-bragg-talking-with-the-taxman-about-poetry.php",
+    "aoty_user": 71
   },
   {
     "artist": "Megadeth",
     "album": "Peace Sells... But Who's Buying?",
     "year": 1986,
     "source": "Wikipedia 1980s",
-    "consensus": 80,
-    "reviews": 1,
+    "consensus": 81,
+    "reviews": 2,
     "genre": "Metal",
     "cover": "https://cdn-images.dzcdn.net/images/cover/e069892d14bac0cac8380f9a2c0169ec/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/6342-megadeth-peace-sells-but-whos-buying.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6342-megadeth-peace-sells-but-whos-buying.php",
+    "aoty_user": 82
   },
   {
     "artist": "Slayer",
     "album": "Reign In Blood",
     "year": 1986,
     "source": "Wikipedia 1980s",
-    "consensus": 93,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/9f3a4d7b906782502b53231fd546fa6b/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 93,
     "aoty_reviews": 4,
-    "aoty_url": "https://www.albumoftheyear.org/album/5586-slayer-reign-in-blood.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5586-slayer-reign-in-blood.php",
+    "aoty_user": 84
   },
   {
     "artist": "XTC",
     "album": "Skylarking",
     "year": 1986,
     "source": "Wikipedia 1980s",
-    "consensus": 94,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/4d8b98508b76f6229360f3455781297f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 94,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/5884-xtc-skylarking.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5884-xtc-skylarking.php",
+    "aoty_user": 83
   },
   {
     "artist": "Beastie Boys",
     "album": "Licensed to Ill",
     "year": 1986,
     "source": "Wikipedia 1980s",
-    "consensus": 95,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/aa589618a8503edacfa8e341b1ef485c/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 95,
     "aoty_reviews": 4,
-    "aoty_url": "https://www.albumoftheyear.org/album/2443-beastie-boys-licensed-to-ill.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2443-beastie-boys-licensed-to-ill.php",
+    "aoty_user": 76
   },
   {
     "artist": "The The",
     "album": "Infected",
     "year": 1986,
     "source": "Wikipedia 1980s",
-    "consensus": 85,
-    "reviews": 1,
+    "consensus": 80,
+    "reviews": 2,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2c69650d59b76b663f91231e5add3fad/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/21232-the-the-infected.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/21232-the-the-infected.php",
+    "aoty_user": 74
   },
   {
     "artist": "Bad Brains",
     "album": "I Against I",
     "year": 1986,
     "source": "Wikipedia 1980s",
-    "consensus": 94,
-    "reviews": 1,
+    "consensus": 85,
+    "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/3efe80d4094f4ce14aedf122fc981358/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 94,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/36981-bad-brains-i-against-i.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/36981-bad-brains-i-against-i.php",
+    "aoty_user": 76
   },
   {
     "artist": "Coil",
     "album": "Horse Rotorvator",
     "year": 1986,
     "source": "Wikipedia 1980s",
-    "consensus": 98,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/bd86d1ec2110e57f349c23bb5ff599d5/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 98,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/6517-coil-horse-rotorvator.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6517-coil-horse-rotorvator.php",
+    "aoty_user": 81
   },
   {
     "artist": "U2",
@@ -41975,12 +42015,13 @@
     "year": 1987,
     "source": "Wikipedia 1980s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8f/e2/c3/8fe2c384-f6cb-9af7-371d-2b6a9b204e59/17UMGIM79292.rgb.jpg/600x600bb.jpg",
-    "consensus": 100,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Rock",
     "aoty_critic": 100,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/4436-u2-the-joshua-tree.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4436-u2-the-joshua-tree.php",
+    "aoty_user": 81
   },
   {
     "artist": "Prince",
@@ -41996,60 +42037,65 @@
     "album": "Locust Abortion Technician",
     "year": 1987,
     "source": "Wikipedia 1980s",
-    "consensus": 85,
-    "reviews": 1,
+    "consensus": 80,
+    "reviews": 2,
     "genre": "Alternative",
     "aoty_critic": 85,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/7045-butthole-surfers-locust-abortion-technician.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7045-butthole-surfers-locust-abortion-technician.php",
+    "aoty_user": 75
   },
   {
     "artist": "Sonic Youth",
     "album": "Sister",
     "year": 1987,
     "source": "Wikipedia 1980s",
-    "consensus": 95,
-    "reviews": 1,
+    "consensus": 89,
+    "reviews": 2,
     "genre": "Alternative",
     "aoty_critic": 95,
     "aoty_reviews": 4,
-    "aoty_url": "https://www.albumoftheyear.org/album/6333-sonic-youth-sister.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6333-sonic-youth-sister.php",
+    "aoty_user": 83
   },
   {
     "artist": "Eric B. & Rakim",
     "album": "Paid In Full",
     "year": 1987,
     "source": "Wikipedia 1980s",
-    "consensus": 100,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Hip Hop",
     "aoty_critic": 100,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/6478-eric-b-rakim-paid-in-full.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6478-eric-b-rakim-paid-in-full.php",
+    "aoty_user": 80
   },
   {
     "artist": "The Replacements",
     "album": "Pleased To Meet Me",
     "year": 1987,
     "source": "Wikipedia 1980s",
-    "consensus": 80,
-    "reviews": 1,
+    "consensus": 81,
+    "reviews": 2,
     "genre": "Pop",
     "aoty_critic": 80,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/5371-the-replacements-pleased-to-meet-me.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5371-the-replacements-pleased-to-meet-me.php",
+    "aoty_user": 82
   },
   {
     "artist": "Guns N' Roses",
     "album": "Appetite For Destruction",
     "year": 1987,
     "source": "Wikipedia 1980s",
-    "consensus": 92,
-    "reviews": 1,
+    "consensus": 83,
+    "reviews": 2,
     "genre": "Rock",
     "aoty_critic": 92,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/4999-guns-n-roses-appetite-for-destruction.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4999-guns-n-roses-appetite-for-destruction.php",
+    "aoty_user": 74
   },
   {
     "artist": "Dead Can Dance",
@@ -42065,12 +42111,13 @@
     "album": "Hysteria",
     "year": 1987,
     "source": "Wikipedia 1980s",
-    "consensus": 91,
-    "reviews": 1,
+    "consensus": 82,
+    "reviews": 2,
     "genre": "Rock",
     "aoty_critic": 91,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/10681-def-leppard-hysteria.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/10681-def-leppard-hysteria.php",
+    "aoty_user": 74
   },
   {
     "artist": "New Order",
@@ -42086,12 +42133,13 @@
     "album": "Diesel And Dust",
     "year": 1987,
     "source": "Wikipedia 1980s",
-    "consensus": 85,
-    "reviews": 1,
+    "consensus": 82,
+    "reviews": 2,
     "genre": "Pop",
     "aoty_critic": 85,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/7621-midnight-oil-diesel-and-dust.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7621-midnight-oil-diesel-and-dust.php",
+    "aoty_user": 79
   },
   {
     "artist": "The Jesus and Mary Chain",
@@ -42099,25 +42147,27 @@
     "year": 1987,
     "source": "Wikipedia 1980s",
     "consensus": 80,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/e03063743cbf9919fcac695b39dc7ab7/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/5129-the-jesus-and-mary-chain-darklands.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5129-the-jesus-and-mary-chain-darklands.php",
+    "aoty_user": 79
   },
   {
     "artist": "R.E.M.",
     "album": "Document",
     "year": 1987,
     "source": "Wikipedia 1980s",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 85,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7fa0112b4f2dc8869e181e72648520c6/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 90,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/6105-rem-document.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6105-rem-document.php",
+    "aoty_user": 80
   },
   {
     "artist": "Michael Jackson",
