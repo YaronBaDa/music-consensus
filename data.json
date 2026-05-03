@@ -29037,12 +29037,13 @@
     "metacritic": 86,
     "source": "Metacritic 2005",
     "consensus": 82,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/82c06684f772ccd70ac794a501f1a2c1/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/482-okkervil-river-black-sheep-boy.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/482-okkervil-river-black-sheep-boy.php",
+    "aoty_user": 81
   },
   {
     "artist": "Ry Cooder",
@@ -29060,13 +29061,14 @@
     "year": 2005,
     "metacritic": 85,
     "source": "Metacritic 2005",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/22aae472d2ac64b524b6142044e4a13e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 13,
-    "aoty_url": "https://www.albumoftheyear.org/album/483-andrew-bird-the-mysterious-production-of-eggs.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/483-andrew-bird-the-mysterious-production-of-eggs.php",
+    "aoty_user": 81
   },
   {
     "artist": "Bright Eyes",
@@ -29075,12 +29077,13 @@
     "metacritic": 85,
     "source": "Metacritic 2005",
     "consensus": 85,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/51dd6bfbb537477480e482d0f265edb6/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/487-bright-eyes-im-wide-awake-its-morning.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/487-bright-eyes-im-wide-awake-its-morning.php",
+    "aoty_user": 86
   },
   {
     "artist": "Kanye West",
@@ -29088,13 +29091,14 @@
     "year": 2005,
     "metacritic": 85,
     "source": "Metacritic 2005",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 86,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7cbfc94084895e59b5a313a98ab1bd9a/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 23,
-    "aoty_url": "https://www.albumoftheyear.org/album/484-kanye-west-late-registration.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/484-kanye-west-late-registration.php",
+    "aoty_user": 90
   },
   {
     "artist": "System Of A Down",
@@ -29102,13 +29106,14 @@
     "year": 2005,
     "metacritic": 85,
     "source": "Metacritic 2005",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/4954f43cc6033ddfa0fa3ee5514a26ca/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 20,
-    "aoty_url": "https://www.albumoftheyear.org/album/5387-system-of-a-down-mezmerize.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5387-system-of-a-down-mezmerize.php",
+    "aoty_user": 86
   },
   {
     "artist": "Edan",
@@ -29116,13 +29121,14 @@
     "year": 2005,
     "metacritic": 85,
     "source": "Metacritic 2005",
-    "consensus": 85,
-    "reviews": 2,
+    "consensus": 84,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/bf2e704c31c63403f5e5c65a19a44e06/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/495-edan-beauty-and-the-beat.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/495-edan-beauty-and-the-beat.php",
+    "aoty_user": 82
   },
   {
     "artist": "The New Pornographers",
@@ -29130,13 +29136,14 @@
     "year": 2005,
     "metacritic": 85,
     "source": "Metacritic 2005",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b5d5a267468bca5774a934e33a87f06d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 21,
-    "aoty_url": "https://www.albumoftheyear.org/album/488-the-new-pornographers-twin-cinema.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/488-the-new-pornographers-twin-cinema.php",
+    "aoty_user": 79
   },
   {
     "artist": "The Go-Betweens",
@@ -29144,13 +29151,14 @@
     "year": 2005,
     "metacritic": 85,
     "source": "Metacritic 2005",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/888d89115cb7af199fa794117e4905b6/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 16,
-    "aoty_url": "https://www.albumoftheyear.org/album/26210-the-go-betweens-oceans-apart.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/26210-the-go-betweens-oceans-apart.php",
+    "aoty_user": 74
   },
   {
     "artist": "Eels",
@@ -29158,13 +29166,14 @@
     "year": 2005,
     "metacritic": 85,
     "source": "Metacritic 2005",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/17415daa3f4b36f4821d82d8d8a9d2e8/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 18,
-    "aoty_url": "https://www.albumoftheyear.org/album/1035-eels-blinking-lights-and-other-revelations.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1035-eels-blinking-lights-and-other-revelations.php",
+    "aoty_user": 78
   },
   {
     "artist": "Buck 65",
@@ -29172,12 +29181,13 @@
     "year": 2005,
     "metacritic": 85,
     "source": "Metacritic 2005",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 76,
+    "reviews": 3,
     "genre": "Hip Hop",
     "aoty_critic": 76,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/100750-buck-65-this-right-here-is-buck-65.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/100750-buck-65-this-right-here-is-buck-65.php",
+    "aoty_user": 66
   },
   {
     "artist": "Richard Hawley",
@@ -29185,13 +29195,14 @@
     "year": 2005,
     "metacritic": 85,
     "source": "Metacritic 2005",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b54cbbf620b679ea645038bee49ccd17/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/19755-richard-hawley-coles-corner.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/19755-richard-hawley-coles-corner.php",
+    "aoty_user": 75
   },
   {
     "artist": "Vashti Bunyan",
@@ -29200,12 +29211,13 @@
     "metacritic": 85,
     "source": "Metacritic 2005",
     "consensus": 83,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d85b698d9eeab59bf1f00bb807ca85a2/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/7207-vashti-bunyan-lookaftering.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7207-vashti-bunyan-lookaftering.php",
+    "aoty_user": 82
   },
   {
     "artist": "The Books",
@@ -29214,12 +29226,13 @@
     "metacritic": 84,
     "source": "Metacritic 2005",
     "consensus": 80,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/db43ad4477325523d68c1368cb9c41e5/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/1847-the-books-lost-and-safe.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1847-the-books-lost-and-safe.php",
+    "aoty_user": 80
   },
   {
     "artist": "Spoon",
@@ -29227,13 +29240,14 @@
     "year": 2005,
     "metacritic": 84,
     "source": "Metacritic 2005",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/20f3c8b3dd08ef09478a92a323fb977f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 17,
-    "aoty_url": "https://www.albumoftheyear.org/album/485-spoon-gimme-fiction.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/485-spoon-gimme-fiction.php",
+    "aoty_user": 79
   },
   {
     "artist": "Animal Collective",
@@ -29241,13 +29255,14 @@
     "year": 2005,
     "metacritic": 84,
     "source": "Metacritic 2005",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/80dbe1a76befa282b8bf034cc117a986/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 22,
-    "aoty_url": "https://www.albumoftheyear.org/album/306-animal-collective-feels.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/306-animal-collective-feels.php",
+    "aoty_user": 84
   },
   {
     "artist": "Sigur R\u00f3s",
@@ -29256,12 +29271,13 @@
     "metacritic": 84,
     "source": "Metacritic 2005",
     "consensus": 84,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6510a3d00d6f4641bcde62b2f67d5fa4/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 26,
-    "aoty_url": "https://www.albumoftheyear.org/album/3596-sigur-ros-takk.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3596-sigur-ros-takk.php",
+    "aoty_user": 86
   },
   {
     "artist": "Fiona Apple",
@@ -29270,12 +29286,13 @@
     "metacritic": 84,
     "source": "Metacritic 2005",
     "consensus": 82,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f4e3cce9627fdcddca82f7ece5190020/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 17,
-    "aoty_url": "https://www.albumoftheyear.org/album/1277-fiona-apple-extraordinary-machine.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1277-fiona-apple-extraordinary-machine.php",
+    "aoty_user": 81
   },
   {
     "artist": "The Earlies",
@@ -29294,13 +29311,14 @@
     "year": 2005,
     "metacritic": 84,
     "source": "Metacritic 2005",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/919c29836bd787e819a95d6dee4734f3/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 75,
     "aoty_reviews": 17,
-    "aoty_url": "https://www.albumoftheyear.org/album/885-jamie-lidell-multiply.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/885-jamie-lidell-multiply.php",
+    "aoty_user": 73
   },
   {
     "artist": "Clap Your Hands Say Yeah",
@@ -29309,12 +29327,13 @@
     "metacritic": 84,
     "source": "Metacritic 2005",
     "consensus": 80,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f73dcb8b8d9a95e39dae2d982c627623/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 21,
-    "aoty_url": "https://www.albumoftheyear.org/album/584-clap-your-hands-say-yeah-clap-your-hands-say-yeah.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/584-clap-your-hands-say-yeah-clap-your-hands-say-yeah.php",
+    "aoty_user": 79
   },
   {
     "artist": "Portastatic",
@@ -29322,14 +29341,15 @@
     "year": 2005,
     "metacritic": 83,
     "source": "Metacritic 2005",
-    "consensus": 77,
-    "reviews": 3,
+    "consensus": 78,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/c1435857cb8e765d90fff0fa38c2f8f3/1000x1000-000000-80-0-0.jpg",
     "discogs": 69,
     "aoty_critic": 78,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/45799-portastatic-bright-ideas.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/45799-portastatic-bright-ideas.php",
+    "aoty_user": 80
   },
   {
     "artist": "Six Organs of Admittance",
@@ -29337,14 +29357,15 @@
     "year": 2005,
     "metacritic": 83,
     "source": "Metacritic 2005",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/eb7f7c29ccada38f2ea7e7daeb06ec74/1000x1000-000000-80-0-0.jpg",
     "discogs": 85,
     "aoty_critic": 82,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/24833-six-organs-of-admittance-school-of-the-flower.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/24833-six-organs-of-admittance-school-of-the-flower.php",
+    "aoty_user": 76
   },
   {
     "artist": "Wolf Parade",
@@ -29352,14 +29373,15 @@
     "year": 2005,
     "metacritic": 83,
     "source": "Metacritic 2005",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b4dd1a3a3f7a8c493777cd29c40bb895/1000x1000-000000-80-0-0.jpg",
     "discogs": 90,
     "aoty_critic": 81,
     "aoty_reviews": 21,
-    "aoty_url": "https://www.albumoftheyear.org/album/496-wolf-parade-apologies-to-the-queen-mary.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/496-wolf-parade-apologies-to-the-queen-mary.php",
+    "aoty_user": 81
   },
   {
     "artist": "Blueprint",
@@ -29368,13 +29390,14 @@
     "metacritic": 83,
     "source": "Metacritic 2005",
     "consensus": 82,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/440de81cf09fb1ce726d3a6a350709ba/1000x1000-000000-80-0-0.jpg",
     "discogs": 87,
     "aoty_critic": 77,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/77888-blueprint-1988.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/77888-blueprint-1988.php",
+    "aoty_user": 79
   },
   {
     "artist": "Common",
@@ -29382,14 +29405,15 @@
     "year": 2005,
     "metacritic": 83,
     "source": "Metacritic 2005",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ebc88ee4ab7f87f89a080ed9b3d5d918/1000x1000-000000-80-0-0.jpg",
     "discogs": 91,
     "aoty_critic": 82,
     "aoty_reviews": 20,
-    "aoty_url": "https://www.albumoftheyear.org/album/6844-common-be.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6844-common-be.php",
+    "aoty_user": 89
   },
   {
     "artist": "Franz Ferdinand",
@@ -29397,13 +29421,14 @@
     "year": 2005,
     "metacritic": 83,
     "source": "Metacritic 2005",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d0379bb0e55835471a5b2689c72822a7/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 22,
-    "aoty_url": "https://www.albumoftheyear.org/album/4172-franz-ferdinand-you-could-have-it-so-much-better.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4172-franz-ferdinand-you-could-have-it-so-much-better.php",
+    "aoty_user": 78
   },
   {
     "artist": "The Mountain Goats",
@@ -29411,13 +29436,14 @@
     "year": 2005,
     "metacritic": 83,
     "source": "Metacritic 2005",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b229563d965169529f7d84ca3eb1f06b/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 16,
-    "aoty_url": "https://www.albumoftheyear.org/album/974-the-mountain-goats-the-sunset-tree.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/974-the-mountain-goats-the-sunset-tree.php",
+    "aoty_user": 82
   },
   {
     "artist": "Kano",
@@ -29425,14 +29451,15 @@
     "year": 2005,
     "metacritic": 82,
     "source": "Metacritic 2005",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 81,
+    "reviews": 4,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/55311bb657ae2e39afd1bd75676b6241/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 11,
     "aoty_url": "https://www.albumoftheyear.org/album/25886-kano-home-sweet-home.php",
-    "discogs": 83
+    "discogs": 83,
+    "aoty_user": 77
   },
   {
     "artist": "Broken Social Scene",
@@ -29441,13 +29468,14 @@
     "metacritic": 82,
     "source": "Metacritic 2005",
     "consensus": 83,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d444c53aaa051c0c19289c4a8f26963d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 24,
     "aoty_url": "https://www.albumoftheyear.org/album/491-broken-social-scene-broken-social-scene.php",
-    "discogs": 89
+    "discogs": 89,
+    "aoty_user": 83
   },
   {
     "artist": "Iron & Wine",
@@ -29467,13 +29495,14 @@
     "metacritic": 82,
     "source": "Metacritic 2005",
     "consensus": 85,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/3dc29a565149240729afc08e1f251b46/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 30,
     "aoty_url": "https://www.albumoftheyear.org/album/1353-gorillaz-demon-days.php",
-    "discogs": 93
+    "discogs": 93,
+    "aoty_user": 86
   },
   {
     "artist": "Low",
@@ -29481,14 +29510,15 @@
     "year": 2005,
     "metacritic": 82,
     "source": "Metacritic 2005",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 80,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8a3c9a379ea0073296f2ac51cb7d8253/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 75,
     "aoty_reviews": 23,
     "aoty_url": "https://www.albumoftheyear.org/album/2467-low-the-great-destroyer.php",
-    "discogs": 86
+    "discogs": 86,
+    "aoty_user": 77
   },
   {
     "artist": "Nickel Creek",
@@ -29496,13 +29526,14 @@
     "year": 2005,
     "metacritic": 82,
     "source": "Metacritic 2005",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Country",
     "aoty_critic": 84,
     "aoty_reviews": 6,
     "aoty_url": "https://www.albumoftheyear.org/album/37997-nickel-creek-why-should-the-fire-die.php",
-    "discogs": 78
+    "discogs": 78,
+    "aoty_user": 82
   },
   {
     "artist": "Bloc Party",
@@ -29510,13 +29541,14 @@
     "year": 2005,
     "metacritic": 82,
     "source": "Metacritic 2005",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 80,
     "aoty_reviews": 23,
     "aoty_url": "https://www.albumoftheyear.org/album/905-bloc-party-silent-alarm.php",
-    "discogs": 92
+    "discogs": 92,
+    "aoty_user": 84
   },
   {
     "artist": "The National",
@@ -29524,13 +29556,14 @@
     "year": 2005,
     "metacritic": 82,
     "source": "Metacritic 2005",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 78,
     "aoty_reviews": 16,
     "aoty_url": "https://www.albumoftheyear.org/album/322-the-national-alligator.php",
-    "discogs": 88
+    "discogs": 88,
+    "aoty_user": 80
   },
   {
     "artist": "Xiu Xiu",
@@ -29560,12 +29593,13 @@
     "metacritic": 81,
     "source": "Metacritic 2005",
     "consensus": 82,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/324cc57b8739f4c13feb5184fb970f0c/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 23,
-    "aoty_url": "https://www.albumoftheyear.org/album/2562-kate-bush-aerial.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2562-kate-bush-aerial.php",
+    "aoty_user": 81
   },
   {
     "artist": "The White Stripes",
@@ -29573,13 +29607,14 @@
     "year": 2005,
     "metacritic": 81,
     "source": "Metacritic 2005",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 75,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/c3f3d779fbd7ad2a42d56d1807c76205/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 75,
     "aoty_reviews": 25,
-    "aoty_url": "https://www.albumoftheyear.org/album/490-the-white-stripes-get-behind-me-satan.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/490-the-white-stripes-get-behind-me-satan.php",
+    "aoty_user": 70
   },
   {
     "artist": "DangerDoom",
@@ -29587,13 +29622,14 @@
     "year": 2005,
     "metacritic": 81,
     "source": "Metacritic 2005",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/35aaa935fdfcea45b4e8599aaac80198/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 74,
     "aoty_reviews": 20,
-    "aoty_url": "https://www.albumoftheyear.org/album/7265-danger-doom-the-mouse-and-the-mask.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7265-danger-doom-the-mouse-and-the-mask.php",
+    "aoty_user": 81
   },
   {
     "artist": "The Decemberists",
@@ -29602,12 +29638,13 @@
     "metacritic": 81,
     "source": "Metacritic 2005",
     "consensus": 81,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/9bb63fe207d8941b275ed83939f21125/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 20,
-    "aoty_url": "https://www.albumoftheyear.org/album/497-the-decemberists-picaresque.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/497-the-decemberists-picaresque.php",
+    "aoty_user": 82
   },
   {
     "artist": "Akron/Family & Angels Of Light",
@@ -29615,13 +29652,14 @@
     "year": 2005,
     "metacritic": 81,
     "source": "Metacritic 2005",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 76,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/82815037d1df4a49df446002083b9c66/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/28193-akronfamily-angels-of-light-akronfamily-angels-of-light.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/28193-akronfamily-angels-of-light-akronfamily-angels-of-light.php",
+    "aoty_user": 70
   },
   {
     "artist": "Archer Prewitt",
@@ -29629,13 +29667,14 @@
     "year": 2005,
     "metacritic": 81,
     "source": "Metacritic 2005",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 84,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d24cb8fe542f73e516680555c60e8621/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/23993-archer-prewitt-wilderness.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/23993-archer-prewitt-wilderness.php",
+    "aoty_user": 87
   },
   {
     "artist": "Bruce Springsteen",
@@ -29643,13 +29682,14 @@
     "year": 2005,
     "metacritic": 81,
     "source": "Metacritic 2005",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 75,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6c0f2ac2a216a93a32a1566dae6dbe39/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 18,
-    "aoty_url": "https://www.albumoftheyear.org/album/6295-bruce-springsteen-devils-dust.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6295-bruce-springsteen-devils-dust.php",
+    "aoty_user": 65
   },
   {
     "artist": "Stars",
@@ -29668,13 +29708,14 @@
     "year": 2005,
     "metacritic": 81,
     "source": "Metacritic 2005",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/5adfdac27ee4fd8362f482943bbe05f7/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/12927-neil-diamond-12-songs.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/12927-neil-diamond-12-songs.php",
+    "aoty_user": 75
   },
   {
     "artist": "Caribou",
@@ -29682,13 +29723,14 @@
     "year": 2005,
     "metacritic": 81,
     "source": "Metacritic 2005",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2dfaec2aeed80136b6f9475844baae47/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 75,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/2727-caribou-the-milk-of-human-kindness.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2727-caribou-the-milk-of-human-kindness.php",
+    "aoty_user": 75
   },
   {
     "artist": "OOIOO",
@@ -29707,13 +29749,14 @@
     "year": 2005,
     "metacritic": 81,
     "source": "Metacritic 2005",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/dc55c92c2e480eeb3460f243eeffecd5/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/12508-engineers-engineers.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/12508-engineers-engineers.php",
+    "aoty_user": 77
   },
   {
     "artist": "Silver Jews",
@@ -29721,13 +29764,14 @@
     "year": 2005,
     "metacritic": 81,
     "source": "Metacritic 2005",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b367d475b4daffdd79f0716a3c26ca6e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/7285-silver-jews-tanglewood-numbers.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7285-silver-jews-tanglewood-numbers.php",
+    "aoty_user": 75
   },
   {
     "artist": "Annie",
@@ -29746,13 +29790,14 @@
     "year": 2005,
     "metacritic": 81,
     "source": "Metacritic 2005",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/0ef8f6aacdb8368396e73f5c0489d966/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/23551-wilderness-wilderness.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/23551-wilderness-wilderness.php",
+    "aoty_user": 89
   },
   {
     "artist": "The Juan MacLean",
@@ -29760,13 +29805,14 @@
     "year": 2005,
     "metacritic": 81,
     "source": "Metacritic 2005",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/62edf353c12d5890c0ebb887d1d74595/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 74,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/6939-the-juan-maclean-less-than-human.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6939-the-juan-maclean-less-than-human.php",
+    "aoty_user": 76
   },
   {
     "artist": "The Perceptionists",
@@ -29774,12 +29820,13 @@
     "year": 2005,
     "metacritic": 81,
     "source": "Metacritic 2005",
-    "consensus": 79,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Various",
     "aoty_critic": 77,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/24973-the-perceptionists-black-dialogue.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/24973-the-perceptionists-black-dialogue.php",
+    "aoty_user": 83
   },
   {
     "artist": "Akron/Family",
@@ -29787,13 +29834,14 @@
     "year": 2005,
     "metacritic": 80,
     "source": "Metacritic 2005",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/448eb2d8f8258c352da213e667cd6e27/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/6543-akronfamily-akronfamily.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6543-akronfamily-akronfamily.php",
+    "aoty_user": 78
   },
   {
     "artist": "Laura Cantrell",
@@ -29801,13 +29849,14 @@
     "year": 2005,
     "metacritic": 80,
     "source": "Metacritic 2005",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Country",
     "cover": "https://cdn-images.dzcdn.net/images/cover/3ac3acadcfc8760e20785fbd16a5e825/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/27650-laura-cantrell-humming-by-the-flowered-vine.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/27650-laura-cantrell-humming-by-the-flowered-vine.php",
+    "aoty_user": 71
   },
   {
     "artist": "Audion",
@@ -29837,13 +29886,14 @@
     "year": 2005,
     "metacritic": 80,
     "source": "Metacritic 2005",
-    "consensus": 76,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d9faf9ab3e1cbbbd9bc3781c5f04e1f4/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 72,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/3305-of-montreal-the-sunlandic-twins.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3305-of-montreal-the-sunlandic-twins.php",
+    "aoty_user": 79
   },
   {
     "artist": "Bonnie \"Prince\" Billy and Matt Sweeney",
