@@ -2075,13 +2075,14 @@
     "metacritic": 87,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/28/14/54281424-eece-0935-299d-fdd2ab403f92/24UM1IM28978.rgb.jpg/600x600bb.jpg",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Hip Hop",
     "aoty_critic": 87,
     "aoty_reviews": 23,
     "aoty_url": "https://www.albumoftheyear.org/album/1139965-kendrick-lamar-gnx.php",
-    "aoty_user": 81
+    "aoty_user": 81,
+    "discogs": 90
   },
   {
     "artist": "Still House Plants",
@@ -2105,13 +2106,14 @@
     "metacritic": 87,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/bd/19/b6bd199b-c6b5-ffe4-0f41-1e66cc2329af/085365489547.jpg/600x600bb.jpg",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Pop",
     "aoty_critic": 84,
     "aoty_reviews": 11,
     "aoty_url": "https://www.albumoftheyear.org/album/878112-a-g-cook-britpop.php",
-    "aoty_user": 73
+    "aoty_user": 73,
+    "discogs": 94
   },
   {
     "artist": "Gillian Welch",
@@ -2120,13 +2122,14 @@
     "metacritic": 87,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/35/6c/dd356ca4-b53f-cff3-0cb1-cf0866ff6630/dj.mxdegsfm.jpg/600x600bb.jpg",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Folk",
     "aoty_critic": 82,
     "aoty_reviews": 11,
     "aoty_url": "https://www.albumoftheyear.org/album/1022357-gillian-welch-david-rawlings-woodland.php",
-    "aoty_user": 73
+    "aoty_user": 73,
+    "discogs": 95
   },
   {
     "artist": "Adrianne Lenker",
@@ -2135,13 +2138,14 @@
     "metacritic": 87,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/d5/b5/dbd5b594-1e28-23e0-c4b2-26ddbe473dfb/191400064973.png/600x600bb.jpg",
-    "consensus": 86,
-    "reviews": 3,
+    "consensus": 87,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 87,
     "aoty_reviews": 28,
     "aoty_url": "https://www.albumoftheyear.org/album/848518-adrianne-lenker-bright-future.php",
-    "aoty_user": 83
+    "aoty_user": 83,
+    "discogs": 92
   },
   {
     "artist": "The High Llamas",
@@ -2150,9 +2154,10 @@
     "metacritic": 87,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9e/64/ab/9e64abeb-7a7b-6f24-9e6c-e5270d927542/781484090120.png/600x600bb.jpg",
-    "consensus": 87,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 86,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 84
   },
   {
     "artist": "Thou",
@@ -2161,13 +2166,14 @@
     "metacritic": 87,
     "source": "Metacritic 2024",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/de/fc/75/defc752d-cc3b-3acf-47ce-ed267ad935d3/44831.jpg/600x600bb.jpg",
-    "consensus": 84,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Metal",
     "aoty_critic": 85,
     "aoty_reviews": 11,
     "aoty_url": "https://www.albumoftheyear.org/album/926405-thou-umbilical.php",
-    "aoty_user": 79
+    "aoty_user": 79,
+    "discogs": 94
   },
   {
     "artist": "Peter Perrett",
@@ -2175,14 +2181,15 @@
     "year": 2024,
     "metacritic": 87,
     "source": "Metacritic 2024",
-    "consensus": 78,
-    "reviews": 3,
+    "consensus": 81,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/45423c580138c78a0f578cf12e138fe8/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 9,
     "aoty_url": "https://www.albumoftheyear.org/album/1037970-peter-perrett-the-cleansing.php",
-    "aoty_user": 65
+    "aoty_user": 65,
+    "discogs": 89
   },
   {
     "artist": "Knocked Loose",
@@ -2190,14 +2197,15 @@
     "year": 2024,
     "metacritic": 87,
     "source": "Metacritic 2024",
-    "consensus": 86,
-    "reviews": 3,
+    "consensus": 88,
+    "reviews": 4,
     "genre": "Metal",
     "cover": "https://cdn-images.dzcdn.net/images/cover/aefb94578dd07b681e7454d8bcbff2a7/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 88,
     "aoty_reviews": 14,
     "aoty_url": "https://www.albumoftheyear.org/album/887049-knocked-loose-you-wont-go-before-youre-supposed-to.php",
-    "aoty_user": 82
+    "aoty_user": 82,
+    "discogs": 93
   },
   {
     "artist": "Linda Thompson",
@@ -3329,12 +3337,13 @@
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/b7/d0/1bb7d00d-163a-3f7e-277c-a7a993b51bb6/38926.jpg/600x600bb.jpg",
     "consensus": 84,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 84,
     "aoty_reviews": 27,
     "aoty_url": "https://www.albumoftheyear.org/album/666988-anohni-and-the-johnsons-my-back-was-a-bridge-for-you-to-cross.php",
-    "aoty_user": 80
+    "aoty_user": 80,
+    "discogs": 87
   },
   {
     "artist": "Peter Gabriel",
@@ -3343,13 +3352,14 @@
     "metacritic": 87,
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2a/02/f4/2a02f454-518d-55c1-1324-e08f86cfdcf6/PG_io_cover_3000pxl.jpg/600x600bb.jpg",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Rock",
     "aoty_critic": 83,
     "aoty_reviews": 27,
     "aoty_url": "https://www.albumoftheyear.org/album/568281-peter-gabriel-io.php",
-    "aoty_user": 73
+    "aoty_user": 73,
+    "discogs": 92
   },
   {
     "artist": "Sampha",
@@ -3358,13 +3368,14 @@
     "metacritic": 87,
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/d9/24/56d92470-873e-6b7d-1afc-76ebab4842eb/889030039378.png/600x600bb.jpg",
-    "consensus": 86,
-    "reviews": 3,
+    "consensus": 88,
+    "reviews": 4,
     "genre": "Electronic",
     "aoty_critic": 87,
     "aoty_reviews": 16,
     "aoty_url": "https://www.albumoftheyear.org/album/732985-sampha-lahai.php",
-    "aoty_user": 85
+    "aoty_user": 85,
+    "discogs": 91
   },
   {
     "artist": "Lydia Loveless",
@@ -3372,14 +3383,15 @@
     "year": 2023,
     "metacritic": 87,
     "source": "Metacritic 2023",
-    "consensus": 78,
-    "reviews": 3,
+    "consensus": 80,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2ca565e76d0c2fad20d628fb2104694f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 7,
     "aoty_url": "https://www.albumoftheyear.org/album/683426-lydia-loveless-nothings-gonna-stand-in-my-way-again.php",
-    "aoty_user": 67
+    "aoty_user": 67,
+    "discogs": 84
   },
   {
     "artist": "The Lemon Twigs",
@@ -3388,13 +3400,14 @@
     "metacritic": 87,
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/42/64/e8/4264e8bc-55a1-5888-651f-2659a296772c/37768.jpg/600x600bb.jpg",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 81,
     "aoty_reviews": 22,
     "aoty_url": "https://www.albumoftheyear.org/album/608938-the-lemon-twigs-everything-harmony.php",
-    "aoty_user": 78
+    "aoty_user": 78,
+    "discogs": 87
   },
   {
     "artist": "Sufjan Stevens",
@@ -3402,14 +3415,15 @@
     "year": 2023,
     "metacritic": 87,
     "source": "Metacritic 2023",
-    "consensus": 87,
-    "reviews": 3,
+    "consensus": 88,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/e27baa7ae983b626fc5434e3175e32c6/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 88,
     "aoty_reviews": 33,
     "aoty_url": "https://www.albumoftheyear.org/album/724073-sufjan-stevens-javelin.php",
-    "aoty_user": 87
+    "aoty_user": 87,
+    "discogs": 89
   },
   {
     "artist": "Armand Hammer",
@@ -3417,14 +3431,15 @@
     "year": 2023,
     "metacritic": 87,
     "source": "Metacritic 2023",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 88,
+    "reviews": 4,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/0e49dab682a398643f0d620414bafbd7/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 87,
     "aoty_reviews": 16,
     "aoty_url": "https://www.albumoftheyear.org/album/708390-armand-hammer-we-buy-diabetic-test-strips.php",
-    "aoty_user": 81
+    "aoty_user": 81,
+    "discogs": 96
   },
   {
     "artist": "Sonic Youth",
@@ -3433,8 +3448,9 @@
     "metacritic": 87,
     "source": "Metacritic 2023",
     "consensus": 87,
-    "reviews": 1,
-    "genre": "Rock"
+    "reviews": 2,
+    "genre": "Rock",
+    "discogs": 87
   },
   {
     "artist": "Noname",
@@ -3442,14 +3458,15 @@
     "year": 2023,
     "metacritic": 87,
     "source": "Metacritic 2023",
-    "consensus": 78,
-    "reviews": 3,
+    "consensus": 81,
+    "reviews": 4,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/bf7fc193901b6c243d25fa40a723f253/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 11,
     "aoty_url": "https://www.albumoftheyear.org/album/583024-noname-sundial.php",
-    "aoty_user": 67
+    "aoty_user": 67,
+    "discogs": 90
   },
   {
     "artist": "Victoria Mon\u00e9t",
@@ -3458,13 +3475,14 @@
     "metacritic": 87,
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fe/78/93/fe78939d-1cf3-5f73-2b46-25cea4a11257/196589908766.jpg/600x600bb.jpg",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "R&B",
     "aoty_critic": 82,
     "aoty_reviews": 8,
     "aoty_url": "https://www.albumoftheyear.org/album/666072-victoria-monet-jaguar-ii.php",
-    "aoty_user": 77
+    "aoty_user": 77,
+    "discogs": 96
   },
   {
     "artist": "R\u00f3is\u00edn Murphy",
@@ -3473,13 +3491,14 @@
     "metacritic": 87,
     "source": "Metacritic 2023",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/01/62/cb016226-a7f7-969c-dec0-59dde7890961/859787767756_cover.jpg/600x600bb.jpg",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Electronic",
     "aoty_critic": 84,
     "aoty_reviews": 20,
     "aoty_url": "https://www.albumoftheyear.org/album/667393-roisin-murphy-hit-parade.php",
-    "aoty_user": 73
+    "aoty_user": 73,
+    "discogs": 92
   },
   {
     "artist": "Young Fathers",
@@ -4807,13 +4826,14 @@
     "metacritic": 87,
     "source": "Metacritic 2022",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e8/e0/90/e8e090fb-10ba-a0f8-c719-ce347b658bbc/075597908541.jpg/600x600bb.jpg",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Jazz",
     "aoty_critic": 82,
     "aoty_reviews": 10,
     "aoty_url": "https://www.albumoftheyear.org/album/517252-makaya-mccraven-in-these-times.php",
-    "aoty_user": 77
+    "aoty_user": 77,
+    "discogs": 92
   },
   {
     "artist": "Kathryn Joseph",
@@ -4822,13 +4842,14 @@
     "metacritic": 87,
     "source": "Metacritic 2022",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8d/01/37/8d013768-cbf7-0893-a83b-2a9f4b270f20/9489.jpg/600x600bb.jpg",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 85,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 85,
     "aoty_reviews": 8,
     "aoty_url": "https://www.albumoftheyear.org/album/494865-kathryn-joseph-for-you-who-are-the-wronged.php",
-    "aoty_user": 73
+    "aoty_user": 73,
+    "discogs": 94
   },
   {
     "artist": "Weyes Blood",
@@ -4838,12 +4859,13 @@
     "source": "Metacritic 2022",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/07/92/200792f4-0912-3329-3799-de9fc174e3a0/098787148565.png/600x600bb.jpg",
     "consensus": 85,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 83,
     "aoty_reviews": 35,
     "aoty_url": "https://www.albumoftheyear.org/album/525884-weyes-blood-and-in-the-darkness-hearts-aglow.php",
-    "aoty_user": 84
+    "aoty_user": 84,
+    "discogs": 87
   },
   {
     "artist": "Little Simz",
@@ -4851,14 +4873,15 @@
     "year": 2022,
     "metacritic": 87,
     "source": "Metacritic 2022",
-    "consensus": 86,
-    "reviews": 3,
+    "consensus": 88,
+    "reviews": 4,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/853ec53d2c47f7c0170530db2ccc9353/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 88,
     "aoty_reviews": 19,
     "aoty_url": "https://www.albumoftheyear.org/album/578996-little-simz-no-thank-you.php",
-    "aoty_user": 82
+    "aoty_user": 82,
+    "discogs": 93
   },
   {
     "artist": "Ibibio Sound Machine",
@@ -4867,13 +4890,14 @@
     "metacritic": 87,
     "source": "Metacritic 2022",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/75/94/f7759495-ab7a-c8f5-e6db-6c0128967f0d/57198.jpg/600x600bb.jpg",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Electronic",
     "aoty_critic": 81,
     "aoty_reviews": 15,
     "aoty_url": "https://www.albumoftheyear.org/album/459498-ibibio-sound-machine-electricity.php",
-    "aoty_user": 74
+    "aoty_user": 74,
+    "discogs": 88
   },
   {
     "artist": "Wet Leg",
@@ -4881,14 +4905,15 @@
     "year": 2022,
     "metacritic": 87,
     "source": "Metacritic 2022",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f56181283dbf55f6edb6d2c5091a80bc/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 42,
     "aoty_url": "https://www.albumoftheyear.org/album/442494-wet-leg-wet-leg.php",
-    "aoty_user": 72
+    "aoty_user": 72,
+    "discogs": 88
   },
   {
     "artist": "Kevin Morby",
@@ -4896,14 +4921,15 @@
     "year": 2022,
     "metacritic": 87,
     "source": "Metacritic 2022",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/25e2b9b6c735b1045fb91b22e1c17799/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 17,
     "aoty_url": "https://www.albumoftheyear.org/album/476561-kevin-morby-this-is-a-photograph.php",
-    "aoty_user": 73
+    "aoty_user": 73,
+    "discogs": 92
   },
   {
     "artist": "Loyle Carner",
@@ -4912,13 +4938,14 @@
     "metacritic": 87,
     "source": "Metacritic 2022",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/fb/77/59/fb7759b7-dde1-580f-8fca-3e9dd1e4a3ce/22UMGIM86627.rgb.jpg/600x600bb.jpg",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 85,
+    "reviews": 4,
     "genre": "Hip Hop",
     "aoty_critic": 83,
     "aoty_reviews": 16,
     "aoty_url": "https://www.albumoftheyear.org/album/538310-loyle-carner-hugo.php",
-    "aoty_user": 79
+    "aoty_user": 79,
+    "discogs": 91
   },
   {
     "artist": "Hurray for the Riff Raff",
@@ -4927,13 +4954,14 @@
     "metacritic": 87,
     "source": "Metacritic 2022",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c3/47/3d/c3473d0d-6b25-7a20-802d-191dea8329ba/075597905533.jpg/600x600bb.jpg",
-    "consensus": 80,
-    "reviews": 3,
+    "consensus": 81,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 83,
     "aoty_reviews": 19,
     "aoty_url": "https://www.albumoftheyear.org/album/431112-hurray-for-the-riff-raff-life-on-earth.php",
-    "aoty_user": 69
+    "aoty_user": 69,
+    "discogs": 84
   },
   {
     "artist": "The Rolling Stones",
