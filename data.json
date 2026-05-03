@@ -14293,13 +14293,14 @@
     "year": 2016,
     "metacritic": 83,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/312281fb201e12e54eb2e5948d1f86c6/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 22,
-    "aoty_url": "https://www.albumoftheyear.org/album/44346-lucinda-williams-the-ghosts-of-highway-20.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/44346-lucinda-williams-the-ghosts-of-highway-20.php",
+    "aoty_user": 72
   },
   {
     "artist": "Freakwater",
@@ -14307,13 +14308,14 @@
     "year": 2016,
     "metacritic": 83,
     "source": "Metacritic 2016",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 72,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/fb1c516c0f871fe8bfaab0a582d6d3b8/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/49622-freakwater-scheherazade.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/49622-freakwater-scheherazade.php",
+    "aoty_user": 55
   },
   {
     "artist": "Emma Pollock",
@@ -14321,13 +14323,14 @@
     "year": 2016,
     "metacritic": 83,
     "source": "Metacritic 2016",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/3859f60ce8403ba878012bb1c91a86b7/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/48039-emma-pollock-in-search-of-harperfield.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/48039-emma-pollock-in-search-of-harperfield.php",
+    "aoty_user": 73
   },
   {
     "artist": "Steve Gunn",
@@ -14335,13 +14338,14 @@
     "year": 2016,
     "metacritic": 83,
     "source": "Metacritic 2016",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f0fa700d9d8fa64ccff642156aa01ddd/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 21,
-    "aoty_url": "https://www.albumoftheyear.org/album/52816-steve-gunn-eyes-on-the-lines.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/52816-steve-gunn-eyes-on-the-lines.php",
+    "aoty_user": 75
   },
   {
     "artist": "Adrian Younge",
@@ -14349,13 +14353,14 @@
     "year": 2016,
     "metacritic": 83,
     "source": "Metacritic 2016",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Various",
     "cover": "https://cdn-images.dzcdn.net/images/cover/801b56ecfc974ca3929e3662837b46e1/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/47922-adrian-younge-something-about-april-ii.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/47922-adrian-younge-something-about-april-ii.php",
+    "aoty_user": 70
   },
   {
     "artist": "Grant-Lee Philips",
@@ -14363,13 +14368,14 @@
     "year": 2016,
     "metacritic": 83,
     "source": "Metacritic 2016",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Folk",
     "cover": "https://cdn-images.dzcdn.net/images/cover/07d5d518ac35f9aa4c6d84371adb43be/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/50221-grant-lee-phillips-the-narrows.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/50221-grant-lee-phillips-the-narrows.php",
+    "aoty_user": 78
   },
   {
     "artist": "Anohni",
@@ -14377,13 +14383,14 @@
     "year": 2016,
     "metacritic": 83,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8d7f26c455aca4004286a869231331c5/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 38,
-    "aoty_url": "https://www.albumoftheyear.org/album/51671-anohni-hopelessness.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/51671-anohni-hopelessness.php",
+    "aoty_user": 77
   },
   {
     "artist": "School of Seven Bells",
@@ -14391,13 +14398,14 @@
     "year": 2016,
     "metacritic": 83,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/983bf88547295af501338352622bfa01/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 27,
-    "aoty_url": "https://www.albumoftheyear.org/album/45267-school-of-seven-bells-sviib.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/45267-school-of-seven-bells-sviib.php",
+    "aoty_user": 73
   },
   {
     "artist": "Greys",
@@ -14405,13 +14413,14 @@
     "year": 2016,
     "metacritic": 83,
     "source": "Metacritic 2016",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ca5afe8d1bd0a68a46795dbafdbb0eff/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/51059-greys-outer-heaven.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/51059-greys-outer-heaven.php",
+    "aoty_user": 71
   },
   {
     "artist": "King",
@@ -14419,13 +14428,14 @@
     "year": 2016,
     "metacritic": 83,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "R&B",
     "cover": "https://cdn-images.dzcdn.net/images/cover/54e5c27f8855be461a74f74dfa5580f5/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/46535-we-are-king-we-are-king.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/46535-we-are-king-we-are-king.php",
+    "aoty_user": 73
   },
   {
     "artist": "Oren Ambarchi",
@@ -14433,13 +14443,14 @@
     "year": 2016,
     "metacritic": 83,
     "source": "Metacritic 2016",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/c48de731aa053bc1c6536f9a8bd6a70a/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/64403-oren-ambarchi-hubris.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/64403-oren-ambarchi-hubris.php",
+    "aoty_user": 72
   },
   {
     "artist": "Wadada Leo Smith",
@@ -14458,13 +14469,14 @@
     "year": 2016,
     "metacritic": 83,
     "source": "Metacritic 2016",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/1818d5bbe79e8cdefd00cdffcbd47813/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/57970-flock-of-dimes-if-you-see-me-say-yes.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/57970-flock-of-dimes-if-you-see-me-say-yes.php",
+    "aoty_user": 77
   },
   {
     "artist": "Nathan Bowles",
@@ -14472,13 +14484,14 @@
     "year": 2016,
     "metacritic": 83,
     "source": "Metacritic 2016",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/4510c0f314ad467a89b4abe44bc00ba7/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/60815-nathan-bowles-whole-cloven.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/60815-nathan-bowles-whole-cloven.php",
+    "aoty_user": 74
   },
   {
     "artist": "The Rolling Stones",
@@ -14499,13 +14512,14 @@
     "metacritic": 82,
     "source": "Metacritic 2016",
     "consensus": 84,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Folk",
     "cover": "https://cdn-images.dzcdn.net/images/cover/468a936bd76cda391394ba1fedc2fa08/1000x1000-000000-80-0-0.jpg",
     "discogs": 93,
     "aoty_critic": 77,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/65147-daniel-bachman-daniel-bachman.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/65147-daniel-bachman-daniel-bachman.php",
+    "aoty_user": 83
   },
   {
     "artist": "Future of the Left",
@@ -14513,14 +14527,15 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 79,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2ca0d71b3bce38ae03f38b2c1ec0351c/1000x1000-000000-80-0-0.jpg",
     "discogs": 83,
     "aoty_critic": 80,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/49912-future-of-the-left-the-peace-truce-of-future-of-the-left.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/49912-future-of-the-left-the-peace-truce-of-future-of-the-left.php",
+    "aoty_user": 70
   },
   {
     "artist": "The Body",
@@ -14528,14 +14543,15 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 80,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/5153e6b1fdaa6ff19d5b5095a69d7c03/1000x1000-000000-80-0-0.jpg",
     "discogs": 87,
     "aoty_critic": 76,
     "aoty_reviews": 13,
-    "aoty_url": "https://www.albumoftheyear.org/album/47127-the-body-no-one-deserves-happiness.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/47127-the-body-no-one-deserves-happiness.php",
+    "aoty_user": 74
   },
   {
     "artist": "Blood Orange",
@@ -14543,13 +14559,14 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 84,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Alternative",
     "discogs": 89,
     "aoty_critic": 80,
     "aoty_reviews": 39,
-    "aoty_url": "https://www.albumoftheyear.org/album/56229-blood-orange-freetown-sound.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/56229-blood-orange-freetown-sound.php",
+    "aoty_user": 80
   },
   {
     "artist": "The Frightnrs",
@@ -14557,13 +14574,14 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Reggae",
     "discogs": 94,
     "aoty_critic": 78,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/61155-the-frightnrs-nothing-more-to-say.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/61155-the-frightnrs-nothing-more-to-say.php",
+    "aoty_user": 73
   },
   {
     "artist": "Tim Hecker",
@@ -14571,13 +14589,14 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 80,
+    "reviews": 4,
     "genre": "Electronic",
     "discogs": 87,
     "aoty_critic": 80,
     "aoty_reviews": 28,
-    "aoty_url": "https://www.albumoftheyear.org/album/48992-tim-hecker-love-streams.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/48992-tim-hecker-love-streams.php",
+    "aoty_user": 72
   },
   {
     "artist": "Tindersticks",
@@ -14585,13 +14604,14 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 79,
+    "reviews": 4,
     "genre": "Alternative",
     "discogs": 83,
     "aoty_critic": 78,
     "aoty_reviews": 24,
-    "aoty_url": "https://www.albumoftheyear.org/album/42250-tindersticks-the-waiting-room.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/42250-tindersticks-the-waiting-room.php",
+    "aoty_user": 72
   },
   {
     "artist": "Jessy Lanza",
@@ -14599,13 +14619,14 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 84,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Electronic",
     "discogs": 91,
     "aoty_critic": 78,
     "aoty_reviews": 29,
-    "aoty_url": "https://www.albumoftheyear.org/album/49020-jessy-lanza-oh-no.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/49020-jessy-lanza-oh-no.php",
+    "aoty_user": 76
   },
   {
     "artist": "Hamilton Leithauser",
@@ -14613,13 +14634,14 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Alternative",
     "discogs": 87,
     "aoty_critic": 80,
     "aoty_reviews": 26,
-    "aoty_url": "https://www.albumoftheyear.org/album/59152-hamilton-leithauser-rostam-i-had-a-dream-that-you-were-mine.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/59152-hamilton-leithauser-rostam-i-had-a-dream-that-you-were-mine.php",
+    "aoty_user": 77
   },
   {
     "artist": "nao",
@@ -14627,13 +14649,14 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 81,
+    "reviews": 4,
     "genre": "R&B",
     "discogs": 87,
     "aoty_critic": 79,
     "aoty_reviews": 20,
-    "aoty_url": "https://www.albumoftheyear.org/album/55316-nao-for-all-we-know.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/55316-nao-for-all-we-know.php",
+    "aoty_user": 76
   },
   {
     "artist": "Architects",
@@ -14641,13 +14664,14 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 87,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Rock",
     "discogs": 96,
     "aoty_critic": 83,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/51429-architects-all-our-gods-have-abandoned-us.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/51429-architects-all-our-gods-have-abandoned-us.php",
+    "aoty_user": 83
   },
   {
     "artist": "Agnes Obel",
@@ -14655,14 +14679,15 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7b1e744e0ba414ac0fc193713c78f88f/1000x1000-000000-80-0-0.jpg",
     "discogs": 89,
     "aoty_critic": 78,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/57837-agnes-obel-citizen-of-glass.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/57837-agnes-obel-citizen-of-glass.php",
+    "aoty_user": 79
   },
   {
     "artist": "Andy Stott",
@@ -14670,13 +14695,14 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/9aa619decf826b58bc6380d4a67969d6/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 13,
-    "aoty_url": "https://www.albumoftheyear.org/album/52698-andy-stott-too-many-voices.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/52698-andy-stott-too-many-voices.php",
+    "aoty_user": 74
   },
   {
     "artist": "Alejandro Escovedo",
@@ -14684,13 +14710,14 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/5f57894054b79deae977a8dbe76b1c9a/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/64436-alejandro-escovedo-burn-something-beautiful.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/64436-alejandro-escovedo-burn-something-beautiful.php",
+    "aoty_user": 75
   },
   {
     "artist": "Hi:Emotions",
@@ -14698,13 +14725,14 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/20101c18db439bddf7babdea260bfa24/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/59665-dva-notu-uronlineu.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/59665-dva-notu-uronlineu.php",
+    "aoty_user": 69
   },
   {
     "artist": "Kaitlyn Aurelia Smith",
@@ -14712,13 +14740,14 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/9416575afe2ca995d10cd236b2440655/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/50319-kaitlyn-aurelia-smith-ears.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/50319-kaitlyn-aurelia-smith-ears.php",
+    "aoty_user": 75
   },
   {
     "artist": "Romare",
@@ -14737,13 +14766,14 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/682c582584498d7c63a7d6c8bfacc6e8/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 75,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/59928-xylouris-white-black-peak.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/59928-xylouris-white-black-peak.php",
+    "aoty_user": 75
   },
   {
     "artist": "Shearwater",
@@ -14751,13 +14781,14 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 79,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/1897333508cbf76237a2b3e9cdbef39b/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 21,
-    "aoty_url": "https://www.albumoftheyear.org/album/43143-shearwater-jet-plane-and-oxbow.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/43143-shearwater-jet-plane-and-oxbow.php",
+    "aoty_user": 72
   },
   {
     "artist": "Shirley Collins",
@@ -14765,13 +14796,14 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 76,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/21e2a81cf19e44276e30bb2342b4d3e4/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 13,
-    "aoty_url": "https://www.albumoftheyear.org/album/61517-shirley-collins-lodestar.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/61517-shirley-collins-lodestar.php",
+    "aoty_user": 66
   },
   {
     "artist": "The Radio Dept.",
@@ -14779,13 +14811,14 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6f51d959bbfdfd66e1c57eac6ae65ad9/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/58565-the-radio-dept-running-out-of-love.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/58565-the-radio-dept-running-out-of-love.php",
+    "aoty_user": 72
   },
   {
     "artist": "Kendrick Lamar",
@@ -14794,13 +14827,14 @@
     "metacritic": 96,
     "source": "Metacritic 2015",
     "consensus": 95,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/00dd0da365a94b1829302d6b7fec70e6/1000x1000-000000-80-0-0.jpg",
     "discogs": 95,
     "aoty_critic": 95,
     "aoty_reviews": 47,
-    "aoty_url": "https://www.albumoftheyear.org/album/29250-kendrick-lamar-to-pimp-a-butterfly.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/29250-kendrick-lamar-to-pimp-a-butterfly.php",
+    "aoty_user": 95
   },
   {
     "artist": "Sufjan Stevens",
@@ -14808,14 +14842,15 @@
     "year": 2015,
     "metacritic": 90,
     "source": "Metacritic 2015",
-    "consensus": 91,
-    "reviews": 3,
+    "consensus": 90,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/122a6ace3852ad75a05aa435d17b38b3/1000x1000-000000-80-0-0.jpg",
     "discogs": 92,
     "aoty_critic": 91,
     "aoty_reviews": 48,
-    "aoty_url": "https://www.albumoftheyear.org/album/26035-sufjan-stevens-carrie-lowell.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/26035-sufjan-stevens-carrie-lowell.php",
+    "aoty_user": 89
   },
   {
     "artist": "Sleater-Kinney",
@@ -14823,14 +14858,15 @@
     "year": 2015,
     "metacritic": 90,
     "source": "Metacritic 2015",
-    "consensus": 87,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/06d0972a44c1c7d1283182fdcbc4a034/1000x1000-000000-80-0-0.jpg",
     "discogs": 81,
     "aoty_critic": 89,
     "aoty_reviews": 46,
-    "aoty_url": "https://www.albumoftheyear.org/album/22064-sleater-kinney-no-cities-to-love.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/22064-sleater-kinney-no-cities-to-love.php",
+    "aoty_user": 77
   },
   {
     "artist": "Napalm Death",
@@ -14838,14 +14874,15 @@
     "year": 2015,
     "metacritic": 89,
     "source": "Metacritic 2015",
-    "consensus": 88,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/610939580b09bd69c50145b9ea5a8920/1000x1000-000000-80-0-0.jpg",
     "discogs": 90,
     "aoty_critic": 84,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/25916-napalm-death-apex-predator-easy-meat.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/25916-napalm-death-apex-predator-easy-meat.php",
+    "aoty_user": 79
   },
   {
     "artist": "Sam Lee",
@@ -14853,14 +14890,15 @@
     "year": 2015,
     "metacritic": 89,
     "source": "Metacritic 2015",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/bd3bccf0cbf0a76ca875aa762f57e44e/1000x1000-000000-80-0-0.jpg",
     "discogs": 78,
     "aoty_critic": 89,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/29281-sam-lee-the-fade-in-time.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/29281-sam-lee-the-fade-in-time.php",
+    "aoty_user": 75
   },
   {
     "artist": "Steven Wilson",
@@ -14879,13 +14917,14 @@
     "year": 2015,
     "metacritic": 88,
     "source": "Metacritic 2015",
-    "consensus": 88,
-    "reviews": 2,
+    "consensus": 87,
+    "reviews": 3,
     "genre": "Folk",
     "cover": "https://cdn-images.dzcdn.net/images/cover/4bede827dfe9d2a36a987b7910cace78/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 88,
     "aoty_reviews": 44,
-    "aoty_url": "https://www.albumoftheyear.org/album/38822-joanna-newsom-divers.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/38822-joanna-newsom-divers.php",
+    "aoty_user": 86
   },
   {
     "artist": "Courtney Barnett",
@@ -14893,13 +14932,14 @@
     "year": 2015,
     "metacritic": 88,
     "source": "Metacritic 2015",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 84,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/c888c454c0e49e7af0756c78ab739c5f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 44,
-    "aoty_url": "https://www.albumoftheyear.org/album/27039-courtney-barnett-sometimes-i-sit-and-think-and-sometimes-i-just-sit.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/27039-courtney-barnett-sometimes-i-sit-and-think-and-sometimes-i-just-sit.php",
+    "aoty_user": 80
   },
   {
     "artist": "Bring Me the Horizon",
@@ -14907,13 +14947,14 @@
     "year": 2015,
     "metacritic": 88,
     "source": "Metacritic 2015",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/dd6af81a0d098fdd32e824fd43f2635d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 13,
-    "aoty_url": "https://www.albumoftheyear.org/album/37172-bring-me-the-horizon-thats-the-spirit.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/37172-bring-me-the-horizon-thats-the-spirit.php",
+    "aoty_user": 76
   },
   {
     "artist": "Mbongwana Star",
@@ -14921,13 +14962,14 @@
     "year": 2015,
     "metacritic": 88,
     "source": "Metacritic 2015",
-    "consensus": 88,
-    "reviews": 2,
+    "consensus": 84,
+    "reviews": 3,
     "genre": "World",
     "cover": "https://cdn-images.dzcdn.net/images/cover/0d21a59f0ce2f00a04db6e29cbe08222/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 87,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/33159-mbongwana-star-from-kinshasa.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/33159-mbongwana-star-from-kinshasa.php",
+    "aoty_user": 78
   },
   {
     "artist": "Grimes",
@@ -14935,13 +14977,14 @@
     "year": 2015,
     "metacritic": 88,
     "source": "Metacritic 2015",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 85,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6a7fbeeb7632c81774d13d2bd0cc0f0b/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 37,
-    "aoty_url": "https://www.albumoftheyear.org/album/43091-grimes-art-angels.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/43091-grimes-art-angels.php",
+    "aoty_user": 83
   },
   {
     "artist": "James McMurtry",
@@ -14949,12 +14992,13 @@
     "year": 2015,
     "metacritic": 87,
     "source": "Metacritic 2015",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Pop",
     "aoty_critic": 85,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/28151-james-mcmurtry-complicated-game.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/28151-james-mcmurtry-complicated-game.php",
+    "aoty_user": 77
   },
   {
     "artist": "Julia Holter",
@@ -14962,13 +15006,14 @@
     "year": 2015,
     "metacritic": 87,
     "source": "Metacritic 2015",
-    "consensus": 88,
-    "reviews": 2,
+    "consensus": 87,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/4e787f7dfbea73fd07b776821db411de/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 88,
     "aoty_reviews": 37,
-    "aoty_url": "https://www.albumoftheyear.org/album/36433-julia-holter-have-you-in-my-wilderness.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/36433-julia-holter-have-you-in-my-wilderness.php",
+    "aoty_user": 85
   },
   {
     "artist": "Jason Isbell",
@@ -14976,13 +15021,14 @@
     "year": 2015,
     "metacritic": 87,
     "source": "Metacritic 2015",
-    "consensus": 85,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Folk",
     "cover": "https://cdn-images.dzcdn.net/images/cover/e2c776ba1a5b291368193d4281de919b/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 28,
-    "aoty_url": "https://www.albumoftheyear.org/album/31372-jason-isbell-something-more-than-free.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/31372-jason-isbell-something-more-than-free.php",
+    "aoty_user": 79
   },
   {
     "artist": "John Howard & The Night Mail",
@@ -14990,13 +15036,14 @@
     "year": 2015,
     "metacritic": 87,
     "source": "Metacritic 2015",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7585c64476508fe5dc61fa4da2d71040/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/39404-john-howard-the-night-mail-john-howard-the-night-mail.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/39404-john-howard-the-night-mail-john-howard-the-night-mail.php",
+    "aoty_user": 78
   },
   {
     "artist": "Susanne Sundf\u00f8r",
@@ -15004,13 +15051,14 @@
     "year": 2015,
     "metacritic": 87,
     "source": "Metacritic 2015",
-    "consensus": 87,
-    "reviews": 2,
+    "consensus": 86,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/69e556b21f1a609592f2750c23085fcf/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 87,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/27235-susanne-sundfor-ten-love-songs.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/27235-susanne-sundfor-ten-love-songs.php",
+    "aoty_user": 84
   },
   {
     "artist": "Hiatus Kaiyote",
@@ -15018,13 +15066,14 @@
     "year": 2015,
     "metacritic": 87,
     "source": "Metacritic 2015",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "R&B",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7b665539d2220a492f1ab13a8e27291b/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/30270-hiatus-kaiyote-choose-your-weapon.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/30270-hiatus-kaiyote-choose-your-weapon.php",
+    "aoty_user": 80
   },
   {
     "artist": "Hop Along",
@@ -15032,13 +15081,14 @@
     "year": 2015,
     "metacritic": 87,
     "source": "Metacritic 2015",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8ba1ad35f21d7784d8b190c032d5c8dc/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/29100-hop-along-painted-shut.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/29100-hop-along-painted-shut.php",
+    "aoty_user": 79
   },
   {
     "artist": "Vince Staples",
