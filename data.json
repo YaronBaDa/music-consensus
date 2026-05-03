@@ -8607,12 +8607,13 @@
     "year": 2020,
     "metacritic": 84,
     "source": "Metacritic 2020",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Jazz",
     "aoty_critic": 80,
     "aoty_reviews": 13,
-    "aoty_url": "https://www.albumoftheyear.org/album/214230-moses-boyd-dark-matter.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/214230-moses-boyd-dark-matter.php",
+    "aoty_user": 75
   },
   {
     "artist": "Ohmme",
@@ -8620,12 +8621,13 @@
     "year": 2020,
     "metacritic": 83,
     "source": "Metacritic 2020",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Rock",
     "aoty_critic": 80,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/220763-finom-fantasize-your-ghost.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/220763-finom-fantasize-your-ghost.php",
+    "aoty_user": 68
   },
   {
     "artist": "Hayley Williams",
@@ -8633,13 +8635,14 @@
     "year": 2020,
     "metacritic": 83,
     "source": "Metacritic 2020",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/04cdac2e3daa4395a7408b9355faa334/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 30,
-    "aoty_url": "https://www.albumoftheyear.org/album/209734-hayley-williams-petals-for-armor.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/209734-hayley-williams-petals-for-armor.php",
+    "aoty_user": 75
   },
   {
     "artist": "Ana Roxanne",
@@ -8648,12 +8651,13 @@
     "metacritic": 83,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1c/a3/2c/1ca32c44-3ec8-33ba-13f1-6d3932e05da3/796441823024.jpg/600x600bb.jpg",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Electronic",
     "aoty_critic": 77,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/278698-ana-roxanne-because-of-a-flower.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/278698-ana-roxanne-because-of-a-flower.php",
+    "aoty_user": 76
   },
   {
     "artist": "Thurston Moore",
@@ -8661,13 +8665,14 @@
     "year": 2020,
     "metacritic": 83,
     "source": "Metacritic 2020",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f3ff6e28247b87c1a5472bd76af212cb/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/254511-thurston-moore-by-the-fire.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/254511-thurston-moore-by-the-fire.php",
+    "aoty_user": 72
   },
   {
     "artist": "Mac Miller",
@@ -8675,13 +8680,14 @@
     "year": 2020,
     "metacritic": 83,
     "source": "Metacritic 2020",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 84,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f775144a9c375ada83e1e014920a4d9a/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/205582-mac-miller-circles.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/205582-mac-miller-circles.php",
+    "aoty_user": 86
   },
   {
     "artist": "Brandy Clark",
@@ -8689,13 +8695,14 @@
     "year": 2020,
     "metacritic": 83,
     "source": "Metacritic 2020",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Country",
     "cover": "https://cdn-images.dzcdn.net/images/cover/41cfd3c0d39d47a3095620c80a60fb51/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/221260-brandy-clark-your-life-is-a-record.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/221260-brandy-clark-your-life-is-a-record.php",
+    "aoty_user": 73
   },
   {
     "artist": "Touch\u00e9 Amor\u00e9",
@@ -8704,12 +8711,13 @@
     "metacritic": 83,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/24/70/6e2470a0-0117-0284-e03d-f584cdfd152f/0045778771967.png/600x600bb.jpg",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Rock",
     "aoty_critic": 81,
     "aoty_reviews": 18,
-    "aoty_url": "https://www.albumoftheyear.org/album/265709-touche-amore-lament.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/265709-touche-amore-lament.php",
+    "aoty_user": 73
   },
   {
     "artist": "Childish Gambino",
@@ -8717,12 +8725,13 @@
     "year": 2020,
     "metacritic": 83,
     "source": "Metacritic 2020",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 76,
+    "reviews": 3,
     "genre": "Hip Hop",
     "aoty_critic": 79,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/224113-childish-gambino-3-15-20.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/224113-childish-gambino-3-15-20.php",
+    "aoty_user": 65
   },
   {
     "artist": "Angel Olsen",
@@ -8730,13 +8739,14 @@
     "year": 2020,
     "metacritic": 83,
     "source": "Metacritic 2020",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/bb0405467a519cd5376751fdfd1e90e4/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 24,
-    "aoty_url": "https://www.albumoftheyear.org/album/265576-angel-olsen-whole-new-mess.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/265576-angel-olsen-whole-new-mess.php",
+    "aoty_user": 70
   },
   {
     "artist": "Norah Jones",
@@ -8745,12 +8755,13 @@
     "metacritic": 83,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/24/12/30/24123032-f2f0-6e20-16c6-70491dba9d83/20UMGIM12990.rgb.jpg/600x600bb.jpg",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Pop",
     "aoty_critic": 79,
     "aoty_reviews": 16,
-    "aoty_url": "https://www.albumoftheyear.org/album/223895-norah-jones-pick-me-up-off-the-floor.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/223895-norah-jones-pick-me-up-off-the-floor.php",
+    "aoty_user": 73
   },
   {
     "artist": "Nadia Reid",
@@ -8758,13 +8769,14 @@
     "year": 2020,
     "metacritic": 83,
     "source": "Metacritic 2020",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/c691f81ff1282c0ab4c5b6219e1fd631/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/197550-nadia-reid-out-of-my-province.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/197550-nadia-reid-out-of-my-province.php",
+    "aoty_user": 70
   },
   {
     "artist": "The Cribs",
@@ -8773,12 +8785,13 @@
     "metacritic": 83,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/3e/62/173e6221-7b0d-ffc3-c776-b77cea3c5ab3/5400863030087_cover.jpg/600x600bb.jpg",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 76,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 82,
     "aoty_reviews": 16,
-    "aoty_url": "https://www.albumoftheyear.org/album/270693-the-cribs-night-network.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/270693-the-cribs-night-network.php",
+    "aoty_user": 64
   },
   {
     "artist": "Working Men's Club",
@@ -8786,13 +8799,14 @@
     "year": 2020,
     "metacritic": 83,
     "source": "Metacritic 2020",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8f59dfbc4bdb5d6dff452c7f4c9e0ea1/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/223115-working-mens-club-working-mens-club.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/223115-working-mens-club-working-mens-club.php",
+    "aoty_user": 73
   },
   {
     "artist": "Ashley McBryde",
@@ -8800,13 +8814,14 @@
     "year": 2020,
     "metacritic": 83,
     "source": "Metacritic 2020",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Country",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d5d65b4797c5a3852c7fb90e2fb6a106/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/216997-ashley-mcbryde-never-will.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/216997-ashley-mcbryde-never-will.php",
+    "aoty_user": 72
   },
   {
     "artist": "Rustin Man",
@@ -8815,12 +8830,13 @@
     "metacritic": 83,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7f/be/48/7fbe48e0-24a7-f618-ff23-956413f8a8c4/dj.vbuxjjix.jpg/600x600bb.jpg",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 76,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 78,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/212751-rustin-man-clockdust.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/212751-rustin-man-clockdust.php",
+    "aoty_user": 68
   },
   {
     "artist": "The Dream Syndicate",
@@ -8829,12 +8845,13 @@
     "metacritic": 83,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/41/e8/3e41e89e-2bf6-7138-4564-c43dae7b146b/0045778775163.png/600x600bb.jpg",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 83,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/218548-the-dream-syndicate-the-universe-inside.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/218548-the-dream-syndicate-the-universe-inside.php",
+    "aoty_user": 69
   },
   {
     "artist": "Jay Electronica",
@@ -8842,13 +8859,14 @@
     "year": 2020,
     "metacritic": 83,
     "source": "Metacritic 2020",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/0ae9696b04b10bdea6b6316e4d738371/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/213529-jay-electronica-a-written-testimony.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/213529-jay-electronica-a-written-testimony.php",
+    "aoty_user": 71
   },
   {
     "artist": "Don Bryant",
@@ -8856,13 +8874,14 @@
     "year": 2020,
     "metacritic": 83,
     "source": "Metacritic 2020",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8213bb41fbef69e9fda76984ea476937/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/220190-don-bryant-you-make-me-feel.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/220190-don-bryant-you-make-me-feel.php",
+    "aoty_user": 74
   },
   {
     "artist": "Riz Ahmed",
@@ -8870,13 +8889,14 @@
     "year": 2020,
     "metacritic": 83,
     "source": "Metacritic 2020",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 76,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/973fddf5204f1c0de395694398d57dcd/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/218984-riz-ahmed-the-long-goodbye.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/218984-riz-ahmed-the-long-goodbye.php",
+    "aoty_user": 65
   },
   {
     "artist": "Lianne La Havas",
@@ -8886,11 +8906,12 @@
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b7/b5/1b/b7b51b05-3001-ceee-7a18-4b70a3b9c94f/190295048013.jpg/600x600bb.jpg",
     "consensus": 82,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "R&B",
     "aoty_critic": 81,
     "aoty_reviews": 29,
-    "aoty_url": "https://www.albumoftheyear.org/album/238662-lianne-la-havas-lianne-la-havas.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/238662-lianne-la-havas-lianne-la-havas.php",
+    "aoty_user": 83
   },
   {
     "artist": "Other Lives",
@@ -8899,12 +8920,13 @@
     "metacritic": 83,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/99/5c/87/995c87d5-4d7b-a1dd-9b7e-f3692766b201/553.jpg/600x600bb.jpg",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 80,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/206362-other-lives-for-their-love.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/206362-other-lives-for-their-love.php",
+    "aoty_user": 72
   },
   {
     "artist": "Owen Pallett",
@@ -8912,13 +8934,14 @@
     "year": 2020,
     "metacritic": 83,
     "source": "Metacritic 2020",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ddc1a977a2304d95a35a24239b2049ad/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/244287-owen-pallett-island.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/244287-owen-pallett-island.php",
+    "aoty_user": 73
   },
   {
     "artist": "Frances Quinlan",
@@ -8927,12 +8950,13 @@
     "metacritic": 83,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e1/20/94/e12094a1-9707-0fc1-648d-7276b9aa0b35/LBJ-298_10x10_300dpi_RGB.jpg/600x600bb.jpg",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 78,
     "aoty_reviews": 17,
-    "aoty_url": "https://www.albumoftheyear.org/album/185797-frances-quinlan-likewise.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/185797-frances-quinlan-likewise.php",
+    "aoty_user": 70
   },
   {
     "artist": "Nick Cave & the Bad Seeds",
@@ -8940,14 +8964,15 @@
     "year": 2019,
     "metacritic": 96,
     "source": "Metacritic 2019",
-    "consensus": 93,
-    "reviews": 3,
+    "consensus": 90,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b5ac970320ecf927bc304f302bb6fca8/1000x1000-000000-80-0-0.jpg",
     "discogs": 90,
     "aoty_critic": 93,
     "aoty_reviews": 37,
-    "aoty_url": "https://www.albumoftheyear.org/album/178735-nick-cave-the-bad-seeds-ghosteen.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/178735-nick-cave-the-bad-seeds-ghosteen.php",
+    "aoty_user": 81
   },
   {
     "artist": "Weyes Blood",
@@ -8957,12 +8982,13 @@
     "source": "Metacritic 2019",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/54/f6/fc/54f6fc73-6a18-d97a-a634-a4630ec35593/WeyesBlood_TitanicRising_3600.jpg/600x600bb.jpg",
     "consensus": 90,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Alternative",
     "discogs": 92,
     "aoty_critic": 87,
     "aoty_reviews": 31,
-    "aoty_url": "https://www.albumoftheyear.org/album/139513-weyes-blood-titanic-rising.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/139513-weyes-blood-titanic-rising.php",
+    "aoty_user": 89
   },
   {
     "artist": "Little Simz",
@@ -8970,14 +8996,15 @@
     "year": 2019,
     "metacritic": 91,
     "source": "Metacritic 2019",
-    "consensus": 90,
-    "reviews": 3,
+    "consensus": 89,
+    "reviews": 4,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/5732947e09b91128f20bfd43de537a11/1000x1000-000000-80-0-0.jpg",
     "discogs": 92,
     "aoty_critic": 88,
     "aoty_reviews": 21,
-    "aoty_url": "https://www.albumoftheyear.org/album/136584-little-simz-grey-area.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/136584-little-simz-grey-area.php",
+    "aoty_user": 84
   },
   {
     "artist": "Baroness",
@@ -8986,13 +9013,14 @@
     "metacritic": 91,
     "source": "Metacritic 2019",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/98/28/f8/9828f8b8-82bc-891e-7453-ea6f766304ba/855380008715.png/600x600bb.jpg",
-    "consensus": 86,
-    "reviews": 3,
+    "consensus": 81,
+    "reviews": 4,
     "genre": "Rock",
     "discogs": 83,
     "aoty_critic": 85,
     "aoty_reviews": 21,
-    "aoty_url": "https://www.albumoftheyear.org/album/143920-baroness-gold-grey.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/143920-baroness-gold-grey.php",
+    "aoty_user": 65
   },
   {
     "artist": "Raphael Saadiq",
@@ -9000,14 +9028,15 @@
     "year": 2019,
     "metacritic": 90,
     "source": "Metacritic 2019",
-    "consensus": 88,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "R&B",
     "cover": "https://cdn-images.dzcdn.net/images/cover/0f3c84b892fb50ced646cbd489e4abfb/1000x1000-000000-80-0-0.jpg",
     "discogs": 90,
     "aoty_critic": 84,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/171012-raphael-saadiq-jimmy-lee.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/171012-raphael-saadiq-jimmy-lee.php",
+    "aoty_user": 74
   },
   {
     "artist": "Rapsody",
@@ -9016,13 +9045,14 @@
     "metacritic": 90,
     "source": "Metacritic 2019",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/44/29/95/442995c9-7cf7-8bbd-eac3-9ebcd507cb78/19UMGIM73088.rgb.jpg/600x600bb.jpg",
-    "consensus": 88,
-    "reviews": 3,
+    "consensus": 85,
+    "reviews": 4,
     "genre": "Hip Hop",
     "discogs": 89,
     "aoty_critic": 85,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/162701-rapsody-eve.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/162701-rapsody-eve.php",
+    "aoty_user": 76
   },
   {
     "artist": "Dave",
@@ -9031,13 +9061,14 @@
     "metacritic": 90,
     "source": "Metacritic 2019",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c0/f5/ff/c0f5ff76-4daf-a94c-51a7-83d1c462da76/artwork.jpg/600x600bb.jpg",
-    "consensus": 91,
-    "reviews": 3,
+    "consensus": 88,
+    "reviews": 4,
     "genre": "Hip Hop",
     "discogs": 96,
     "aoty_critic": 88,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/142667-dave-psychodrama.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/142667-dave-psychodrama.php",
+    "aoty_user": 77
   },
   {
     "artist": "Michael Kiwanuka",
@@ -9046,13 +9077,14 @@
     "metacritic": 89,
     "source": "Metacritic 2019",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fe/7b/d7/fe7bd752-30f8-bbb3-5d01-36710c4024aa/19UMGIM61784.rgb.jpg/600x600bb.jpg",
-    "consensus": 89,
-    "reviews": 3,
+    "consensus": 87,
+    "reviews": 4,
     "genre": "Soul",
     "discogs": 90,
     "aoty_critic": 87,
     "aoty_reviews": 30,
-    "aoty_url": "https://www.albumoftheyear.org/album/170681-michael-kiwanuka-kiwanuka.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/170681-michael-kiwanuka-kiwanuka.php",
+    "aoty_user": 81
   },
   {
     "artist": "Jamila Woods",
@@ -9060,14 +9092,15 @@
     "year": 2019,
     "metacritic": 89,
     "source": "Metacritic 2019",
-    "consensus": 89,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "R&B",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f2b5c3f627d76bd02b05dbbb9671ac6e/1000x1000-000000-80-0-0.jpg",
     "discogs": 92,
     "aoty_critic": 86,
     "aoty_reviews": 21,
-    "aoty_url": "https://www.albumoftheyear.org/album/138780-jamila-woods-legacy-legacy.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/138780-jamila-woods-legacy-legacy.php",
+    "aoty_user": 79
   },
   {
     "artist": "Angel Olsen",
@@ -9076,13 +9109,14 @@
     "metacritic": 89,
     "source": "Metacritic 2019",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/30/80/0f/30800ffa-f303-9af5-17e7-7f21be89b91b/656605234465.jpg/600x600bb.jpg",
-    "consensus": 88,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Alternative",
     "discogs": 89,
     "aoty_critic": 86,
     "aoty_reviews": 38,
-    "aoty_url": "https://www.albumoftheyear.org/album/167313-angel-olsen-all-mirrors.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/167313-angel-olsen-all-mirrors.php",
+    "aoty_user": 81
   },
   {
     "artist": "Solange",
@@ -9090,14 +9124,15 @@
     "year": 2019,
     "metacritic": 89,
     "source": "Metacritic 2019",
-    "consensus": 88,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Soul",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ac9324c12054d39cba9da1d04ac5c71d/1000x1000-000000-80-0-0.jpg",
     "discogs": 93,
     "aoty_critic": 82,
     "aoty_reviews": 28,
-    "aoty_url": "https://www.albumoftheyear.org/album/142095-solange-when-i-get-home.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/142095-solange-when-i-get-home.php",
+    "aoty_user": 79
   },
   {
     "artist": "Slipknot",
@@ -9105,14 +9140,15 @@
     "year": 2019,
     "metacritic": 89,
     "source": "Metacritic 2019",
-    "consensus": 87,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/fdc2196c15fbf2ee91881a78af4da153/1000x1000-000000-80-0-0.jpg",
     "discogs": 90,
     "aoty_critic": 83,
     "aoty_reviews": 23,
-    "aoty_url": "https://www.albumoftheyear.org/album/154233-slipknot-we-are-not-your-kind.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/154233-slipknot-we-are-not-your-kind.php",
+    "aoty_user": 74
   },
   {
     "artist": "Refused",
@@ -9120,13 +9156,14 @@
     "year": 2019,
     "metacritic": 88,
     "source": "Metacritic 2019",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 75,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f2119818354deadc69ce9075d71745af/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 13,
-    "aoty_url": "https://www.albumoftheyear.org/album/166855-refused-war-music.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/166855-refused-war-music.php",
+    "aoty_user": 61
   },
   {
     "artist": "Lingua Ignota",
@@ -9135,12 +9172,13 @@
     "metacritic": 88,
     "source": "Metacritic 2019",
     "consensus": 86,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b60b734589ad49bc33db4936b1c2d21e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/154924-lingua-ignota-caligula.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/154924-lingua-ignota-caligula.php",
+    "aoty_user": 86
   },
   {
     "artist": "Aldous Harding",
@@ -9149,12 +9187,13 @@
     "metacritic": 88,
     "source": "Metacritic 2019",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c3/02/6c/c3026c53-598c-e31b-c452-419677a0e6d5/dj.bzknjjtt.jpg/600x600bb.jpg",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 84,
     "aoty_reviews": 25,
-    "aoty_url": "https://www.albumoftheyear.org/album/140613-aldous-harding-designer.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/140613-aldous-harding-designer.php",
+    "aoty_user": 77
   },
   {
     "artist": "FKA twigs",
@@ -9163,12 +9202,13 @@
     "metacritic": 88,
     "source": "Metacritic 2019",
     "consensus": 88,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/63593ab6be8e57a118b9b53784eda751/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 88,
     "aoty_reviews": 36,
-    "aoty_url": "https://www.albumoftheyear.org/album/150125-fka-twigs-magdalene.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/150125-fka-twigs-magdalene.php",
+    "aoty_user": 87
   },
   {
     "artist": "Brittany Howard",
@@ -9177,12 +9217,13 @@
     "metacritic": 88,
     "source": "Metacritic 2019",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/10/2c/20/102c2088-4fe6-45b1-2e3d-e763e68aef0e/699.jpg/600x600bb.jpg",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 83,
     "aoty_reviews": 22,
-    "aoty_url": "https://www.albumoftheyear.org/album/161986-brittany-howard-jaime.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/161986-brittany-howard-jaime.php",
+    "aoty_user": 75
   },
   {
     "artist": "Freddie Gibbs",
@@ -9192,12 +9233,13 @@
     "source": "Metacritic 2019",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/56/ac/01/56ac0168-a135-412e-c949-0d550fc19d6a/886448232902.jpg/600x600bb.jpg",
     "consensus": 87,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Hip Hop",
     "discogs": 90,
     "aoty_critic": 84,
     "aoty_reviews": 30,
-    "aoty_url": "https://www.albumoftheyear.org/album/140934-freddie-gibbs-madlib-bandana.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/140934-freddie-gibbs-madlib-bandana.php",
+    "aoty_user": 85
   },
   {
     "artist": "Bill Callahan",
@@ -9205,14 +9247,15 @@
     "year": 2019,
     "metacritic": 88,
     "source": "Metacritic 2019",
-    "consensus": 86,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8cf0680b329f3df84c214591cb6ef72a/1000x1000-000000-80-0-0.jpg",
     "discogs": 87,
     "aoty_critic": 83,
     "aoty_reviews": 23,
-    "aoty_url": "https://www.albumoftheyear.org/album/152004-bill-callahan-shepherd-in-a-sheepskin-vest.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/152004-bill-callahan-shepherd-in-a-sheepskin-vest.php",
+    "aoty_user": 74
   },
   {
     "artist": "Big Thief",
@@ -9221,12 +9264,13 @@
     "metacritic": 87,
     "source": "Metacritic 2019",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c2/71/2b/c2712ba8-9fb4-da63-6b2a-f1f25275e9e6/Big_Thief_UFOF.jpg/600x600bb.jpg",
-    "consensus": 85,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 83,
     "aoty_reviews": 28,
-    "aoty_url": "https://www.albumoftheyear.org/album/141758-big-thief-ufof.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/141758-big-thief-ufof.php",
+    "aoty_user": 78
   },
   {
     "artist": "Cate Le Bon",
@@ -9234,13 +9278,14 @@
     "year": 2019,
     "metacritic": 87,
     "source": "Metacritic 2019",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2c780427781f5571a8ecf766b5a5da29/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/144979-cate-le-bon-reward.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/144979-cate-le-bon-reward.php",
+    "aoty_user": 73
   },
   {
     "artist": "Purple Mountains",
@@ -9249,12 +9294,13 @@
     "metacritic": 87,
     "source": "Metacritic 2019",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/71/6c/55716cc7-aeb8-5b2d-f4f1-e8e6022e625e/781484068020.png/600x600bb.jpg",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 85,
+    "reviews": 3,
     "genre": "Rock",
     "aoty_critic": 86,
     "aoty_reviews": 21,
-    "aoty_url": "https://www.albumoftheyear.org/album/155745-purple-mountains-purple-mountains.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/155745-purple-mountains-purple-mountains.php",
+    "aoty_user": 83
   },
   {
     "artist": "Lana Del Rey",
@@ -9263,12 +9309,13 @@
     "metacritic": 87,
     "source": "Metacritic 2019",
     "consensus": 87,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/c0f4f022fa51f13e877aae2e758e241d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 87,
     "aoty_reviews": 36,
-    "aoty_url": "https://www.albumoftheyear.org/album/121870-lana-del-rey-norman-fucking-rockwell.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/121870-lana-del-rey-norman-fucking-rockwell.php",
+    "aoty_user": 88
   },
   {
     "artist": "Sharon Van Etten",
@@ -9276,13 +9323,14 @@
     "year": 2019,
     "metacritic": 86,
     "source": "Metacritic 2019",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/36c31d3fb48ae8eb169924925c53ed99/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 47,
-    "aoty_url": "https://www.albumoftheyear.org/album/123422-sharon-van-etten-remind-me-tomorrow.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/123422-sharon-van-etten-remind-me-tomorrow.php",
+    "aoty_user": 78
   },
   {
     "artist": "Ariana Grande",
@@ -9291,12 +9339,13 @@
     "metacritic": 86,
     "source": "Metacritic 2019",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/69/07/bb6907de-8ad4-970b-3311-121320e1bf9c/19UMGIM03691.rgb.jpg/600x600bb.jpg",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Pop",
     "aoty_critic": 82,
     "aoty_reviews": 31,
-    "aoty_url": "https://www.albumoftheyear.org/album/134808-ariana-grande-thank-u-next.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/134808-ariana-grande-thank-u-next.php",
+    "aoty_user": 78
   },
   {
     "artist": "BobKrlic",
@@ -9314,12 +9363,13 @@
     "year": 2019,
     "metacritic": 86,
     "source": "Metacritic 2019",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Various",
     "aoty_critic": 80,
     "aoty_reviews": 21,
-    "aoty_url": "https://www.albumoftheyear.org/album/157746-alex-g-house-of-sugar.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/157746-alex-g-house-of-sugar.php",
+    "aoty_user": 77
   },
   {
     "artist": "Fontaines D.C.",
@@ -19388,8 +19438,8 @@
     "year": 2012,
     "metacritic": 82,
     "source": "Metacritic 2012",
-    "consensus": 85,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/40d366fc030192140238baa2dd8d5a54/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
@@ -19404,7 +19454,7 @@
     "metacritic": 82,
     "source": "Metacritic 2012",
     "consensus": 83,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/235a9f16d3804dc2e3b467579e6f9a95/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
@@ -19418,8 +19468,8 @@
     "year": 2012,
     "metacritic": 82,
     "source": "Metacritic 2012",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/17c5075f5d545b806fb910e69f4c0262/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
@@ -20491,8 +20541,8 @@
     "year": 2011,
     "metacritic": 82,
     "source": "Metacritic 2011",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/483c6a41edefbdfc423237bc26dc49f1/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
@@ -20518,8 +20568,8 @@
     "year": 2011,
     "metacritic": 82,
     "source": "Metacritic 2011",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Country",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8df85c460346071fdfba365f72ca6f73/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
@@ -20533,8 +20583,8 @@
     "year": 2011,
     "metacritic": 82,
     "source": "Metacritic 2011",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b48e27b51818b52037ecd8cd0c644e31/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
@@ -20548,8 +20598,8 @@
     "year": 2011,
     "metacritic": 82,
     "source": "Metacritic 2011",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/1f9666108cc59b4b11c28d1973ebcf3b/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 74,
@@ -20563,8 +20613,8 @@
     "year": 2011,
     "metacritic": 82,
     "source": "Metacritic 2011",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/a93692798557546a6332cd8d69e16921/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
@@ -20578,8 +20628,8 @@
     "year": 2011,
     "metacritic": 82,
     "source": "Metacritic 2011",
-    "consensus": 88,
-    "reviews": 2,
+    "consensus": 85,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f7420f822c2dc4fc26b204d31dec4d79/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
@@ -20594,7 +20644,7 @@
     "metacritic": 82,
     "source": "Metacritic 2011",
     "consensus": 83,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/0a2c9136c8b3b65f7b9f2e13a9253969/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
@@ -20608,8 +20658,8 @@
     "year": 2011,
     "metacritic": 82,
     "source": "Metacritic 2011",
-    "consensus": 79,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/dd7f167ae863be4e1e4997fe459f505f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
