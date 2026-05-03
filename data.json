@@ -10977,12 +10977,13 @@
     "metacritic": 86,
     "source": "Metacritic 2018",
     "consensus": 85,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8285385994596b0be8632d6932d0c642/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 25,
-    "aoty_url": "https://www.albumoftheyear.org/album/111746-pusha-t-daytona.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/111746-pusha-t-daytona.php",
+    "aoty_user": 85
   },
   {
     "artist": "Jonny Greenwood",
@@ -11002,12 +11003,13 @@
     "metacritic": 86,
     "source": "Metacritic 2018",
     "consensus": 84,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/c4c207293020a9bf35c9bf25236a9fce/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 22,
-    "aoty_url": "https://www.albumoftheyear.org/album/129045-earl-sweatshirt-some-rap-songs.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/129045-earl-sweatshirt-some-rap-songs.php",
+    "aoty_user": 84
   },
   {
     "artist": "Screaming Females",
@@ -11015,13 +11017,14 @@
     "year": 2018,
     "metacritic": 86,
     "source": "Metacritic 2018",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ff9add2d8d2451505dc8dde4c64a9542/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 16,
-    "aoty_url": "https://www.albumoftheyear.org/album/92680-screaming-females-all-at-once.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/92680-screaming-females-all-at-once.php",
+    "aoty_user": 75
   },
   {
     "artist": "DJ Koze",
@@ -11029,13 +11032,14 @@
     "year": 2018,
     "metacritic": 85,
     "source": "Metacritic 2018",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b81d67d03c3a82b89ee65304ca37aaa4/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 23,
-    "aoty_url": "https://www.albumoftheyear.org/album/100727-dj-koze-knock-knock.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/100727-dj-koze-knock-knock.php",
+    "aoty_user": 77
   },
   {
     "artist": "Alva Noto",
@@ -11054,13 +11058,14 @@
     "year": 2018,
     "metacritic": 85,
     "source": "Metacritic 2018",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/cf3bde136116d5ff53b5e7740c3a32f2/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/119852-brockhampton-iridescence.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/119852-brockhampton-iridescence.php",
+    "aoty_user": 77
   },
   {
     "artist": "Deafheaven",
@@ -11068,13 +11073,14 @@
     "year": 2018,
     "metacritic": 85,
     "source": "Metacritic 2018",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b10a29084084cbc84dfde6a143e7ed98/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 32,
-    "aoty_url": "https://www.albumoftheyear.org/album/108270-deafheaven-ordinary-corrupt-human-love.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/108270-deafheaven-ordinary-corrupt-human-love.php",
+    "aoty_user": 81
   },
   {
     "artist": "Marie Davidson",
@@ -11082,13 +11088,14 @@
     "year": 2018,
     "metacritic": 85,
     "source": "Metacritic 2018",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/eb2c4dea6f83f5c532d32a081d558352/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 13,
-    "aoty_url": "https://www.albumoftheyear.org/album/120532-marie-davidson-working-class-woman.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/120532-marie-davidson-working-class-woman.php",
+    "aoty_user": 73
   },
   {
     "artist": "Ezra Furman",
@@ -11096,13 +11103,14 @@
     "year": 2018,
     "metacritic": 85,
     "source": "Metacritic 2018",
-    "consensus": 85,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d1b5fe26d595caf8beafee9b45cfd20c/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 28,
-    "aoty_url": "https://www.albumoftheyear.org/album/93029-ezra-furman-transangelic-exodus.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/93029-ezra-furman-transangelic-exodus.php",
+    "aoty_user": 76
   },
   {
     "artist": "Bettye LaVette",
@@ -11110,13 +11118,14 @@
     "year": 2018,
     "metacritic": 85,
     "source": "Metacritic 2018",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Soul",
     "cover": "https://cdn-images.dzcdn.net/images/cover/0982682e05d7b1bba6abbef16154483c/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/106595-bettye-lavette-things-have-changed.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/106595-bettye-lavette-things-have-changed.php",
+    "aoty_user": 76
   },
   {
     "artist": "Let's Eat Grandma",
@@ -11124,13 +11133,14 @@
     "year": 2018,
     "metacritic": 85,
     "source": "Metacritic 2018",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/a43405e0476af1622e4d1755fd6d0209/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 36,
-    "aoty_url": "https://www.albumoftheyear.org/album/105604-lets-eat-grandma-im-all-ears.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/105604-lets-eat-grandma-im-all-ears.php",
+    "aoty_user": 78
   },
   {
     "artist": "Neko Case",
@@ -11138,13 +11148,14 @@
     "year": 2018,
     "metacritic": 85,
     "source": "Metacritic 2018",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/c06259a30a51437ebe90621cedaae6a8/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 27,
-    "aoty_url": "https://www.albumoftheyear.org/album/104255-neko-case-hell-on.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/104255-neko-case-hell-on.php",
+    "aoty_user": 74
   },
   {
     "artist": "Pistol Annies",
@@ -11152,13 +11163,14 @@
     "year": 2018,
     "metacritic": 85,
     "source": "Metacritic 2018",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Country",
     "cover": "https://cdn-images.dzcdn.net/images/cover/a7efd9a5c76e098a3f055d9a4222243f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/126723-pistol-annies-interstate-gospel.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/126723-pistol-annies-interstate-gospel.php",
+    "aoty_user": 72
   },
   {
     "artist": "Sarah Davachi",
@@ -11166,12 +11178,13 @@
     "year": 2018,
     "metacritic": 85,
     "source": "Metacritic 2018",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Electronic",
     "aoty_critic": 78,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/116356-sarah-davachi-gave-in-rest.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/116356-sarah-davachi-gave-in-rest.php",
+    "aoty_user": 72
   },
   {
     "artist": "Laurie Anderson",
@@ -11179,12 +11192,13 @@
     "year": 2018,
     "metacritic": 85,
     "source": "Metacritic 2018",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 77,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/96108-laurie-anderson-kronos-quartet-landfall.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/96108-laurie-anderson-kronos-quartet-landfall.php",
+    "aoty_user": 74
   },
   {
     "artist": "Virginia Wing",
@@ -11192,12 +11206,13 @@
     "year": 2018,
     "metacritic": 85,
     "source": "Metacritic 2018",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 83,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/104573-virginia-wing-ecstatic-arrow.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/104573-virginia-wing-ecstatic-arrow.php",
+    "aoty_user": 73
   },
   {
     "artist": "Travis Scott",
@@ -11206,12 +11221,13 @@
     "metacritic": 85,
     "source": "Metacritic 2018",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e7/49/8f/e7498f65-df8f-bead-d6e3-2a8d4d642a79/886447235317.jpg/600x600bb.jpg",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Hip Hop",
     "aoty_critic": 82,
     "aoty_reviews": 22,
-    "aoty_url": "https://www.albumoftheyear.org/album/109813-travis-scott-astroworld.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/109813-travis-scott-astroworld.php",
+    "aoty_user": 81
   },
   {
     "artist": "Troye Sivan",
@@ -11219,12 +11235,13 @@
     "year": 2018,
     "metacritic": 85,
     "source": "Metacritic 2018",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Pop",
     "aoty_critic": 83,
     "aoty_reviews": 20,
-    "aoty_url": "https://www.albumoftheyear.org/album/111385-troye-sivan-bloom.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/111385-troye-sivan-bloom.php",
+    "aoty_user": 76
   },
   {
     "artist": "Spiritualized",
@@ -11232,12 +11249,13 @@
     "year": 2018,
     "metacritic": 84,
     "source": "Metacritic 2018",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 79,
     "aoty_reviews": 31,
-    "aoty_url": "https://www.albumoftheyear.org/album/113598-spiritualized-and-nothing-hurt.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/113598-spiritualized-and-nothing-hurt.php",
+    "aoty_user": 75
   },
   {
     "artist": "Jeff Tweedy",
@@ -11245,12 +11263,13 @@
     "year": 2018,
     "metacritic": 84,
     "source": "Metacritic 2018",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 80,
     "aoty_reviews": 25,
-    "aoty_url": "https://www.albumoftheyear.org/album/122589-jeff-tweedy-warm.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/122589-jeff-tweedy-warm.php",
+    "aoty_user": 74
   },
   {
     "artist": "No Age",
@@ -11258,12 +11277,13 @@
     "year": 2018,
     "metacritic": 84,
     "source": "Metacritic 2018",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Pop",
     "aoty_critic": 78,
     "aoty_reviews": 23,
-    "aoty_url": "https://www.albumoftheyear.org/album/91904-no-age-snares-like-a-haircut.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/91904-no-age-snares-like-a-haircut.php",
+    "aoty_user": 73
   },
   {
     "artist": "Richard Swift",
@@ -11271,13 +11291,14 @@
     "year": 2018,
     "metacritic": 84,
     "source": "Metacritic 2018",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/0001bee5de5e7344da690194c5790202/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/122785-richard-swift-the-hex.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/122785-richard-swift-the-hex.php",
+    "aoty_user": 76
   },
   {
     "artist": "Kids See Ghosts",
@@ -11285,13 +11306,14 @@
     "year": 2018,
     "metacritic": 84,
     "source": "Metacritic 2018",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 85,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/778fafd1b7e65b0b769be21ddd3f3e5a/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 22,
-    "aoty_url": "https://www.albumoftheyear.org/album/108509-kids-see-ghosts-kids-see-ghosts.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/108509-kids-see-ghosts-kids-see-ghosts.php",
+    "aoty_user": 87
   },
   {
     "artist": "Lonnie Holley",
@@ -11299,13 +11321,14 @@
     "year": 2018,
     "metacritic": 84,
     "source": "Metacritic 2018",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f1b907b3f4f935a453e7a27d7066c740/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/116205-lonnie-holley-mith.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/116205-lonnie-holley-mith.php",
+    "aoty_user": 73
   },
   {
     "artist": "Willie Nelson",
@@ -11313,13 +11336,14 @@
     "year": 2018,
     "metacritic": 84,
     "source": "Metacritic 2018",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Country",
     "cover": "https://cdn-images.dzcdn.net/images/cover/fcc1215601c65f82696e42683079780a/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/106876-willie-nelson-last-man-standing.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/106876-willie-nelson-last-man-standing.php",
+    "aoty_user": 75
   },
   {
     "artist": "The Necks",
@@ -11327,13 +11351,14 @@
     "year": 2018,
     "metacritic": 84,
     "source": "Metacritic 2018",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/722b094bb1331ebf5a017a07f3d2a06f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/116662-the-necks-body.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/116662-the-necks-body.php",
+    "aoty_user": 79
   },
   {
     "artist": "CupcakKe",
@@ -11341,13 +11366,14 @@
     "year": 2018,
     "metacritic": 84,
     "source": "Metacritic 2018",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 76,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/e948a493a7c766ab764c6113386c2299/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/98737-cupcakke-ephorize.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/98737-cupcakke-ephorize.php",
+    "aoty_user": 69
   },
   {
     "artist": "Rolling Blackouts Coastal Fever",
@@ -11355,13 +11381,14 @@
     "year": 2018,
     "metacritic": 84,
     "source": "Metacritic 2018",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b0a5e7e0cd59205af45cbb7a9b3e7bac/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 25,
-    "aoty_url": "https://www.albumoftheyear.org/album/108137-rolling-blackouts-coastal-fever-hope-downs.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/108137-rolling-blackouts-coastal-fever-hope-downs.php",
+    "aoty_user": 76
   },
   {
     "artist": "Proc Fiskal",
@@ -11369,13 +11396,14 @@
     "year": 2018,
     "metacritic": 84,
     "source": "Metacritic 2018",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/5510713668d6f22e33c5a29abebb0d63/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/113137-proc-fiskal-insula.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/113137-proc-fiskal-insula.php",
+    "aoty_user": 78
   },
   {
     "artist": "Cardi B",
@@ -11383,13 +11411,14 @@
     "year": 2018,
     "metacritic": 84,
     "source": "Metacritic 2018",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 75,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/9617334140532d2a13584042f38e67fa/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 24,
-    "aoty_url": "https://www.albumoftheyear.org/album/106020-cardi-b-invasion-of-privacy.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/106020-cardi-b-invasion-of-privacy.php",
+    "aoty_user": 58
   },
   {
     "artist": "Jon Hopkins",
@@ -11397,13 +11426,14 @@
     "year": 2018,
     "metacritic": 84,
     "source": "Metacritic 2018",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6eb75b1ba2ed9cd7631c1d8c12f75c87/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 34,
-    "aoty_url": "https://www.albumoftheyear.org/album/103195-jon-hopkins-singularity.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/103195-jon-hopkins-singularity.php",
+    "aoty_user": 78
   },
   {
     "artist": "Sleep",
@@ -11411,13 +11441,14 @@
     "year": 2018,
     "metacritic": 84,
     "source": "Metacritic 2018",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Metal",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6978ecb1bdda304ac67689f959b0985f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/108460-sleep-the-sciences.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/108460-sleep-the-sciences.php",
+    "aoty_user": 79
   },
   {
     "artist": "Stephen Malkmus & the Jicks",
@@ -11425,13 +11456,14 @@
     "year": 2018,
     "metacritic": 84,
     "source": "Metacritic 2018",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/765304fa60ab7649400c69f220a8ecd8/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 27,
-    "aoty_url": "https://www.albumoftheyear.org/album/105991-stephen-malkmus-and-the-jicks-sparkle-hard.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/105991-stephen-malkmus-and-the-jicks-sparkle-hard.php",
+    "aoty_user": 73
   },
   {
     "artist": "The Breeders",
@@ -11439,13 +11471,14 @@
     "year": 2018,
     "metacritic": 84,
     "source": "Metacritic 2018",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/fb69a48caa1fdb59f8503663dadefe76/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 34,
-    "aoty_url": "https://www.albumoftheyear.org/album/99252-the-breeders-all-nerve.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/99252-the-breeders-all-nerve.php",
+    "aoty_user": 68
   },
   {
     "artist": "Jon Hassell",
@@ -11463,13 +11496,14 @@
     "year": 2018,
     "metacritic": 84,
     "source": "Metacritic 2018",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/1f450ca5f6afc480846d8e35c7dc6b10/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/125073-miya-folick-premonitions.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/125073-miya-folick-premonitions.php",
+    "aoty_user": 77
   },
   {
     "artist": "Blood Orange",
@@ -11477,13 +11511,14 @@
     "year": 2018,
     "metacritic": 84,
     "source": "Metacritic 2018",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/fa5abb6f1cfd800592e740d71988d4d5/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 35,
-    "aoty_url": "https://www.albumoftheyear.org/album/116573-blood-orange-negro-swan.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/116573-blood-orange-negro-swan.php",
+    "aoty_user": 81
   },
   {
     "artist": "Eleanor Friedberger",
@@ -11491,13 +11526,14 @@
     "year": 2018,
     "metacritic": 84,
     "source": "Metacritic 2018",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/54b1877eaa9563e57fc32dfa80b5fade/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 23,
-    "aoty_url": "https://www.albumoftheyear.org/album/102552-eleanor-friedberger-rebound.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/102552-eleanor-friedberger-rebound.php",
+    "aoty_user": 70
   },
   {
     "artist": "Chilly Gonzales",
@@ -11505,13 +11541,14 @@
     "year": 2018,
     "metacritic": 84,
     "source": "Metacritic 2018",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/bf5a12eec5ccb74a8582ba32f91f245a/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/115861-chilly-gonzales-solo-piano-iii.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/115861-chilly-gonzales-solo-piano-iii.php",
+    "aoty_user": 76
   },
   {
     "artist": "Laurel Halo",
@@ -11519,13 +11556,14 @@
     "year": 2018,
     "metacritic": 84,
     "source": "Metacritic 2018",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/905954a22e6cb9edf23c2d6b4b8e9e73/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/113741-laurel-halo-raw-silk-uncut-wood.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/113741-laurel-halo-raw-silk-uncut-wood.php",
+    "aoty_user": 74
   },
   {
     "artist": "Anna Calvi",
@@ -11533,13 +11571,14 @@
     "year": 2018,
     "metacritic": 84,
     "source": "Metacritic 2018",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/1e51c1f1c2b55797227c3f127660d181/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 29,
-    "aoty_url": "https://www.albumoftheyear.org/album/113158-anna-calvi-hunter.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/113158-anna-calvi-hunter.php",
+    "aoty_user": 75
   },
   {
     "artist": "Jean Grae",
@@ -11547,13 +11586,14 @@
     "year": 2018,
     "metacritic": 84,
     "source": "Metacritic 2018",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7b852559bd8328a2c0ebe9424ac6674c/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/100834-jean-grae-quelle-chris-everythings-fine.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/100834-jean-grae-quelle-chris-everythings-fine.php",
+    "aoty_user": 76
   },
   {
     "artist": "Daniel Avery",
@@ -11561,13 +11601,14 @@
     "year": 2018,
     "metacritic": 84,
     "source": "Metacritic 2018",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/13bc15a33b263f71a91de46ce7959056/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 21,
-    "aoty_url": "https://www.albumoftheyear.org/album/100230-daniel-avery-song-for-alpha.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/100230-daniel-avery-song-for-alpha.php",
+    "aoty_user": 72
   },
   {
     "artist": "Ty Segall",
@@ -11575,13 +11616,14 @@
     "year": 2018,
     "metacritic": 84,
     "source": "Metacritic 2018",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b169519b60173b8bb82869cb95326e07/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 25,
-    "aoty_url": "https://www.albumoftheyear.org/album/96151-ty-segall-freedoms-goblin.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/96151-ty-segall-freedoms-goblin.php",
+    "aoty_user": 75
   },
   {
     "artist": "Alexander Tucker",
@@ -11612,14 +11654,15 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Metal",
     "cover": "https://cdn-images.dzcdn.net/images/cover/85921cea8031dd19e86338e6c96ccfaa/1000x1000-000000-80-0-0.jpg",
     "discogs": 92,
     "aoty_critic": 81,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/112660-thou-magus.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/112660-thou-magus.php",
+    "aoty_user": 74
   },
   {
     "artist": "Julia Holter",
@@ -11627,14 +11670,15 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 84,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8dfa790030abc3f7c0137ae6ae97fea2/1000x1000-000000-80-0-0.jpg",
     "discogs": 90,
     "aoty_critic": 79,
     "aoty_reviews": 28,
-    "aoty_url": "https://www.albumoftheyear.org/album/120775-julia-holter-aviary.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/120775-julia-holter-aviary.php",
+    "aoty_user": 80
   },
   {
     "artist": "Lucrecia Dalt",
@@ -11642,14 +11686,15 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 84,
-    "reviews": 3,
+    "consensus": 81,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/60e9eed113fadc596c8839ef121442a2/1000x1000-000000-80-0-0.jpg",
     "discogs": 88,
     "aoty_critic": 80,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/106885-lucrecia-dalt-anticlines.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/106885-lucrecia-dalt-anticlines.php",
+    "aoty_user": 72
   },
   {
     "artist": "Elvis Costello & the Imposters",
@@ -11657,14 +11702,15 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 84,
-    "reviews": 3,
+    "consensus": 81,
+    "reviews": 4,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d08fa17c237d8bcbe8b79d2d43dfeccf/1000x1000-000000-80-0-0.jpg",
     "discogs": 92,
     "aoty_critic": 77,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/117495-elvis-costello-the-imposters-look-now.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/117495-elvis-costello-the-imposters-look-now.php",
+    "aoty_user": 72
   },
   {
     "artist": "Fucked Up",
@@ -11672,14 +11718,15 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 80,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/061a53a917b01fa46b42ee0c041d6b42/1000x1000-000000-80-0-0.jpg",
     "discogs": 84,
     "aoty_critic": 82,
     "aoty_reviews": 24,
-    "aoty_url": "https://www.albumoftheyear.org/album/116890-fucked-up-dose-your-dreams.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/116890-fucked-up-dose-your-dreams.php",
+    "aoty_user": 72
   },
   {
     "artist": "nao",
@@ -11687,14 +11734,15 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "R&B",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f062f13c7fa706597125c318a72e3f20/1000x1000-000000-80-0-0.jpg",
     "discogs": 92,
     "aoty_critic": 80,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/122090-nao-saturn.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/122090-nao-saturn.php",
+    "aoty_user": 76
   },
   {
     "artist": "Ry Cooder",
@@ -11702,13 +11750,14 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Rock",
     "discogs": 84,
     "aoty_critic": 83,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/109791-ry-cooder-the-prodigal-son.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/109791-ry-cooder-the-prodigal-son.php",
+    "aoty_user": 77
   },
   {
     "artist": "Caroline Rose",
@@ -11716,13 +11765,14 @@
     "year": 2018,
     "metacritic": 83,
     "source": "Metacritic 2018",
-    "consensus": 84,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Alternative",
     "discogs": 90,
     "aoty_critic": 80,
     "aoty_reviews": 13,
-    "aoty_url": "https://www.albumoftheyear.org/album/94990-caroline-rose-loner.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/94990-caroline-rose-loner.php",
+    "aoty_user": 75
   },
   {
     "artist": "Iceage",
