@@ -33671,12 +33671,13 @@
     "metacritic": 81,
     "source": "Metacritic 2002",
     "consensus": 78,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d4aec7d513fc0faf13628b0c5a4d4a43/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 75,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/564-nas-gods-son.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/564-nas-gods-son.php",
+    "aoty_user": 78
   },
   {
     "artist": "Mr. Lif",
@@ -33685,12 +33686,13 @@
     "metacritic": 81,
     "source": "Metacritic 2002",
     "consensus": 81,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/27348e2aa495baa8c543dacd069bd0b1/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/11582-mr-lif-i-phantom.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/11582-mr-lif-i-phantom.php",
+    "aoty_user": 82
   },
   {
     "artist": "The Herbaliser",
@@ -33709,13 +33711,14 @@
     "year": 2002,
     "metacritic": 80,
     "source": "Metacritic 2002",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/5e4ec5d1fe265582b4d9875abfc46690/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/22687-josh-rouse-under-cold-blue-stars.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/22687-josh-rouse-under-cold-blue-stars.php",
+    "aoty_user": 77
   },
   {
     "artist": "Ugly Casanova",
@@ -33735,12 +33738,13 @@
     "metacritic": 80,
     "source": "Metacritic 2002",
     "consensus": 80,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/c41c5678fb4fb20c6288cc5805d08cf1/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/8811-rilo-kiley-the-execution-of-all-things.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/8811-rilo-kiley-the-execution-of-all-things.php",
+    "aoty_user": 81
   },
   {
     "artist": "Coldplay",
@@ -33748,13 +33752,14 @@
     "year": 2002,
     "metacritic": 80,
     "source": "Metacritic 2002",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/5ba1787e1ec36dbbca38ff01fea8fb21/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/1271-coldplay-a-rush-of-blood-to-the-head.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1271-coldplay-a-rush-of-blood-to-the-head.php",
+    "aoty_user": 82
   },
   {
     "artist": "Godspeed You! Black Emperor",
@@ -33762,12 +33767,13 @@
     "year": 2002,
     "metacritic": 80,
     "source": "Metacritic 2002",
-    "consensus": 76,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Rock",
     "aoty_critic": 73,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/4302-godspeed-you-black-emperor-yanqui-uxo.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4302-godspeed-you-black-emperor-yanqui-uxo.php",
+    "aoty_user": 86
   },
   {
     "artist": "Common",
@@ -33775,13 +33781,14 @@
     "year": 2002,
     "metacritic": 80,
     "source": "Metacritic 2002",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 75,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2f71429d43b62af17121164aab821f8f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/17454-common-electric-circus.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/17454-common-electric-circus.php",
+    "aoty_user": 67
   },
   {
     "artist": "Korn",
@@ -33789,13 +33796,14 @@
     "year": 2002,
     "metacritic": 80,
     "source": "Metacritic 2002",
-    "consensus": 74,
-    "reviews": 2,
+    "consensus": 73,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6999e41d627f501bf0b588860405e2c7/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 69,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/5380-korn-untouchables.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5380-korn-untouchables.php",
+    "aoty_user": 70
   },
   {
     "artist": "Boards of Canada",
@@ -33815,11 +33823,12 @@
     "source": "Metacritic 2002",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b7/39/f5/b739f599-a321-9ddf-9691-6f888bd46f97/00602527874692.rgb.jpg/600x600bb.jpg",
     "consensus": 80,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 81,
     "aoty_reviews": 16,
-    "aoty_url": "https://www.albumoftheyear.org/album/568-beck-sea-change.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/568-beck-sea-change.php",
+    "aoty_user": 80
   },
   {
     "artist": "The Soft Boys",
@@ -33827,13 +33836,14 @@
     "year": 2002,
     "metacritic": 79,
     "source": "Metacritic 2002",
-    "consensus": 79,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/45185aad79aa855bb84c8f888e542e10/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/53030-the-soft-boys-nextdoorland.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/53030-the-soft-boys-nextdoorland.php",
+    "aoty_user": 82
   },
   {
     "artist": "Hayden",
@@ -33884,12 +33894,13 @@
     "metacritic": 79,
     "source": "Metacritic 2002",
     "consensus": 81,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f81ec68d371c6c8c6b3499d5d89344f2/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/7148-talib-kweli-quality.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7148-talib-kweli-quality.php",
+    "aoty_user": 82
   },
   {
     "artist": "Lambchop",
@@ -33897,13 +33908,14 @@
     "year": 2002,
     "metacritic": 79,
     "source": "Metacritic 2002",
-    "consensus": 76,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/34d82d7c315fca64d19bf104904e4436/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 72,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/959-lambchop-is-a-woman.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/959-lambchop-is-a-woman.php",
+    "aoty_user": 79
   },
   {
     "artist": "Clinic",
@@ -33912,12 +33924,13 @@
     "metacritic": 79,
     "source": "Metacritic 2002",
     "consensus": 76,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f5c7d4ed7d40ec26861f0f17d7477b69/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 72,
     "aoty_reviews": 13,
-    "aoty_url": "https://www.albumoftheyear.org/album/2003-clinic-walking-with-thee.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2003-clinic-walking-with-thee.php",
+    "aoty_user": 77
   },
   {
     "artist": "Layo & Bushwacka!",
@@ -33957,13 +33970,14 @@
     "year": 2002,
     "metacritic": 78,
     "source": "Metacritic 2002",
-    "consensus": 77,
-    "reviews": 2,
+    "consensus": 74,
+    "reviews": 3,
     "genre": "Country",
     "cover": "https://cdn-images.dzcdn.net/images/cover/fb5b04499c0c0964ed8005b699f25843/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/22994-steve-earle-jerusalem.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/22994-steve-earle-jerusalem.php",
+    "aoty_user": 67
   },
   {
     "artist": "Medeski, Martin & Wood",
@@ -34005,12 +34019,13 @@
     "metacritic": 78,
     "source": "Metacritic 2002",
     "consensus": 76,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7d3e7ef881ed27ccb61b1ed1a1a2e6c9/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 74,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/327-dave-matthews-band-busted-stuff.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/327-dave-matthews-band-busted-stuff.php",
+    "aoty_user": 76
   },
   {
     "artist": "Cornershop",
@@ -34019,12 +34034,13 @@
     "metacritic": 78,
     "source": "Metacritic 2002",
     "consensus": 76,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2b23016f63a6b50d05e9746de20fa293/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 73,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/22744-cornershop-handcream-for-a-generation.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/22744-cornershop-handcream-for-a-generation.php",
+    "aoty_user": 77
   },
   {
     "artist": "Rye Coalition",
@@ -34054,13 +34070,14 @@
     "year": 2002,
     "metacritic": 77,
     "source": "Metacritic 2002",
-    "consensus": 77,
-    "reviews": 2,
+    "consensus": 75,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6970fd4308d5ccb3fb76819eb4604a91/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/10246-the-sunshine-fix-age-of-the-sun.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/10246-the-sunshine-fix-age-of-the-sun.php",
+    "aoty_user": 72
   },
   {
     "artist": "FC/Kahuna",
@@ -34068,13 +34085,14 @@
     "year": 2002,
     "metacritic": 77,
     "source": "Metacritic 2002",
-    "consensus": 75,
-    "reviews": 2,
+    "consensus": 73,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/e0d314474ee32b66434aca6d22f91533/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 73,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/47822-fc-kahuna-machine-says-yes.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/47822-fc-kahuna-machine-says-yes.php",
+    "aoty_user": 68
   },
   {
     "artist": "Imperial Teen",
@@ -34082,13 +34100,14 @@
     "year": 2002,
     "metacritic": 77,
     "source": "Metacritic 2002",
-    "consensus": 76,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ab173c5744034e8349097872af7817c9/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 74,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/22778-imperial-teen-on.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/22778-imperial-teen-on.php",
+    "aoty_user": 86
   },
   {
     "artist": "System Of A Down",
@@ -34096,13 +34115,14 @@
     "year": 2002,
     "metacritic": 77,
     "source": "Metacritic 2002",
-    "consensus": 77,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/c7ebea8ff81c8934916a1b102f52918f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/5386-system-of-a-down-steal-this-album.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5386-system-of-a-down-steal-this-album.php",
+    "aoty_user": 81
   },
   {
     "artist": "Bright Eyes",
@@ -34110,13 +34130,14 @@
     "year": 2002,
     "metacritic": 77,
     "source": "Metacritic 2002",
-    "consensus": 79,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/0fed05f13d0a90eaee9789c5af0cd903/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/1280-bright-eyes-lifted-or-the-story-is-in-the-soil-keep-your-ear-to-the-ground.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1280-bright-eyes-lifted-or-the-story-is-in-the-soil-keep-your-ear-to-the-ground.php",
+    "aoty_user": 85
   },
   {
     "artist": "James Taylor",
@@ -34125,12 +34146,13 @@
     "metacritic": 77,
     "source": "Metacritic 2002",
     "consensus": 78,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d79a0535b40bb17006ddace29088a670/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/18139-james-taylor-october-road.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/18139-james-taylor-october-road.php",
+    "aoty_user": 78
   },
   {
     "artist": "The Aluminum Group",
@@ -34149,13 +34171,14 @@
     "year": 2002,
     "metacritic": 77,
     "source": "Metacritic 2002",
-    "consensus": 76,
-    "reviews": 2,
+    "consensus": 75,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/1f6502e4acc93157c80dccdc2c2c0196/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 75,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/31420-toni-braxton-more-than-a-woman.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/31420-toni-braxton-more-than-a-woman.php",
+    "aoty_user": 72
   },
   {
     "artist": "Pet Shop Boys",
@@ -34163,13 +34186,14 @@
     "year": 2002,
     "metacritic": 77,
     "source": "Metacritic 2002",
-    "consensus": 72,
-    "reviews": 2,
+    "consensus": 70,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/5ebea09f8dd70fe1fddaac481ff2a1b7/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 68,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/7166-pet-shop-boys-release.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7166-pet-shop-boys-release.php",
+    "aoty_user": 66
   },
   {
     "artist": "Mooney Suzuki",
@@ -34177,13 +34201,14 @@
     "year": 2002,
     "metacritic": 77,
     "source": "Metacritic 2002",
-    "consensus": 70,
-    "reviews": 2,
+    "consensus": 71,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/afaac7a4e4ae84cbb9a360d30d5164d2/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 64,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/20099-the-mooney-suzuki-electric-sweat.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/20099-the-mooney-suzuki-electric-sweat.php",
+    "aoty_user": 71
   },
   {
     "artist": "Badly Drawn Boy",
@@ -34192,12 +34217,13 @@
     "metacritic": 77,
     "source": "Metacritic 2002",
     "consensus": 76,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/fe93ae4ac08371e9cbbcc5263ca741b3/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/21227-badly-drawn-boy-have-you-fed-the-fish.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/21227-badly-drawn-boy-have-you-fed-the-fish.php",
+    "aoty_user": 74
   },
   {
     "artist": "Elf Power",
@@ -34228,12 +34254,13 @@
     "metacritic": 77,
     "source": "Metacritic 2002",
     "consensus": 76,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d92bbfe394ae8f2bab62687fdeb146f1/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 74,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/18151-george-harrison-brainwashed.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/18151-george-harrison-brainwashed.php",
+    "aoty_user": 76
   },
   {
     "artist": "Bryan Ferry",
@@ -34241,13 +34268,14 @@
     "year": 2002,
     "metacritic": 77,
     "source": "Metacritic 2002",
-    "consensus": 75,
-    "reviews": 2,
+    "consensus": 74,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/84e9df09edb6ee593f9a6c74f6fd2ca0/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 73,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/35107-bryan-ferry-frantic.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/35107-bryan-ferry-frantic.php",
+    "aoty_user": 73
   },
   {
     "artist": "Tori Amos",
@@ -34255,13 +34283,14 @@
     "year": 2002,
     "metacritic": 76,
     "source": "Metacritic 2002",
-    "consensus": 70,
-    "reviews": 2,
+    "consensus": 74,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2693e30daacee875defa1d712c4f4eff/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 63,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/4276-tori-amos-scarlets-walk.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4276-tori-amos-scarlets-walk.php",
+    "aoty_user": 83
   },
   {
     "artist": "Atmosphere",
@@ -34269,13 +34298,14 @@
     "year": 2002,
     "metacritic": 76,
     "source": "Metacritic 2002",
-    "consensus": 77,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d238f8689de7ec06a5c5f2a8c3dcfd3e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/18942-atmosphere-god-loves-ugly.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/18942-atmosphere-god-loves-ugly.php",
+    "aoty_user": 80
   },
   {
     "artist": "Low",
@@ -34284,12 +34314,13 @@
     "metacritic": 76,
     "source": "Metacritic 2002",
     "consensus": 78,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/84a7d3c7f2cf98984d970f465e321bab/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/2468-low-trust.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2468-low-trust.php",
+    "aoty_user": 78
   },
   {
     "artist": "Ladytron",
@@ -34297,13 +34328,14 @@
     "year": 2002,
     "metacritic": 76,
     "source": "Metacritic 2002",
-    "consensus": 72,
-    "reviews": 2,
+    "consensus": 74,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ae3ab3a46e96d9094171be9a99c2e827/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 69,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/11743-ladytron-light-magic.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/11743-ladytron-light-magic.php",
+    "aoty_user": 77
   },
   {
     "artist": "Snoop Dogg",
@@ -34356,12 +34388,13 @@
     "metacritic": 76,
     "source": "Metacritic 2002",
     "consensus": 76,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/cc15300b864d97fef534531369aaba70/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/22777-luna-romantica.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/22777-luna-romantica.php",
+    "aoty_user": 74
   },
   {
     "artist": "Add N to (X)",
@@ -34381,12 +34414,13 @@
     "metacritic": 76,
     "source": "Metacritic 2002",
     "consensus": 76,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/a4559a73449ebe55194590f441eb29e5/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/21208-jurassic-5-power-in-numbers.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/21208-jurassic-5-power-in-numbers.php",
+    "aoty_user": 76
   },
   {
     "artist": "Of Montreal",
@@ -34394,13 +34428,14 @@
     "year": 2002,
     "metacritic": 76,
     "source": "Metacritic 2002",
-    "consensus": 72,
-    "reviews": 2,
+    "consensus": 70,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7041d546af8bfcac90b7a601af481b37/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 68,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/10331-of-montreal-aldhils-arboretum.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/10331-of-montreal-aldhils-arboretum.php",
+    "aoty_user": 67
   },
   {
     "artist": "Cinerama",
@@ -34419,14 +34454,15 @@
     "year": 2001,
     "metacritic": 93,
     "source": "Metacritic 2001",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/fe7dabab3b1deec3ecdec630e3b6df7a/1000x1000-000000-80-0-0.jpg",
     "discogs": 80,
     "aoty_critic": 83,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/1269-bob-dylan-love-and-theft.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1269-bob-dylan-love-and-theft.php",
+    "aoty_user": 74
   },
   {
     "artist": "Los Super Seven",
@@ -34447,13 +34483,14 @@
     "metacritic": 91,
     "source": "Metacritic 2001",
     "consensus": 89,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/700f0375d5ac8570f16a2c7eb128303f/1000x1000-000000-80-0-0.jpg",
     "discogs": 92,
     "aoty_critic": 85,
     "aoty_reviews": 17,
-    "aoty_url": "https://www.albumoftheyear.org/album/576-the-strokes-is-this-it.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/576-the-strokes-is-this-it.php",
+    "aoty_user": 87
   },
   {
     "artist": "The Avalanches",
@@ -34473,14 +34510,15 @@
     "year": 2001,
     "metacritic": 89,
     "source": "Metacritic 2001",
-    "consensus": 86,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "R&B",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d506a6d8b28483240daee6f379fd866c/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 16,
     "aoty_url": "https://www.albumoftheyear.org/album/996-missy-elliott-miss-e-so-addictive.php",
-    "discogs": 88
+    "discogs": 88,
+    "aoty_user": 78
   },
   {
     "artist": "John Hammond",
@@ -34499,13 +34537,14 @@
     "year": 2001,
     "metacritic": 88,
     "source": "Metacritic 2001",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 88,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/4bd6b0232c2092faf145101453cb1051/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 18,
-    "aoty_url": "https://www.albumoftheyear.org/album/979-bjork-vespertine.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/979-bjork-vespertine.php",
+    "aoty_user": 93
   },
   {
     "artist": "Jay-Z",
@@ -34514,12 +34553,13 @@
     "metacritic": 88,
     "source": "Metacritic 2001",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/19/c0/e3/19c0e3b6-4c2f-17ee-2a4a-6e2208de8aa6/00857366006951.rgb.jpg/600x600bb.jpg",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 87,
+    "reviews": 3,
     "genre": "Hip Hop",
     "aoty_critic": 85,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/577-jay-z-the-blueprint.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/577-jay-z-the-blueprint.php",
+    "aoty_user": 88
   },
   {
     "artist": "Unwound",
@@ -34538,13 +34578,14 @@
     "year": 2001,
     "metacritic": 87,
     "source": "Metacritic 2001",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 85,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b2243a17b4244a7b2fb61eecf116dacd/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/1144-fugazi-the-argument.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1144-fugazi-the-argument.php",
+    "aoty_user": 84
   },
   {
     "artist": "Hood",
@@ -34552,13 +34593,14 @@
     "year": 2001,
     "metacritic": 87,
     "source": "Metacritic 2001",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/54207aad345d28e8c348c4017e195bc0/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/22559-hood-cold-house.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/22559-hood-cold-house.php",
+    "aoty_user": 76
   },
   {
     "artist": "Low",
@@ -34566,13 +34608,14 @@
     "year": 2001,
     "metacritic": 87,
     "source": "Metacritic 2001",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 85,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/70f008077138adda44d02f3387ab2fa5/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/966-low-things-we-lost-in-the-fire.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/966-low-things-we-lost-in-the-fire.php",
+    "aoty_user": 82
   },
   {
     "artist": "Sigur R\u00f3s",
@@ -34591,13 +34634,14 @@
     "year": 2001,
     "metacritic": 86,
     "source": "Metacritic 2001",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Folk",
     "cover": "https://cdn-images.dzcdn.net/images/cover/bc7934569cb9df80d9e6e70a1dd88b55/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/1284-gillian-welch-time-the-revelator.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1284-gillian-welch-time-the-revelator.php",
+    "aoty_user": 80
   },
   {
     "artist": "Labradford",
@@ -34626,13 +34670,14 @@
     "year": 2001,
     "metacritic": 86,
     "source": "Metacritic 2001",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 85,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/aaab9b09e238e498268b07890cd2d91c/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 87,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/531-the-white-stripes-white-blood-cells.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/531-the-white-stripes-white-blood-cells.php",
+    "aoty_user": 81
   },
   {
     "artist": "Dolly Parton",
@@ -34661,13 +34706,14 @@
     "year": 2001,
     "metacritic": 86,
     "source": "Metacritic 2001",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 75,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6ea48044ee03eec839d67f34d38092e2/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 69,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/90206-nick-lowe-the-convincer.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/90206-nick-lowe-the-convincer.php",
+    "aoty_user": 71
   },
   {
     "artist": "The Coup",
@@ -34675,13 +34721,14 @@
     "year": 2001,
     "metacritic": 85,
     "source": "Metacritic 2001",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/fabc6c2a456cc269a1f7a211431b0572/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/22477-the-coup-party-music.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/22477-the-coup-party-music.php",
+    "aoty_user": 73
   },
   {
     "artist": "Spoon",
@@ -34689,13 +34736,14 @@
     "year": 2001,
     "metacritic": 85,
     "source": "Metacritic 2001",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/63f5fb3b942d05cb0a03fbacd9017682/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/977-spoon-girls-can-tell.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/977-spoon-girls-can-tell.php",
+    "aoty_user": 78
   },
   {
     "artist": "Four Tet",
@@ -34703,13 +34751,14 @@
     "year": 2001,
     "metacritic": 85,
     "source": "Metacritic 2001",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f6c91312532ac75adc1cea75a40c6423/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/1331-four-tet-pause.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1331-four-tet-pause.php",
+    "aoty_user": 79
   },
   {
     "artist": "Tenacious D",
@@ -34717,13 +34766,14 @@
     "year": 2001,
     "metacritic": 85,
     "source": "Metacritic 2001",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/bad53e06159ed8c3105b6665fdce476f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 74,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/20477-tenacious-d-tenacious-d.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/20477-tenacious-d-tenacious-d.php",
+    "aoty_user": 76
   },
   {
     "artist": "Red House Painters",
