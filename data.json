@@ -37573,11 +37573,12 @@
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/42/b2/ac/42b2ac20-430c-9099-0704-5d50cfd6bb00/mzi.yjfmvrdv.jpg/600x600bb.jpg",
     "consensus": 81,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Alternative",
     "aoty_critic": 81,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/4603-primal-scream-screamadelica.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4603-primal-scream-screamadelica.php",
+    "aoty_user": 81
   },
   {
     "artist": "Pixies",
@@ -37585,12 +37586,13 @@
     "year": 1991,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/6d/df/7f6ddf4f-39ce-05a8-f15e-0e7ac14ee2e2/199066498323.jpg/600x600bb.jpg",
-    "consensus": 81,
-    "reviews": 1,
+    "consensus": 80,
+    "reviews": 2,
     "genre": "Alternative",
     "aoty_critic": 81,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/4598-pixies-trompe-le-monde.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4598-pixies-trompe-le-monde.php",
+    "aoty_user": 78
   },
   {
     "artist": "Nirvana",
@@ -37599,11 +37601,12 @@
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/52/63/84/52638447-2675-305d-be93-aa32ce4f49e8/191773068783.jpg/600x600bb.jpg",
     "consensus": 90,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Rock",
     "aoty_critic": 90,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/3666-nirvana-nevermind.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3666-nirvana-nevermind.php",
+    "aoty_user": 90
   },
   {
     "artist": "A Tribe Called Quest",
@@ -37611,25 +37614,27 @@
     "year": 1991,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c6/04/ea/c604ea4c-5337-14ec-6b47-cfc962e1c7be/762186920922_Cover.jpg/600x600bb.jpg",
-    "consensus": 93,
-    "reviews": 1,
+    "consensus": 92,
+    "reviews": 2,
     "genre": "Hip Hop",
     "aoty_critic": 93,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/4130-a-tribe-called-quest-the-low-end-theory.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4130-a-tribe-called-quest-the-low-end-theory.php",
+    "aoty_user": 90
   },
   {
     "artist": "Red Hot Chili Peppers",
     "album": "Blood Sugar Sex Magik",
     "year": 1991,
     "source": "Wikipedia 1990s",
-    "consensus": 86,
-    "reviews": 1,
+    "consensus": 82,
+    "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/5d7af03204d679ef877b9033d279d8bd/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 86,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/2018-red-hot-chili-peppers-blood-sugar-sex-magik.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2018-red-hot-chili-peppers-blood-sugar-sex-magik.php",
+    "aoty_user": 78
   },
   {
     "artist": "Teenage Fanclub",
@@ -37637,25 +37642,27 @@
     "year": 1991,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/30/0d/c8/300dc812-0441-5bb2-869f-f2077fd93c02/00720642446126.rgb.jpg/600x600bb.jpg",
-    "consensus": 81,
-    "reviews": 1,
+    "consensus": 80,
+    "reviews": 2,
     "genre": "Rock",
     "aoty_critic": 81,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/6994-teenage-fanclub-bandwagonesque.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6994-teenage-fanclub-bandwagonesque.php",
+    "aoty_user": 78
   },
   {
     "artist": "My Bloody Valentine",
     "album": "Loveless",
     "year": 1991,
     "source": "Wikipedia 1990s",
-    "consensus": 91,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/217f6c70913d113d09a561cb17b64f6e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 91,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/3671-my-bloody-valentine-loveless.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3671-my-bloody-valentine-loveless.php",
+    "aoty_user": 89
   },
   {
     "artist": "U2",
@@ -37663,12 +37670,13 @@
     "year": 1991,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fe/5e/4f/fe5e4f79-c74f-c39e-39dc-4c8a952b9665/17UMGIM98829.rgb.jpg/600x600bb.jpg",
-    "consensus": 92,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Rock",
     "aoty_critic": 92,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/4432-u2-achtung-baby.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4432-u2-achtung-baby.php",
+    "aoty_user": 80
   },
   {
     "artist": "Tori Amos",
@@ -37676,12 +37684,13 @@
     "year": 1992,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/cc/1b/32/cc1b322d-bbdb-7b96-ea99-d006a2266d1f/603497892938.jpg/600x600bb.jpg",
-    "consensus": 76,
-    "reviews": 1,
+    "consensus": 80,
+    "reviews": 2,
     "genre": "Pop",
     "aoty_critic": 76,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/9985-tori-amos-little-earthquakes.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/9985-tori-amos-little-earthquakes.php",
+    "aoty_user": 84
   },
   {
     "artist": "Manic Street Preachers",
@@ -37689,12 +37698,13 @@
     "year": 1992,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/f0/b5/5c/f0b55c15-cd1c-64ab-ef95-002a58bff28f/886443749276.jpg/600x600bb.jpg",
-    "consensus": 84,
-    "reviews": 1,
+    "consensus": 80,
+    "reviews": 2,
     "genre": "Pop",
     "aoty_critic": 84,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/6624-manic-street-preachers-generation-terrorists.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6624-manic-street-preachers-generation-terrorists.php",
+    "aoty_user": 75
   },
   {
     "artist": "Pantera",
@@ -37702,12 +37712,13 @@
     "year": 1992,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/30/9a/67/309a675a-6648-5b6c-bc3e-2822c3e90d67/cover.jpg/600x600bb.jpg",
-    "consensus": 88,
-    "reviews": 1,
+    "consensus": 85,
+    "reviews": 2,
     "genre": "Rock",
     "aoty_critic": 88,
     "aoty_reviews": 4,
-    "aoty_url": "https://www.albumoftheyear.org/album/6978-pantera-vulgar-display-of-power.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6978-pantera-vulgar-display-of-power.php",
+    "aoty_user": 82
   },
   {
     "artist": "Ride",
@@ -37715,12 +37726,13 @@
     "year": 1992,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/03/38/92/0338922d-1f45-264f-5779-e20db22a41fb/603497925513.jpg/600x600bb.jpg",
-    "consensus": 84,
-    "reviews": 1,
+    "consensus": 83,
+    "reviews": 2,
     "genre": "Rock",
     "aoty_critic": 84,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/7747-ride-going-blank-again.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7747-ride-going-blank-again.php",
+    "aoty_user": 82
   },
   {
     "artist": "Spiritualized",
@@ -37728,12 +37740,13 @@
     "year": 1992,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/23/96/61/239661e3-5481-3c52-b526-3fdb2595cd17/195081139135.jpg/600x600bb.jpg",
-    "consensus": 85,
-    "reviews": 1,
+    "consensus": 82,
+    "reviews": 2,
     "genre": "Alternative",
     "aoty_critic": 85,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/10552-spiritualized-lazer-guided-melodies.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/10552-spiritualized-lazer-guided-melodies.php",
+    "aoty_user": 79
   },
   {
     "artist": "PJ Harvey",
@@ -37741,25 +37754,27 @@
     "year": 1992,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c0/45/1e/c0451e40-256e-40f2-566e-5f387a74f346/00016255500127.rgb.jpg/600x600bb.jpg",
-    "consensus": 87,
-    "reviews": 1,
+    "consensus": 84,
+    "reviews": 2,
     "genre": "Alternative",
     "aoty_critic": 87,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/2334-pj-harvey-dry.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2334-pj-harvey-dry.php",
+    "aoty_user": 82
   },
   {
     "artist": "Pavement",
     "album": "Slanted And Enchanted",
     "year": 1992,
     "source": "Wikipedia 1990s",
-    "consensus": 93,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/783e2d9d40da3b29369fc88c7967933a/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 93,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/1473-pavement-slanted-and-enchanted.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1473-pavement-slanted-and-enchanted.php",
+    "aoty_user": 80
   },
   {
     "artist": "Beastie Boys",
@@ -37767,25 +37782,27 @@
     "year": 1992,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/38/ca/c5/mzi.iflgjnmg.jpg/600x600bb.jpg",
-    "consensus": 79,
-    "reviews": 1,
+    "consensus": 78,
+    "reviews": 2,
     "genre": "Hip Hop",
     "aoty_critic": 79,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/2441-beastie-boys-check-your-head.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2441-beastie-boys-check-your-head.php",
+    "aoty_user": 78
   },
   {
     "artist": "The Cure",
     "album": "Wish",
     "year": 1992,
     "source": "Wikipedia 1990s",
-    "consensus": 80,
-    "reviews": 1,
+    "consensus": 82,
+    "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f0f19ba90f7cde0d35cc1dfdad7949c8/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/4386-the-cure-wish.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4386-the-cure-wish.php",
+    "aoty_user": 83
   },
   {
     "artist": "The Black Crowes",
@@ -37793,12 +37810,13 @@
     "year": 1992,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0f/a3/5e/0fa35e21-4117-c246-6b8b-fefda10f31d5/00602537350872.rgb.jpg/600x600bb.jpg",
-    "consensus": 87,
-    "reviews": 1,
+    "consensus": 82,
+    "reviews": 2,
     "genre": "Rock",
     "aoty_critic": 87,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/9316-the-black-crowes-the-southern-harmony-and-musical-companion.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/9316-the-black-crowes-the-southern-harmony-and-musical-companion.php",
+    "aoty_user": 78
   },
   {
     "artist": "The Lemonheads",
@@ -37806,25 +37824,27 @@
     "year": 1992,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/0c/33/09/0c33092d-0d6e-d4cc-f1e0-63ade213b9fa/809236150004_cover.jpg/600x600bb.jpg",
-    "consensus": 88,
-    "reviews": 1,
+    "consensus": 82,
+    "reviews": 2,
     "genre": "Rock",
     "aoty_critic": 88,
     "aoty_reviews": 4,
-    "aoty_url": "https://www.albumoftheyear.org/album/8174-the-lemonheads-its-a-shame-about-ray.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/8174-the-lemonheads-its-a-shame-about-ray.php",
+    "aoty_user": 76
   },
   {
     "artist": "Faith No More",
     "album": "Angel Dust",
     "year": 1992,
     "source": "Wikipedia 1990s",
-    "consensus": 78,
-    "reviews": 1,
+    "consensus": 80,
+    "reviews": 2,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b9634f0c731e31dc5f3e3c43f0771376/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/5093-faith-no-more-angel-dust.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5093-faith-no-more-angel-dust.php",
+    "aoty_user": 83
   },
   {
     "artist": "Dream Theater",
@@ -37851,12 +37871,13 @@
     "year": 1992,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d4/fc/7f/d4fc7f09-ed6b-5b95-94a7-6600c40732a1/081227960605.jpg/600x600bb.jpg",
-    "consensus": 82,
-    "reviews": 1,
+    "consensus": 79,
+    "reviews": 2,
     "genre": "Alternative",
     "aoty_critic": 82,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/6459-morrissey-your-arsenal.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6459-morrissey-your-arsenal.php",
+    "aoty_user": 76
   },
   {
     "artist": "Sugar",
@@ -37864,12 +37885,13 @@
     "year": 1992,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/15/78/47157808-3b82-7148-d737-8e664600fe6f/4099964148169.jpg/600x600bb.jpg",
-    "consensus": 84,
-    "reviews": 1,
+    "consensus": 80,
+    "reviews": 2,
     "genre": "Rock",
     "aoty_critic": 84,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/7594-sugar-copper-blue.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7594-sugar-copper-blue.php",
+    "aoty_user": 77
   },
   {
     "artist": "Tom Waits",
@@ -37877,38 +37899,41 @@
     "year": 1992,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5e/44/49/5e4449f4-9cb5-1378-44aa-92f6f42a5419/23UMGIM74402.rgb.jpg/600x600bb.jpg",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Rock",
     "aoty_critic": 89,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/4355-tom-waits-bone-machine.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4355-tom-waits-bone-machine.php",
+    "aoty_user": 84
   },
   {
     "artist": "Alice in Chains",
     "album": "Dirt",
     "year": 1992,
     "source": "Wikipedia 1990s",
-    "consensus": 87,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/31752b79ecbbdc65a26593759c8e08f8/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 87,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/4843-alice-in-chains-dirt.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4843-alice-in-chains-dirt.php",
+    "aoty_user": 88
   },
   {
     "artist": "R.E.M.",
     "album": "Automatic for the People",
     "year": 1992,
     "source": "Wikipedia 1990s",
-    "consensus": 97,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8f9e1252bb3ee900f342a2c83a378922/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 97,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/4611-rem-automatic-for-the-people.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4611-rem-automatic-for-the-people.php",
+    "aoty_user": 83
   },
   {
     "artist": "Sade",
@@ -37916,12 +37941,13 @@
     "year": 1992,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/c8/d7/18c8d7bc-8491-09e6-df0d-6e0a83ead680/mzi.wsikzifg.jpg/600x600bb.jpg",
-    "consensus": 76,
-    "reviews": 1,
+    "consensus": 84,
+    "reviews": 2,
     "genre": "Pop",
     "aoty_critic": 76,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/29856-sade-love-deluxe.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/29856-sade-love-deluxe.php",
+    "aoty_user": 91
   },
   {
     "artist": "Rage Against the Machine",
@@ -37929,38 +37955,41 @@
     "year": 1992,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/68/de/7868de3b-fd43-519c-2c96-4a0e4cfe0f0e/artwork.jpg/600x600bb.jpg",
-    "consensus": 80,
-    "reviews": 1,
+    "consensus": 84,
+    "reviews": 2,
     "genre": "Pop",
     "aoty_critic": 80,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/7138-rage-against-the-machine-rage-against-the-machine.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7138-rage-against-the-machine-rage-against-the-machine.php",
+    "aoty_user": 88
   },
   {
     "artist": "Aphex Twin",
     "album": "Selected Ambient Works 85\u201392",
     "year": 1992,
     "source": "Wikipedia 1990s",
-    "consensus": 91,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/61597432632bf90678b7132db0451f45/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 91,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/4347-aphex-twin-selected-ambient-works-85-92.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4347-aphex-twin-selected-ambient-works-85-92.php",
+    "aoty_user": 88
   },
   {
     "artist": "The Pharcyde",
     "album": "Bizarre Ride II The Pharcyde",
     "year": 1992,
     "source": "Wikipedia 1990s",
-    "consensus": 87,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/475bc56f6ae2b98dc4002d2bd5300f14/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 87,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/4426-the-pharcyde-bizarre-ride-ii-the-pharcyde.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4426-the-pharcyde-bizarre-ride-ii-the-pharcyde.php",
+    "aoty_user": 85
   },
   {
     "artist": "Dr. Dre",
@@ -37968,12 +37997,13 @@
     "year": 1992,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c4/c4/68/c4c4687a-6a41-c754-67f9-54463abcf0c9/5054960496033_cover.jpg/600x600bb.jpg",
-    "consensus": 96,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Hip Hop",
     "aoty_critic": 96,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/4601-dr-dre-the-chronic.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4601-dr-dre-the-chronic.php",
+    "aoty_user": 85
   },
   {
     "artist": "The Cranberries",
@@ -37981,12 +38011,13 @@
     "year": 1993,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/63/11/35631120-7b14-4a66-d600-03a99a1fc4c7/06UMGIM00853.rgb.jpg/600x600bb.jpg",
-    "consensus": 79,
-    "reviews": 1,
+    "consensus": 81,
+    "reviews": 2,
     "genre": "Rock",
     "aoty_critic": 79,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/20485-the-cranberries-everybody-else-is-doing-it-so-why-cant-we.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/20485-the-cranberries-everybody-else-is-doing-it-so-why-cant-we.php",
+    "aoty_user": 83
   },
   {
     "artist": "Suede",
@@ -37994,25 +38025,27 @@
     "year": 1993,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/db/3f/23db3fba-17f5-7056-1a4e-abc2156b4af9/artwork.jpg/600x600bb.jpg",
-    "consensus": 86,
-    "reviews": 1,
+    "consensus": 82,
+    "reviews": 2,
     "genre": "Alternative",
     "aoty_critic": 86,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/5569-suede-suede.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5569-suede-suede.php",
+    "aoty_user": 79
   },
   {
     "artist": "PJ Harvey",
     "album": "Rid of Me",
     "year": 1993,
     "source": "Wikipedia 1990s",
-    "consensus": 83,
-    "reviews": 1,
+    "consensus": 84,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6da6a70f9cdd019953ef2c9a524b6a34/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/2333-pj-harvey-rid-of-me.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2333-pj-harvey-rid-of-me.php",
+    "aoty_user": 84
   },
   {
     "artist": "Orbital",
@@ -38040,25 +38073,27 @@
     "year": 1993,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c2/a0/a4/c2a0a495-ec33-27f1-c6db-0dff1c3ba15d/dj.pzrqoswp.jpg/600x600bb.jpg",
-    "consensus": 78,
-    "reviews": 1,
+    "consensus": 83,
+    "reviews": 2,
     "genre": "Rock",
     "aoty_critic": 78,
     "aoty_reviews": 4,
-    "aoty_url": "https://www.albumoftheyear.org/album/7971-slowdive-souvlaki.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7971-slowdive-souvlaki.php",
+    "aoty_user": 88
   },
   {
     "artist": "Liz Phair",
     "album": "Exile in Guyville",
     "year": 1993,
     "source": "Wikipedia 1990s",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2eb37a8d3b94e66df28ac1936aa88695/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 90,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/4351-liz-phair-exile-in-guyville.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4351-liz-phair-exile-in-guyville.php",
+    "aoty_user": 81
   },
   {
     "artist": "Bj\u00f6rk",
@@ -38066,25 +38101,27 @@
     "year": 1993,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/58/30/6e/58306e6c-deba-df87-423b-07c0a5fca918/075596146869.jpg/600x600bb.jpg",
-    "consensus": 72,
-    "reviews": 1,
+    "consensus": 77,
+    "reviews": 2,
     "genre": "Alternative",
     "aoty_critic": 72,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/4511-bjork-debut.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4511-bjork-debut.php",
+    "aoty_user": 82
   },
   {
     "artist": "The Smashing Pumpkins",
     "album": "Siamese Dream",
     "year": 1993,
     "source": "Wikipedia 1990s",
-    "consensus": 90,
-    "reviews": 1,
+    "consensus": 89,
+    "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/14fc556f659caee13ababa07f1ede592/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 90,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/4139-smashing-pumpkins-siamese-dream.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4139-smashing-pumpkins-siamese-dream.php",
+    "aoty_user": 88
   },
   {
     "artist": "Stereolab",
@@ -38092,12 +38129,13 @@
     "year": 1993,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a0/ba/2a/a0ba2ae3-d960-3185-dbb7-9ae5da0cdfa4/5060384612317.png/600x600bb.jpg",
-    "consensus": 86,
-    "reviews": 1,
+    "consensus": 84,
+    "reviews": 2,
     "genre": "Alternative",
     "aoty_critic": 86,
     "aoty_reviews": 4,
-    "aoty_url": "https://www.albumoftheyear.org/album/39307-stereolab-transient-random-noise-bursts-with-announcements.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/39307-stereolab-transient-random-noise-bursts-with-announcements.php",
+    "aoty_user": 82
   },
   {
     "artist": "The Breeders",
@@ -38106,11 +38144,12 @@
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/48/b1/4848b127-2daa-bcd0-84f6-346851cec648/191400061156.png/600x600bb.jpg",
     "consensus": 78,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Alternative",
     "aoty_critic": 78,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/4424-the-breeders-last-splash.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4424-the-breeders-last-splash.php",
+    "aoty_user": 79
   },
   {
     "artist": "Paul Weller",
@@ -38118,12 +38157,13 @@
     "year": 1993,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ca/ae/2b/caae2b2f-6ab0-021a-da13-ddbb1b86dbfc/00042282851321.rgb.jpg/600x600bb.jpg",
-    "consensus": 84,
-    "reviews": 1,
+    "consensus": 78,
+    "reviews": 2,
     "genre": "Rock",
     "aoty_critic": 84,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/6609-paul-weller-wild-wood.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6609-paul-weller-wild-wood.php",
+    "aoty_user": 71
   },
   {
     "artist": "Nirvana",
@@ -38132,11 +38172,12 @@
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/20/03/e32003a4-99bc-1c70-40ba-001882f35dba/00602537526840.rgb.jpg/600x600bb.jpg",
     "consensus": 90,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Alternative",
     "aoty_critic": 90,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/3668-nirvana-in-utero.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3668-nirvana-in-utero.php",
+    "aoty_user": 89
   },
   {
     "artist": "Pet Shop Boys",
@@ -38144,12 +38185,13 @@
     "year": 1993,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/5e/be/88/5ebe8870-5e94-b1f6-f804-555311335840/5054197358869.jpg/600x600bb.jpg",
-    "consensus": 86,
-    "reviews": 1,
+    "consensus": 82,
+    "reviews": 2,
     "genre": "Pop",
     "aoty_critic": 86,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/7162-pet-shop-boys-very.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7162-pet-shop-boys-very.php",
+    "aoty_user": 78
   },
   {
     "artist": "Mazzy Star",
@@ -38157,25 +38199,27 @@
     "year": 1993,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/03/ea/0f03ead1-d1eb-27fd-0734-b257b515692f/13UABIM59278.rgb.jpg/600x600bb.jpg",
-    "consensus": 83,
-    "reviews": 1,
+    "consensus": 82,
+    "reviews": 2,
     "genre": "Rock",
     "aoty_critic": 83,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/5582-mazzy-star-so-tonight-that-i-might-see.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5582-mazzy-star-so-tonight-that-i-might-see.php",
+    "aoty_user": 81
   },
   {
     "artist": "The Afghan Whigs",
     "album": "Gentlemen",
     "year": 1993,
     "source": "Wikipedia 1990s",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 84,
+    "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/01ae71fb840c2c45894cc03bfdd7b49e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 89,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/7990-the-afghan-whigs-gentlemen.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7990-the-afghan-whigs-gentlemen.php",
+    "aoty_user": 79
   },
   {
     "artist": "Tindersticks",
@@ -38183,64 +38227,69 @@
     "year": 1993,
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0f/19/70/0f1970d8-a041-02cf-ff60-024a5de45fff/00602567508885.rgb.jpg/600x600bb.jpg",
-    "consensus": 88,
-    "reviews": 1,
+    "consensus": 83,
+    "reviews": 2,
     "genre": "Alternative",
     "aoty_critic": 88,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/10795-tindersticks-tindersticks.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/10795-tindersticks-tindersticks.php",
+    "aoty_user": 78
   },
   {
     "artist": "Pearl Jam",
     "album": "Vs.",
     "year": 1993,
     "source": "Wikipedia 1990s",
-    "consensus": 77,
-    "reviews": 1,
+    "consensus": 80,
+    "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/918446de170e0fc78d6e2780d52278f2/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/2874-pearl-jam-vs.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2874-pearl-jam-vs.php",
+    "aoty_user": 82
   },
   {
     "artist": "Wu-Tang Clan",
     "album": "Enter The Wu-Tang (36 Chambers)",
     "year": 1993,
     "source": "Wikipedia 1990s",
-    "consensus": 98,
-    "reviews": 1,
+    "consensus": 94,
+    "reviews": 2,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b7e83ef65099d5f01c84b1e2a8391f02/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 98,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/4127-wu-tang-clan-enter-the-wu-tang-36-chambers.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4127-wu-tang-clan-enter-the-wu-tang-36-chambers.php",
+    "aoty_user": 91
   },
   {
     "artist": "A Tribe Called Quest",
     "album": "Midnight Marauders",
     "year": 1993,
     "source": "Wikipedia 1990s",
-    "consensus": 83,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7edbc81197483e75798028a31078391f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/4605-a-tribe-called-quest-midnight-marauders.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4605-a-tribe-called-quest-midnight-marauders.php",
+    "aoty_user": 89
   },
   {
     "artist": "Snoop Dogg",
     "album": "Doggystyle",
     "year": 1993,
     "source": "Wikipedia 1990s",
-    "consensus": 86,
-    "reviews": 1,
+    "consensus": 85,
+    "reviews": 2,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/513525f8796e03f191e5496cdf39b192/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 86,
     "aoty_reviews": 4,
-    "aoty_url": "https://www.albumoftheyear.org/album/5808-snoop-dogg-doggystyle.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5808-snoop-dogg-doggystyle.php",
+    "aoty_user": 84
   },
   {
     "artist": "Autechre",
@@ -38249,11 +38298,12 @@
     "source": "Wikipedia 1990s",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/5a/dc/30/mzi.jnbtyfqc.jpg/600x600bb.jpg",
     "consensus": 76,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Alternative",
     "aoty_critic": 76,
     "aoty_reviews": 4,
-    "aoty_url": "https://www.albumoftheyear.org/album/6860-autechre-incunabula.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6860-autechre-incunabula.php",
+    "aoty_user": 77
   },
   {
     "artist": "Underworld",
