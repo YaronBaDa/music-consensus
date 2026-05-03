@@ -18430,14 +18430,15 @@
     "year": 2013,
     "metacritic": 83,
     "source": "Metacritic 2013",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 78,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6f8bc246fd359dc216609d0f2a7f413c/1000x1000-000000-80-0-0.jpg",
     "discogs": 80,
     "aoty_critic": 79,
     "aoty_reviews": 23,
-    "aoty_url": "https://www.albumoftheyear.org/album/6989-superchunk-i-hate-music.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6989-superchunk-i-hate-music.php",
+    "aoty_user": 71
   },
   {
     "artist": "Patty Griffin",
@@ -18446,13 +18447,14 @@
     "metacritic": 83,
     "source": "Metacritic 2013",
     "consensus": 82,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7a3b640290111af57a28343e3decb245/1000x1000-000000-80-0-0.jpg",
     "discogs": 85,
     "aoty_critic": 79,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/10669-patty-griffin-silver-bell.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/10669-patty-griffin-silver-bell.php",
+    "aoty_user": 80
   },
   {
     "artist": "DJ Koze",
@@ -18460,14 +18462,15 @@
     "year": 2013,
     "metacritic": 83,
     "source": "Metacritic 2013",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/79606bda839a2b97c36cf30f0d21f17c/1000x1000-000000-80-0-0.jpg",
     "discogs": 91,
     "aoty_critic": 80,
     "aoty_reviews": 13,
-    "aoty_url": "https://www.albumoftheyear.org/album/6215-dj-koze-amygdala.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6215-dj-koze-amygdala.php",
+    "aoty_user": 79
   },
   {
     "artist": "Wolf Eyes",
@@ -18487,14 +18490,15 @@
     "year": 2013,
     "metacritic": 83,
     "source": "Metacritic 2013",
-    "consensus": 84,
-    "reviews": 3,
+    "consensus": 81,
+    "reviews": 4,
     "genre": "R&B",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b2840257d2b8563f39de976381779d29/1000x1000-000000-80-0-0.jpg",
     "discogs": 90,
     "aoty_critic": 78,
     "aoty_reviews": 23,
-    "aoty_url": "https://www.albumoftheyear.org/album/6526-thundercat-apocalypse.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6526-thundercat-apocalypse.php",
+    "aoty_user": 73
   },
   {
     "artist": "Mountains",
@@ -18502,14 +18506,15 @@
     "year": 2013,
     "metacritic": 83,
     "source": "Metacritic 2013",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 81,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/bd7885ad19086006f7f232b8523456ac/1000x1000-000000-80-0-0.jpg",
     "discogs": 86,
     "aoty_critic": 79,
     "aoty_reviews": 21,
-    "aoty_url": "https://www.albumoftheyear.org/album/5365-mountains-centralia.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5365-mountains-centralia.php",
+    "aoty_user": 75
   },
   {
     "artist": "Tamikrest",
@@ -18517,14 +18522,15 @@
     "year": 2013,
     "metacritic": 83,
     "source": "Metacritic 2013",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "World",
     "cover": "https://cdn-images.dzcdn.net/images/cover/680a3e0a2280194c95a5c2c589ff9e7a/1000x1000-000000-80-0-0.jpg",
     "discogs": 88,
     "aoty_critic": 84,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/11656-tamikrest-chatma.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/11656-tamikrest-chatma.php",
+    "aoty_user": 74
   },
   {
     "artist": "True Widow",
@@ -18532,14 +18538,15 @@
     "year": 2013,
     "metacritic": 83,
     "source": "Metacritic 2013",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/82e9e62669e541aad91fe1c98aa2b962/1000x1000-000000-80-0-0.jpg",
     "discogs": 96,
     "aoty_critic": 76,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/8659-true-widow-circumambulation.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/8659-true-widow-circumambulation.php",
+    "aoty_user": 75
   },
   {
     "artist": "The Icarus Line",
@@ -18547,13 +18554,14 @@
     "year": 2013,
     "metacritic": 83,
     "source": "Metacritic 2013",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/5a4e256b4e97d9370ef051d52bf6f75e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/8336-the-icarus-line-slave-vows.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/8336-the-icarus-line-slave-vows.php",
+    "aoty_user": 75
   },
   {
     "artist": "Future of the Left",
@@ -18561,13 +18569,14 @@
     "year": 2013,
     "metacritic": 83,
     "source": "Metacritic 2013",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/16c84283caff7c116217c2f6137d84ff/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/10269-future-of-the-left-how-to-stop-your-brain-in-an-accident.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/10269-future-of-the-left-how-to-stop-your-brain-in-an-accident.php",
+    "aoty_user": 76
   },
   {
     "artist": "Daniel Avery",
@@ -18575,13 +18584,14 @@
     "year": 2013,
     "metacritic": 83,
     "source": "Metacritic 2013",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f2e3daf2ee6944b42ec6e1b9868aa29a/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 17,
-    "aoty_url": "https://www.albumoftheyear.org/album/10326-daniel-avery-drone-logic.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/10326-daniel-avery-drone-logic.php",
+    "aoty_user": 79
   },
   {
     "artist": "Kevin Devine",
@@ -18600,13 +18610,14 @@
     "year": 2013,
     "metacritic": 82,
     "source": "Metacritic 2013",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Folk",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b5ed4d819a0421fb75611eed2bcc9c7d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/11098-josephine-foster-im-a-dreamer.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/11098-josephine-foster-im-a-dreamer.php",
+    "aoty_user": 76
   },
   {
     "artist": "Janelle Mon\u00e1e",
@@ -18615,12 +18626,13 @@
     "metacritic": 82,
     "source": "Metacritic 2013",
     "consensus": 82,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "R&B",
     "cover": "https://cdn-images.dzcdn.net/images/cover/013c9b44eba1daadf20c419e944ab785/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 43,
-    "aoty_url": "https://www.albumoftheyear.org/album/8230-janelle-monae-the-electric-lady.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/8230-janelle-monae-the-electric-lady.php",
+    "aoty_user": 82
   },
   {
     "artist": "Queens of the Stone Age",
@@ -18628,13 +18640,14 @@
     "year": 2013,
     "metacritic": 82,
     "source": "Metacritic 2013",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 84,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ac317291ed9654c649ca24d0d17c063c/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 50,
-    "aoty_url": "https://www.albumoftheyear.org/album/6363-queens-of-the-stone-age-like-clockwork.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6363-queens-of-the-stone-age-like-clockwork.php",
+    "aoty_user": 89
   },
   {
     "artist": "All Pigs Must Die",
@@ -18642,13 +18655,14 @@
     "year": 2013,
     "metacritic": 82,
     "source": "Metacritic 2013",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Metal",
     "cover": "https://cdn-images.dzcdn.net/images/cover/bd22e84d3b71478415bc5bdb66f48424/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/8769-all-pigs-must-die-nothing-violates-this-nature.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/8769-all-pigs-must-die-nothing-violates-this-nature.php",
+    "aoty_user": 75
   },
   {
     "artist": "Thee Oh Sees",
@@ -18656,13 +18670,14 @@
     "year": 2013,
     "metacritic": 82,
     "source": "Metacritic 2013",
-    "consensus": 79,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/599c13ad1c9e06462c62d20011380717/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 16,
-    "aoty_url": "https://www.albumoftheyear.org/album/5493-thee-oh-sees-floating-coffin.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5493-thee-oh-sees-floating-coffin.php",
+    "aoty_user": 76
   },
   {
     "artist": "Jon Hopkins",
@@ -18671,12 +18686,13 @@
     "metacritic": 82,
     "source": "Metacritic 2013",
     "consensus": 83,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/9c031c2d932d489dd98a1fdf0a08ebfb/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 33,
-    "aoty_url": "https://www.albumoftheyear.org/album/7574-jon-hopkins-immunity.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7574-jon-hopkins-immunity.php",
+    "aoty_user": 83
   },
   {
     "artist": "Bilal",
@@ -18684,13 +18700,14 @@
     "year": 2013,
     "metacritic": 82,
     "source": "Metacritic 2013",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "R&B",
     "cover": "https://cdn-images.dzcdn.net/images/cover/3c5ef54562b4db71c2c910ee9feba978/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/5973-bilal-a-love-surreal.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5973-bilal-a-love-surreal.php",
+    "aoty_user": 70
   },
   {
     "artist": "Yo La Tengo",
@@ -18698,13 +18715,14 @@
     "year": 2013,
     "metacritic": 82,
     "source": "Metacritic 2013",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b620034b4386eae1e9f26ab29f03ae9f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 39,
-    "aoty_url": "https://www.albumoftheyear.org/album/4498-yo-la-tengo-fade.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4498-yo-la-tengo-fade.php",
+    "aoty_user": 76
   },
   {
     "artist": "Lady Lamb the Beekeeper",
@@ -18712,13 +18730,14 @@
     "year": 2013,
     "metacritic": 82,
     "source": "Metacritic 2013",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/9c7b9ef14d545ffaac2ab1663b4175d8/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/5195-lady-lamb-ripely-pine.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5195-lady-lamb-ripely-pine.php",
+    "aoty_user": 80
   },
   {
     "artist": "Earl Sweatshirt",
@@ -18727,12 +18746,13 @@
     "metacritic": 82,
     "source": "Metacritic 2013",
     "consensus": 81,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/cdb4b70aedc8e36df31a54127f5b528d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 35,
-    "aoty_url": "https://www.albumoftheyear.org/album/8509-earl-sweatshirt-doris.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/8509-earl-sweatshirt-doris.php",
+    "aoty_user": 80
   },
   {
     "artist": "John Grant",
@@ -18740,13 +18760,14 @@
     "year": 2013,
     "metacritic": 82,
     "source": "Metacritic 2013",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f0b780a6b88a020a4c26a8c57210354a/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 28,
-    "aoty_url": "https://www.albumoftheyear.org/album/5965-john-grant-pale-green-ghosts.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5965-john-grant-pale-green-ghosts.php",
+    "aoty_user": 78
   },
   {
     "artist": "Pissed Jeans",
@@ -18754,13 +18775,14 @@
     "year": 2013,
     "metacritic": 82,
     "source": "Metacritic 2013",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/cd106b000b62556290c4f16647b54ff3/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 30,
-    "aoty_url": "https://www.albumoftheyear.org/album/5209-pissed-jeans-honeys.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5209-pissed-jeans-honeys.php",
+    "aoty_user": 72
   },
   {
     "artist": "Steve Gunn",
@@ -18768,13 +18790,14 @@
     "year": 2013,
     "metacritic": 82,
     "source": "Metacritic 2013",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/198a94408086f80fbcdd093925433b9b/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/8369-steve-gunn-time-off.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/8369-steve-gunn-time-off.php",
+    "aoty_user": 76
   },
   {
     "artist": "Savages",
@@ -18782,13 +18805,14 @@
     "year": 2013,
     "metacritic": 82,
     "source": "Metacritic 2013",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/e1217af54e1e10a1e4e9560cc6a254cb/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 43,
-    "aoty_url": "https://www.albumoftheyear.org/album/6743-savages-silence-yourself.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6743-savages-silence-yourself.php",
+    "aoty_user": 79
   },
   {
     "artist": "James Blake",
@@ -18796,13 +18820,14 @@
     "year": 2013,
     "metacritic": 82,
     "source": "Metacritic 2013",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/763cd442c23f5d9c64d8f9923a9e814c/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 45,
-    "aoty_url": "https://www.albumoftheyear.org/album/5700-james-blake-overgrown.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5700-james-blake-overgrown.php",
+    "aoty_user": 80
   },
   {
     "artist": "Kurt Vile",
@@ -18810,13 +18835,14 @@
     "year": 2013,
     "metacritic": 82,
     "source": "Metacritic 2013",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/5c4fcff51e8cd8f541ca7f0bb43e83b3/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 39,
-    "aoty_url": "https://www.albumoftheyear.org/album/5729-kurt-vile-wakin-on-a-pretty-daze.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5729-kurt-vile-wakin-on-a-pretty-daze.php",
+    "aoty_user": 80
   },
   {
     "artist": "65daysofstatic",
@@ -18824,13 +18850,14 @@
     "year": 2013,
     "metacritic": 82,
     "source": "Metacritic 2013",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/c8be99a15c39b1519f416e71ba6b525a/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 13,
-    "aoty_url": "https://www.albumoftheyear.org/album/9828-65daysofstatic-wild-light.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/9828-65daysofstatic-wild-light.php",
+    "aoty_user": 79
   },
   {
     "artist": "Barrence Whitfield & the Savages",
@@ -18849,11 +18876,12 @@
     "metacritic": 82,
     "source": "Metacritic 2013",
     "consensus": 81,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 80,
     "aoty_reviews": 20,
-    "aoty_url": "https://www.albumoftheyear.org/album/7673-chelsea-wolfe-pain-is-beauty.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7673-chelsea-wolfe-pain-is-beauty.php",
+    "aoty_user": 82
   },
   {
     "artist": "Califone",
@@ -18861,12 +18889,13 @@
     "year": 2013,
     "metacritic": 82,
     "source": "Metacritic 2013",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 75,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/7889-califone-stitches.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7889-califone-stitches.php",
+    "aoty_user": 74
   },
   {
     "artist": "Bring Me the Horizon",
@@ -18874,12 +18903,13 @@
     "year": 2013,
     "metacritic": 81,
     "source": "Metacritic 2013",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Rock",
     "aoty_critic": 75,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/7906-bring-me-the-horizon-sempiternal.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7906-bring-me-the-horizon-sempiternal.php",
+    "aoty_user": 80
   },
   {
     "artist": "Alela Diane",
@@ -18887,12 +18917,13 @@
     "year": 2013,
     "metacritic": 81,
     "source": "Metacritic 2013",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Pop",
     "aoty_critic": 78,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/8688-alela-diane-about-farewell.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/8688-alela-diane-about-farewell.php",
+    "aoty_user": 77
   },
   {
     "artist": "David Bowie",
@@ -18900,12 +18931,13 @@
     "year": 2013,
     "metacritic": 81,
     "source": "Metacritic 2013",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Rock",
     "aoty_critic": 82,
     "aoty_reviews": 47,
-    "aoty_url": "https://www.albumoftheyear.org/album/5292-david-bowie-the-next-day.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/5292-david-bowie-the-next-day.php",
+    "aoty_user": 78
   },
   {
     "artist": "Polvo",
@@ -18913,13 +18945,14 @@
     "year": 2013,
     "metacritic": 81,
     "source": "Metacritic 2013",
-    "consensus": 77,
-    "reviews": 2,
+    "consensus": 76,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/c8c9b9724e3adcf9c2b53877dc39a35f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 73,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/9777-polvo-siberia.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/9777-polvo-siberia.php",
+    "aoty_user": 74
   },
   {
     "artist": "John Wizards",
@@ -18927,13 +18960,14 @@
     "year": 2013,
     "metacritic": 81,
     "source": "Metacritic 2013",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/58e83d34e1300dfce328254feaa8db57/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 16,
-    "aoty_url": "https://www.albumoftheyear.org/album/9494-john-wizards-john-wizards.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/9494-john-wizards-john-wizards.php",
+    "aoty_user": 73
   },
   {
     "artist": "Arctic Monkeys",
@@ -18942,12 +18976,13 @@
     "metacritic": 81,
     "source": "Metacritic 2013",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/cc/0f/2d/cc0f2d02-5ff1-10e7-eea2-76863a55dbad/887828031795.png/600x600bb.jpg",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 81,
     "aoty_reviews": 45,
-    "aoty_url": "https://www.albumoftheyear.org/album/8151-arctic-monkeys-am.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/8151-arctic-monkeys-am.php",
+    "aoty_user": 71
   },
   {
     "artist": "Disclosure",
@@ -18955,13 +18990,14 @@
     "year": 2013,
     "metacritic": 81,
     "source": "Metacritic 2013",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/e44468007c45f2523d056a0b19eed80a/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 37,
-    "aoty_url": "https://www.albumoftheyear.org/album/6525-disclosure-settle.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6525-disclosure-settle.php",
+    "aoty_user": 79
   },
   {
     "artist": "James Holden",
@@ -18969,13 +19005,14 @@
     "year": 2013,
     "metacritic": 81,
     "source": "Metacritic 2013",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/153c32313cf388bf15d1f4c96cbe9d82/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 22,
-    "aoty_url": "https://www.albumoftheyear.org/album/7921-james-holden-the-inheritors.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7921-james-holden-the-inheritors.php",
+    "aoty_user": 76
   },
   {
     "artist": "Mount Kimbie",
@@ -18983,13 +19020,14 @@
     "year": 2013,
     "metacritic": 81,
     "source": "Metacritic 2013",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 76,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/07e2ea213a46a8a66ebdd48f77869c03/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 74,
     "aoty_reviews": 27,
-    "aoty_url": "https://www.albumoftheyear.org/album/6201-mount-kimbie-cold-spring-fault-less-youth.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6201-mount-kimbie-cold-spring-fault-less-youth.php",
+    "aoty_user": 74
   },
   {
     "artist": "Tal National",
@@ -18997,13 +19035,14 @@
     "year": 2013,
     "metacritic": 81,
     "source": "Metacritic 2013",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 75,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/3d45da2e489db8e3c5916ec84976fbf2/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 74,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/9865-tal-national-kaani.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/9865-tal-national-kaani.php",
+    "aoty_user": 71
   },
   {
     "artist": "Oneohtrix Point Never",
@@ -19011,13 +19050,14 @@
     "year": 2013,
     "metacritic": 81,
     "source": "Metacritic 2013",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b484f90e612c02dc20876ff53510baf8/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 29,
-    "aoty_url": "https://www.albumoftheyear.org/album/7952-oneohtrix-point-never-r-plus-seven.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7952-oneohtrix-point-never-r-plus-seven.php",
+    "aoty_user": 81
   },
   {
     "artist": "Nick Cave & the Bad Seeds",
@@ -19026,12 +19066,13 @@
     "metacritic": 81,
     "source": "Metacritic 2013",
     "consensus": 82,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/0a31e26192423da989c00623863dc007/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 48,
-    "aoty_url": "https://www.albumoftheyear.org/album/4568-nick-cave-the-bad-seeds-push-the-sky-away.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4568-nick-cave-the-bad-seeds-push-the-sky-away.php",
+    "aoty_user": 80
   },
   {
     "artist": "Owen",
@@ -19039,13 +19080,14 @@
     "year": 2013,
     "metacritic": 81,
     "source": "Metacritic 2013",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 75,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/9fda1e91d67b1aaf7fdd137b1ac86994/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 74,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/8763-owen-lami-du-peuple.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/8763-owen-lami-du-peuple.php",
+    "aoty_user": 69
   },
   {
     "artist": "Valerie June",
@@ -19053,13 +19095,14 @@
     "year": 2013,
     "metacritic": 81,
     "source": "Metacritic 2013",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/410df7ebee687f93058239c7c593f384/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/8941-valerie-june-pushin-against-a-stone.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/8941-valerie-june-pushin-against-a-stone.php",
+    "aoty_user": 78
   },
   {
     "artist": "Wadada Leo Smith",
@@ -19067,14 +19110,15 @@
     "year": 2012,
     "metacritic": 99,
     "source": "Metacritic 2012",
-    "consensus": 94,
-    "reviews": 3,
+    "consensus": 92,
+    "reviews": 4,
     "genre": "Jazz",
     "cover": "https://cdn-images.dzcdn.net/images/cover/0fe1cd24d3e1df555db040e5d1f2670d/1000x1000-000000-80-0-0.jpg",
     "discogs": 89,
     "aoty_critic": 94,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/4728-wadada-leo-smith-ten-freedom-summers.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4728-wadada-leo-smith-ten-freedom-summers.php",
+    "aoty_user": 84
   },
   {
     "artist": "The Menzingers",
@@ -19082,14 +19126,15 @@
     "year": 2012,
     "metacritic": 93,
     "source": "Metacritic 2012",
-    "consensus": 90,
-    "reviews": 3,
+    "consensus": 88,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b199ff86225eed922ea644f06a28c460/1000x1000-000000-80-0-0.jpg",
     "discogs": 94,
     "aoty_critic": 83,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/4809-the-menzingers-on-the-impossible-past.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4809-the-menzingers-on-the-impossible-past.php",
+    "aoty_user": 81
   },
   {
     "artist": "Frank Ocean",
@@ -19097,14 +19142,15 @@
     "year": 2012,
     "metacritic": 91,
     "source": "Metacritic 2012",
-    "consensus": 91,
-    "reviews": 3,
+    "consensus": 90,
+    "reviews": 4,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/519400e29d268f449cf00af879e71af6/1000x1000-000000-80-0-0.jpg",
     "discogs": 92,
     "aoty_critic": 90,
     "aoty_reviews": 44,
-    "aoty_url": "https://www.albumoftheyear.org/album/3772-frank-ocean-channel-orange.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3772-frank-ocean-channel-orange.php",
+    "aoty_user": 87
   },
   {
     "artist": "Kendrick Lamar",
@@ -19114,12 +19160,13 @@
     "source": "Metacritic 2012",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/86/ec/3686ec99-dec4-0a01-8b74-2d8a9a0263a7/12UMGIM52988.rgb.jpg/600x600bb.jpg",
     "consensus": 92,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Hip Hop",
     "discogs": 94,
     "aoty_critic": 90,
     "aoty_reviews": 33,
-    "aoty_url": "https://www.albumoftheyear.org/album/3840-kendrick-lamar-good-kid-maad-city.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3840-kendrick-lamar-good-kid-maad-city.php",
+    "aoty_user": 94
   },
   {
     "artist": "Fiona Apple",
@@ -19127,14 +19174,15 @@
     "year": 2012,
     "metacritic": 89,
     "source": "Metacritic 2012",
-    "consensus": 89,
-    "reviews": 3,
+    "consensus": 88,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6415422a7b5029e3444c44579c7bec88/1000x1000-000000-80-0-0.jpg",
     "discogs": 91,
     "aoty_critic": 87,
     "aoty_reviews": 33,
-    "aoty_url": "https://www.albumoftheyear.org/album/3570-fiona-apple-the-idler-wheel.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3570-fiona-apple-the-idler-wheel.php",
+    "aoty_user": 87
   },
   {
     "artist": "Vijay Iyer Trio",
@@ -19142,13 +19190,14 @@
     "year": 2012,
     "metacritic": 88,
     "source": "Metacritic 2012",
-    "consensus": 85,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Jazz",
     "cover": "https://cdn-images.dzcdn.net/images/cover/37dc047da30727c1fbf455fcff9a729c/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/18694-vijay-iyer-accelerando.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/18694-vijay-iyer-accelerando.php",
+    "aoty_user": 77
   },
   {
     "artist": "Tame Impala",
@@ -19156,13 +19205,14 @@
     "year": 2012,
     "metacritic": 88,
     "source": "Metacritic 2012",
-    "consensus": 87,
-    "reviews": 2,
+    "consensus": 86,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/9fe30ce99ef17cb1250bef071f15ccee/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 86,
     "aoty_reviews": 36,
-    "aoty_url": "https://www.albumoftheyear.org/album/3879-tame-impala-lonerism.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3879-tame-impala-lonerism.php",
+    "aoty_user": 84
   },
   {
     "artist": "Sweet Billy Pilgrim",
