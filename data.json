@@ -31724,14 +31724,15 @@
     "year": 2003,
     "metacritic": 92,
     "source": "Metacritic 2003",
-    "consensus": 88,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/370483b6b448fafeeff053a1556467da/1000x1000-000000-80-0-0.jpg",
     "discogs": 91,
     "aoty_critic": 81,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/532-the-white-stripes-elephant.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/532-the-white-stripes-elephant.php",
+    "aoty_user": 82
   },
   {
     "artist": "Outkast",
@@ -31739,14 +31740,15 @@
     "year": 2003,
     "metacritic": 91,
     "source": "Metacritic 2003",
-    "consensus": 88,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f81783b6cc6030733cd475f820855562/1000x1000-000000-80-0-0.jpg",
     "discogs": 88,
     "aoty_critic": 85,
     "aoty_reviews": 21,
-    "aoty_url": "https://www.albumoftheyear.org/album/551-outkast-speakerboxxxthe-love-below.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/551-outkast-speakerboxxxthe-love-below.php",
+    "aoty_user": 82
   },
   {
     "artist": "Four Tet",
@@ -31754,14 +31756,15 @@
     "year": 2003,
     "metacritic": 89,
     "source": "Metacritic 2003",
-    "consensus": 89,
-    "reviews": 3,
+    "consensus": 88,
+    "reviews": 4,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7b955054e94d2a68733a9d11438c5d5c/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 88,
     "aoty_reviews": 16,
     "aoty_url": "https://www.albumoftheyear.org/album/943-four-tet-rounds.php",
-    "discogs": 91
+    "discogs": 91,
+    "aoty_user": 82
   },
   {
     "artist": "The Notwist",
@@ -31781,13 +31784,14 @@
     "year": 2003,
     "metacritic": 88,
     "source": "Metacritic 2003",
-    "consensus": 87,
-    "reviews": 2,
+    "consensus": 84,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/32215271e549ff911c628eb2e32730f6/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 86,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/525-the-shins-chutes-too-narrow.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/525-the-shins-chutes-too-narrow.php",
+    "aoty_user": 79
   },
   {
     "artist": "Pernice Brothers",
@@ -31795,13 +31799,14 @@
     "year": 2003,
     "metacritic": 88,
     "source": "Metacritic 2003",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/db64e61d99c00b3a799d4a8f0a42e789/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 75,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/1769-pernice-brothers-yours-mine-ours.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1769-pernice-brothers-yours-mine-ours.php",
+    "aoty_user": 80
   },
   {
     "artist": "Caribou",
@@ -31809,13 +31814,14 @@
     "year": 2003,
     "metacritic": 88,
     "source": "Metacritic 2003",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/e5c10ed2236447b4deef2844d1b35dbf/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 13,
-    "aoty_url": "https://www.albumoftheyear.org/album/973-caribou-up-in-flames.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/973-caribou-up-in-flames.php",
+    "aoty_user": 78
   },
   {
     "artist": "Damien Jurado",
@@ -31823,13 +31829,14 @@
     "year": 2003,
     "metacritic": 88,
     "source": "Metacritic 2003",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/750c7915c171ec8fba27a4fccb271d56/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/1870-damien-jurado-where-shall-you-take-me.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1870-damien-jurado-where-shall-you-take-me.php",
+    "aoty_user": 78
   },
   {
     "artist": "Drive-By Truckers",
@@ -31838,12 +31845,13 @@
     "metacritic": 87,
     "source": "Metacritic 2003",
     "consensus": 84,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/75872ba91678e29d28ad4e85ed189822/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/320-drive-by-truckers-decoration-day.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/320-drive-by-truckers-decoration-day.php",
+    "aoty_user": 82
   },
   {
     "artist": "Lucinda Williams",
@@ -31851,12 +31859,13 @@
     "year": 2003,
     "metacritic": 87,
     "source": "Metacritic 2003",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Rock",
     "aoty_critic": 82,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/18214-lucinda-williams-world-without-tears.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/18214-lucinda-williams-world-without-tears.php",
+    "aoty_user": 76
   },
   {
     "artist": "Emmylou Harris",
@@ -31864,12 +31873,13 @@
     "year": 2003,
     "metacritic": 87,
     "source": "Metacritic 2003",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Pop",
     "aoty_critic": 80,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/10731-emmylou-harris-stumble-into-grace.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/10731-emmylou-harris-stumble-into-grace.php",
+    "aoty_user": 67
   },
   {
     "artist": "Super Furry Animals",
@@ -31877,12 +31887,13 @@
     "year": 2003,
     "metacritic": 87,
     "source": "Metacritic 2003",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Pop",
     "aoty_critic": 81,
     "aoty_reviews": 16,
-    "aoty_url": "https://www.albumoftheyear.org/album/1362-super-furry-animals-phantom-power.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1362-super-furry-animals-phantom-power.php",
+    "aoty_user": 78
   },
   {
     "artist": "Prefuse 73",
@@ -31890,13 +31901,14 @@
     "year": 2003,
     "metacritic": 86,
     "source": "Metacritic 2003",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/4402ce9b6f3418cc4808a33f1bc7c77b/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/8744-prefuse-73-one-word-extinguisher.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/8744-prefuse-73-one-word-extinguisher.php",
+    "aoty_user": 80
   },
   {
     "artist": "British Sea Power",
@@ -31904,13 +31916,14 @@
     "year": 2003,
     "metacritic": 86,
     "source": "Metacritic 2003",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b50ee0286fdca42df65fd8dcfec04592/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 18,
-    "aoty_url": "https://www.albumoftheyear.org/album/552-sea-power-the-decline-of-british-sea-power.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/552-sea-power-the-decline-of-british-sea-power.php",
+    "aoty_user": 76
   },
   {
     "artist": "Broken Social Scene",
@@ -31929,13 +31942,14 @@
     "year": 2003,
     "metacritic": 86,
     "source": "Metacritic 2003",
-    "consensus": 85,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/c290e79edc9c9f31a5b496dfc2b81ac7/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/917-califone-quicksand-cradlesnakes.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/917-califone-quicksand-cradlesnakes.php",
+    "aoty_user": 80
   },
   {
     "artist": "Fountains of Wayne",
@@ -31944,12 +31958,13 @@
     "metacritic": 86,
     "source": "Metacritic 2003",
     "consensus": 78,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/0f199c359f6be20d2146514b7c421978/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 71,
     "aoty_reviews": 13,
-    "aoty_url": "https://www.albumoftheyear.org/album/11803-fountains-of-wayne-welcome-interstate-managers.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/11803-fountains-of-wayne-welcome-interstate-managers.php",
+    "aoty_user": 78
   },
   {
     "artist": "Calexico",
@@ -31957,13 +31972,14 @@
     "year": 2003,
     "metacritic": 86,
     "source": "Metacritic 2003",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/1d0e702d800896beb888b1a492888e00/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/1576-calexico-feast-of-wire.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1576-calexico-feast-of-wire.php",
+    "aoty_user": 75
   },
   {
     "artist": "Explosions in the Sky",
@@ -31971,13 +31987,14 @@
     "year": 2003,
     "metacritic": 86,
     "source": "Metacritic 2003",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/cdb960386a57c3d4be7a25edd51302ea/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/2319-explosions-in-the-sky-the-earth-is-not-a-cold-dead-place.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2319-explosions-in-the-sky-the-earth-is-not-a-cold-dead-place.php",
+    "aoty_user": 77
   },
   {
     "artist": "The Books",
@@ -31985,13 +32002,14 @@
     "year": 2003,
     "metacritic": 86,
     "source": "Metacritic 2003",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/be63da9b034b73e638091acaf3c958c0/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/547-the-books-the-lemon-of-pink.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/547-the-books-the-lemon-of-pink.php",
+    "aoty_user": 79
   },
   {
     "artist": "Warren Zevon",
@@ -31999,13 +32017,14 @@
     "year": 2003,
     "metacritic": 86,
     "source": "Metacritic 2003",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/985961a6cedbe4c696dff33e07a5b6c7/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/33518-warren-zevon-the-wind.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/33518-warren-zevon-the-wind.php",
+    "aoty_user": 77
   },
   {
     "artist": "Bill Frisell",
@@ -32036,14 +32055,15 @@
     "year": 2003,
     "metacritic": 85,
     "source": "Metacritic 2003",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d3d9e1f53d60c5d2c764b20870aab69e/1000x1000-000000-80-0-0.jpg",
     "discogs": 90,
     "aoty_critic": 81,
     "aoty_reviews": 22,
-    "aoty_url": "https://www.albumoftheyear.org/album/367-radiohead-hail-to-the-thief.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/367-radiohead-hail-to-the-thief.php",
+    "aoty_user": 81
   },
   {
     "artist": "Songs: Ohia",
@@ -32063,14 +32083,15 @@
     "year": 2003,
     "metacritic": 85,
     "source": "Metacritic 2003",
-    "consensus": 86,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/96da7a90c43fefa1524cc442d174a29d/1000x1000-000000-80-0-0.jpg",
     "discogs": 90,
     "aoty_critic": 83,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/10581-joe-strummer-the-mescaleros-streetcore.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/10581-joe-strummer-the-mescaleros-streetcore.php",
+    "aoty_user": 78
   },
   {
     "artist": "Mogwai",
@@ -32078,14 +32099,15 @@
     "year": 2003,
     "metacritic": 85,
     "source": "Metacritic 2003",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b6ca9e1762c286fa8423eb7ed4d5a75a/1000x1000-000000-80-0-0.jpg",
     "discogs": 82,
     "aoty_critic": 81,
     "aoty_reviews": 16,
-    "aoty_url": "https://www.albumoftheyear.org/album/1947-mogwai-happy-songs-for-happy-people.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1947-mogwai-happy-songs-for-happy-people.php",
+    "aoty_user": 80
   },
   {
     "artist": "Nina Nastasia",
@@ -32093,14 +32115,15 @@
     "year": 2003,
     "metacritic": 85,
     "source": "Metacritic 2003",
-    "consensus": 84,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/5e6ac0e2e5abef67d4c659536e7bb238/1000x1000-000000-80-0-0.jpg",
     "discogs": 90,
     "aoty_critic": 77,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/36317-nina-nastasia-run-to-ruin.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/36317-nina-nastasia-run-to-ruin.php",
+    "aoty_user": 81
   },
   {
     "artist": "The Wrens",
@@ -32108,14 +32131,15 @@
     "year": 2003,
     "metacritic": 85,
     "source": "Metacritic 2003",
-    "consensus": 89,
-    "reviews": 3,
+    "consensus": 87,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/4034c93f2058e6214342023dc152f144/1000x1000-000000-80-0-0.jpg",
     "discogs": 95,
     "aoty_critic": 86,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/985-the-wrens-the-meadowlands.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/985-the-wrens-the-meadowlands.php",
+    "aoty_user": 81
   },
   {
     "artist": "Basement Jaxx",
@@ -32123,14 +32147,15 @@
     "year": 2003,
     "metacritic": 85,
     "source": "Metacritic 2003",
-    "consensus": 79,
-    "reviews": 3,
+    "consensus": 78,
+    "reviews": 4,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/23e5bebec82d445195cddd00b6afca76/1000x1000-000000-80-0-0.jpg",
     "discogs": 75,
     "aoty_critic": 77,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/8770-basement-jaxx-kish-kash.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/8770-basement-jaxx-kish-kash.php",
+    "aoty_user": 75
   },
   {
     "artist": "The Handsome Family",
@@ -32138,13 +32163,14 @@
     "year": 2003,
     "metacritic": 85,
     "source": "Metacritic 2003",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Country",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2d131cfcaa950a96f29f36e9e030b3e2/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/25310-the-handsome-family-singing-bones.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/25310-the-handsome-family-singing-bones.php",
+    "aoty_user": 73
   },
   {
     "artist": "Yeah Yeah Yeahs",
@@ -32152,13 +32178,14 @@
     "year": 2003,
     "metacritic": 85,
     "source": "Metacritic 2003",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/60ce1a5d2238dc4dc7a7024eb34aa841/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/1138-yeah-yeah-yeahs-fever-to-tell.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1138-yeah-yeah-yeahs-fever-to-tell.php",
+    "aoty_user": 77
   },
   {
     "artist": "Cursive",
@@ -32167,12 +32194,13 @@
     "metacritic": 85,
     "source": "Metacritic 2003",
     "consensus": 81,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2c0c5a600a783b5f534ff3e6a28c0fdb/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/3434-cursive-the-ugly-organ.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3434-cursive-the-ugly-organ.php",
+    "aoty_user": 81
   },
   {
     "artist": "Ted Leo & The Pharmacists",
@@ -32180,13 +32208,14 @@
     "year": 2003,
     "metacritic": 84,
     "source": "Metacritic 2003",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6e3f8b35e5730bdb4d0bcd8595997593/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/999-ted-leo-and-the-pharmacists-hearts-of-oak.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/999-ted-leo-and-the-pharmacists-hearts-of-oak.php",
+    "aoty_user": 78
   },
   {
     "artist": "Rickie Lee Jones",
@@ -32194,12 +32223,13 @@
     "year": 2003,
     "metacritic": 84,
     "source": "Metacritic 2003",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 84,
+    "reviews": 3,
     "genre": "Pop",
     "aoty_critic": 82,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/38508-rickie-lee-jones-the-evening-of-my-best-day.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/38508-rickie-lee-jones-the-evening-of-my-best-day.php",
+    "aoty_user": 85
   },
   {
     "artist": "Town & Country",
@@ -32219,12 +32249,13 @@
     "metacritic": 84,
     "source": "Metacritic 2003",
     "consensus": 78,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/e14524b2424cbda17c929182dac6689e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 73,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/41965-rancid-indestructible.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/41965-rancid-indestructible.php",
+    "aoty_user": 78
   },
   {
     "artist": "Vic Chesnutt",
@@ -32232,13 +32263,14 @@
     "year": 2003,
     "metacritic": 84,
     "source": "Metacritic 2003",
-    "consensus": 79,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6b1414ad0fa4dd3f52018a1ea893a6b0/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 74,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/10634-vic-chesnutt-silver-lake.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/10634-vic-chesnutt-silver-lake.php",
+    "aoty_user": 81
   },
   {
     "artist": "All Girl Summer Fun Band",
@@ -32257,13 +32289,14 @@
     "year": 2003,
     "metacritic": 84,
     "source": "Metacritic 2003",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/0e59c737cf636f442fe599ec5a7fc78d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 17,
-    "aoty_url": "https://www.albumoftheyear.org/album/980-jay-z-the-black-album.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/980-jay-z-the-black-album.php",
+    "aoty_user": 86
   },
   {
     "artist": "Original Soundtrack",
@@ -32281,13 +32314,14 @@
     "year": 2003,
     "metacritic": 84,
     "source": "Metacritic 2003",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 84,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8be53d0f25f22a507eacd13abd9b0cae/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/526-sun-kil-moon-ghosts-of-the-great-highway.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/526-sun-kil-moon-ghosts-of-the-great-highway.php",
+    "aoty_user": 87
   },
   {
     "artist": "Do Make Say Think",
@@ -32296,11 +32330,12 @@
     "metacritic": 84,
     "source": "Metacritic 2003",
     "consensus": 82,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 81,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/10559-do-make-say-think-winter-hymn-country-hymn-secret-hymn.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/10559-do-make-say-think-winter-hymn-country-hymn-secret-hymn.php",
+    "aoty_user": 82
   },
   {
     "artist": "Beulah",
@@ -32309,11 +32344,12 @@
     "metacritic": 84,
     "source": "Metacritic 2003",
     "consensus": 80,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Various",
     "aoty_critic": 75,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/28070-beulah-yoko.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/28070-beulah-yoko.php",
+    "aoty_user": 81
   },
   {
     "artist": "Death Cab for Cutie",
@@ -32321,13 +32357,14 @@
     "year": 2003,
     "metacritic": 84,
     "source": "Metacritic 2003",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/69ba5cb426c76459063b84b17b3f327f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/1282-death-cab-for-cutie-transatlanticism.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1282-death-cab-for-cutie-transatlanticism.php",
+    "aoty_user": 84
   },
   {
     "artist": "The Hidden Cameras",
@@ -32335,13 +32372,14 @@
     "year": 2003,
     "metacritic": 84,
     "source": "Metacritic 2003",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6c4b572c181b688d3f784faccef59d9b/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/12064-the-hidden-cameras-the-smell-of-our-own.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/12064-the-hidden-cameras-the-smell-of-our-own.php",
+    "aoty_user": 78
   },
   {
     "artist": "Wire",
@@ -32349,13 +32387,14 @@
     "year": 2003,
     "metacritic": 84,
     "source": "Metacritic 2003",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 76,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6898e3adfd87c6d4188772f63f57f5de/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 75,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/2265-wire-send.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2265-wire-send.php",
+    "aoty_user": 70
   },
   {
     "artist": "The Clientele",
@@ -32363,13 +32402,14 @@
     "year": 2003,
     "metacritic": 84,
     "source": "Metacritic 2003",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/69d313961fc7f28e5ef0e3a2d470f8dd/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/12130-the-clientele-the-violet-hour.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/12130-the-clientele-the-violet-hour.php",
+    "aoty_user": 77
   },
   {
     "artist": "Jesse Malin",
@@ -32388,13 +32428,14 @@
     "year": 2003,
     "metacritic": 83,
     "source": "Metacritic 2003",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/845c410d13c010be8c3c00a411ed726f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/2215-the-decemberists-her-majesty-the-decemberists.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2215-the-decemberists-her-majesty-the-decemberists.php",
+    "aoty_user": 77
   },
   {
     "artist": "Beth Gibbons & Rustin Man",
@@ -32413,13 +32454,14 @@
     "year": 2003,
     "metacritic": 83,
     "source": "Metacritic 2003",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Country",
     "cover": "https://cdn-images.dzcdn.net/images/cover/9156c664d5c46b42f09ef41f8d0d525c/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/41135-holly-golightly-truly-she-is-none-other.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/41135-holly-golightly-truly-she-is-none-other.php",
+    "aoty_user": 76
   },
   {
     "artist": "Idlewild",
@@ -32484,13 +32526,14 @@
     "year": 2003,
     "metacritic": 83,
     "source": "Metacritic 2003",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/3dbac95086184c8bf268e50fe0fdd78a/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 74,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/894-constantines-shine-a-light.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/894-constantines-shine-a-light.php",
+    "aoty_user": 73
   },
   {
     "artist": "Blur",
@@ -32498,13 +32541,14 @@
     "year": 2003,
     "metacritic": 83,
     "source": "Metacritic 2003",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/a7d9d3dc757979f02c20b089c1b4f444/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/1166-blur-think-tank.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1166-blur-think-tank.php",
+    "aoty_user": 76
   },
   {
     "artist": "Bonnie \"Prince\" Billy",
@@ -32512,13 +32556,14 @@
     "year": 2003,
     "metacritic": 83,
     "source": "Metacritic 2003",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/3e3445464ab0ed4b40a2648957b1e49f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/13478-bonnie-prince-billy-master-and-everyone.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/13478-bonnie-prince-billy-master-and-everyone.php",
+    "aoty_user": 77
   },
   {
     "artist": "My Morning Jacket",
@@ -32526,13 +32571,14 @@
     "year": 2003,
     "metacritic": 83,
     "source": "Metacritic 2003",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7e7ecdb7e3447691e60fb410cc0548fe/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/1361-my-morning-jacket-it-still-moves.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1361-my-morning-jacket-it-still-moves.php",
+    "aoty_user": 81
   },
   {
     "artist": "Bubba Sparxxx",
@@ -32540,13 +32586,14 @@
     "year": 2003,
     "metacritic": 82,
     "source": "Metacritic 2003",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 74,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/5c8290d633dd38e78380412e36a42b6b/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 75,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/33569-bubba-sparxxx-deliverance.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/33569-bubba-sparxxx-deliverance.php",
+    "aoty_user": 66
   },
   {
     "artist": "Matt Elliott",
@@ -32555,12 +32602,13 @@
     "metacritic": 82,
     "source": "Metacritic 2003",
     "consensus": 80,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/71ce8410b4886b98aff54e93d17e003d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/51689-matt-elliott-the-mess-we-made.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/51689-matt-elliott-the-mess-we-made.php",
+    "aoty_user": 80
   },
   {
     "artist": "The Go-Betweens",
@@ -32568,13 +32616,14 @@
     "year": 2003,
     "metacritic": 82,
     "source": "Metacritic 2003",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/dbf92f5b1adc1325d50bafe1e886b935/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/31770-the-go-betweens-bright-yellow-bright-orange.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/31770-the-go-betweens-bright-yellow-bright-orange.php",
+    "aoty_user": 77
   },
   {
     "artist": "Crooked Fingers",
