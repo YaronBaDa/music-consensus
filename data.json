@@ -9960,10 +9960,11 @@
     "year": 2017,
     "metacritic": 82,
     "source": "Metacritic 2017",
-    "consensus": 82,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Jazz",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/49a296ca6b183deb6c0f7c1bbf4af197/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/49a296ca6b183deb6c0f7c1bbf4af197/1000x1000-000000-80-0-0.jpg",
+    "discogs": 89
   },
   {
     "artist": "Nick Cave & the Bad Seeds",
@@ -10820,10 +10821,11 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/5691be0453d3b0a3733a7b59503b1399/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/5691be0453d3b0a3733a7b59503b1399/1000x1000-000000-80-0-0.jpg",
+    "discogs": 89
   },
   {
     "artist": "Daniel Bachman",
@@ -10831,10 +10833,11 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Folk",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/468a936bd76cda391394ba1fedc2fa08/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/468a936bd76cda391394ba1fedc2fa08/1000x1000-000000-80-0-0.jpg",
+    "discogs": 93
   },
   {
     "artist": "Future of the Left",
@@ -10843,9 +10846,10 @@
     "metacritic": 82,
     "source": "Metacritic 2016",
     "consensus": 82,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/2ca0d71b3bce38ae03f38b2c1ec0351c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/2ca0d71b3bce38ae03f38b2c1ec0351c/1000x1000-000000-80-0-0.jpg",
+    "discogs": 83
   },
   {
     "artist": "The Body",
@@ -10853,10 +10857,11 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 1,
+    "consensus": 84,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/5153e6b1fdaa6ff19d5b5095a69d7c03/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/5153e6b1fdaa6ff19d5b5095a69d7c03/1000x1000-000000-80-0-0.jpg",
+    "discogs": 87
   },
   {
     "artist": "Blood Orange",
@@ -10864,9 +10869,10 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 86,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 89
   },
   {
     "artist": "The Frightnrs",
@@ -10874,9 +10880,10 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 1,
-    "genre": "Reggae"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Reggae",
+    "discogs": 94
   },
   {
     "artist": "Tim Hecker",
@@ -10884,9 +10891,10 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 1,
-    "genre": "Electronic"
+    "consensus": 84,
+    "reviews": 2,
+    "genre": "Electronic",
+    "discogs": 87
   },
   {
     "artist": "Tindersticks",
@@ -10895,8 +10903,9 @@
     "metacritic": 82,
     "source": "Metacritic 2016",
     "consensus": 82,
-    "reviews": 1,
-    "genre": "Alternative"
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 83
   },
   {
     "artist": "Jessy Lanza",
@@ -10904,9 +10913,10 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 1,
-    "genre": "Electronic"
+    "consensus": 86,
+    "reviews": 2,
+    "genre": "Electronic",
+    "discogs": 91
   },
   {
     "artist": "Hamilton Leithauser",
@@ -10914,9 +10924,10 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 84,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 87
   },
   {
     "artist": "nao",
@@ -10924,9 +10935,10 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 1,
-    "genre": "R&B"
+    "consensus": 84,
+    "reviews": 2,
+    "genre": "R&B",
+    "discogs": 87
   },
   {
     "artist": "Architects",
@@ -10934,9 +10946,10 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 1,
-    "genre": "Rock"
+    "consensus": 89,
+    "reviews": 2,
+    "genre": "Rock",
+    "discogs": 96
   },
   {
     "artist": "Agnes Obel",
@@ -10944,10 +10957,11 @@
     "year": 2016,
     "metacritic": 82,
     "source": "Metacritic 2016",
-    "consensus": 82,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/7b1e744e0ba414ac0fc193713c78f88f/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/7b1e744e0ba414ac0fc193713c78f88f/1000x1000-000000-80-0-0.jpg",
+    "discogs": 89
   },
   {
     "artist": "Andy Stott",
