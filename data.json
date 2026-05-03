@@ -20153,14 +20153,15 @@
     "year": 2012,
     "metacritic": 82,
     "source": "Metacritic 2012",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/235a9f16d3804dc2e3b467579e6f9a95/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 9,
     "aoty_url": "https://www.albumoftheyear.org/album/4623-paul-buchanan-mid-air.php",
-    "discogs": 84
+    "discogs": 84,
+    "aoty_user": 78
   },
   {
     "artist": "Dexys",
@@ -20168,14 +20169,15 @@
     "year": 2012,
     "metacritic": 82,
     "source": "Metacritic 2012",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 80,
+    "reviews": 4,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/17c5075f5d545b806fb910e69f4c0262/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 20,
     "aoty_url": "https://www.albumoftheyear.org/album/4561-dexys-one-day-im-going-to-soar.php",
-    "discogs": 87
+    "discogs": 87,
+    "aoty_user": 75
   },
   {
     "artist": "Antony and the Johnsons",
@@ -20205,13 +20207,14 @@
     "year": 2012,
     "metacritic": 81,
     "source": "Metacritic 2012",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/58b46bf8c84bf3c8fa85542c98d5b286/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 22,
-    "aoty_url": "https://www.albumoftheyear.org/album/4487-neurosis-honor-found-in-decay.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4487-neurosis-honor-found-in-decay.php",
+    "aoty_user": 69
   },
   {
     "artist": "Patti Smith",
@@ -20219,13 +20222,14 @@
     "year": 2012,
     "metacritic": 81,
     "source": "Metacritic 2012",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b49bf269935b4d817adb1e8a93e49b82/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 30,
-    "aoty_url": "https://www.albumoftheyear.org/album/3560-patti-smith-banga.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3560-patti-smith-banga.php",
+    "aoty_user": 76
   },
   {
     "artist": "Jay Farrar/Will Johnson/Anders Parker/Yim Yames",
@@ -20233,13 +20237,14 @@
     "year": 2012,
     "metacritic": 81,
     "source": "Metacritic 2012",
-    "consensus": 76,
-    "reviews": 2,
+    "consensus": 75,
+    "reviews": 3,
     "genre": "Folk",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2b65780f3753111f4be762931a7f3622/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 72,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/4684-jay-farrar-will-johnson-anders-parker-yim-yames-new-multitudes.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4684-jay-farrar-will-johnson-anders-parker-yim-yames-new-multitudes.php",
+    "aoty_user": 73
   },
   {
     "artist": "Sharon Van Etten",
@@ -20247,13 +20252,14 @@
     "year": 2012,
     "metacritic": 81,
     "source": "Metacritic 2012",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/454b8e4ca821d5e21e608f59c46c2aa1/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 34,
-    "aoty_url": "https://www.albumoftheyear.org/album/3057-sharon-van-etten-tramp.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3057-sharon-van-etten-tramp.php",
+    "aoty_user": 79
   },
   {
     "artist": "Marty Stuart & His Fabulous Superlatives",
@@ -20271,13 +20277,14 @@
     "year": 2012,
     "metacritic": 81,
     "source": "Metacritic 2012",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/caa543013cf27d46cc027221784f6478/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 20,
-    "aoty_url": "https://www.albumoftheyear.org/album/3610-actress-rip.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3610-actress-rip.php",
+    "aoty_user": 74
   },
   {
     "artist": "Oh No",
@@ -20285,13 +20292,14 @@
     "year": 2012,
     "metacritic": 81,
     "source": "Metacritic 2012",
-    "consensus": 79,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/a89b7733a39e751ca81d11de211f68ff/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/4246-oh-no-ohnomite-.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4246-oh-no-ohnomite-.php",
+    "aoty_user": 76
   },
   {
     "artist": "Redd Kross",
@@ -20299,13 +20307,14 @@
     "year": 2012,
     "metacritic": 81,
     "source": "Metacritic 2012",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/bb973069600dae4eb76bf94fb7a0a19a/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/3979-redd-kross-researching-the-blues.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3979-redd-kross-researching-the-blues.php",
+    "aoty_user": 73
   },
   {
     "artist": "Nas",
@@ -20313,13 +20322,14 @@
     "year": 2012,
     "metacritic": 81,
     "source": "Metacritic 2012",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/abff938512128780c1dee685e18c66c5/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 29,
-    "aoty_url": "https://www.albumoftheyear.org/album/3651-nas-life-is-good.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3651-nas-life-is-good.php",
+    "aoty_user": 75
   },
   {
     "artist": "Darren Hayman & the Long Parliament",
@@ -20327,12 +20337,13 @@
     "year": 2012,
     "metacritic": 81,
     "source": "Metacritic 2012",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Various",
     "aoty_critic": 81,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/4936-darren-hayman-the-long-parliament-the-violence.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4936-darren-hayman-the-long-parliament-the-violence.php",
+    "aoty_user": 74
   },
   {
     "artist": "Holly Herndon",
@@ -20340,13 +20351,14 @@
     "year": 2012,
     "metacritic": 81,
     "source": "Metacritic 2012",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 76,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7b77d4752f9a84dce11c690f340a0998/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 75,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/4538-holly-herndon-movement.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4538-holly-herndon-movement.php",
+    "aoty_user": 71
   },
   {
     "artist": "Menomena",
@@ -20354,13 +20366,14 @@
     "year": 2012,
     "metacritic": 81,
     "source": "Metacritic 2012",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/39da30b076d6cfb42b90a05eb370656d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 24,
-    "aoty_url": "https://www.albumoftheyear.org/album/3790-menomena-moms.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3790-menomena-moms.php",
+    "aoty_user": 78
   },
   {
     "artist": "Godspeed You! Black Emperor",
@@ -20368,12 +20381,13 @@
     "year": 2012,
     "metacritic": 81,
     "source": "Metacritic 2012",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Rock",
     "aoty_critic": 83,
     "aoty_reviews": 33,
-    "aoty_url": "https://www.albumoftheyear.org/album/4281-godspeed-you-black-emperor-allelujah-dont-bend-ascend.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4281-godspeed-you-black-emperor-allelujah-dont-bend-ascend.php",
+    "aoty_user": 86
   },
   {
     "artist": "Damien Jurado",
@@ -20381,13 +20395,14 @@
     "year": 2012,
     "metacritic": 81,
     "source": "Metacritic 2012",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/85b3e52e78e2d1e805689ff86bec4fa3/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 18,
-    "aoty_url": "https://www.albumoftheyear.org/album/3042-damien-jurado-maraqopa.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3042-damien-jurado-maraqopa.php",
+    "aoty_user": 76
   },
   {
     "artist": "Georgia Anne Muldrow",
@@ -20395,13 +20410,14 @@
     "year": 2012,
     "metacritic": 81,
     "source": "Metacritic 2012",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f5f7455eb44c9f8f13029ee088d120e0/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 75,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/4750-georgia-anne-muldrow-seeds.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4750-georgia-anne-muldrow-seeds.php",
+    "aoty_user": 75
   },
   {
     "artist": "Death Grips",
@@ -20409,13 +20425,14 @@
     "year": 2012,
     "metacritic": 81,
     "source": "Metacritic 2012",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 84,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8bc4926f2361aec49ce613f9f5844998/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 27,
-    "aoty_url": "https://www.albumoftheyear.org/album/3506-death-grips-the-money-store.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3506-death-grips-the-money-store.php",
+    "aoty_user": 88
   },
   {
     "artist": "First Aid Kit",
@@ -20424,11 +20441,12 @@
     "metacritic": 81,
     "source": "Metacritic 2012",
     "consensus": 78,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 76,
     "aoty_reviews": 24,
-    "aoty_url": "https://www.albumoftheyear.org/album/3286-first-aid-kit-the-lions-roar.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3286-first-aid-kit-the-lions-roar.php",
+    "aoty_user": 77
   },
   {
     "artist": "Bill Ryder-Jones",
@@ -20446,12 +20464,13 @@
     "year": 2012,
     "metacritic": 81,
     "source": "Metacritic 2012",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Metal",
     "aoty_critic": 82,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/4673-black-breath-sentenced-to-life.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4673-black-breath-sentenced-to-life.php",
+    "aoty_user": 80
   },
   {
     "artist": "Iris DeMent",
@@ -20459,12 +20478,13 @@
     "year": 2012,
     "metacritic": 81,
     "source": "Metacritic 2012",
-    "consensus": 79,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Country",
     "aoty_critic": 77,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/4691-iris-dement-sing-the-delta.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4691-iris-dement-sing-the-delta.php",
+    "aoty_user": 76
   },
   {
     "artist": "Ry Cooder",
@@ -20472,13 +20492,14 @@
     "year": 2011,
     "metacritic": 92,
     "source": "Metacritic 2011",
-    "consensus": 87,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Rock",
     "discogs": 82,
     "aoty_critic": 88,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/3080-ry-cooder-pull-up-some-dust-and-sit-down.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3080-ry-cooder-pull-up-some-dust-and-sit-down.php",
+    "aoty_user": 70
   },
   {
     "artist": "Saigon",
@@ -20486,13 +20507,14 @@
     "year": 2011,
     "metacritic": 89,
     "source": "Metacritic 2011",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Hip Hop",
     "discogs": 86,
     "aoty_critic": 79,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/2407-saigon-the-greatest-story-never-told.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2407-saigon-the-greatest-story-never-told.php",
+    "aoty_user": 77
   },
   {
     "artist": "Phonte",
@@ -20500,12 +20522,13 @@
     "year": 2011,
     "metacritic": 88,
     "source": "Metacritic 2011",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Hip Hop",
     "aoty_critic": 83,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/58171-phonte-charity-starts-at-home.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/58171-phonte-charity-starts-at-home.php",
+    "aoty_user": 79
   },
   {
     "artist": "Tom Waits",
@@ -20513,13 +20536,14 @@
     "year": 2011,
     "metacritic": 88,
     "source": "Metacritic 2011",
-    "consensus": 87,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d85e3d2dd356fa3e0718c58d4412f1fe/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 86,
     "aoty_reviews": 43,
-    "aoty_url": "https://www.albumoftheyear.org/album/2843-tom-waits-bad-as-me.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2843-tom-waits-bad-as-me.php",
+    "aoty_user": 75
   },
   {
     "artist": "The Roots",
@@ -20527,13 +20551,14 @@
     "year": 2011,
     "metacritic": 88,
     "source": "Metacritic 2011",
-    "consensus": 85,
-    "reviews": 2,
+    "consensus": 86,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/1037378b65347f1f9ea42acf29d249a7/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 26,
-    "aoty_url": "https://www.albumoftheyear.org/album/2932-the-roots-undun.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2932-the-roots-undun.php",
+    "aoty_user": 88
   },
   {
     "artist": "Thursday",
@@ -20552,12 +20577,13 @@
     "year": 2011,
     "metacritic": 87,
     "source": "Metacritic 2011",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Hip Hop",
     "aoty_critic": 76,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/29346-9th-wonder-the-wonder-years.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/29346-9th-wonder-the-wonder-years.php",
+    "aoty_user": 69
   },
   {
     "artist": "Wolves in the Throne Room",
@@ -20565,13 +20591,14 @@
     "year": 2011,
     "metacritic": 87,
     "source": "Metacritic 2011",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Metal",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7f949b317ba0241c05a145544cec3a32/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 75,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/2906-wolves-in-the-throne-room-celestial-lineage.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2906-wolves-in-the-throne-room-celestial-lineage.php",
+    "aoty_user": 77
   },
   {
     "artist": "The Weeknd",
@@ -20579,13 +20606,14 @@
     "year": 2011,
     "metacritic": 87,
     "source": "Metacritic 2011",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 84,
+    "reviews": 3,
     "genre": "R&B",
     "cover": "https://cdn-images.dzcdn.net/images/cover/912594cc88625ecbeeb6fce8ee178a74/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 18,
-    "aoty_url": "https://www.albumoftheyear.org/album/2421-the-weeknd-house-of-balloons.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2421-the-weeknd-house-of-balloons.php",
+    "aoty_user": 85
   },
   {
     "artist": "PJ Harvey",
@@ -20593,13 +20621,14 @@
     "year": 2011,
     "metacritic": 86,
     "source": "Metacritic 2011",
-    "consensus": 87,
-    "reviews": 2,
+    "consensus": 86,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/9454541fdf727d223b4e61bd2a159478/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 88,
     "aoty_reviews": 45,
-    "aoty_url": "https://www.albumoftheyear.org/album/2087-pj-harvey-let-england-shake.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2087-pj-harvey-let-england-shake.php",
+    "aoty_user": 83
   },
   {
     "artist": "tUnE-yArDs",
@@ -20640,13 +20669,14 @@
     "year": 2011,
     "metacritic": 86,
     "source": "Metacritic 2011",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/af91a7f1d366f75c824181e167323030/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/2327-nicolas-jaar-space-is-only-noise.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2327-nicolas-jaar-space-is-only-noise.php",
+    "aoty_user": 80
   },
   {
     "artist": "Raphael Saadiq",
@@ -20654,13 +20684,14 @@
     "year": 2011,
     "metacritic": 86,
     "source": "Metacritic 2011",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "R&B",
     "cover": "https://cdn-images.dzcdn.net/images/cover/718488bca2efa1d7c818aa83a2382863/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/2498-raphael-saadiq-stone-rollin.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2498-raphael-saadiq-stone-rollin.php",
+    "aoty_user": 75
   },
   {
     "artist": "Tim Hecker",
@@ -20669,12 +20700,13 @@
     "metacritic": 86,
     "source": "Metacritic 2011",
     "consensus": 85,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8f1af6c9d574c2944a60460c96d3ff5b/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/2233-tim-hecker-ravedeath-1972.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2233-tim-hecker-ravedeath-1972.php",
+    "aoty_user": 84
   },
   {
     "artist": "Fucked Up",
@@ -20682,13 +20714,14 @@
     "year": 2011,
     "metacritic": 86,
     "source": "Metacritic 2011",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7366ae5ab5996b889aa5b5ec59c7c316/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 31,
-    "aoty_url": "https://www.albumoftheyear.org/album/2398-fucked-up-david-comes-to-life.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2398-fucked-up-david-comes-to-life.php",
+    "aoty_user": 77
   },
   {
     "artist": "Russian Circles",
@@ -20696,13 +20729,14 @@
     "year": 2011,
     "metacritic": 86,
     "source": "Metacritic 2011",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ec0f3f6d5a159398ab5ade4d9147b7ee/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/3041-russian-circles-empros.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3041-russian-circles-empros.php",
+    "aoty_user": 74
   },
   {
     "artist": "Ambrose Akinmusire",
@@ -20710,13 +20744,14 @@
     "year": 2011,
     "metacritic": 85,
     "source": "Metacritic 2011",
-    "consensus": 85,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Jazz",
     "cover": "https://cdn-images.dzcdn.net/images/cover/bd35b6d62d22047d4c991048d741bbe3/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/3218-ambrose-akinmusire-when-the-heart-emerges-glistening.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3218-ambrose-akinmusire-when-the-heart-emerges-glistening.php",
+    "aoty_user": 75
   },
   {
     "artist": "Kate Bush",
@@ -20724,13 +20759,14 @@
     "year": 2011,
     "metacritic": 85,
     "source": "Metacritic 2011",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ca4a527096759fcc1dcfbe161224fffb/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 86,
     "aoty_reviews": 39,
-    "aoty_url": "https://www.albumoftheyear.org/album/2889-kate-bush-50-words-for-snow.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2889-kate-bush-50-words-for-snow.php",
+    "aoty_user": 79
   },
   {
     "artist": "Iceage",
@@ -20738,13 +20774,14 @@
     "year": 2011,
     "metacritic": 85,
     "source": "Metacritic 2011",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6c7a13104380b0d8fa824eba6a5bdd39/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/2570-iceage-new-brigade.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2570-iceage-new-brigade.php",
+    "aoty_user": 75
   },
   {
     "artist": "Fleet Foxes",
@@ -20752,13 +20789,14 @@
     "year": 2011,
     "metacritic": 85,
     "source": "Metacritic 2011",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 85,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/81fd79037f24d4e0c5b2200c8dfa163e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 41,
-    "aoty_url": "https://www.albumoftheyear.org/album/2297-fleet-foxes-helplessness-blues.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2297-fleet-foxes-helplessness-blues.php",
+    "aoty_user": 87
   },
   {
     "artist": "Wild Beasts",
@@ -20766,13 +20804,14 @@
     "year": 2011,
     "metacritic": 85,
     "source": "Metacritic 2011",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/035bce249ab0ab470e4298860a42bcbe/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 34,
-    "aoty_url": "https://www.albumoftheyear.org/album/2350-wild-beasts-smother.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2350-wild-beasts-smother.php",
+    "aoty_user": 78
   },
   {
     "artist": "St. Vincent",
@@ -20781,12 +20820,13 @@
     "metacritic": 85,
     "source": "Metacritic 2011",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e6/87/65/e687653d-686c-5333-0596-17e9534c4a9e/652637312362.png/600x600bb.jpg",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 85,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 86,
     "aoty_reviews": 38,
-    "aoty_url": "https://www.albumoftheyear.org/album/2567-st-vincent-strange-mercy.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2567-st-vincent-strange-mercy.php",
+    "aoty_user": 83
   },
   {
     "artist": "Gillian Welch",
@@ -20805,13 +20845,14 @@
     "year": 2011,
     "metacritic": 85,
     "source": "Metacritic 2011",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/797962f3b4001b83005b0efa5b12525f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 20,
-    "aoty_url": "https://www.albumoftheyear.org/album/2458-paul-simon-so-beautiful-or-so-what.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2458-paul-simon-so-beautiful-or-so-what.php",
+    "aoty_user": 71
   },
   {
     "artist": "Astronautalis",
@@ -20841,13 +20882,14 @@
     "year": 2011,
     "metacritic": 84,
     "source": "Metacritic 2011",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 85,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/990c72a5a3caa5b90ec8cf492f0b8d26/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 30,
-    "aoty_url": "https://www.albumoftheyear.org/album/2009-destroyer-kaputt.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2009-destroyer-kaputt.php",
+    "aoty_user": 85
   },
   {
     "artist": "Pistol Annies",
@@ -20855,13 +20897,14 @@
     "year": 2011,
     "metacritic": 84,
     "source": "Metacritic 2011",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Country",
     "cover": "https://cdn-images.dzcdn.net/images/cover/07efc86fafd18f5a78ee7344d505eb6f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/3095-pistol-annies-hell-on-heels.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3095-pistol-annies-hell-on-heels.php",
+    "aoty_user": 71
   },
   {
     "artist": "Joe Lovano Us Five",
@@ -20869,13 +20912,14 @@
     "year": 2011,
     "metacritic": 84,
     "source": "Metacritic 2011",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Jazz",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d1f8b76fd9687aedfdd3c94bc3ed1835/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/19071-joe-lovano-us-five-bird-songs.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/19071-joe-lovano-us-five-bird-songs.php",
+    "aoty_user": 84
   },
   {
     "artist": "Dave Alvin",
@@ -20883,13 +20927,14 @@
     "year": 2011,
     "metacritic": 84,
     "source": "Metacritic 2011",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/4df2145441dd686799be4d4eab57d360/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/34362-dave-alvin-eleven-eleven.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/34362-dave-alvin-eleven-eleven.php",
+    "aoty_user": 83
   },
   {
     "artist": "True Widow",
@@ -20917,12 +20962,13 @@
     "year": 2011,
     "metacritic": 84,
     "source": "Metacritic 2011",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 79,
     "aoty_reviews": 38,
-    "aoty_url": "https://www.albumoftheyear.org/album/2939-the-black-keys-el-camino.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2939-the-black-keys-el-camino.php",
+    "aoty_user": 77
   },
   {
     "artist": "Shackleton",
@@ -20950,12 +20996,13 @@
     "year": 2011,
     "metacritic": 84,
     "source": "Metacritic 2011",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 79,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/3896-delicate-steve-wondervisions.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3896-delicate-steve-wondervisions.php",
+    "aoty_user": 76
   },
   {
     "artist": "Thee Oh Sees",
@@ -20984,12 +21031,13 @@
     "metacritic": 83,
     "source": "Metacritic 2011",
     "consensus": 80,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/68ff56f435f98491d04a639df3a2c552/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 27,
-    "aoty_url": "https://www.albumoftheyear.org/album/2803-the-field-looping-state-of-mind.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2803-the-field-looping-state-of-mind.php",
+    "aoty_user": 80
   },
   {
     "artist": "Beastie Boys",
@@ -20997,13 +21045,14 @@
     "year": 2011,
     "metacritic": 83,
     "source": "Metacritic 2011",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8d7315afde0a12c712d0eaaeae82d8cf/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 37,
-    "aoty_url": "https://www.albumoftheyear.org/album/213-beastie-boys-hot-sauce-committee-pt-2.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/213-beastie-boys-hot-sauce-committee-pt-2.php",
+    "aoty_user": 72
   },
   {
     "artist": "The Horrors",
@@ -21011,13 +21060,14 @@
     "year": 2011,
     "metacritic": 83,
     "source": "Metacritic 2011",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/5686439e1f864fe0b08c423d0c871d44/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 33,
-    "aoty_url": "https://www.albumoftheyear.org/album/2543-the-horrors-skying.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2543-the-horrors-skying.php",
+    "aoty_user": 77
   },
   {
     "artist": "Gang Gang Dance",
