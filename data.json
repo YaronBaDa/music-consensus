@@ -5652,10 +5652,11 @@
     "year": 2020,
     "metacritic": 89,
     "source": "Metacritic 2020",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 91,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/0aecfbb526eee5c5c21a19214b0227da/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/0aecfbb526eee5c5c21a19214b0227da/1000x1000-000000-80-0-0.jpg",
+    "discogs": 93
   },
   {
     "artist": "HAIM",
@@ -5663,10 +5664,11 @@
     "year": 2020,
     "metacritic": 89,
     "source": "Metacritic 2020",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/ec424f3074f96b953e03cafe9ac21ce4/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/ec424f3074f96b953e03cafe9ac21ce4/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Gil Scott-Heron",
@@ -5674,10 +5676,11 @@
     "year": 2020,
     "metacritic": 89,
     "source": "Metacritic 2020",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "R&B",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/6bacead2169c9db652f4acfb9a937796/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/6bacead2169c9db652f4acfb9a937796/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Taylor Swift",
@@ -6724,9 +6727,10 @@
     "metacritic": 89,
     "source": "Metacritic 2019",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fe/7b/d7/fe7bd752-30f8-bbb3-5d01-36710c4024aa/19UMGIM61784.rgb.jpg/600x600bb.jpg",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Soul"
+    "consensus": 90,
+    "reviews": 2,
+    "genre": "Soul",
+    "discogs": 90
   },
   {
     "artist": "Jamila Woods",
@@ -6734,10 +6738,11 @@
     "year": 2019,
     "metacritic": 89,
     "source": "Metacritic 2019",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "R&B",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/f2b5c3f627d76bd02b05dbbb9671ac6e/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/f2b5c3f627d76bd02b05dbbb9671ac6e/1000x1000-000000-80-0-0.jpg",
+    "discogs": 92
   },
   {
     "artist": "Angel Olsen",
@@ -6747,8 +6752,9 @@
     "source": "Metacritic 2019",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/30/80/0f/30800ffa-f303-9af5-17e7-7f21be89b91b/656605234465.jpg/600x600bb.jpg",
     "consensus": 89,
-    "reviews": 1,
-    "genre": "Alternative"
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 89
   },
   {
     "artist": "Solange",
@@ -6756,10 +6762,11 @@
     "year": 2019,
     "metacritic": 89,
     "source": "Metacritic 2019",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 91,
+    "reviews": 2,
     "genre": "Soul",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/ac9324c12054d39cba9da1d04ac5c71d/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/ac9324c12054d39cba9da1d04ac5c71d/1000x1000-000000-80-0-0.jpg",
+    "discogs": 93
   },
   {
     "artist": "Slipknot",
@@ -6767,10 +6774,11 @@
     "year": 2019,
     "metacritic": 89,
     "source": "Metacritic 2019",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/fdc2196c15fbf2ee91881a78af4da153/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/fdc2196c15fbf2ee91881a78af4da153/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Refused",
@@ -7783,9 +7791,10 @@
     "year": 2018,
     "metacritic": 89,
     "source": "Metacritic 2018",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Pop"
+    "consensus": 92,
+    "reviews": 2,
+    "genre": "Pop",
+    "discogs": 94
   },
   {
     "artist": "Yves Tumor",
@@ -7794,8 +7803,9 @@
     "metacritic": 89,
     "source": "Metacritic 2018",
     "consensus": 89,
-    "reviews": 1,
-    "genre": "Alternative"
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 89
   },
   {
     "artist": "Kacey Musgraves",
@@ -7804,9 +7814,10 @@
     "metacritic": 89,
     "source": "Metacritic 2018",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/61/45/e8/6145e88a-6a79-fab1-ad8f-5ffdcbf44a28/18UMGIM03879.rgb.jpg/600x600bb.jpg",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Country"
+    "consensus": 91,
+    "reviews": 2,
+    "genre": "Country",
+    "discogs": 93
   },
   {
     "artist": "Christine and the Queens",
@@ -7814,9 +7825,10 @@
     "year": 2018,
     "metacritic": 89,
     "source": "Metacritic 2018",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 86,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 84
   },
   {
     "artist": "Rival Consoles",
@@ -8898,9 +8910,10 @@
     "metacritic": 89,
     "source": "Metacritic 2017",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/50/7a/8e/507a8efb-1188-46e9-cd28-c5abb622cd06/dj.pstogftg.jpg/600x600bb.jpg",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Rock"
+    "consensus": 86,
+    "reviews": 2,
+    "genre": "Rock",
+    "discogs": 83
   },
   {
     "artist": "Jlin",
@@ -8909,9 +8922,10 @@
     "metacritic": 89,
     "source": "Metacritic 2017",
     "consensus": 89,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Electronic",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/5d9907d968b355d379cc53ffb8876c5f/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/5d9907d968b355d379cc53ffb8876c5f/1000x1000-000000-80-0-0.jpg",
+    "discogs": 89
   },
   {
     "artist": "Vince Staples",
@@ -8921,8 +8935,9 @@
     "source": "Metacritic 2017",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/cc/18/a1/cc18a183-be4f-9f5d-786f-af293d2edaf2/17UM1IM00779.rgb.jpg/600x600bb.jpg",
     "consensus": 89,
-    "reviews": 1,
-    "genre": "Hip Hop"
+    "reviews": 2,
+    "genre": "Hip Hop",
+    "discogs": 89
   },
   {
     "artist": "Valerie June",
@@ -8930,10 +8945,11 @@
     "year": 2017,
     "metacritic": 89,
     "source": "Metacritic 2017",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Folk",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/c1864b30785faafd35b2f1efb7f29b2e/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/c1864b30785faafd35b2f1efb7f29b2e/1000x1000-000000-80-0-0.jpg",
+    "discogs": 84
   },
   {
     "artist": "St. Vincent",
@@ -10004,9 +10020,10 @@
     "metacritic": 89,
     "source": "Metacritic 2016",
     "consensus": 89,
-    "reviews": 1,
+    "reviews": 2,
     "genre": "Hip Hop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/dff726ae987285a6299879379999e79b/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/dff726ae987285a6299879379999e79b/1000x1000-000000-80-0-0.jpg",
+    "discogs": 89
   },
   {
     "artist": "Solange",
@@ -10014,10 +10031,11 @@
     "year": 2016,
     "metacritic": 89,
     "source": "Metacritic 2016",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Soul",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/36b361c2c916b333a0b7c6f949c32099/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/36b361c2c916b333a0b7c6f949c32099/1000x1000-000000-80-0-0.jpg",
+    "discogs": 92
   },
   {
     "artist": "Drive-By Truckers",
@@ -11072,10 +11090,11 @@
     "year": 2015,
     "metacritic": 89,
     "source": "Metacritic 2015",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Pop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/610939580b09bd69c50145b9ea5a8920/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/610939580b09bd69c50145b9ea5a8920/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Sam Lee",
@@ -11083,10 +11102,11 @@
     "year": 2015,
     "metacritic": 89,
     "source": "Metacritic 2015",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 84,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/bd3bccf0cbf0a76ca875aa762f57e44e/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/bd3bccf0cbf0a76ca875aa762f57e44e/1000x1000-000000-80-0-0.jpg",
+    "discogs": 78
   },
   {
     "artist": "Steven Wilson",
@@ -11094,9 +11114,10 @@
     "year": 2015,
     "metacritic": 89,
     "source": "Metacritic 2015",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Rock"
+    "consensus": 92,
+    "reviews": 2,
+    "genre": "Rock",
+    "discogs": 94
   },
   {
     "artist": "Joanna Newsom",
@@ -12138,10 +12159,11 @@
     "year": 2014,
     "metacritic": 89,
     "source": "Metacritic 2014",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 88,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/a1c821f0fe1b53983651bedca095e864/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/a1c821f0fe1b53983651bedca095e864/1000x1000-000000-80-0-0.jpg",
+    "discogs": 87
   },
   {
     "artist": "Run the Jewels",
@@ -12149,10 +12171,11 @@
     "year": 2014,
     "metacritic": 89,
     "source": "Metacritic 2014",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 91,
+    "reviews": 2,
     "genre": "Hip Hop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/5ae29becf8f98f9a4d8dcf4597183d96/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/5ae29becf8f98f9a4d8dcf4597183d96/1000x1000-000000-80-0-0.jpg",
+    "discogs": 93
   },
   {
     "artist": "Swans",
@@ -13185,10 +13208,11 @@
     "year": 2013,
     "metacritic": 89,
     "source": "Metacritic 2013",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Country",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/da5ad33c70cc97a8cd7cc0ce2e436802/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/da5ad33c70cc97a8cd7cc0ce2e436802/1000x1000-000000-80-0-0.jpg",
+    "discogs": 92
   },
   {
     "artist": "Kacey Musgraves",
@@ -13196,9 +13220,10 @@
     "year": 2013,
     "metacritic": 89,
     "source": "Metacritic 2013",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Country"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Country",
+    "discogs": 88
   },
   {
     "artist": "Russian Circles",
@@ -14271,10 +14296,11 @@
     "year": 2012,
     "metacritic": 89,
     "source": "Metacritic 2012",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/6415422a7b5029e3444c44579c7bec88/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/6415422a7b5029e3444c44579c7bec88/1000x1000-000000-80-0-0.jpg",
+    "discogs": 91
   },
   {
     "artist": "Vijay Iyer Trio",
@@ -15302,9 +15328,10 @@
     "year": 2011,
     "metacritic": 89,
     "source": "Metacritic 2011",
-    "consensus": 89,
-    "reviews": 1,
-    "genre": "Hip Hop"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Hip Hop",
+    "discogs": 86
   },
   {
     "artist": "Phonte",
@@ -17424,10 +17451,11 @@
     "year": 2009,
     "metacritic": 89,
     "source": "Metacritic 2009",
-    "consensus": 89,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/57660f9ee356337b3802fd2cf9276198/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/57660f9ee356337b3802fd2cf9276198/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Raekwon",
