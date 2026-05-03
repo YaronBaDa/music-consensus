@@ -45159,13 +45159,14 @@
     "year": 2020,
     "metacritic": 81,
     "source": "Metacritic Rock",
-    "consensus": 80,
+    "consensus": 88,
     "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/dd391b02859016d975ad4f51850bdbbb/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/252143-ruston-kelly-shape-destroy.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/252143-ruston-kelly-shape-destroy.php",
+    "discogs": 95
   },
   {
     "artist": "Sylvie Simmons",
@@ -45276,10 +45277,11 @@
     "year": 2018,
     "metacritic": 81,
     "source": "Metacritic Rock",
-    "consensus": 81,
-    "reviews": 1,
+    "consensus": 84,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/c26346260d67dabeeeae187948d9905b/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/c26346260d67dabeeeae187948d9905b/1000x1000-000000-80-0-0.jpg",
+    "discogs": 87
   },
   {
     "artist": "Rayland Baxter",
@@ -45577,10 +45579,11 @@
     "year": 2015,
     "metacritic": 81,
     "source": "Metacritic Rock",
-    "consensus": 81,
-    "reviews": 1,
+    "consensus": 86,
+    "reviews": 2,
     "genre": "Folk",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/471c342db652763c100bac32958d9d97/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/471c342db652763c100bac32958d9d97/1000x1000-000000-80-0-0.jpg",
+    "discogs": 90
   },
   {
     "artist": "Blackberry Smoke",
@@ -45839,10 +45842,11 @@
     "year": 2013,
     "metacritic": 81,
     "source": "Metacritic Rock",
-    "consensus": 81,
-    "reviews": 1,
+    "consensus": 87,
+    "reviews": 2,
     "genre": "Folk",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/1650cdecbddba248ea8e4f53ee6da6d4/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/1650cdecbddba248ea8e4f53ee6da6d4/1000x1000-000000-80-0-0.jpg",
+    "discogs": 93
   },
   {
     "artist": "Richard Buckner",
@@ -47455,24 +47459,26 @@
     "album": "12 X 5",
     "year": 1964,
     "source": "Curated 1960s",
-    "consensus": 80,
+    "consensus": 82,
     "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d85b37d93a4bccec5441c3895b197a28/1000x1000-000000-80-0-0.jpg",
     "metacritic": 81,
     "aoty_critic": 80,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/6403-the-rolling-stones-12-x-5.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6403-the-rolling-stones-12-x-5.php",
+    "discogs": 84
   },
   {
     "artist": "The Yardbirds",
     "album": "Having a Rave Up",
     "year": 1965,
     "source": "Curated 1960s",
-    "consensus": 81,
-    "reviews": 1,
+    "consensus": 82,
+    "reviews": 2,
     "genre": "Rock",
-    "metacritic": 81
+    "metacritic": 81,
+    "discogs": 84
   },
   {
     "artist": "The Moody Blues",
@@ -47486,49 +47492,53 @@
     "metacritic": 81,
     "aoty_critic": 83,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/36238-the-moody-blues-days-of-future-passed.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/36238-the-moody-blues-days-of-future-passed.php",
+    "discogs": 82
   },
   {
     "artist": "Procol Harum",
     "album": "Procol Harum",
     "year": 1967,
     "source": "Curated 1960s",
-    "consensus": 80,
+    "consensus": 82,
     "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7d48c2744c925b1dc10cc68e41f6d013/1000x1000-000000-80-0-0.jpg",
     "metacritic": 81,
     "aoty_critic": 80,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/58107-procol-harum-procol-harum.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/58107-procol-harum-procol-harum.php",
+    "discogs": 83
   },
   {
     "artist": "The Doors",
     "album": "The Soft Parade",
     "year": 1969,
     "source": "Curated 1960s",
-    "consensus": 69,
+    "consensus": 82,
     "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d20113c7d4edf347317555f6ec8a8811/1000x1000-000000-80-0-0.jpg",
     "metacritic": 81,
     "aoty_critic": 57,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/7766-the-doors-the-soft-parade.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7766-the-doors-the-soft-parade.php",
+    "discogs": 82
   },
   {
     "artist": "Crosby, Stills & Nash",
     "album": "Crosby, Stills & Nash",
     "year": 1969,
     "source": "Curated 1960s",
-    "consensus": 89,
+    "consensus": 83,
     "reviews": 2,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/fded07611cc72f0b056be0b62bd2bb68/1000x1000-000000-80-0-0.jpg",
     "metacritic": 81,
     "aoty_critic": 97,
     "aoty_reviews": null,
-    "aoty_url": "https://www.albumoftheyear.org/album/7027-crosby-stills-nash-crosby-stills-nash.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7027-crosby-stills-nash-crosby-stills-nash.php",
+    "discogs": 85
   },
   {
     "artist": "Blind Faith",
