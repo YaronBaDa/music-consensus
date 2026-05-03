@@ -19388,13 +19388,14 @@
     "year": 2012,
     "metacritic": 82,
     "source": "Metacritic 2012",
-    "consensus": 81,
+    "consensus": 85,
     "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/40d366fc030192140238baa2dd8d5a54/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/4156-field-report-field-report.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4156-field-report-field-report.php",
+    "discogs": 88
   },
   {
     "artist": "Paul Buchanan",
@@ -19402,13 +19403,14 @@
     "year": 2012,
     "metacritic": 82,
     "source": "Metacritic 2012",
-    "consensus": 82,
+    "consensus": 83,
     "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/235a9f16d3804dc2e3b467579e6f9a95/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/4623-paul-buchanan-mid-air.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4623-paul-buchanan-mid-air.php",
+    "discogs": 84
   },
   {
     "artist": "Dexys",
@@ -19416,13 +19418,14 @@
     "year": 2012,
     "metacritic": 82,
     "source": "Metacritic 2012",
-    "consensus": 80,
+    "consensus": 84,
     "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/17c5075f5d545b806fb910e69f4c0262/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 20,
-    "aoty_url": "https://www.albumoftheyear.org/album/4561-dexys-one-day-im-going-to-soar.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4561-dexys-one-day-im-going-to-soar.php",
+    "discogs": 87
   },
   {
     "artist": "Antony and the Johnsons",
@@ -19430,9 +19433,10 @@
     "year": 2012,
     "metacritic": 82,
     "source": "Metacritic 2012",
-    "consensus": 82,
-    "reviews": 1,
-    "genre": "Pop"
+    "consensus": 85,
+    "reviews": 2,
+    "genre": "Pop",
+    "discogs": 88
   },
   {
     "artist": "X-TG",
@@ -19440,9 +19444,10 @@
     "year": 2012,
     "metacritic": 82,
     "source": "Metacritic 2012",
-    "consensus": 82,
-    "reviews": 1,
-    "genre": "Various"
+    "consensus": 85,
+    "reviews": 2,
+    "genre": "Various",
+    "discogs": 88
   },
   {
     "artist": "Neurosis",
@@ -20474,10 +20479,11 @@
     "year": 2011,
     "metacritic": 82,
     "source": "Metacritic 2011",
-    "consensus": 82,
-    "reviews": 1,
+    "consensus": 87,
+    "reviews": 2,
     "genre": "Rock",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/8b5634c0531efad19d635433018b85d3/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/8b5634c0531efad19d635433018b85d3/1000x1000-000000-80-0-0.jpg",
+    "discogs": 92
   },
   {
     "artist": "TV on the Radio",
@@ -20485,13 +20491,14 @@
     "year": 2011,
     "metacritic": 82,
     "source": "Metacritic 2011",
-    "consensus": 80,
+    "consensus": 82,
     "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/483c6a41edefbdfc423237bc26dc49f1/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 36,
-    "aoty_url": "https://www.albumoftheyear.org/album/2355-tv-on-the-radio-nine-types-of-light.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2355-tv-on-the-radio-nine-types-of-light.php",
+    "discogs": 82
   },
   {
     "artist": "Thrice",
@@ -20499,10 +20506,11 @@
     "year": 2011,
     "metacritic": 82,
     "source": "Metacritic 2011",
-    "consensus": 82,
-    "reviews": 1,
+    "consensus": 87,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/7d1fd3ebaa4875d6799736b511a72896/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/7d1fd3ebaa4875d6799736b511a72896/1000x1000-000000-80-0-0.jpg",
+    "discogs": 92
   },
   {
     "artist": "Brad Paisley",
@@ -20510,13 +20518,14 @@
     "year": 2011,
     "metacritic": 82,
     "source": "Metacritic 2011",
-    "consensus": 80,
+    "consensus": 84,
     "reviews": 2,
     "genre": "Country",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8df85c460346071fdfba365f72ca6f73/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/12818-brad-paisley-this-is-country-music.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/12818-brad-paisley-this-is-country-music.php",
+    "discogs": 86
   },
   {
     "artist": "Laura Marling",
@@ -20524,13 +20533,14 @@
     "year": 2011,
     "metacritic": 82,
     "source": "Metacritic 2011",
-    "consensus": 82,
+    "consensus": 84,
     "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b48e27b51818b52037ecd8cd0c644e31/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 30,
-    "aoty_url": "https://www.albumoftheyear.org/album/2670-laura-marling-a-creature-i-dont-know.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2670-laura-marling-a-creature-i-dont-know.php",
+    "discogs": 85
   },
   {
     "artist": "Colin Stetson",
@@ -20538,13 +20548,14 @@
     "year": 2011,
     "metacritic": 82,
     "source": "Metacritic 2011",
-    "consensus": 78,
+    "consensus": 86,
     "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/1f9666108cc59b4b11c28d1973ebcf3b/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 74,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/2968-colin-stetson-new-history-warfare-vol-2-judges.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2968-colin-stetson-new-history-warfare-vol-2-judges.php",
+    "discogs": 91
   },
   {
     "artist": "Sepalcure",
@@ -20552,13 +20563,14 @@
     "year": 2011,
     "metacritic": 82,
     "source": "Metacritic 2011",
-    "consensus": 80,
+    "consensus": 84,
     "reviews": 2,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/a93692798557546a6332cd8d69e16921/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 16,
-    "aoty_url": "https://www.albumoftheyear.org/album/3050-sepalcure-sepalcure.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3050-sepalcure-sepalcure.php",
+    "discogs": 85
   },
   {
     "artist": "Southeast Engine",
@@ -20566,13 +20578,14 @@
     "year": 2011,
     "metacritic": 82,
     "source": "Metacritic 2011",
-    "consensus": 80,
+    "consensus": 88,
     "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f7420f822c2dc4fc26b204d31dec4d79/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/24619-southeast-engine-canary.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/24619-southeast-engine-canary.php",
+    "discogs": 95
   },
   {
     "artist": "Rustie",
@@ -20580,13 +20593,14 @@
     "year": 2011,
     "metacritic": 82,
     "source": "Metacritic 2011",
-    "consensus": 82,
+    "consensus": 83,
     "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/0a2c9136c8b3b65f7b9f2e13a9253969/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/3137-rustie-glass-swords.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/3137-rustie-glass-swords.php",
+    "discogs": 84
   },
   {
     "artist": "Elbow",
@@ -20594,13 +20608,14 @@
     "year": 2011,
     "metacritic": 82,
     "source": "Metacritic 2011",
-    "consensus": 82,
+    "consensus": 79,
     "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/dd7f167ae863be4e1e4997fe459f505f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 28,
-    "aoty_url": "https://www.albumoftheyear.org/album/2241-elbow-build-a-rocket-boys.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2241-elbow-build-a-rocket-boys.php",
+    "discogs": 76
   },
   {
     "artist": "Chris Watson",
