@@ -7841,13 +7841,14 @@
     "year": 2020,
     "metacritic": 87,
     "source": "Metacritic 2020",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7c914af1c89421f347648b0319c1d8dc/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/281735-headie-one-edna.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/281735-headie-one-edna.php",
+    "aoty_user": 62
   },
   {
     "artist": "Deftones",
@@ -7855,13 +7856,14 @@
     "year": 2020,
     "metacritic": 87,
     "source": "Metacritic 2020",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f7d7a4a499eb046f454b7f94d53eed72/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 30,
-    "aoty_url": "https://www.albumoftheyear.org/album/272235-deftones-ohms.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/272235-deftones-ohms.php",
+    "aoty_user": 76
   },
   {
     "artist": "The Soft Pink Truth",
@@ -7870,12 +7872,13 @@
     "metacritic": 87,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fc/db/6a/fcdb6a5c-b437-9389-5a4c-7d3be5dc56c4/519_3000_300dpi.jpg/600x600bb.jpg",
-    "consensus": 87,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Electronic",
     "aoty_critic": 87,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/221917-the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/221917-the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase.php",
+    "aoty_user": 73
   },
   {
     "artist": "Fleet Foxes",
@@ -7884,12 +7887,13 @@
     "metacritic": 87,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/48/93/8a/48938af7-6dca-4161-24c4-fb7715af8263/0045778781423.png/600x600bb.jpg",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 82,
     "aoty_reviews": 26,
-    "aoty_url": "https://www.albumoftheyear.org/album/282758-fleet-foxes-shore.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/282758-fleet-foxes-shore.php",
+    "aoty_user": 79
   },
   {
     "artist": "PVRIS",
@@ -7897,13 +7901,14 @@
     "year": 2020,
     "metacritic": 87,
     "source": "Metacritic 2020",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ad0305c8b22d554bd2e10959283ab384/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/221057-pvris-use-me.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/221057-pvris-use-me.php",
+    "aoty_user": 73
   },
   {
     "artist": "R\u00f3is\u00edn Murphy",
@@ -7912,12 +7917,13 @@
     "metacritic": 86,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a6/9f/70/a69f7000-ccf6-24f9-8565-cdbd93d5ca0a/4050538636598.jpg/600x600bb.jpg",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Electronic",
     "aoty_critic": 83,
     "aoty_reviews": 22,
-    "aoty_url": "https://www.albumoftheyear.org/album/266103-roisin-murphy-roisin-machine.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/266103-roisin-murphy-roisin-machine.php",
+    "aoty_user": 78
   },
   {
     "artist": "Baxter Dury",
@@ -7925,13 +7931,14 @@
     "year": 2020,
     "metacritic": 86,
     "source": "Metacritic 2020",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/53b808a8cf481fa3c0f9d8f23d790f1d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/192942-baxter-dury-the-night-chancers.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/192942-baxter-dury-the-night-chancers.php",
+    "aoty_user": 73
   },
   {
     "artist": "J Hus",
@@ -7939,13 +7946,14 @@
     "year": 2020,
     "metacritic": 86,
     "source": "Metacritic 2020",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/fd4f0303fd35a1ecdfaa76ea1a4e29a4/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/209928-j-hus-big-conspiracy.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/209928-j-hus-big-conspiracy.php",
+    "aoty_user": 69
   },
   {
     "artist": "Shirley Collins",
@@ -7954,12 +7962,13 @@
     "metacritic": 86,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/c4/5d/bc/c45dbc28-b980-1058-7cd7-a7fdc5f004ff/887828045464.png/600x600bb.jpg",
-    "consensus": 85,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Folk",
     "aoty_critic": 84,
     "aoty_reviews": 16,
-    "aoty_url": "https://www.albumoftheyear.org/album/246801-shirley-collins-hearts-ease.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/246801-shirley-collins-hearts-ease.php",
+    "aoty_user": 63
   },
   {
     "artist": "Porridge Radio",
@@ -7968,12 +7977,13 @@
     "metacritic": 86,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/ee/62/0aee62ae-6000-c124-2b71-403f1604f3fc/14919.jpg/600x600bb.jpg",
-    "consensus": 85,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 84,
     "aoty_reviews": 21,
-    "aoty_url": "https://www.albumoftheyear.org/album/207745-porridge-radio-every-bad.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/207745-porridge-radio-every-bad.php",
+    "aoty_user": 75
   },
   {
     "artist": "Jarv Is...",
@@ -7982,12 +7992,13 @@
     "metacritic": 86,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9a/85/44/9a854484-1431-e16e-7983-242e69850046/191402012958.png/600x600bb.jpg",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 82,
     "aoty_reviews": 26,
-    "aoty_url": "https://www.albumoftheyear.org/album/220308-jarv-is-beyond-the-pale.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/220308-jarv-is-beyond-the-pale.php",
+    "aoty_user": 67
   },
   {
     "artist": "This Is the Kit",
@@ -7996,12 +8007,13 @@
     "metacritic": 86,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/34/55/5c/34555c7c-f106-301f-7e2d-dc3c4c038b97/191402014853.png/600x600bb.jpg",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 76,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/257683-this-is-the-kit-off-off-on.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/257683-this-is-the-kit-off-off-on.php",
+    "aoty_user": 74
   },
   {
     "artist": "Frazey Ford",
@@ -8009,13 +8021,14 @@
     "year": 2020,
     "metacritic": 86,
     "source": "Metacritic 2020",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Soul",
     "cover": "https://cdn-images.dzcdn.net/images/cover/9d6d599a453ce2259c6a7783a2afcf16/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/205905-frazey-ford-u-kin-b-the-sun.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/205905-frazey-ford-u-kin-b-the-sun.php",
+    "aoty_user": 68
   },
   {
     "artist": "Napalm Death",
@@ -8023,13 +8036,14 @@
     "year": 2020,
     "metacritic": 86,
     "source": "Metacritic 2020",
-    "consensus": 85,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/efd4588a9e0a3052b7c31bfdb1d77560/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 13,
-    "aoty_url": "https://www.albumoftheyear.org/album/267085-napalm-death-throes-of-joy-in-the-jaws-of-defeatism.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/267085-napalm-death-throes-of-joy-in-the-jaws-of-defeatism.php",
+    "aoty_user": 73
   },
   {
     "artist": "Nadine Shah",
@@ -8038,12 +8052,13 @@
     "metacritic": 86,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/90/5f/99/905f996b-c736-4650-050f-5b8c3d5d9a59/4050538600933.jpg/600x600bb.jpg",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 81,
     "aoty_reviews": 21,
-    "aoty_url": "https://www.albumoftheyear.org/album/212592-nadine-shah-kitchen-sink.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/212592-nadine-shah-kitchen-sink.php",
+    "aoty_user": 70
   },
   {
     "artist": "The Avalanches",
@@ -8052,12 +8067,13 @@
     "metacritic": 86,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ce/9c/77/ce9c778a-3e12-f839-4948-b16631d9570c/20UMGIM07854.rgb.jpg/600x600bb.jpg",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 81,
     "aoty_reviews": 33,
-    "aoty_url": "https://www.albumoftheyear.org/album/192352-the-avalanches-we-will-always-love-you.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/192352-the-avalanches-we-will-always-love-you.php",
+    "aoty_user": 77
   },
   {
     "artist": "Bill Callahan",
@@ -8066,12 +8082,13 @@
     "metacritic": 86,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f2/14/b9/f214b91b-e7d0-d9e8-88fc-32dda6e1ae5c/781484076025.png/600x600bb.jpg",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 80,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/255922-bill-callahan-gold-record.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/255922-bill-callahan-gold-record.php",
+    "aoty_user": 70
   },
   {
     "artist": "The James Hunter Six",
@@ -8080,12 +8097,13 @@
     "metacritic": 85,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e8/bf/83/e8bf83c8-1bec-b549-a973-eb7c1247872d/634457006300.jpg/600x600bb.jpg",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "R&B",
     "aoty_critic": 83,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/220595-the-james-hunter-six-nick-of-time.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/220595-the-james-hunter-six-nick-of-time.php",
+    "aoty_user": 69
   },
   {
     "artist": "Mary Lattimore",
@@ -8094,12 +8112,13 @@
     "metacritic": 85,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/f4/c6/dff4c6a9-e47e-86d7-b079-d13dc3a7b06d/dj.sljtdyix.jpg/600x600bb.jpg",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Electronic",
     "aoty_critic": 83,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/261822-mary-lattimore-silver-ladders.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/261822-mary-lattimore-silver-ladders.php",
+    "aoty_user": 75
   },
   {
     "artist": "Lomelda",
@@ -8108,12 +8127,13 @@
     "metacritic": 85,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6f/e3/5a/6fe35a75-a73f-e18b-19b0-329b3f01062d/644110407399.jpg/600x600bb.jpg",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 81,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/261054-lomelda-hannah.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/261054-lomelda-hannah.php",
+    "aoty_user": 73
   },
   {
     "artist": "Megan Thee Stallion",
@@ -8122,12 +8142,13 @@
     "metacritic": 85,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/39/95/fa/3995fadd-0e4a-0bfc-3878-01f6f7d4f440/810043683357.jpg/600x600bb.jpg",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Hip Hop",
     "aoty_critic": 81,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/301438-megan-thee-stallion-good-news.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/301438-megan-thee-stallion-good-news.php",
+    "aoty_user": 64
   },
   {
     "artist": "Oumou Sangar\u00e9",
@@ -8136,12 +8157,13 @@
     "metacritic": 85,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ee/9d/07/ee9d07e5-b4e1-0702-06fc-8771e40c53c2/3663729120939_cover.jpg/600x600bb.jpg",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "World",
     "aoty_critic": 80,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/253186-oumou-sangare-acoustic.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/253186-oumou-sangare-acoustic.php",
+    "aoty_user": 76
   },
   {
     "artist": "Lilly Hiatt",
@@ -8149,13 +8171,14 @@
     "year": 2020,
     "metacritic": 85,
     "source": "Metacritic 2020",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/a183fa92a06a6d15666c8ea5f76b9e37/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/206800-lilly-hiatt-walking-proof.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/206800-lilly-hiatt-walking-proof.php",
+    "aoty_user": 64
   },
   {
     "artist": "Jeff Rosenstock",
@@ -8163,13 +8186,14 @@
     "year": 2020,
     "metacritic": 85,
     "source": "Metacritic 2020",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/28435c3427cc92dfa019e3917e9922d0/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/243688-jeff-rosenstock-no-dream.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/243688-jeff-rosenstock-no-dream.php",
+    "aoty_user": 79
   },
   {
     "artist": "Katie Gately",
@@ -8177,13 +8201,14 @@
     "year": 2020,
     "metacritic": 85,
     "source": "Metacritic 2020",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/9a9ff742b083027b9b3f3543b6ea6d63/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/204856-katie-gately-loom.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/204856-katie-gately-loom.php",
+    "aoty_user": 72
   },
   {
     "artist": "Taylor Swift",
@@ -8191,13 +8216,14 @@
     "year": 2020,
     "metacritic": 85,
     "source": "Metacritic 2020",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 35,
-    "aoty_url": "https://www.albumoftheyear.org/album/313572-taylor-swift-evermore.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/313572-taylor-swift-evermore.php",
+    "aoty_user": 81
   },
   {
     "artist": "Fontaines D.C.",
@@ -8206,12 +8232,13 @@
     "metacritic": 84,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/35/53/c5/3553c53a-e8cf-df0e-b120-537f815df32d/720841218203_Cover.jpg/600x600bb.jpg",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 81,
     "aoty_reviews": 39,
-    "aoty_url": "https://www.albumoftheyear.org/album/238991-fontaines-dc-a-heros-death.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/238991-fontaines-dc-a-heros-death.php",
+    "aoty_user": 77
   },
   {
     "artist": "Max Richter",
@@ -8219,13 +8246,14 @@
     "year": 2020,
     "metacritic": 84,
     "source": "Metacritic 2020",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Classical",
     "cover": "https://cdn-images.dzcdn.net/images/cover/541c9f9749e0185465a748e9ca759987/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/257713-max-richter-voices.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/257713-max-richter-voices.php",
+    "aoty_user": 67
   },
   {
     "artist": "Laura Veirs",
@@ -8233,13 +8261,14 @@
     "year": 2020,
     "metacritic": 84,
     "source": "Metacritic 2020",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2d08ee6120e27ccdb89ff6d10ecf830c/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/266078-laura-veirs-my-echo.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/266078-laura-veirs-my-echo.php",
+    "aoty_user": 74
   },
   {
     "artist": "Pallbearer",
@@ -8247,13 +8276,14 @@
     "year": 2020,
     "metacritic": 84,
     "source": "Metacritic 2020",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/440b359fe8fdd21d8b85d524fb6dc24d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 13,
-    "aoty_url": "https://www.albumoftheyear.org/album/260437-pallbearer-forgotten-days.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/260437-pallbearer-forgotten-days.php",
+    "aoty_user": 69
   },
   {
     "artist": "Jyoti",
@@ -8261,13 +8291,14 @@
     "year": 2020,
     "metacritic": 84,
     "source": "Metacritic 2020",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Jazz",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6a08d8858ab125015a5306d4379c92c8/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/263598-jyoti-mama-you-can-bet.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/263598-jyoti-mama-you-can-bet.php",
+    "aoty_user": 72
   },
   {
     "artist": "Biffy Clyro",
@@ -8275,13 +8306,14 @@
     "year": 2020,
     "metacritic": 84,
     "source": "Metacritic 2020",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 76,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/bc03e8cfe8ffefd3bce45de4cc8d6aa8/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 25,
-    "aoty_url": "https://www.albumoftheyear.org/album/220564-biffy-clyro-a-celebration-of-endings.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/220564-biffy-clyro-a-celebration-of-endings.php",
+    "aoty_user": 64
   },
   {
     "artist": "Bob Mould",
@@ -8289,13 +8321,14 @@
     "year": 2020,
     "metacritic": 84,
     "source": "Metacritic 2020",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/58d4bd4f46be6e3949076a30d8bd6734/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/251006-bob-mould-blue-hearts.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/251006-bob-mould-blue-hearts.php",
+    "aoty_user": 69
   },
   {
     "artist": "Kate NV",
@@ -8303,13 +8336,14 @@
     "year": 2020,
     "metacritic": 84,
     "source": "Metacritic 2020",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7ba8cbbff1f8a61ad13820dc8c6f4cf6/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/225024-kate-nv-room-for-the-moon.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/225024-kate-nv-room-for-the-moon.php",
+    "aoty_user": 74
   },
   {
     "artist": "Blake Mills",
@@ -8317,13 +8351,14 @@
     "year": 2020,
     "metacritic": 84,
     "source": "Metacritic 2020",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Various",
     "cover": "https://cdn-images.dzcdn.net/images/cover/e1ddc9c787b8048be8855a64218a9c46/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/225564-blake-mills-mutable-set.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/225564-blake-mills-mutable-set.php",
+    "aoty_user": 74
   },
   {
     "artist": "Thundercat",
@@ -8331,13 +8366,14 @@
     "year": 2020,
     "metacritic": 84,
     "source": "Metacritic 2020",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "R&B",
     "cover": "https://cdn-images.dzcdn.net/images/cover/a52aa475e4c011ff84f7418f3b7fd11c/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 35,
-    "aoty_url": "https://www.albumoftheyear.org/album/208221-thundercat-it-is-what-it-is.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/208221-thundercat-it-is-what-it-is.php",
+    "aoty_user": 76
   },
   {
     "artist": "Everything Everything",
@@ -8345,13 +8381,14 @@
     "year": 2020,
     "metacritic": 84,
     "source": "Metacritic 2020",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ff2e5cf4c172540c82f26e4d07a75b60/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 20,
-    "aoty_url": "https://www.albumoftheyear.org/album/241671-everything-everything-re-animator.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/241671-everything-everything-re-animator.php",
+    "aoty_user": 72
   },
   {
     "artist": "Bill Fay",
@@ -8359,13 +8396,14 @@
     "year": 2020,
     "metacritic": 84,
     "source": "Metacritic 2020",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/115a9b71893b41b2a3bf99bb4b519ea8/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/191877-bill-fay-countless-branches.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/191877-bill-fay-countless-branches.php",
+    "aoty_user": 69
   },
   {
     "artist": "Jessie Ware",
@@ -8373,13 +8411,14 @@
     "year": 2020,
     "metacritic": 84,
     "source": "Metacritic 2020",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 85,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/3a375706376e25dbe7c900ec430cfcd1/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 28,
-    "aoty_url": "https://www.albumoftheyear.org/album/218956-jessie-ware-whats-your-pleasure.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/218956-jessie-ware-whats-your-pleasure.php",
+    "aoty_user": 86
   },
   {
     "artist": "Kelly Lee Owens",
@@ -8387,13 +8426,14 @@
     "year": 2020,
     "metacritic": 84,
     "source": "Metacritic 2020",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ccaeb7b69fd7f963f0c1377d14090b1d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 20,
-    "aoty_url": "https://www.albumoftheyear.org/album/218214-kelly-lee-owens-inner-song.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/218214-kelly-lee-owens-inner-song.php",
+    "aoty_user": 76
   },
   {
     "artist": "William Basinski",
@@ -8401,13 +8441,14 @@
     "year": 2020,
     "metacritic": 84,
     "source": "Metacritic 2020",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6e87ef473de52e90cb0e4e6d1796f365/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/273963-william-basinski-lamentations.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/273963-william-basinski-lamentations.php",
+    "aoty_user": 73
   },
   {
     "artist": "Sonic Boom",
@@ -8415,13 +8456,14 @@
     "year": 2020,
     "metacritic": 84,
     "source": "Metacritic 2020",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 75,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ad7d948f107e0282376a7d781071b3e1/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/220478-sonic-boom-all-things-being-equal.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/220478-sonic-boom-all-things-being-equal.php",
+    "aoty_user": 64
   },
   {
     "artist": "Coriky",
@@ -8429,13 +8471,14 @@
     "year": 2020,
     "metacritic": 84,
     "source": "Metacritic 2020",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/0a900194f1c598f8c129b0fb1511e17a/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/214840-coriky-coriky.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/214840-coriky-coriky.php",
+    "aoty_user": 73
   },
   {
     "artist": "No Joy",
@@ -8443,13 +8486,14 @@
     "year": 2020,
     "metacritic": 84,
     "source": "Metacritic 2020",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/78d0cef6f5e636f98dd03ff0cf8a755b/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/254787-no-joy-motherhood.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/254787-no-joy-motherhood.php",
+    "aoty_user": 70
   },
   {
     "artist": "Code Orange",
@@ -8457,13 +8501,14 @@
     "year": 2020,
     "metacritic": 84,
     "source": "Metacritic 2020",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/88cd8452ab6c0100f4a9637429a5fa7a/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 17,
-    "aoty_url": "https://www.albumoftheyear.org/album/206415-code-orange-underneath.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/206415-code-orange-underneath.php",
+    "aoty_user": 77
   },
   {
     "artist": "Lil Uzi Vert",
@@ -8471,13 +8516,14 @@
     "year": 2020,
     "metacritic": 84,
     "source": "Metacritic 2020",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 76,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/1dfc30f6832a56913bedb5430007b64a/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/142563-lil-uzi-vert-eternal-atake.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/142563-lil-uzi-vert-eternal-atake.php",
+    "aoty_user": 68
   },
   {
     "artist": "Adrianne Lenker",
@@ -8495,12 +8541,13 @@
     "year": 2020,
     "metacritic": 84,
     "source": "Metacritic 2020",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Electronic",
     "aoty_critic": 84,
     "aoty_reviews": 34,
-    "aoty_url": "https://www.albumoftheyear.org/album/196349-caribou-suddenly.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/196349-caribou-suddenly.php",
+    "aoty_user": 75
   },
   {
     "artist": "Lucinda Williams",
@@ -8508,12 +8555,13 @@
     "year": 2020,
     "metacritic": 84,
     "source": "Metacritic 2020",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Rock",
     "aoty_critic": 82,
     "aoty_reviews": 24,
-    "aoty_url": "https://www.albumoftheyear.org/album/212807-lucinda-williams-good-souls-better-angels.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/212807-lucinda-williams-good-souls-better-angels.php",
+    "aoty_user": 65
   },
   {
     "artist": "The Bug",
@@ -8531,12 +8579,13 @@
     "year": 2020,
     "metacritic": 84,
     "source": "Metacritic 2020",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Country",
     "aoty_critic": 83,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/262699-charley-crockett-welcome-to-hard-times.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/262699-charley-crockett-welcome-to-hard-times.php",
+    "aoty_user": 74
   },
   {
     "artist": "Shabaka & the Ancestors",
@@ -8544,12 +8593,13 @@
     "year": 2020,
     "metacritic": 84,
     "source": "Metacritic 2020",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Jazz",
     "aoty_critic": 83,
     "aoty_reviews": 13,
-    "aoty_url": "https://www.albumoftheyear.org/album/211755-shabaka-and-the-ancestors-we-are-sent-here-by-history.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/211755-shabaka-and-the-ancestors-we-are-sent-here-by-history.php",
+    "aoty_user": 77
   },
   {
     "artist": "Moses Boyd",
