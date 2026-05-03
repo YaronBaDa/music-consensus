@@ -340,14 +340,15 @@
     "year": 2025,
     "metacritic": 88,
     "source": "Metacritic 2025",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 88,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/a256c94ba8c21472bd30cfcff531007b/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 89,
     "aoty_reviews": 25,
     "aoty_url": "https://www.albumoftheyear.org/album/1263186-cmat-euro-country.php",
-    "aoty_user": 78
+    "aoty_user": 78,
+    "discogs": 95
   },
   {
     "artist": "Wednesday",
@@ -6286,13 +6287,14 @@
     "year": 2021,
     "metacritic": 88,
     "source": "Metacritic 2021",
-    "consensus": 89,
-    "reviews": 3,
+    "consensus": 90,
+    "reviews": 4,
     "genre": "Hip Hop",
     "aoty_critic": 90,
     "aoty_reviews": 38,
     "aoty_url": "https://www.albumoftheyear.org/album/357961-little-simz-sometimes-i-might-be-introvert.php",
-    "aoty_user": 89
+    "aoty_user": 89,
+    "discogs": 93
   },
   {
     "artist": "Tyler, The Creator",
@@ -7734,13 +7736,14 @@
     "year": 2020,
     "metacritic": 88,
     "source": "Metacritic 2020",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 87,
+    "reviews": 4,
     "genre": "Electronic",
     "aoty_critic": 87,
     "aoty_reviews": 31,
     "aoty_url": "https://www.albumoftheyear.org/album/195881-dua-lipa-future-nostalgia.php",
-    "aoty_user": 81
+    "aoty_user": 81,
+    "discogs": 91
   },
   {
     "artist": "Waxahatchee",
@@ -7749,13 +7752,14 @@
     "metacritic": 88,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/c9/5f/29c95f5d-f7d5-7c69-6d0a-7cc9f0dd026b/57133.jpg/600x600bb.jpg",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 83,
     "aoty_reviews": 37,
     "aoty_url": "https://www.albumoftheyear.org/album/209583-waxahatchee-saint-cloud.php",
-    "aoty_user": 75
+    "aoty_user": 75,
+    "discogs": 91
   },
   {
     "artist": "Yves Tumor",
@@ -7763,13 +7767,14 @@
     "year": 2020,
     "metacritic": 88,
     "source": "Metacritic 2020",
-    "consensus": 84,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 84,
     "aoty_reviews": 22,
     "aoty_url": "https://www.albumoftheyear.org/album/216268-yves-tumor-heaven-to-a-tortured-mind.php",
-    "aoty_user": 81
+    "aoty_user": 81,
+    "discogs": 91
   },
   {
     "artist": "Freddie Gibbs",
@@ -7777,13 +7782,14 @@
     "year": 2020,
     "metacritic": 88,
     "source": "Metacritic 2020",
-    "consensus": 86,
-    "reviews": 3,
+    "consensus": 88,
+    "reviews": 4,
     "genre": "Hip Hop",
     "aoty_critic": 86,
     "aoty_reviews": 11,
     "aoty_url": "https://www.albumoftheyear.org/album/246426-freddie-gibbs-the-alchemist-alfredo.php",
-    "aoty_user": 85
+    "aoty_user": 85,
+    "discogs": 94
   },
   {
     "artist": "Bruce Springsteen",
@@ -7792,13 +7798,14 @@
     "metacritic": 88,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7d/8c/0c/7d8c0ce3-f1cf-26d3-cb30-a790baf3a026/886448711810.jpg/600x600bb.jpg",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Rock",
     "aoty_critic": 83,
     "aoty_reviews": 37,
     "aoty_url": "https://www.albumoftheyear.org/album/279420-bruce-springsteen-letter-to-you.php",
-    "aoty_user": 71
+    "aoty_user": 71,
+    "discogs": 91
   },
   {
     "artist": "Neil Young",
@@ -7807,13 +7814,14 @@
     "metacritic": 88,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5b/1f/aa/5b1faade-c605-e3bc-df63-92183610f500/093624898658.jpg/600x600bb.jpg",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Rock",
     "aoty_critic": 83,
     "aoty_reviews": 26,
     "aoty_url": "https://www.albumoftheyear.org/album/242252-neil-young-homegrown.php",
-    "aoty_user": 73
+    "aoty_user": 73,
+    "discogs": 87
   },
   {
     "artist": "Mystery Jets",
@@ -9194,14 +9202,15 @@
     "year": 2019,
     "metacritic": 88,
     "source": "Metacritic 2019",
-    "consensus": 75,
-    "reviews": 3,
+    "consensus": 78,
+    "reviews": 4,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f2119818354deadc69ce9075d71745af/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 13,
     "aoty_url": "https://www.albumoftheyear.org/album/166855-refused-war-music.php",
-    "aoty_user": 61
+    "aoty_user": 61,
+    "discogs": 88
   },
   {
     "artist": "Lingua Ignota",
@@ -9209,14 +9218,15 @@
     "year": 2019,
     "metacritic": 88,
     "source": "Metacritic 2019",
-    "consensus": 86,
-    "reviews": 3,
+    "consensus": 88,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b60b734589ad49bc33db4936b1c2d21e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 10,
     "aoty_url": "https://www.albumoftheyear.org/album/154924-lingua-ignota-caligula.php",
-    "aoty_user": 86
+    "aoty_user": 86,
+    "discogs": 95
   },
   {
     "artist": "Aldous Harding",
@@ -9225,13 +9235,14 @@
     "metacritic": 88,
     "source": "Metacritic 2019",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c3/02/6c/c3026c53-598c-e31b-c452-419677a0e6d5/dj.bzknjjtt.jpg/600x600bb.jpg",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 85,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 84,
     "aoty_reviews": 25,
     "aoty_url": "https://www.albumoftheyear.org/album/140613-aldous-harding-designer.php",
-    "aoty_user": 77
+    "aoty_user": 77,
+    "discogs": 90
   },
   {
     "artist": "FKA twigs",
@@ -9239,14 +9250,15 @@
     "year": 2019,
     "metacritic": 88,
     "source": "Metacritic 2019",
-    "consensus": 88,
-    "reviews": 3,
+    "consensus": 89,
+    "reviews": 4,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/63593ab6be8e57a118b9b53784eda751/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 88,
     "aoty_reviews": 36,
     "aoty_url": "https://www.albumoftheyear.org/album/150125-fka-twigs-magdalene.php",
-    "aoty_user": 87
+    "aoty_user": 87,
+    "discogs": 93
   },
   {
     "artist": "Brittany Howard",
@@ -9256,12 +9268,13 @@
     "source": "Metacritic 2019",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/10/2c/20/102c2088-4fe6-45b1-2e3d-e763e68aef0e/699.jpg/600x600bb.jpg",
     "consensus": 82,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 83,
     "aoty_reviews": 22,
     "aoty_url": "https://www.albumoftheyear.org/album/161986-brittany-howard-jaime.php",
-    "aoty_user": 75
+    "aoty_user": 75,
+    "discogs": 84
   },
   {
     "artist": "Freddie Gibbs",
@@ -13565,13 +13578,14 @@
     "metacritic": 88,
     "source": "Metacritic 2016",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/64/92/6d/64926dcf-1c32-26db-2553-75734568b955/00602557124255.rgb.jpg/600x600bb.jpg",
-    "consensus": 80,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Hip Hop",
     "aoty_critic": 81,
     "aoty_reviews": 15,
     "aoty_url": "https://www.albumoftheyear.org/album/63613-common-black-america-again.php",
-    "aoty_user": 72
+    "aoty_user": 72,
+    "discogs": 88
   },
   {
     "artist": "Robbie Fulks",
@@ -14956,14 +14970,15 @@
     "year": 2015,
     "metacritic": 88,
     "source": "Metacritic 2015",
-    "consensus": 87,
-    "reviews": 3,
+    "consensus": 88,
+    "reviews": 4,
     "genre": "Folk",
     "cover": "https://cdn-images.dzcdn.net/images/cover/4bede827dfe9d2a36a987b7910cace78/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 88,
     "aoty_reviews": 44,
     "aoty_url": "https://www.albumoftheyear.org/album/38822-joanna-newsom-divers.php",
-    "aoty_user": 86
+    "aoty_user": 86,
+    "discogs": 90
   },
   {
     "artist": "Courtney Barnett",
@@ -14971,14 +14986,15 @@
     "year": 2015,
     "metacritic": 88,
     "source": "Metacritic 2015",
-    "consensus": 84,
-    "reviews": 3,
+    "consensus": 85,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/c888c454c0e49e7af0756c78ab739c5f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 44,
     "aoty_url": "https://www.albumoftheyear.org/album/27039-courtney-barnett-sometimes-i-sit-and-think-and-sometimes-i-just-sit.php",
-    "aoty_user": 80
+    "aoty_user": 80,
+    "discogs": 87
   },
   {
     "artist": "Bring Me the Horizon",
@@ -14986,14 +15002,15 @@
     "year": 2015,
     "metacritic": 88,
     "source": "Metacritic 2015",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/dd6af81a0d098fdd32e824fd43f2635d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 13,
     "aoty_url": "https://www.albumoftheyear.org/album/37172-bring-me-the-horizon-thats-the-spirit.php",
-    "aoty_user": 76
+    "aoty_user": 76,
+    "discogs": 89
   },
   {
     "artist": "Mbongwana Star",
@@ -15001,14 +15018,15 @@
     "year": 2015,
     "metacritic": 88,
     "source": "Metacritic 2015",
-    "consensus": 84,
-    "reviews": 3,
+    "consensus": 85,
+    "reviews": 4,
     "genre": "World",
     "cover": "https://cdn-images.dzcdn.net/images/cover/0d21a59f0ce2f00a04db6e29cbe08222/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 87,
     "aoty_reviews": 14,
     "aoty_url": "https://www.albumoftheyear.org/album/33159-mbongwana-star-from-kinshasa.php",
-    "aoty_user": 78
+    "aoty_user": 78,
+    "discogs": 88
   },
   {
     "artist": "Grimes",
@@ -15016,14 +15034,15 @@
     "year": 2015,
     "metacritic": 88,
     "source": "Metacritic 2015",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6a7fbeeb7632c81774d13d2bd0cc0f0b/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 37,
     "aoty_url": "https://www.albumoftheyear.org/album/43091-grimes-art-angels.php",
-    "aoty_user": 83
+    "aoty_user": 83,
+    "discogs": 89
   },
   {
     "artist": "James McMurtry",
@@ -16350,14 +16369,15 @@
     "year": 2014,
     "metacritic": 88,
     "source": "Metacritic 2014",
-    "consensus": 88,
-    "reviews": 3,
+    "consensus": 90,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ad6ac674c1e0b2338d904f04a8ac9a61/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 88,
     "aoty_reviews": 38,
     "aoty_url": "https://www.albumoftheyear.org/album/13202-swans-to-be-kind.php",
-    "aoty_user": 89
+    "aoty_user": 89,
+    "discogs": 93
   },
   {
     "artist": "Pallbearer",
@@ -16365,14 +16385,15 @@
     "year": 2014,
     "metacritic": 88,
     "source": "Metacritic 2014",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Metal",
     "cover": "https://cdn-images.dzcdn.net/images/cover/3290b989a7a5e822940527dd0756124e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 19,
     "aoty_url": "https://www.albumoftheyear.org/album/16539-pallbearer-foundations-of-burden.php",
-    "aoty_user": 77
+    "aoty_user": 77,
+    "discogs": 90
   },
   {
     "artist": "La Dispute",
@@ -16380,14 +16401,15 @@
     "year": 2014,
     "metacritic": 88,
     "source": "Metacritic 2014",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/0bce0592f98aee4770a7522a58586935/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 11,
     "aoty_url": "https://www.albumoftheyear.org/album/14379-la-dispute-rooms-of-the-house.php",
-    "aoty_user": 78
+    "aoty_user": 78,
+    "discogs": 88
   },
   {
     "artist": "Big K.R.I.T.",
@@ -16395,14 +16417,15 @@
     "year": 2014,
     "metacritic": 88,
     "source": "Metacritic 2014",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/19b833ccbad4db151adaf5c6ec36ba67/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 13,
     "aoty_url": "https://www.albumoftheyear.org/album/21515-big-krit-cadillactica.php",
-    "aoty_user": 75
+    "aoty_user": 75,
+    "discogs": 88
   },
   {
     "artist": "Flying Lotus",
@@ -16410,14 +16433,15 @@
     "year": 2014,
     "metacritic": 88,
     "source": "Metacritic 2014",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/823c7c55c2c0da0c77504ac997722265/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 42,
     "aoty_url": "https://www.albumoftheyear.org/album/17704-flying-lotus-youre-dead.php",
-    "aoty_user": 82
+    "aoty_user": 82,
+    "discogs": 87
   },
   {
     "artist": "Rosanne Cash",
@@ -17761,13 +17785,14 @@
     "year": 2013,
     "metacritic": 88,
     "source": "Metacritic 2013",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 81,
     "aoty_reviews": 10,
     "aoty_url": "https://www.albumoftheyear.org/album/9969-russian-circles-memorial.php",
-    "aoty_user": 76
+    "aoty_user": 76,
+    "discogs": 89
   },
   {
     "artist": "Julia Holter",
@@ -17776,12 +17801,13 @@
     "metacritic": 88,
     "source": "Metacritic 2013",
     "consensus": 85,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 83,
     "aoty_reviews": 32,
     "aoty_url": "https://www.albumoftheyear.org/album/7345-julia-holter-loud-city-song.php",
-    "aoty_user": 83
+    "aoty_user": 83,
+    "discogs": 86
   },
   {
     "artist": "John Murry",
@@ -31304,13 +31330,14 @@
     "year": 2003,
     "metacritic": 89,
     "source": "Metacritic 2003",
-    "consensus": 88,
-    "reviews": 2,
+    "consensus": 89,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7b955054e94d2a68733a9d11438c5d5c/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 88,
     "aoty_reviews": 16,
-    "aoty_url": "https://www.albumoftheyear.org/album/943-four-tet-rounds.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/943-four-tet-rounds.php",
+    "discogs": 91
   },
   {
     "artist": "The Notwist",
