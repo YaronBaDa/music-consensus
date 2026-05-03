@@ -35746,13 +35746,14 @@
     "year": 2001,
     "metacritic": 75,
     "source": "Metacritic 2001",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/3aaa783e77caa521ef293472099a84b9/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/22326-mark-eitzel-the-invisible-man.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/22326-mark-eitzel-the-invisible-man.php",
+    "aoty_user": 81
   },
   {
     "artist": "Tool",
@@ -35760,13 +35761,14 @@
     "year": 2001,
     "metacritic": 75,
     "source": "Metacritic 2001",
-    "consensus": 75,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/1645f3b192206dc412353b06491290d4/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 75,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/4126-tool-lateralus.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4126-tool-lateralus.php",
+    "aoty_user": 88
   },
   {
     "artist": "Les Savy Fav",
@@ -35785,13 +35787,14 @@
     "year": 2001,
     "metacritic": 75,
     "source": "Metacritic 2001",
-    "consensus": 74,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/604fe1278d8c9c43edcf0afe5a194461/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 73,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/15313-ben-folds-rockin-the-suburbs.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/15313-ben-folds-rockin-the-suburbs.php",
+    "aoty_user": 82
   },
   {
     "artist": "The Charlatans UK",
@@ -35800,12 +35803,13 @@
     "metacritic": 75,
     "source": "Metacritic 2001",
     "consensus": 72,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8e84ba1811a66fb67dc5164aecd2e5a2/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 68,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/20456-the-charlatans-wonderland.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/20456-the-charlatans-wonderland.php",
+    "aoty_user": 73
   },
   {
     "artist": "Arab Strap",
@@ -35814,12 +35818,13 @@
     "metacritic": 75,
     "source": "Metacritic 2001",
     "consensus": 72,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/91d47375565a7142f5dac2f635c1d060/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 69,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/15614-arab-strap-the-red-thread.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/15614-arab-strap-the-red-thread.php",
+    "aoty_user": 73
   },
   {
     "artist": "Outkast",
@@ -35827,14 +35832,15 @@
     "year": 2000,
     "metacritic": 95,
     "source": "Metacritic 2000",
-    "consensus": 92,
-    "reviews": 3,
+    "consensus": 91,
+    "reviews": 4,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/646d6414a24faaccf67c1d7e01f7d095/1000x1000-000000-80-0-0.jpg",
     "discogs": 89,
     "aoty_critic": 91,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/579-outkast-stankonia.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/579-outkast-stankonia.php",
+    "aoty_user": 88
   },
   {
     "artist": "Primal Scream",
@@ -35842,14 +35848,15 @@
     "year": 2000,
     "metacritic": 90,
     "source": "Metacritic 2000",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/48e863dbb0d08d487a27e7b28c0f96ae/1000x1000-000000-80-0-0.jpg",
     "discogs": 82,
     "aoty_critic": 83,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/933-primal-scream-xtrmntr.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/933-primal-scream-xtrmntr.php",
+    "aoty_user": 80
   },
   {
     "artist": "Aimee Mann",
@@ -35857,14 +35864,15 @@
     "year": 2000,
     "metacritic": 89,
     "source": "Metacritic 2000",
-    "consensus": 89,
-    "reviews": 3,
+    "consensus": 87,
+    "reviews": 4,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/28d66b7f9d4dc361298f338a24429aff/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 6,
     "aoty_url": "https://www.albumoftheyear.org/album/28325-aimee-mann-bachelor-no-2.php",
-    "discogs": 94
+    "discogs": 94,
+    "aoty_user": 81
   },
   {
     "artist": "PJ Harvey",
@@ -35872,13 +35880,14 @@
     "year": 2000,
     "metacritic": 88,
     "source": "Metacritic 2000",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2acafc30a5555be1661abe5181bdb73b/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/942-pj-harvey-stories-from-the-city-stories-from-the-sea.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/942-pj-harvey-stories-from-the-city-stories-from-the-sea.php",
+    "aoty_user": 85
   },
   {
     "artist": "The New Pornographers",
@@ -35886,13 +35895,14 @@
     "year": 2000,
     "metacritic": 87,
     "source": "Metacritic 2000",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/3403349d10583fe13b8f3af9134e0c10/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/553-the-new-pornographers-mass-romantic.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/553-the-new-pornographers-mass-romantic.php",
+    "aoty_user": 77
   },
   {
     "artist": "Steve Earle",
@@ -35900,13 +35910,14 @@
     "year": 2000,
     "metacritic": 86,
     "source": "Metacritic 2000",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Country",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f03d4e087372c04e5c1604d0f1db4f8e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/17383-steve-earle-transcendental-blues.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/17383-steve-earle-transcendental-blues.php",
+    "aoty_user": 76
   },
   {
     "artist": "Sleater-Kinney",
@@ -35914,13 +35925,14 @@
     "year": 2000,
     "metacritic": 86,
     "source": "Metacritic 2000",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2ab8087fe4450ee7f3b103a2d3a91712/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/1069-sleater-kinney-all-hands-on-the-bad-one.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1069-sleater-kinney-all-hands-on-the-bad-one.php",
+    "aoty_user": 79
   },
   {
     "artist": "Ice-T",
@@ -35938,13 +35950,14 @@
     "year": 2000,
     "metacritic": 85,
     "source": "Metacritic 2000",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6b445f1eb22cf2174a9884ffea89f9f1/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/1070-smog-dongs-of-sevotion.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1070-smog-dongs-of-sevotion.php",
+    "aoty_user": 78
   },
   {
     "artist": "Amon Tobin",
@@ -35963,13 +35976,14 @@
     "year": 2000,
     "metacritic": 84,
     "source": "Metacritic 2000",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/512531e1929b75407fcd0fbeca477828/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/22053-david-holmes-bow-down-to-the-exit-sign.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/22053-david-holmes-bow-down-to-the-exit-sign.php",
+    "aoty_user": 73
   },
   {
     "artist": "Super Furry Animals",
@@ -35977,13 +35991,14 @@
     "year": 2000,
     "metacritic": 84,
     "source": "Metacritic 2000",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b9626e418e00141c5653a53330d94625/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/595-super-furry-animals-mwng.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/595-super-furry-animals-mwng.php",
+    "aoty_user": 77
   },
   {
     "artist": "Godspeed You! Black Emperor",
@@ -36001,12 +36016,13 @@
     "year": 2000,
     "metacritic": 84,
     "source": "Metacritic 2000",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Rock",
     "aoty_critic": 84,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/596-lambchop-nixon.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/596-lambchop-nixon.php",
+    "aoty_user": 73
   },
   {
     "artist": "Yo La Tengo",
@@ -36014,13 +36030,14 @@
     "year": 2000,
     "metacritic": 83,
     "source": "Metacritic 2000",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/26668f3e2b28121505e8a5a117540b8d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/357-yo-la-tengo-and-then-nothing-turned-itself-inside-out.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/357-yo-la-tengo-and-then-nothing-turned-itself-inside-out.php",
+    "aoty_user": 83
   },
   {
     "artist": "ShelLynne",
@@ -36050,13 +36067,14 @@
     "year": 2000,
     "metacritic": 83,
     "source": "Metacritic 2000",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2dd41a082c98a2ed0fd74cd174dc6ff1/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/30469-joseph-arthur-come-to-where-im-from.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/30469-joseph-arthur-come-to-where-im-from.php",
+    "aoty_user": 79
   },
   {
     "artist": "Billy Bragg & Wilco",
@@ -36064,13 +36082,14 @@
     "year": 2000,
     "metacritic": 82,
     "source": "Metacritic 2000",
-    "consensus": 77,
-    "reviews": 2,
+    "consensus": 73,
+    "reviews": 3,
     "genre": "Folk",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ae5c1e663786e75396cad3d469e2973a/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 72,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/602-billy-bragg-wilco-mermaid-avenue-vol-ii.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/602-billy-bragg-wilco-mermaid-avenue-vol-ii.php",
+    "aoty_user": 64
   },
   {
     "artist": "Arab Strap",
@@ -36100,13 +36119,14 @@
     "year": 2000,
     "metacritic": 82,
     "source": "Metacritic 2000",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6d230a9422632ec092ad913536043422/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 75,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/599-the-apples-in-stereo-discovery-of-a-world-inside-the-moone.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/599-the-apples-in-stereo-discovery-of-a-world-inside-the-moone.php",
+    "aoty_user": 75
   },
   {
     "artist": "Modest Mouse",
@@ -36114,13 +36134,14 @@
     "year": 2000,
     "metacritic": 82,
     "source": "Metacritic 2000",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/47b1dc9efebec8792e18ed7b76862df9/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/581-modest-mouse-the-moon-antarctica.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/581-modest-mouse-the-moon-antarctica.php",
+    "aoty_user": 86
   },
   {
     "artist": "Laika",
@@ -36128,13 +36149,14 @@
     "year": 2000,
     "metacritic": 82,
     "source": "Metacritic 2000",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2e463309871f621ae24d85023eab0988/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 73,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/238343-laika-good-looking-blues.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/238343-laika-good-looking-blues.php",
+    "aoty_user": 76
   },
   {
     "artist": "Elliott Smith",
@@ -36142,13 +36164,14 @@
     "year": 2000,
     "metacritic": 81,
     "source": "Metacritic 2000",
-    "consensus": 77,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/1321d23e26ac7a7d20fa02b258ad6566/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 73,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/601-elliott-smith-figure-8.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/601-elliott-smith-figure-8.php",
+    "aoty_user": 87
   },
   {
     "artist": "Grandaddy",
@@ -36156,13 +36179,14 @@
     "year": 2000,
     "metacritic": 81,
     "source": "Metacritic 2000",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/02d4bf8a38836d7b00fbd329607965c1/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 87,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/598-grandaddy-the-sophtware-slump.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/598-grandaddy-the-sophtware-slump.php",
+    "aoty_user": 81
   },
   {
     "artist": "Broadcast",
@@ -36171,12 +36195,13 @@
     "metacritic": 81,
     "source": "Metacritic 2000",
     "consensus": 82,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6aa5c86d7bed578f05e3a958b4932427/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/890-broadcast-the-noise-made-by-people.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/890-broadcast-the-noise-made-by-people.php",
+    "aoty_user": 81
   },
   {
     "artist": "Cat Power",
@@ -36184,13 +36209,14 @@
     "year": 2000,
     "metacritic": 81,
     "source": "Metacritic 2000",
-    "consensus": 76,
-    "reviews": 2,
+    "consensus": 75,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/dd5cdb0f6af5c0fcef16a5d41d6c5fcd/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 70,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/4069-cat-power-the-covers-record.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4069-cat-power-the-covers-record.php",
+    "aoty_user": 74
   },
   {
     "artist": "Radiohead",
@@ -36199,12 +36225,13 @@
     "metacritic": 80,
     "source": "Metacritic 2000",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/8e/13/bd8e1358-b367-a689-cb84-cebd0b067dc4/634904078263.png/600x600bb.jpg",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 84,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 80,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/366-radiohead-kid-a.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/366-radiohead-kid-a.php",
+    "aoty_user": 91
   },
   {
     "artist": "Madonna",
@@ -36212,13 +36239,14 @@
     "year": 2000,
     "metacritic": 80,
     "source": "Metacritic 2000",
-    "consensus": 76,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/32fa1f6bf870f558de0e874ee04be456/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 73,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/4082-madonna-music.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4082-madonna-music.php",
+    "aoty_user": 80
   },
   {
     "artist": "David Sylvian",
@@ -36237,13 +36265,14 @@
     "year": 2000,
     "metacritic": 80,
     "source": "Metacritic 2000",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 76,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/72de906522eb1214cbdd6271dee58662/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/901-wu-tang-clan-the-w.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/901-wu-tang-clan-the-w.php",
+    "aoty_user": 71
   },
   {
     "artist": "Erykah Badu",
@@ -36251,13 +36280,14 @@
     "year": 2000,
     "metacritic": 80,
     "source": "Metacritic 2000",
-    "consensus": 79,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "R&B",
     "cover": "https://cdn-images.dzcdn.net/images/cover/362b626099fff89887b04c8ab35feba7/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/1524-erykah-badu-mamas-gun.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1524-erykah-badu-mamas-gun.php",
+    "aoty_user": 88
   },
   {
     "artist": "Bettie Serveert",
@@ -36287,13 +36317,14 @@
     "year": 2000,
     "metacritic": 80,
     "source": "Metacritic 2000",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/572a06d16126b2c6718114a684594ee1/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/6595-saint-etienne-sound-of-water.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6595-saint-etienne-sound-of-water.php",
+    "aoty_user": 74
   },
   {
     "artist": "Johnny Cash",
@@ -36301,13 +36332,14 @@
     "year": 2000,
     "metacritic": 80,
     "source": "Metacritic 2000",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Country",
     "cover": "https://cdn-images.dzcdn.net/images/cover/bd0e857c6dbd1d830c02db7d746abe96/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/1263-johnny-cash-american-iii-solitary-man.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1263-johnny-cash-american-iii-solitary-man.php",
+    "aoty_user": 81
   },
   {
     "artist": "The Dandy Warhols",
@@ -36315,13 +36347,14 @@
     "year": 2000,
     "metacritic": 80,
     "source": "Metacritic 2000",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f2f1f2caf987151c528b96bd5e7359d4/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/4056-the-dandy-warhols-thirteen-tales-from-urban-bohemia.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/4056-the-dandy-warhols-thirteen-tales-from-urban-bohemia.php",
+    "aoty_user": 77
   },
   {
     "artist": "U2",
@@ -36329,13 +36362,14 @@
     "year": 2000,
     "metacritic": 79,
     "source": "Metacritic 2000",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 75,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b37725cd9d9771d7674df22fafdcc0a2/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/1270-u2-all-that-you-cant-leave-behind.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1270-u2-all-that-you-cant-leave-behind.php",
+    "aoty_user": 69
   },
   {
     "artist": "Roni Size/Reprazent",
@@ -36354,13 +36388,14 @@
     "year": 2000,
     "metacritic": 79,
     "source": "Metacritic 2000",
-    "consensus": 73,
-    "reviews": 2,
+    "consensus": 74,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/93a9609ca602d9162a3c3cc74f4a710d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 67,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/12436-nelly-furtado-whoa-nelly.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/12436-nelly-furtado-whoa-nelly.php",
+    "aoty_user": 76
   },
   {
     "artist": "Trembling Blue Stars",
@@ -36379,13 +36414,14 @@
     "year": 2000,
     "metacritic": 78,
     "source": "Metacritic 2000",
-    "consensus": 74,
-    "reviews": 2,
+    "consensus": 73,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/725a0dcdd59a884d415fd6a31ec98756/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 71,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/7141-rage-against-the-machine-renegades.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7141-rage-against-the-machine-renegades.php",
+    "aoty_user": 71
   },
   {
     "artist": "Rancid",
@@ -36403,13 +36439,14 @@
     "year": 2000,
     "metacritic": 78,
     "source": "Metacritic 2000",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d4ed440e5f542ab14d4956584197f5b7/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/22068-sade-lovers-rock.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/22068-sade-lovers-rock.php",
+    "aoty_user": 81
   },
   {
     "artist": "Eminem",
@@ -36418,12 +36455,13 @@
     "metacritic": 78,
     "source": "Metacritic 2000",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ea/ac/03/eaac03e5-8e9d-847e-d5b9-af7dee6a970b/00606949063221.rgb.jpg/600x600bb.jpg",
-    "consensus": 76,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Hip Hop",
     "aoty_critic": 73,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/964-eminem-the-marshall-mathers-lp.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/964-eminem-the-marshall-mathers-lp.php",
+    "aoty_user": 84
   },
   {
     "artist": "Arab Strap",
@@ -36443,12 +36481,13 @@
     "metacritic": 78,
     "source": "Metacritic 2000",
     "consensus": 78,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ef71ba10dd4d9765cc4302307515697b/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/542-badly-drawn-boy-the-hour-of-bewilderbeast.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/542-badly-drawn-boy-the-hour-of-bewilderbeast.php",
+    "aoty_user": 77
   },
   {
     "artist": "The Go-Betweens",
@@ -36478,13 +36517,14 @@
     "year": 2000,
     "metacritic": 77,
     "source": "Metacritic 2000",
-    "consensus": 73,
-    "reviews": 2,
+    "consensus": 72,
+    "reviews": 3,
     "genre": "Reggae",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6695a18b6c3e21efae03cd2691b8e374/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 69,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/21923-beenie-man-art-and-life.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/21923-beenie-man-art-and-life.php",
+    "aoty_user": 70
   },
   {
     "artist": "Jurassic 5",
@@ -36493,12 +36533,13 @@
     "metacritic": 77,
     "source": "Metacritic 2000",
     "consensus": 78,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2a751713036e4cc363637cbfde7e9b3d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/21207-jurassic-5-quality-control.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/21207-jurassic-5-quality-control.php",
+    "aoty_user": 78
   },
   {
     "artist": "Air",
@@ -36527,13 +36568,14 @@
     "year": 2000,
     "metacritic": 77,
     "source": "Metacritic 2000",
-    "consensus": 76,
-    "reviews": 2,
+    "consensus": 72,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/5e799b7d4fa412cb2288b6b4435ee5dc/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 75,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/9297-steely-dan-two-against-nature.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/9297-steely-dan-two-against-nature.php",
+    "aoty_user": 64
   },
   {
     "artist": "At the Drive-In",
@@ -36541,13 +36583,14 @@
     "year": 2000,
     "metacritic": 77,
     "source": "Metacritic 2000",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b0892516361122a4a153e96f78681b4c/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 12,
-    "aoty_url": "https://www.albumoftheyear.org/album/1165-at-the-drive-in-relationship-of-command.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1165-at-the-drive-in-relationship-of-command.php",
+    "aoty_user": 86
   },
   {
     "artist": "Mojave 3",
@@ -36566,13 +36609,14 @@
     "year": 2000,
     "metacritic": 76,
     "source": "Metacritic 2000",
-    "consensus": 70,
-    "reviews": 2,
+    "consensus": 72,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/4222104ba8ba8329ba53c06ace71db38/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 65,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/14643-thievery-corporation-the-mirror-conspiracy.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/14643-thievery-corporation-the-mirror-conspiracy.php",
+    "aoty_user": 76
   },
   {
     "artist": "Paul Simon",
@@ -36580,13 +36624,14 @@
     "year": 2000,
     "metacritic": 76,
     "source": "Metacritic 2000",
-    "consensus": 73,
-    "reviews": 2,
+    "consensus": 69,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/3b0265de1d6b2575ba1d4059b88e9347/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 70,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/17387-paul-simon-youre-the-one.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/17387-paul-simon-youre-the-one.php",
+    "aoty_user": 62
   },
   {
     "artist": "Poe",
@@ -36594,13 +36639,14 @@
     "year": 2000,
     "metacritic": 76,
     "source": "Metacritic 2000",
-    "consensus": 70,
-    "reviews": 2,
+    "consensus": 72,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f18924ffeedb2ff27ffb84ee0365f12e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 63,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/39498-poe-haunted.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/39498-poe-haunted.php",
+    "aoty_user": 78
   },
   {
     "artist": "A Guy Called Gerald",
@@ -36608,12 +36654,13 @@
     "year": 2000,
     "metacritic": 76,
     "source": "Metacritic 2000",
-    "consensus": 72,
-    "reviews": 2,
+    "consensus": 71,
+    "reviews": 3,
     "genre": "Drum & Bass",
     "aoty_critic": 68,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/28694-a-guy-called-gerald-essence.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/28694-a-guy-called-gerald-essence.php",
+    "aoty_user": 69
   },
   {
     "artist": "Bj\u00f6rk",
@@ -36641,13 +36688,14 @@
     "year": 2000,
     "metacritic": 75,
     "source": "Metacritic 2000",
-    "consensus": 74,
-    "reviews": 2,
+    "consensus": 76,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/420876d9f5fb4558138a1b2d5d1ee6f6/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 74,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/21985-the-sea-and-cake-oui.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/21985-the-sea-and-cake-oui.php",
+    "aoty_user": 79
   },
   {
     "artist": "Xzibit",
@@ -36655,13 +36703,14 @@
     "year": 2000,
     "metacritic": 75,
     "source": "Metacritic 2000",
-    "consensus": 76,
-    "reviews": 2,
+    "consensus": 75,
+    "reviews": 3,
     "genre": "R&B",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ee99052bd41093d4339cb3ed7e1f84de/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/8325-xzibit-restless.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/8325-xzibit-restless.php",
+    "aoty_user": 74
   },
   {
     "artist": "Dwight Yoakam",
@@ -36680,13 +36729,14 @@
     "year": 2000,
     "metacritic": 75,
     "source": "Metacritic 2000",
-    "consensus": 70,
-    "reviews": 2,
+    "consensus": 72,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/0c5992de3a66c0b795b460506dec98cd/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 66,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/21235-the-the-nakedself.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/21235-the-the-nakedself.php",
+    "aoty_user": 74
   },
   {
     "artist": "De La Soul",
