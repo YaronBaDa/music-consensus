@@ -21996,12 +21996,13 @@
     "year": 2010,
     "metacritic": 86,
     "source": "Metacritic 2010",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Hip Hop",
     "aoty_critic": 81,
     "aoty_reviews": 24,
-    "aoty_url": "https://www.albumoftheyear.org/album/1787-the-roots-how-i-got-over.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1787-the-roots-how-i-got-over.php",
+    "aoty_user": 81
   },
   {
     "artist": "Deerhunter",
@@ -22010,11 +22011,12 @@
     "metacritic": 86,
     "source": "Metacritic 2010",
     "consensus": 84,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 83,
     "aoty_reviews": 37,
-    "aoty_url": "https://www.albumoftheyear.org/album/1832-deerhunter-halcyon-digest.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1832-deerhunter-halcyon-digest.php",
+    "aoty_user": 83
   },
   {
     "artist": "Konono No. 1",
@@ -22022,12 +22024,13 @@
     "year": 2010,
     "metacritic": 86,
     "source": "Metacritic 2010",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 81,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/1761-konono-n1-assume-crash-position.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1761-konono-n1-assume-crash-position.php",
+    "aoty_user": 81
   },
   {
     "artist": "Flying Lotus",
@@ -22035,12 +22038,13 @@
     "year": 2010,
     "metacritic": 86,
     "source": "Metacritic 2010",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 85,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 85,
     "aoty_reviews": 37,
-    "aoty_url": "https://www.albumoftheyear.org/album/1642-flying-lotus-cosmogramma.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1642-flying-lotus-cosmogramma.php",
+    "aoty_user": 85
   },
   {
     "artist": "Sam Amidon",
@@ -22048,12 +22052,13 @@
     "year": 2010,
     "metacritic": 86,
     "source": "Metacritic 2010",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Folk",
     "aoty_critic": 80,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/1633-sam-amidon-i-see-the-sign.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1633-sam-amidon-i-see-the-sign.php",
+    "aoty_user": 77
   },
   {
     "artist": "Kylesa",
@@ -22061,12 +22066,13 @@
     "year": 2010,
     "metacritic": 85,
     "source": "Metacritic 2010",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Metal",
     "aoty_critic": 83,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/2199-kylesa-spiral-shadow.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2199-kylesa-spiral-shadow.php",
+    "aoty_user": 78
   },
   {
     "artist": "The Budos Band",
@@ -22074,13 +22080,14 @@
     "year": 2010,
     "metacritic": 85,
     "source": "Metacritic 2010",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "R&B",
     "cover": "https://cdn-images.dzcdn.net/images/cover/45c01954aa267416313aaed415263045/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/1908-the-budos-band-the-budos-band-iii.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1908-the-budos-band-the-budos-band-iii.php",
+    "aoty_user": 68
   },
   {
     "artist": "Joanna Newsom",
@@ -22088,13 +22095,14 @@
     "year": 2010,
     "metacritic": 85,
     "source": "Metacritic 2010",
-    "consensus": 85,
-    "reviews": 2,
+    "consensus": 86,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7e142a6f877ccdbad9e73255cba1a7c3/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 36,
-    "aoty_url": "https://www.albumoftheyear.org/album/1257-joanna-newsom-have-one-on-me.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1257-joanna-newsom-have-one-on-me.php",
+    "aoty_user": 89
   },
   {
     "artist": "Pavement",
@@ -22114,12 +22122,13 @@
     "metacritic": 85,
     "source": "Metacritic 2010",
     "consensus": 84,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/92cc2168e27b72087e9f0bc8da94b03e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 38,
-    "aoty_url": "https://www.albumoftheyear.org/album/1638-the-national-high-violet.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1638-the-national-high-violet.php",
+    "aoty_user": 82
   },
   {
     "artist": "Ariel Pink's Haunted Graffiti",
@@ -22127,13 +22136,14 @@
     "year": 2010,
     "metacritic": 85,
     "source": "Metacritic 2010",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/bf8f6a868d42e153a34a0d1349d7eb8e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 26,
-    "aoty_url": "https://www.albumoftheyear.org/album/1609-ariel-pinks-haunted-graffiti-before-today.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1609-ariel-pinks-haunted-graffiti-before-today.php",
+    "aoty_user": 79
   },
   {
     "artist": "Ghostface Killah",
@@ -22141,13 +22151,14 @@
     "year": 2010,
     "metacritic": 84,
     "source": "Metacritic 2010",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/1b868c3101aeea7986ddef040d50cddb/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 18,
-    "aoty_url": "https://www.albumoftheyear.org/album/2210-ghostface-killah-apollo-kids.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2210-ghostface-killah-apollo-kids.php",
+    "aoty_user": 77
   },
   {
     "artist": "LCD Soundsystem",
@@ -22155,13 +22166,14 @@
     "year": 2010,
     "metacritic": 84,
     "source": "Metacritic 2010",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 85,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6d1c8c822d58041dfc7fd0bb5612cdf5/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 40,
-    "aoty_url": "https://www.albumoftheyear.org/album/1526-lcd-soundsystem-this-is-happening.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1526-lcd-soundsystem-this-is-happening.php",
+    "aoty_user": 88
   },
   {
     "artist": "Sleigh Bells",
@@ -22169,13 +22181,14 @@
     "year": 2010,
     "metacritic": 84,
     "source": "Metacritic 2010",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/943af08eef25fd8c4c2a7f79bb7d85b3/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 38,
-    "aoty_url": "https://www.albumoftheyear.org/album/1550-sleigh-bells-treats.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1550-sleigh-bells-treats.php",
+    "aoty_user": 79
   },
   {
     "artist": "The Tallest Man on Earth",
@@ -22194,13 +22207,14 @@
     "year": 2010,
     "metacritic": 84,
     "source": "Metacritic 2010",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Jazz",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2966cb5569983ae64f1258eac9b97451/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/1843-jason-moran-ten.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1843-jason-moran-ten.php",
+    "aoty_user": 72
   },
   {
     "artist": "Twin Shadow",
@@ -22208,13 +22222,14 @@
     "year": 2010,
     "metacritic": 84,
     "source": "Metacritic 2010",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/1c4bd727ef522a42dee0511d9af6eb9c/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 23,
-    "aoty_url": "https://www.albumoftheyear.org/album/1992-twin-shadow-forget.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1992-twin-shadow-forget.php",
+    "aoty_user": 78
   },
   {
     "artist": "Paul Weller",
@@ -22222,13 +22237,14 @@
     "year": 2010,
     "metacritic": 84,
     "source": "Metacritic 2010",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/227e73087ad1cd07963ea378cd7a2cc6/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 21,
-    "aoty_url": "https://www.albumoftheyear.org/album/1612-paul-weller-wake-up-the-nation.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1612-paul-weller-wake-up-the-nation.php",
+    "aoty_user": 73
   },
   {
     "artist": "Erykah Badu",
@@ -22237,12 +22253,13 @@
     "metacritic": 83,
     "source": "Metacritic 2010",
     "consensus": 82,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "R&B",
     "cover": "https://cdn-images.dzcdn.net/images/cover/544592fee0ee44957de4926e57594f21/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 23,
-    "aoty_url": "https://www.albumoftheyear.org/album/1522-erykah-badu-new-amerykah-part-two-return-of-the-ankh.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1522-erykah-badu-new-amerykah-part-two-return-of-the-ankh.php",
+    "aoty_user": 80
   },
   {
     "artist": "Swans",
@@ -22250,13 +22267,14 @@
     "year": 2010,
     "metacritic": 83,
     "source": "Metacritic 2010",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/989d0fc8d4fe3b678a02c361be1ddc31/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 26,
-    "aoty_url": "https://www.albumoftheyear.org/album/1974-swans-my-father-will-guide-me-up-a-rope-to-the-sky.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1974-swans-my-father-will-guide-me-up-a-rope-to-the-sky.php",
+    "aoty_user": 76
   },
   {
     "artist": "Underoath",
@@ -22275,13 +22293,14 @@
     "year": 2010,
     "metacritic": 83,
     "source": "Metacritic 2010",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/56d14941181f5a3d8b194125b4bd5577/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 31,
-    "aoty_url": "https://www.albumoftheyear.org/album/1776-the-walkmen-lisbon.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1776-the-walkmen-lisbon.php",
+    "aoty_user": 76
   },
   {
     "artist": "Grinderman",
@@ -22289,13 +22308,14 @@
     "year": 2010,
     "metacritic": 83,
     "source": "Metacritic 2010",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/a6e130efc6ce2eb6abbb6a9204a02fc8/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 29,
-    "aoty_url": "https://www.albumoftheyear.org/album/1918-grinderman-grinderman-2.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1918-grinderman-grinderman-2.php",
+    "aoty_user": 77
   },
   {
     "artist": "These New Puritans",
@@ -22303,13 +22323,14 @@
     "year": 2010,
     "metacritic": 83,
     "source": "Metacritic 2010",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/debffb65c2bc4f4ecb0cfc6bd88e5f78/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 29,
-    "aoty_url": "https://www.albumoftheyear.org/album/1329-these-new-puritans-hidden.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1329-these-new-puritans-hidden.php",
+    "aoty_user": 77
   },
   {
     "artist": "Superchunk",
@@ -22317,13 +22338,14 @@
     "year": 2010,
     "metacritic": 83,
     "source": "Metacritic 2010",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/700717b18d1f1c04c4377f6188e65417/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 22,
-    "aoty_url": "https://www.albumoftheyear.org/album/1967-superchunk-majesty-shredding.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1967-superchunk-majesty-shredding.php",
+    "aoty_user": 74
   },
   {
     "artist": "Shining",
@@ -22331,13 +22353,14 @@
     "year": 2010,
     "metacritic": 83,
     "source": "Metacritic 2010",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Metal",
     "cover": "https://cdn-images.dzcdn.net/images/cover/56a471e3318ef78c507af89e24b00ab5/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/7571-shining-blackjazz.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7571-shining-blackjazz.php",
+    "aoty_user": 78
   },
   {
     "artist": "Caribou",
@@ -22345,13 +22368,14 @@
     "year": 2010,
     "metacritic": 83,
     "source": "Metacritic 2010",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/c7e0d67b3e09a84f80e6bd45d336a4a4/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 35,
-    "aoty_url": "https://www.albumoftheyear.org/album/1304-caribou-swim.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1304-caribou-swim.php",
+    "aoty_user": 78
   },
   {
     "artist": "Justin Townes Earle",
@@ -22359,13 +22383,14 @@
     "year": 2010,
     "metacritic": 83,
     "source": "Metacritic 2010",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Country",
     "cover": "https://cdn-images.dzcdn.net/images/cover/0dea2e88db9f1bb870e5614a49589bca/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/1790-justin-townes-earle-harlem-river-blues.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1790-justin-townes-earle-harlem-river-blues.php",
+    "aoty_user": 76
   },
   {
     "artist": "Pantha du Prince",
@@ -22373,13 +22398,14 @@
     "year": 2010,
     "metacritic": 83,
     "source": "Metacritic 2010",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/e02da8dd96d7dd03ea0514d90b368559/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 23,
-    "aoty_url": "https://www.albumoftheyear.org/album/1406-pantha-du-prince-black-noise.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1406-pantha-du-prince-black-noise.php",
+    "aoty_user": 76
   },
   {
     "artist": "Trash Talk",
@@ -22387,13 +22413,14 @@
     "year": 2010,
     "metacritic": 83,
     "source": "Metacritic 2010",
-    "consensus": 79,
-    "reviews": 2,
+    "consensus": 76,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/95f12ebae01d3603f7aecc1b14c4935f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 75,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/7727-trash-talk-eyes-nines.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/7727-trash-talk-eyes-nines.php",
+    "aoty_user": 69
   },
   {
     "artist": "Circa Survive",
@@ -22401,13 +22428,14 @@
     "year": 2010,
     "metacritic": 83,
     "source": "Metacritic 2010",
-    "consensus": 75,
-    "reviews": 2,
+    "consensus": 76,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/194bf5189244f44e842a02529691ac06/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 67,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/24489-circa-survive-blue-sky-noise.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/24489-circa-survive-blue-sky-noise.php",
+    "aoty_user": 79
   },
   {
     "artist": "Jack Rose",
@@ -22415,13 +22443,14 @@
     "year": 2010,
     "metacritic": 83,
     "source": "Metacritic 2010",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Folk",
     "cover": "https://cdn-images.dzcdn.net/images/cover/07b0dea0147b58de3645499f41579dfc/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/1454-jack-rose-luck-in-the-valley.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1454-jack-rose-luck-in-the-valley.php",
+    "aoty_user": 73
   },
   {
     "artist": "The Claudia Quintet",
@@ -22439,13 +22468,14 @@
     "year": 2010,
     "metacritic": 82,
     "source": "Metacritic 2010",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/73f49d02e25453df144353f4ccf8b161/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 40,
-    "aoty_url": "https://www.albumoftheyear.org/album/1027-beach-house-teen-dream.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1027-beach-house-teen-dream.php",
+    "aoty_user": 85
   },
   {
     "artist": "Mary Gauthier",
@@ -22454,12 +22484,13 @@
     "metacritic": 82,
     "source": "Metacritic 2010",
     "consensus": 80,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8695ece0b473e11749c69186776057c2/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/1842-mary-gauthier-the-foundling.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1842-mary-gauthier-the-foundling.php",
+    "aoty_user": 81
   },
   {
     "artist": "The Dillinger Escape Plan",
@@ -22467,13 +22498,14 @@
     "year": 2010,
     "metacritic": 82,
     "source": "Metacritic 2010",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Metal",
     "cover": "https://cdn-images.dzcdn.net/images/cover/be0bb1c2e2ce5a9916cf03d7609181ed/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 16,
-    "aoty_url": "https://www.albumoftheyear.org/album/1648-the-dillinger-escape-plan-option-paralysis.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1648-the-dillinger-escape-plan-option-paralysis.php",
+    "aoty_user": 82
   },
   {
     "artist": "Laurie Anderson",
@@ -22481,13 +22513,14 @@
     "year": 2010,
     "metacritic": 82,
     "source": "Metacritic 2010",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/1cce7c54bd8b451296954e66fa08929d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 74,
     "aoty_reviews": 20,
-    "aoty_url": "https://www.albumoftheyear.org/album/1783-laurie-anderson-homeland.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1783-laurie-anderson-homeland.php",
+    "aoty_user": 80
   },
   {
     "artist": "Sharon Van Etten",
@@ -22495,12 +22528,13 @@
     "year": 2010,
     "metacritic": 82,
     "source": "Metacritic 2010",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 77,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/2145-sharon-van-etten-epic.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2145-sharon-van-etten-epic.php",
+    "aoty_user": 77
   },
   {
     "artist": "I Am Kloot",
@@ -22509,11 +22543,12 @@
     "metacritic": 82,
     "source": "Metacritic 2010",
     "consensus": 80,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Pop",
     "aoty_critic": 77,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/1857-i-am-kloot-sky-at-night.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1857-i-am-kloot-sky-at-night.php",
+    "aoty_user": 81
   },
   {
     "artist": "Titus Andronicus",
@@ -22521,12 +22556,13 @@
     "year": 2010,
     "metacritic": 82,
     "source": "Metacritic 2010",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 81,
     "aoty_reviews": 29,
-    "aoty_url": "https://www.albumoftheyear.org/album/1170-titus-andronicus-the-monitor.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1170-titus-andronicus-the-monitor.php",
+    "aoty_user": 80
   },
   {
     "artist": "Harvey Milk",
@@ -22534,12 +22570,13 @@
     "year": 2010,
     "metacritic": 82,
     "source": "Metacritic 2010",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Various",
     "aoty_critic": 78,
     "aoty_reviews": 16,
-    "aoty_url": "https://www.albumoftheyear.org/album/1684-harvey-milk-a-small-turn-of-human-kindness.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1684-harvey-milk-a-small-turn-of-human-kindness.php",
+    "aoty_user": 72
   },
   {
     "artist": "Aloe Blacc",
@@ -22547,12 +22584,13 @@
     "year": 2010,
     "metacritic": 82,
     "source": "Metacritic 2010",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Soul",
     "aoty_critic": 80,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/2160-aloe-blacc-good-things.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2160-aloe-blacc-good-things.php",
+    "aoty_user": 72
   },
   {
     "artist": "Flying Lotus",
@@ -22570,12 +22608,13 @@
     "year": 2010,
     "metacritic": 82,
     "source": "Metacritic 2010",
-    "consensus": 82,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Jazz",
     "aoty_critic": 81,
     "aoty_reviews": 17,
-    "aoty_url": "https://www.albumoftheyear.org/album/2106-wyatt-atzmon-stephen-for-the-ghosts-within.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2106-wyatt-atzmon-stephen-for-the-ghosts-within.php",
+    "aoty_user": 70
   },
   {
     "artist": "Cancer Bats",
@@ -22583,12 +22622,13 @@
     "year": 2010,
     "metacritic": 82,
     "source": "Metacritic 2010",
-    "consensus": 77,
-    "reviews": 2,
+    "consensus": 74,
+    "reviews": 3,
     "genre": "Punk",
     "aoty_critic": 72,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/25290-cancer-bats-bears-mayors-scraps-bones.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/25290-cancer-bats-bears-mayors-scraps-bones.php",
+    "aoty_user": 68
   },
   {
     "artist": "Perfume Genius",
@@ -22596,13 +22636,14 @@
     "year": 2010,
     "metacritic": 82,
     "source": "Metacritic 2010",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/14e42479724a5cdaca83dc211e4721eb/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 13,
-    "aoty_url": "https://www.albumoftheyear.org/album/1855-perfume-genius-learning.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1855-perfume-genius-learning.php",
+    "aoty_user": 74
   },
   {
     "artist": "Far",
@@ -22621,12 +22662,13 @@
     "year": 2010,
     "metacritic": 82,
     "source": "Metacritic 2010",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Experimental",
     "aoty_critic": 77,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/2237-sun-city-girls-funeral-mariachi.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/2237-sun-city-girls-funeral-mariachi.php",
+    "aoty_user": 75
   },
   {
     "artist": "Fucked Up",
@@ -22645,13 +22687,14 @@
     "year": 2010,
     "metacritic": 82,
     "source": "Metacritic 2010",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "R&B",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2af79c676e773a06f983696c2dea234b/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/25563-jazmine-sullivan-love-me-back.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/25563-jazmine-sullivan-love-me-back.php",
+    "aoty_user": 74
   },
   {
     "artist": "Roky Erickson With Okkervil River",
@@ -22659,12 +22702,13 @@
     "year": 2010,
     "metacritic": 82,
     "source": "Metacritic 2010",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Various",
     "aoty_critic": 80,
     "aoty_reviews": 24,
-    "aoty_url": "https://www.albumoftheyear.org/album/1623-roky-erickson-with-okkervil-river-true-love-cast-out-all-evil.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1623-roky-erickson-with-okkervil-river-true-love-cast-out-all-evil.php",
+    "aoty_user": 78
   },
   {
     "artist": "Four Tet",
@@ -22673,12 +22717,13 @@
     "metacritic": 82,
     "source": "Metacritic 2010",
     "consensus": 82,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/cb75b2c107266c06eb2a5fb696a0811e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 35,
-    "aoty_url": "https://www.albumoftheyear.org/album/1295-four-tet-there-is-love-in-you.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1295-four-tet-there-is-love-in-you.php",
+    "aoty_user": 82
   },
   {
     "artist": "The Black Keys",
@@ -22686,13 +22731,14 @@
     "year": 2010,
     "metacritic": 82,
     "source": "Metacritic 2010",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/509e0e8b60ef5e98e7d8b76643e686ce/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 33,
-    "aoty_url": "https://www.albumoftheyear.org/album/1462-the-black-keys-brothers.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1462-the-black-keys-brothers.php",
+    "aoty_user": 76
   },
   {
     "artist": "Vijay Iyer",
@@ -22711,13 +22757,14 @@
     "year": 2010,
     "metacritic": 81,
     "source": "Metacritic 2010",
-    "consensus": 79,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2d5ab952aa15fada05502d5014569e4a/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 21,
-    "aoty_url": "https://www.albumoftheyear.org/album/1982-how-to-dress-well-love-remains.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1982-how-to-dress-well-love-remains.php",
+    "aoty_user": 72
   },
   {
     "artist": "Fionn Regan",
@@ -22725,13 +22772,14 @@
     "year": 2010,
     "metacritic": 81,
     "source": "Metacritic 2010",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b066aacc24323a9dcffc506b771cb368/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/32387-fionn-regan-the-shadow-of-an-empire.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/32387-fionn-regan-the-shadow-of-an-empire.php",
+    "aoty_user": 74
   },
   {
     "artist": "Shad",
@@ -22739,13 +22787,14 @@
     "year": 2010,
     "metacritic": 81,
     "source": "Metacritic 2010",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6f47d201831d17501bdffcec85dce20c/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/11904-shad-tsol.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/11904-shad-tsol.php",
+    "aoty_user": 75
   },
   {
     "artist": "Vampire Weekend",
@@ -22754,12 +22803,13 @@
     "metacritic": 81,
     "source": "Metacritic 2010",
     "consensus": 80,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/59327de36493020190874f2725a8ae2d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 38,
-    "aoty_url": "https://www.albumoftheyear.org/album/869-vampire-weekend-contra.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/869-vampire-weekend-contra.php",
+    "aoty_user": 79
   },
   {
     "artist": "Marnie Stern",
