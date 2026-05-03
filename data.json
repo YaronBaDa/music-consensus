@@ -25515,14 +25515,15 @@
     "year": 2008,
     "metacritic": 81,
     "source": "Metacritic 2008",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/5c73c16c281ef3ea365c40ba35345ad7/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 75,
     "aoty_reviews": 6,
     "aoty_url": "https://www.albumoftheyear.org/album/31423-bound-stems-the-family-afloat.php",
-    "discogs": 87
+    "discogs": 87,
+    "aoty_user": 100
   },
   {
     "artist": "Los Campesinos!",
@@ -25531,13 +25532,14 @@
     "metacritic": 81,
     "source": "Metacritic 2008",
     "consensus": 82,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6cffb4b736549228ccb89e927c79c920/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 25,
     "aoty_url": "https://www.albumoftheyear.org/album/674-los-campesinos-hold-on-now-youngster.php",
-    "discogs": 87
+    "discogs": 87,
+    "aoty_user": 81
   },
   {
     "artist": "The Clash",
@@ -25556,13 +25558,14 @@
     "year": 2008,
     "metacritic": 81,
     "source": "Metacritic 2008",
-    "consensus": 80,
-    "reviews": 3,
+    "consensus": 79,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 74,
     "aoty_reviews": 19,
     "aoty_url": "https://www.albumoftheyear.org/album/614-atlas-sound-let-the-blind-lead-those-who-can-see-but-cannot-feel.php",
-    "discogs": 86
+    "discogs": 86,
+    "aoty_user": 76
   },
   {
     "artist": "Deerhunter",
@@ -25570,13 +25573,14 @@
     "year": 2008,
     "metacritic": 81,
     "source": "Metacritic 2008",
-    "consensus": 84,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 83,
     "aoty_reviews": 34,
     "aoty_url": "https://www.albumoftheyear.org/album/801-deerhunter-microcastle.php",
-    "discogs": 87
+    "discogs": 87,
+    "aoty_user": 81
   },
   {
     "artist": "Robert Forster",
@@ -25584,12 +25588,13 @@
     "year": 2008,
     "metacritic": 81,
     "source": "Metacritic 2008",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 74,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/692-robert-forster-the-evangelist.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/692-robert-forster-the-evangelist.php",
+    "aoty_user": 77
   },
   {
     "artist": "Deerhoof",
@@ -25597,12 +25602,13 @@
     "year": 2008,
     "metacritic": 80,
     "source": "Metacritic 2008",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 79,
     "aoty_reviews": 23,
-    "aoty_url": "https://www.albumoftheyear.org/album/1360-deerhoof-offend-maggie.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/1360-deerhoof-offend-maggie.php",
+    "aoty_user": 77
   },
   {
     "artist": "Sun Kil Moon",
@@ -25611,11 +25617,12 @@
     "metacritic": 80,
     "source": "Metacritic 2008",
     "consensus": 79,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Rock",
     "aoty_critic": 78,
     "aoty_reviews": 17,
-    "aoty_url": "https://www.albumoftheyear.org/album/824-sun-kil-moon-april.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/824-sun-kil-moon-april.php",
+    "aoty_user": 80
   },
   {
     "artist": "The Jesus and Mary Chain",
@@ -25634,12 +25641,13 @@
     "metacritic": 80,
     "source": "Metacritic 2008",
     "consensus": 79,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/cbe4ff51d8b38c1ec9e099b99738a856/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 13,
-    "aoty_url": "https://www.albumoftheyear.org/album/25112-jim-noir-jim-noir.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/25112-jim-noir-jim-noir.php",
+    "aoty_user": 80
   },
   {
     "artist": "Fuck Buttons",
@@ -25648,12 +25656,13 @@
     "metacritic": 80,
     "source": "Metacritic 2008",
     "consensus": 79,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f19ce06e1401f3fdb38bb31e9a08dcc6/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/723-fuck-buttons-street-horrrsing.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/723-fuck-buttons-street-horrrsing.php",
+    "aoty_user": 78
   },
   {
     "artist": "One Day As A Lion",
@@ -25672,13 +25681,14 @@
     "year": 2008,
     "metacritic": 80,
     "source": "Metacritic 2008",
-    "consensus": 81,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/937b093b85242d7f6a281556eb1e6a0a/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 7,
-    "aoty_url": "https://www.albumoftheyear.org/album/610-grouper-dragging-a-dead-deer-up-a-hill.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/610-grouper-dragging-a-dead-deer-up-a-hill.php",
+    "aoty_user": 83
   },
   {
     "artist": "American Music Club",
@@ -25687,12 +25697,13 @@
     "metacritic": 80,
     "source": "Metacritic 2008",
     "consensus": 78,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7d9195d5675249fb232916d5315a1259/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 16,
-    "aoty_url": "https://www.albumoftheyear.org/album/670-american-music-club-the-golden-age.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/670-american-music-club-the-golden-age.php",
+    "aoty_user": 78
   },
   {
     "artist": "Willie Nelson & Wynton Marsalis",
@@ -25710,13 +25721,14 @@
     "year": 2008,
     "metacritic": 80,
     "source": "Metacritic 2008",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/73d05b873390c94252b051d0e1f870f3/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 21,
-    "aoty_url": "https://www.albumoftheyear.org/album/639-the-gutter-twins-saturnalia.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/639-the-gutter-twins-saturnalia.php",
+    "aoty_user": 76
   },
   {
     "artist": "Frightened Rabbit",
@@ -25724,13 +25736,14 @@
     "year": 2008,
     "metacritic": 80,
     "source": "Metacritic 2008",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ebe05c8606ddb23432722fea0bd47fee/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 18,
-    "aoty_url": "https://www.albumoftheyear.org/album/672-frightened-rabbit-the-midnight-organ-fight.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/672-frightened-rabbit-the-midnight-organ-fight.php",
+    "aoty_user": 82
   },
   {
     "artist": "Vivian Girls",
@@ -25738,13 +25751,14 @@
     "year": 2008,
     "metacritic": 80,
     "source": "Metacritic 2008",
-    "consensus": 77,
-    "reviews": 2,
+    "consensus": 76,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6796cd0f07b975ca06b1009bd0b6cca2/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 74,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/842-vivian-girls-vivian-girls.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/842-vivian-girls-vivian-girls.php",
+    "aoty_user": 74
   },
   {
     "artist": "Liam Finn",
@@ -25752,13 +25766,14 @@
     "year": 2008,
     "metacritic": 80,
     "source": "Metacritic 2008",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 76,
+    "reviews": 3,
     "genre": "Various",
     "cover": "https://cdn-images.dzcdn.net/images/cover/4816da1452bcea64917b1fa72beb87c6/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 13,
-    "aoty_url": "https://www.albumoftheyear.org/album/784-liam-finn-ill-be-lightning.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/784-liam-finn-ill-be-lightning.php",
+    "aoty_user": 72
   },
   {
     "artist": "Marc Ribot's Ceramic Dog",
@@ -25766,12 +25781,13 @@
     "year": 2008,
     "metacritic": 80,
     "source": "Metacritic 2008",
-    "consensus": 73,
-    "reviews": 2,
+    "consensus": 74,
+    "reviews": 3,
     "genre": "Various",
     "aoty_critic": 66,
     "aoty_reviews": 5,
-    "aoty_url": "https://www.albumoftheyear.org/album/54518-ceramic-dog-party-intellectuals.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/54518-ceramic-dog-party-intellectuals.php",
+    "aoty_user": 75
   },
   {
     "artist": "Patti Smith and Kevin Shields",
@@ -25790,13 +25806,14 @@
     "year": 2008,
     "metacritic": 80,
     "source": "Metacritic 2008",
-    "consensus": 79,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8968fca29ec52df3b84ec1bd8b906c73/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/752-the-roots-rising-down.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/752-the-roots-rising-down.php",
+    "aoty_user": 74
   },
   {
     "artist": "Blitzen Trapper",
@@ -25805,12 +25822,13 @@
     "metacritic": 80,
     "source": "Metacritic 2008",
     "consensus": 78,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/9af645cbeb6fae20e19cb2537366f830/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 18,
-    "aoty_url": "https://www.albumoftheyear.org/album/713-blitzen-trapper-furr.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/713-blitzen-trapper-furr.php",
+    "aoty_user": 77
   },
   {
     "artist": "Fennesz",
@@ -25819,12 +25837,13 @@
     "metacritic": 80,
     "source": "Metacritic 2008",
     "consensus": 78,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/af6379456d34e024c1e995dba3d1706b/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/604-fennesz-black-sea.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/604-fennesz-black-sea.php",
+    "aoty_user": 77
   },
   {
     "artist": "Flight of the Conchords",
@@ -25833,12 +25852,13 @@
     "metacritic": 79,
     "source": "Metacritic 2008",
     "consensus": 80,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Various",
     "cover": "https://cdn-images.dzcdn.net/images/cover/550fde1c327e94edc2ee23cbe901390e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/774-flight-of-the-conchords-flight-of-the-conchords.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/774-flight-of-the-conchords-flight-of-the-conchords.php",
+    "aoty_user": 80
   },
   {
     "artist": "Dub Colossus",
@@ -25857,13 +25877,14 @@
     "year": 2008,
     "metacritic": 79,
     "source": "Metacritic 2008",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 76,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/c734204245db8c2255dbd3b50472fc24/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 20,
-    "aoty_url": "https://www.albumoftheyear.org/album/640-el-guincho-alegranza.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/640-el-guincho-alegranza.php",
+    "aoty_user": 73
   },
   {
     "artist": "Angil & The Hidden Tracks",
@@ -25892,12 +25913,13 @@
     "metacritic": 79,
     "source": "Metacritic 2008",
     "consensus": 78,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/3317e801e0c4d78ee6369e78a7a4196e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/18434-dungen-4.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/18434-dungen-4.php",
+    "aoty_user": 77
   },
   {
     "artist": "Ne-Yo",
@@ -25905,13 +25927,14 @@
     "year": 2008,
     "metacritic": 79,
     "source": "Metacritic 2008",
-    "consensus": 77,
-    "reviews": 2,
+    "consensus": 76,
+    "reviews": 3,
     "genre": "R&B",
     "cover": "https://cdn-images.dzcdn.net/images/cover/e3e95eca074ea06bbfcd7647f0c757c6/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 75,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/657-ne-yo-year-of-the-gentleman.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/657-ne-yo-year-of-the-gentleman.php",
+    "aoty_user": 74
   },
   {
     "artist": "Cut Copy",
@@ -25919,13 +25942,14 @@
     "year": 2008,
     "metacritic": 79,
     "source": "Metacritic 2008",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/59c34d4c31f9a59c924780eb21858506/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 21,
-    "aoty_url": "https://www.albumoftheyear.org/album/808-cut-copy-in-ghost-colours.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/808-cut-copy-in-ghost-colours.php",
+    "aoty_user": 81
   },
   {
     "artist": "Magnetic Fields",
@@ -25933,13 +25957,14 @@
     "year": 2008,
     "metacritic": 79,
     "source": "Metacritic 2008",
-    "consensus": 77,
-    "reviews": 2,
+    "consensus": 75,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/a6bbb6a09f82dcf60274be092436730a/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 75,
     "aoty_reviews": 29,
-    "aoty_url": "https://www.albumoftheyear.org/album/664-the-magnetic-fields-distortion.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/664-the-magnetic-fields-distortion.php",
+    "aoty_user": 71
   },
   {
     "artist": "Raphael Saadiq",
@@ -25948,12 +25973,13 @@
     "metacritic": 79,
     "source": "Metacritic 2008",
     "consensus": 78,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "R&B",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ce632a45932584dd49d74b5fd90131b7/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 16,
-    "aoty_url": "https://www.albumoftheyear.org/album/746-raphael-saadiq-the-way-i-see-it.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/746-raphael-saadiq-the-way-i-see-it.php",
+    "aoty_user": 79
   },
   {
     "artist": "Neon Neon",
@@ -25961,13 +25987,14 @@
     "year": 2008,
     "metacritic": 79,
     "source": "Metacritic 2008",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 77,
+    "reviews": 3,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/bff7c11602d6bce9f77ca4b62d7c3229/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 21,
-    "aoty_url": "https://www.albumoftheyear.org/album/741-neon-neon-stainless-style.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/741-neon-neon-stainless-style.php",
+    "aoty_user": 71
   },
   {
     "artist": "David Holmes",
@@ -25975,13 +26002,14 @@
     "year": 2008,
     "metacritic": 79,
     "source": "Metacritic 2008",
-    "consensus": 78,
-    "reviews": 2,
+    "consensus": 76,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/765133f3845ee9a4c2b3736155aaa619/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 13,
-    "aoty_url": "https://www.albumoftheyear.org/album/13708-david-holmes-the-holy-pictures.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/13708-david-holmes-the-holy-pictures.php",
+    "aoty_user": 71
   },
   {
     "artist": "Wild Beasts",
@@ -25990,12 +26018,13 @@
     "metacritic": 79,
     "source": "Metacritic 2008",
     "consensus": 78,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6d9092291f42d80896e5e0db4509d685/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/711-wild-beasts-limbo-panto.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/711-wild-beasts-limbo-panto.php",
+    "aoty_user": 77
   },
   {
     "artist": "The Field",
@@ -26003,14 +26032,15 @@
     "year": 2007,
     "metacritic": 90,
     "source": "Metacritic 2007",
-    "consensus": 90,
-    "reviews": 3,
+    "consensus": 88,
+    "reviews": 4,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2c6b0935f528487b2fae6b0a5caf2c94/1000x1000-000000-80-0-0.jpg",
     "discogs": 94,
     "aoty_critic": 85,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/402-the-field-from-here-we-go-sublime.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/402-the-field-from-here-we-go-sublime.php",
+    "aoty_user": 82
   },
   {
     "artist": "Burial",
@@ -26019,13 +26049,14 @@
     "metacritic": 90,
     "source": "Metacritic 2007",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9d/0f/1c/9d0f1c2b-2fae-d8ac-3920-ce9ec5bc85b5/7982.jpg/600x600bb.jpg",
-    "consensus": 92,
-    "reviews": 3,
+    "consensus": 90,
+    "reviews": 4,
     "genre": "Electronic",
     "discogs": 94,
     "aoty_critic": 92,
     "aoty_reviews": 17,
-    "aoty_url": "https://www.albumoftheyear.org/album/403-burial-untrue.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/403-burial-untrue.php",
+    "aoty_user": 85
   },
   {
     "artist": "Radiohead",
@@ -26033,13 +26064,14 @@
     "year": 2007,
     "metacritic": 88,
     "source": "Metacritic 2007",
-    "consensus": 88,
-    "reviews": 2,
+    "consensus": 89,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/a175af9b7d329bc678cb4d26fc13d6de/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 87,
     "aoty_reviews": 31,
-    "aoty_url": "https://www.albumoftheyear.org/album/363-radiohead-in-rainbows.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/363-radiohead-in-rainbows.php",
+    "aoty_user": 93
   },
   {
     "artist": "Panda Bear",
@@ -26047,13 +26079,14 @@
     "year": 2007,
     "metacritic": 87,
     "source": "Metacritic 2007",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 84,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/eaab789ac116e83d1f66aa0534028868/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 26,
-    "aoty_url": "https://www.albumoftheyear.org/album/404-panda-bear-person-pitch.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/404-panda-bear-person-pitch.php",
+    "aoty_user": 81
   },
   {
     "artist": "Robert Plant And Alison Krauss",
@@ -26061,12 +26094,13 @@
     "year": 2007,
     "metacritic": 87,
     "source": "Metacritic 2007",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Pop",
     "aoty_critic": 82,
     "aoty_reviews": 16,
-    "aoty_url": "https://www.albumoftheyear.org/album/405-robert-plant-and-alison-krauss-raising-sand.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/405-robert-plant-and-alison-krauss-raising-sand.php",
+    "aoty_user": 72
   },
   {
     "artist": "Stars Of The Lid",
@@ -26074,12 +26108,13 @@
     "year": 2007,
     "metacritic": 87,
     "source": "Metacritic 2007",
-    "consensus": 87,
-    "reviews": 2,
+    "consensus": 86,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 87,
     "aoty_reviews": 10,
-    "aoty_url": "https://www.albumoftheyear.org/album/424-stars-of-the-lid-and-their-refinement-of-the-decline.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/424-stars-of-the-lid-and-their-refinement-of-the-decline.php",
+    "aoty_user": 84
   },
   {
     "artist": "Les Savy Fav",
@@ -26087,12 +26122,13 @@
     "year": 2007,
     "metacritic": 87,
     "source": "Metacritic 2007",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 80,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 80,
     "aoty_reviews": 22,
-    "aoty_url": "https://www.albumoftheyear.org/album/406-les-savy-fav-lets-stay-friends.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/406-les-savy-fav-lets-stay-friends.php",
+    "aoty_user": 73
   },
   {
     "artist": "Arcade Fire",
@@ -26100,12 +26136,13 @@
     "year": 2007,
     "metacritic": 87,
     "source": "Metacritic 2007",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 85,
+    "reviews": 3,
     "genre": "Alternative",
     "aoty_critic": 85,
     "aoty_reviews": 31,
-    "aoty_url": "https://www.albumoftheyear.org/album/407-arcade-fire-neon-bible.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/407-arcade-fire-neon-bible.php",
+    "aoty_user": 82
   },
   {
     "artist": "Patty Griffin",
@@ -26114,11 +26151,12 @@
     "metacritic": 87,
     "source": "Metacritic 2007",
     "consensus": 84,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Rock",
     "aoty_critic": 82,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/408-patty-griffin-children-running-through.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/408-patty-griffin-children-running-through.php",
+    "aoty_user": 84
   },
   {
     "artist": "M.I.A.",
@@ -26126,12 +26164,13 @@
     "year": 2007,
     "metacritic": 87,
     "source": "Metacritic 2007",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 85,
+    "reviews": 3,
     "genre": "Electronic",
     "aoty_critic": 86,
     "aoty_reviews": 31,
-    "aoty_url": "https://www.albumoftheyear.org/album/409-mia-kala.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/409-mia-kala.php",
+    "aoty_user": 81
   },
   {
     "artist": "LCD Soundsystem",
@@ -26139,13 +26178,14 @@
     "year": 2007,
     "metacritic": 86,
     "source": "Metacritic 2007",
-    "consensus": 86,
-    "reviews": 2,
+    "consensus": 87,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/d5aec97cfc1581df6b32a267fe067827/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 86,
     "aoty_reviews": 32,
-    "aoty_url": "https://www.albumoftheyear.org/album/410-lcd-soundsystem-sound-of-silver.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/410-lcd-soundsystem-sound-of-silver.php",
+    "aoty_user": 88
   },
   {
     "artist": "Robert Wyatt",
@@ -26153,13 +26193,14 @@
     "year": 2007,
     "metacritic": 86,
     "source": "Metacritic 2007",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/699e9da551ffb5f8e04a1284fba0d6e3/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 15,
-    "aoty_url": "https://www.albumoftheyear.org/album/411-robert-wyatt-comicopera.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/411-robert-wyatt-comicopera.php",
+    "aoty_user": 70
   },
   {
     "artist": "Battles",
@@ -26167,13 +26208,14 @@
     "year": 2007,
     "metacritic": 86,
     "source": "Metacritic 2007",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/94ef6d5188fc7e135e7f739c30b0b50e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 22,
-    "aoty_url": "https://www.albumoftheyear.org/album/412-battles-mirrored.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/412-battles-mirrored.php",
+    "aoty_user": 80
   },
   {
     "artist": "LCD Soundsystem",
@@ -26192,13 +26234,14 @@
     "year": 2007,
     "metacritic": 86,
     "source": "Metacritic 2007",
-    "consensus": 85,
-    "reviews": 2,
+    "consensus": 84,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/9b1fade0c56f1a3f09cc447177c7ea64/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 26,
-    "aoty_url": "https://www.albumoftheyear.org/album/321-the-national-boxer.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/321-the-national-boxer.php",
+    "aoty_user": 82
   },
   {
     "artist": "Elliott Smith",
@@ -26217,13 +26260,14 @@
     "year": 2007,
     "metacritic": 85,
     "source": "Metacritic 2007",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 81,
+    "reviews": 3,
     "genre": "Country",
     "cover": "https://cdn-images.dzcdn.net/images/cover/3523f9cf13cbc2592e77705ba747f90a/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 8,
-    "aoty_url": "https://www.albumoftheyear.org/album/415-miranda-lambert-crazy-ex-girlfriend.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/415-miranda-lambert-crazy-ex-girlfriend.php",
+    "aoty_user": 74
   },
   {
     "artist": "Me'Shell Ndeg\u00e9ocello",
@@ -26231,12 +26275,13 @@
     "year": 2007,
     "metacritic": 84,
     "source": "Metacritic 2007",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Hip Hop",
     "aoty_critic": 77,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/416-meshell-ndegeocello-the-world-has-made-me-the-man-of-my-dreams.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/416-meshell-ndegeocello-the-world-has-made-me-the-man-of-my-dreams.php",
+    "aoty_user": 76
   },
   {
     "artist": "The Dillinger Escape Plan",
@@ -26245,12 +26290,13 @@
     "metacritic": 84,
     "source": "Metacritic 2007",
     "consensus": 82,
-    "reviews": 2,
+    "reviews": 3,
     "genre": "Metal",
     "cover": "https://cdn-images.dzcdn.net/images/cover/993cb397cf712011f8e6afdb870df1b3/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 14,
-    "aoty_url": "https://www.albumoftheyear.org/album/417-the-dillinger-escape-plan-ire-works.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/417-the-dillinger-escape-plan-ire-works.php",
+    "aoty_user": 82
   },
   {
     "artist": "Spoon",
@@ -26258,13 +26304,14 @@
     "year": 2007,
     "metacritic": 84,
     "source": "Metacritic 2007",
-    "consensus": 83,
-    "reviews": 2,
+    "consensus": 82,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/c88a9b2e0ce5b67d75b666f94ea21112/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 20,
-    "aoty_url": "https://www.albumoftheyear.org/album/418-spoon-ga-ga-ga-ga-ga.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/418-spoon-ga-ga-ga-ga-ga.php",
+    "aoty_user": 81
   },
   {
     "artist": "Eluvium",
@@ -26272,13 +26319,14 @@
     "year": 2007,
     "metacritic": 84,
     "source": "Metacritic 2007",
-    "consensus": 80,
-    "reviews": 2,
+    "consensus": 79,
+    "reviews": 3,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/9ab3329a9431c0a2747a17ee55663594/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 77,
     "aoty_reviews": 9,
-    "aoty_url": "https://www.albumoftheyear.org/album/419-eluvium-copia.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/419-eluvium-copia.php",
+    "aoty_user": 76
   },
   {
     "artist": "Richard Thompson",
@@ -26286,13 +26334,14 @@
     "year": 2007,
     "metacritic": 84,
     "source": "Metacritic 2007",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 78,
+    "reviews": 3,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/64c29afa492252980d1479b031470d00/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/420-richard-thompson-sweet-warrior.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/420-richard-thompson-sweet-warrior.php",
+    "aoty_user": 68
   },
   {
     "artist": "Iron & Wine",
@@ -26300,13 +26349,14 @@
     "year": 2007,
     "metacritic": 84,
     "source": "Metacritic 2007",
-    "consensus": 84,
-    "reviews": 2,
+    "consensus": 83,
+    "reviews": 3,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/143cde9110159cbce325eb306d2dea68/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 25,
-    "aoty_url": "https://www.albumoftheyear.org/album/421-iron-wine-the-shepherds-dog.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/421-iron-wine-the-shepherds-dog.php",
+    "aoty_user": 81
   },
   {
     "artist": "Suzanne Vega",
