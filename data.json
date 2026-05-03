@@ -25268,13 +25268,14 @@
     "year": 2008,
     "metacritic": 81,
     "source": "Metacritic 2008",
-    "consensus": 78,
+    "consensus": 84,
     "reviews": 2,
     "genre": "R&B",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6e69dd7743a67e666b632404d4580268/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 76,
     "aoty_reviews": 18,
-    "aoty_url": "https://www.albumoftheyear.org/album/762-al-green-lay-it-down.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/762-al-green-lay-it-down.php",
+    "discogs": 86
   },
   {
     "artist": "The Fall",
@@ -25282,13 +25283,14 @@
     "year": 2008,
     "metacritic": 81,
     "source": "Metacritic 2008",
-    "consensus": 80,
+    "consensus": 82,
     "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/742d0896f44d088d6d9044b068fcc1ff/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 11,
-    "aoty_url": "https://www.albumoftheyear.org/album/701-the-fall-imperial-wax-solvent.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/701-the-fall-imperial-wax-solvent.php",
+    "discogs": 84
   },
   {
     "artist": "Butch Walker",
@@ -25296,13 +25298,14 @@
     "year": 2008,
     "metacritic": 81,
     "source": "Metacritic 2008",
-    "consensus": 78,
+    "consensus": 86,
     "reviews": 2,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/e7850dd3384049af656bd732a2dd18a1/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 74,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/6856-butch-walker-sycamore-meadows.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/6856-butch-walker-sycamore-meadows.php",
+    "discogs": 92
   },
   {
     "artist": "Belle and Sebastian",
@@ -25311,8 +25314,9 @@
     "metacritic": 81,
     "source": "Metacritic 2008",
     "consensus": 81,
-    "reviews": 1,
-    "genre": "Indie"
+    "reviews": 2,
+    "genre": "Indie",
+    "discogs": 81
   },
   {
     "artist": "High Places",
@@ -25320,10 +25324,11 @@
     "year": 2008,
     "metacritic": 81,
     "source": "Metacritic 2008",
-    "consensus": 81,
-    "reviews": 1,
+    "consensus": 83,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/30be9aa63aa2e89ab993c51ec0aceaef/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/30be9aa63aa2e89ab993c51ec0aceaef/1000x1000-000000-80-0-0.jpg",
+    "discogs": 85
   },
   {
     "artist": "Bonnie \"Prince\" Billy",
@@ -25331,13 +25336,14 @@
     "year": 2008,
     "metacritic": 81,
     "source": "Metacritic 2008",
-    "consensus": 80,
+    "consensus": 82,
     "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/415178da5ce897bbbcbceca74a98626e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 80,
     "aoty_reviews": 13,
-    "aoty_url": "https://www.albumoftheyear.org/album/796-bonnie-prince-billy-lie-down-in-the-light.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/796-bonnie-prince-billy-lie-down-in-the-light.php",
+    "discogs": 84
   },
   {
     "artist": "Flying Lotus",
@@ -25345,13 +25351,14 @@
     "year": 2008,
     "metacritic": 81,
     "source": "Metacritic 2008",
-    "consensus": 80,
+    "consensus": 86,
     "reviews": 2,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/692e32c025a3b7696d6f48b5751d7841/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/690-flying-lotus-los-angeles.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/690-flying-lotus-los-angeles.php",
+    "discogs": 91
   },
   {
     "artist": "Sigur R\u00f3s",
@@ -25359,9 +25366,10 @@
     "year": 2008,
     "metacritic": 81,
     "source": "Metacritic 2008",
-    "consensus": 81,
-    "reviews": 1,
-    "genre": "Rock"
+    "consensus": 80,
+    "reviews": 2,
+    "genre": "Rock",
+    "discogs": 78
   },
   {
     "artist": "Pale Young Gentlemen",
@@ -25369,10 +25377,11 @@
     "year": 2008,
     "metacritic": 81,
     "source": "Metacritic 2008",
-    "consensus": 81,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Pop",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/8d5eaf89321110f407dbb6312f0adf62/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/8d5eaf89321110f407dbb6312f0adf62/1000x1000-000000-80-0-0.jpg",
+    "discogs": 100
   },
   {
     "artist": "Bound Stems",
@@ -25380,13 +25389,14 @@
     "year": 2008,
     "metacritic": 81,
     "source": "Metacritic 2008",
-    "consensus": 78,
+    "consensus": 84,
     "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/5c73c16c281ef3ea365c40ba35345ad7/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 75,
     "aoty_reviews": 6,
-    "aoty_url": "https://www.albumoftheyear.org/album/31423-bound-stems-the-family-afloat.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/31423-bound-stems-the-family-afloat.php",
+    "discogs": 87
   },
   {
     "artist": "Los Campesinos!",
@@ -25394,13 +25404,14 @@
     "year": 2008,
     "metacritic": 81,
     "source": "Metacritic 2008",
-    "consensus": 80,
+    "consensus": 84,
     "reviews": 2,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/6cffb4b736549228ccb89e927c79c920/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 78,
     "aoty_reviews": 25,
-    "aoty_url": "https://www.albumoftheyear.org/album/674-los-campesinos-hold-on-now-youngster.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/674-los-campesinos-hold-on-now-youngster.php",
+    "discogs": 87
   },
   {
     "artist": "The Clash",
@@ -25408,9 +25419,10 @@
     "year": 2008,
     "metacritic": 81,
     "source": "Metacritic 2008",
-    "consensus": 81,
-    "reviews": 1,
-    "genre": "Alternative"
+    "consensus": 86,
+    "reviews": 2,
+    "genre": "Alternative",
+    "discogs": 90
   },
   {
     "artist": "Atlas Sound",
@@ -25418,12 +25430,13 @@
     "year": 2008,
     "metacritic": 81,
     "source": "Metacritic 2008",
-    "consensus": 78,
+    "consensus": 84,
     "reviews": 2,
     "genre": "Alternative",
     "aoty_critic": 74,
     "aoty_reviews": 19,
-    "aoty_url": "https://www.albumoftheyear.org/album/614-atlas-sound-let-the-blind-lead-those-who-can-see-but-cannot-feel.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/614-atlas-sound-let-the-blind-lead-those-who-can-see-but-cannot-feel.php",
+    "discogs": 86
   },
   {
     "artist": "Deerhunter",
@@ -25431,12 +25444,13 @@
     "year": 2008,
     "metacritic": 81,
     "source": "Metacritic 2008",
-    "consensus": 82,
+    "consensus": 84,
     "reviews": 2,
     "genre": "Alternative",
     "aoty_critic": 83,
     "aoty_reviews": 34,
-    "aoty_url": "https://www.albumoftheyear.org/album/801-deerhunter-microcastle.php"
+    "aoty_url": "https://www.albumoftheyear.org/album/801-deerhunter-microcastle.php",
+    "discogs": 87
   },
   {
     "artist": "Robert Forster",
