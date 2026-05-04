@@ -6392,13 +6392,14 @@
     "metacritic": 87,
     "source": "Metacritic 2021",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0e/83/6f/0e836f03-ca3c-0688-d813-385658d909ca/075679786333.jpg/600x600bb.jpg",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Folk",
     "aoty_critic": 82,
     "aoty_reviews": 13,
     "aoty_url": "https://www.albumoftheyear.org/album/392659-brandi-carlile-in-these-silent-days.php",
-    "aoty_user": 75
+    "aoty_user": 75,
+    "discogs": 89
   },
   {
     "artist": "Jane Weaver",
@@ -6406,14 +6407,15 @@
     "year": 2021,
     "metacritic": 87,
     "source": "Metacritic 2021",
-    "consensus": 80,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/1fcce7c37828c53077bba22a827d603f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 16,
     "aoty_url": "https://www.albumoftheyear.org/album/290221-jane-weaver-flock.php",
-    "aoty_user": 71
+    "aoty_user": 71,
+    "discogs": 86
   },
   {
     "artist": "Pauline Anna Strom",
@@ -6421,14 +6423,15 @@
     "year": 2021,
     "metacritic": 87,
     "source": "Metacritic 2021",
-    "consensus": 79,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8072a96f3935ca2b32179add30223047/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 10,
     "aoty_url": "https://www.albumoftheyear.org/album/301526-pauline-anna-strom-angel-tears-in-sunlight.php",
-    "aoty_user": 68
+    "aoty_user": 68,
+    "discogs": 90
   },
   {
     "artist": "Richard Dawson",
@@ -6437,13 +6440,14 @@
     "metacritic": 87,
     "source": "Metacritic 2021",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/17/34/7017347d-29a9-6cae-e90e-a55dbce69f54/887833014660.png/600x600bb.jpg",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 82,
     "aoty_reviews": 11,
     "aoty_url": "https://www.albumoftheyear.org/album/414280-richard-dawson-circle-henki.php",
-    "aoty_user": 76
+    "aoty_user": 76,
+    "discogs": 90
   },
   {
     "artist": "Jeff Parker",
@@ -6452,13 +6456,14 @@
     "metacritic": 87,
     "source": "Metacritic 2021",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fc/f6/06/fcf6066a-aa24-0546-c3a7-1738f518d619/075597912159.jpg/600x600bb.jpg",
-    "consensus": 79,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Jazz",
     "aoty_critic": 83,
     "aoty_reviews": 8,
     "aoty_url": "https://www.albumoftheyear.org/album/438237-jeff-parker-forfolks.php",
-    "aoty_user": 68
+    "aoty_user": 68,
+    "discogs": 91
   },
   {
     "artist": "Cassandra Jenkins",
@@ -6467,13 +6472,14 @@
     "metacritic": 87,
     "source": "Metacritic 2021",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/08/7f/29/087f2972-9e02-4f6e-670c-d69d364336c0/600197016428.jpg/600x600bb.jpg",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 82,
     "aoty_reviews": 10,
     "aoty_url": "https://www.albumoftheyear.org/album/322497-cassandra-jenkins-an-overview-on-phenomenal-nature.php",
-    "aoty_user": 77
+    "aoty_user": 77,
+    "discogs": 90
   },
   {
     "artist": "Illuminati Hotties",
@@ -6482,13 +6488,14 @@
     "metacritic": 87,
     "source": "Metacritic 2021",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/c2/5f/22c25fbd-791b-973f-8c20-12e46d895d8e/1140.jpg/600x600bb.jpg",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 82,
     "aoty_reviews": 15,
     "aoty_url": "https://www.albumoftheyear.org/album/378335-illuminati-hotties-let-me-do-one-more.php",
-    "aoty_user": 74
+    "aoty_user": 74,
+    "discogs": 83
   },
   {
     "artist": "Pom Pom Squad",
@@ -6497,13 +6504,14 @@
     "metacritic": 87,
     "source": "Metacritic 2021",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a7/0c/2a/a70c2a75-af82-5f42-1db0-6237574135bb/4250506838683_cover.jpg/600x600bb.jpg",
-    "consensus": 80,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 80,
     "aoty_reviews": 11,
     "aoty_url": "https://www.albumoftheyear.org/album/377393-pom-pom-squad-death-of-a-cheerleader.php",
-    "aoty_user": 73
+    "aoty_user": 73,
+    "discogs": 94
   },
   {
     "artist": "L'Rain",
@@ -7872,12 +7880,13 @@
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/87/df/49/87df49e3-7745-6ded-5864-f1b2a6764774/653738051822_Cover.jpg/600x600bb.jpg",
     "consensus": 78,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 79,
     "aoty_reviews": 11,
     "aoty_url": "https://www.albumoftheyear.org/album/169062-mystery-jets-a-billion-heartbeats.php",
-    "aoty_user": 68
+    "aoty_user": 68,
+    "discogs": 79
   },
   {
     "artist": "The Microphones",
@@ -7885,13 +7894,14 @@
     "year": 2020,
     "metacritic": 87,
     "source": "Metacritic 2020",
-    "consensus": 86,
-    "reviews": 3,
+    "consensus": 89,
+    "reviews": 4,
     "genre": "Ambient",
     "aoty_critic": 85,
     "aoty_reviews": 13,
     "aoty_url": "https://www.albumoftheyear.org/album/253159-the-microphones-microphones-in-2020.php",
-    "aoty_user": 86
+    "aoty_user": 86,
+    "discogs": 98
   },
   {
     "artist": "Crack Cloud",
@@ -7899,13 +7909,14 @@
     "year": 2020,
     "metacritic": 87,
     "source": "Metacritic 2020",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 84,
     "aoty_reviews": 14,
     "aoty_url": "https://www.albumoftheyear.org/album/243522-crack-cloud-pain-olympics.php",
-    "aoty_user": 71
+    "aoty_user": 71,
+    "discogs": 89
   },
   {
     "artist": "Beatrice Dillon",
@@ -7928,14 +7939,15 @@
     "year": 2020,
     "metacritic": 87,
     "source": "Metacritic 2020",
-    "consensus": 77,
-    "reviews": 3,
+    "consensus": 80,
+    "reviews": 4,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7c914af1c89421f347648b0319c1d8dc/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 8,
     "aoty_url": "https://www.albumoftheyear.org/album/281735-headie-one-edna.php",
-    "aoty_user": 62
+    "aoty_user": 62,
+    "discogs": 88
   },
   {
     "artist": "Deftones",
@@ -7943,14 +7955,15 @@
     "year": 2020,
     "metacritic": 87,
     "source": "Metacritic 2020",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/f7d7a4a499eb046f454b7f94d53eed72/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 30,
     "aoty_url": "https://www.albumoftheyear.org/album/272235-deftones-ohms.php",
-    "aoty_user": 76
+    "aoty_user": 76,
+    "discogs": 89
   },
   {
     "artist": "The Soft Pink Truth",
@@ -7959,13 +7972,14 @@
     "metacritic": 87,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fc/db/6a/fcdb6a5c-b437-9389-5a4c-7d3be5dc56c4/519_3000_300dpi.jpg/600x600bb.jpg",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 85,
+    "reviews": 4,
     "genre": "Electronic",
     "aoty_critic": 87,
     "aoty_reviews": 9,
     "aoty_url": "https://www.albumoftheyear.org/album/221917-the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase.php",
-    "aoty_user": 73
+    "aoty_user": 73,
+    "discogs": 92
   },
   {
     "artist": "Fleet Foxes",
@@ -7974,13 +7988,14 @@
     "metacritic": 87,
     "source": "Metacritic 2020",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/48/93/8a/48938af7-6dca-4161-24c4-fb7715af8263/0045778781423.png/600x600bb.jpg",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 85,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 82,
     "aoty_reviews": 26,
     "aoty_url": "https://www.albumoftheyear.org/album/282758-fleet-foxes-shore.php",
-    "aoty_user": 79
+    "aoty_user": 79,
+    "discogs": 91
   },
   {
     "artist": "PVRIS",
@@ -7988,14 +8003,15 @@
     "year": 2020,
     "metacritic": 87,
     "source": "Metacritic 2020",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/ad0305c8b22d554bd2e10959283ab384/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 12,
     "aoty_url": "https://www.albumoftheyear.org/album/221057-pvris-use-me.php",
-    "aoty_user": 73
+    "aoty_user": 73,
+    "discogs": 91
   },
   {
     "artist": "R\u00f3is\u00edn Murphy",
@@ -9356,13 +9372,14 @@
     "metacritic": 87,
     "source": "Metacritic 2019",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c2/71/2b/c2712ba8-9fb4-da63-6b2a-f1f25275e9e6/Big_Thief_UFOF.jpg/600x600bb.jpg",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 83,
     "aoty_reviews": 28,
     "aoty_url": "https://www.albumoftheyear.org/album/141758-big-thief-ufof.php",
-    "aoty_user": 78
+    "aoty_user": 78,
+    "discogs": 89
   },
   {
     "artist": "Cate Le Bon",
@@ -9370,14 +9387,15 @@
     "year": 2019,
     "metacritic": 87,
     "source": "Metacritic 2019",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2c780427781f5571a8ecf766b5a5da29/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 19,
     "aoty_url": "https://www.albumoftheyear.org/album/144979-cate-le-bon-reward.php",
-    "aoty_user": 73
+    "aoty_user": 73,
+    "discogs": 87
   },
   {
     "artist": "Purple Mountains",
@@ -9386,13 +9404,14 @@
     "metacritic": 87,
     "source": "Metacritic 2019",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/71/6c/55716cc7-aeb8-5b2d-f4f1-e8e6022e625e/781484068020.png/600x600bb.jpg",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 87,
+    "reviews": 4,
     "genre": "Rock",
     "aoty_critic": 86,
     "aoty_reviews": 21,
     "aoty_url": "https://www.albumoftheyear.org/album/155745-purple-mountains-purple-mountains.php",
-    "aoty_user": 83
+    "aoty_user": 83,
+    "discogs": 93
   },
   {
     "artist": "Lana Del Rey",
@@ -9400,14 +9419,15 @@
     "year": 2019,
     "metacritic": 87,
     "source": "Metacritic 2019",
-    "consensus": 87,
-    "reviews": 3,
+    "consensus": 89,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/c0f4f022fa51f13e877aae2e758e241d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 87,
     "aoty_reviews": 36,
     "aoty_url": "https://www.albumoftheyear.org/album/121870-lana-del-rey-norman-fucking-rockwell.php",
-    "aoty_user": 88
+    "aoty_user": 88,
+    "discogs": 93
   },
   {
     "artist": "Sharon Van Etten",
@@ -10735,13 +10755,14 @@
     "metacritic": 87,
     "source": "Metacritic 2018",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/1a/cb/c9/1acbc9b5-d32a-ad24-cc25-a6e9f924dcf7/075679876904.jpg/600x600bb.jpg",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "R&B",
     "aoty_critic": 87,
     "aoty_reviews": 42,
     "aoty_url": "https://www.albumoftheyear.org/album/102710-janelle-monae-dirty-computer.php",
-    "aoty_user": 80
+    "aoty_user": 80,
+    "discogs": 92
   },
   {
     "artist": "Car Seat Headrest",
@@ -10749,10 +10770,11 @@
     "year": 2018,
     "metacritic": 87,
     "source": "Metacritic 2018",
-    "consensus": 87,
-    "reviews": 1,
+    "consensus": 90,
+    "reviews": 2,
     "genre": "Alternative",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/0cb3d4d249f2699baae9a66b9730060f/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/0cb3d4d249f2699baae9a66b9730060f/1000x1000-000000-80-0-0.jpg",
+    "discogs": 93
   },
   {
     "artist": "Hookworms",
@@ -10761,13 +10783,14 @@
     "metacritic": 87,
     "source": "Metacritic 2018",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/24/da/5224da0b-0a81-4a9d-23eb-e7090da55b05/887828042364.png/600x600bb.jpg",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 84,
     "aoty_reviews": 23,
     "aoty_url": "https://www.albumoftheyear.org/album/93751-hookworms-microshift.php",
-    "aoty_user": 73
+    "aoty_user": 73,
+    "discogs": 85
   },
   {
     "artist": "Alela Diane",
@@ -10776,13 +10799,14 @@
     "metacritic": 87,
     "source": "Metacritic 2018",
     "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/69/2e/f2692ecb-f264-3395-0045-b5a16d95de03/cover.jpg/600x600bb.jpg",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Pop",
     "aoty_critic": 84,
     "aoty_reviews": 7,
     "aoty_url": "https://www.albumoftheyear.org/album/97911-alela-diane-cusp.php",
-    "aoty_user": 76
+    "aoty_user": 76,
+    "discogs": 88
   },
   {
     "artist": "Objekt",
@@ -10790,14 +10814,15 @@
     "year": 2018,
     "metacritic": 87,
     "source": "Metacritic 2018",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 84,
+    "reviews": 4,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b0cc8f9a3d9620b17601e7c312b8dbf0/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 9,
     "aoty_url": "https://www.albumoftheyear.org/album/122115-objekt-cocoon-crush.php",
-    "aoty_user": 74
+    "aoty_user": 74,
+    "discogs": 93
   },
   {
     "artist": "Daughters",
@@ -10805,14 +10830,15 @@
     "year": 2018,
     "metacritic": 87,
     "source": "Metacritic 2018",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 87,
+    "reviews": 4,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/748915426e905d0264c90511d6c4038d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 14,
     "aoty_url": "https://www.albumoftheyear.org/album/119341-daughters-you-wont-get-what-you-want.php",
-    "aoty_user": 83
+    "aoty_user": 83,
+    "discogs": 92
   },
   {
     "artist": "Mitski",
@@ -10820,14 +10846,15 @@
     "year": 2018,
     "metacritic": 87,
     "source": "Metacritic 2018",
-    "consensus": 84,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b899e98957cab00d900ada4611c39f7f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 40,
     "aoty_url": "https://www.albumoftheyear.org/album/110881-mitski-be-the-cowboy.php",
-    "aoty_user": 81
+    "aoty_user": 81,
+    "discogs": 90
   },
   {
     "artist": "serpentwithfeet",
@@ -10835,14 +10862,15 @@
     "year": 2018,
     "metacritic": 87,
     "source": "Metacritic 2018",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/055e5f5b318ed10bc7cc2bc3e46a7145/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 20,
     "aoty_url": "https://www.albumoftheyear.org/album/104406-serpentwithfeet-soil.php",
-    "aoty_user": 74
+    "aoty_user": 74,
+    "discogs": 87
   },
   {
     "artist": "U.S. Girls",
@@ -12284,14 +12312,15 @@
     "year": 2017,
     "metacritic": 87,
     "source": "Metacritic 2017",
-    "consensus": 81,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/3d796d9c489a9c0f7cdd12a65c20c6a4/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 29,
     "aoty_url": "https://www.albumoftheyear.org/album/83206-the-horrors-v.php",
-    "aoty_user": 76
+    "aoty_user": 76,
+    "discogs": 86
   },
   {
     "artist": "Power Trip",
