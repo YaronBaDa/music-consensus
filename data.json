@@ -13663,13 +13663,14 @@
     "year": 2016,
     "metacritic": 87,
     "source": "Metacritic 2016",
-    "consensus": 80,
-    "reviews": 3,
+    "consensus": 81,
+    "reviews": 4,
     "genre": "Folk",
     "aoty_critic": 80,
     "aoty_reviews": 6,
     "aoty_url": "https://www.albumoftheyear.org/album/48848-robbie-fulks-upland-stories.php",
-    "aoty_user": 73
+    "aoty_user": 73,
+    "discogs": 83
   },
   {
     "artist": "David Bowie",
@@ -13677,9 +13678,10 @@
     "year": 2016,
     "metacritic": 87,
     "source": "Metacritic 2016",
-    "consensus": 87,
-    "reviews": 1,
-    "genre": "Rock"
+    "consensus": 90,
+    "reviews": 2,
+    "genre": "Rock",
+    "discogs": 93
   },
   {
     "artist": "Angel Olsen",
@@ -13687,13 +13689,14 @@
     "year": 2016,
     "metacritic": 87,
     "source": "Metacritic 2016",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 86,
     "aoty_reviews": 40,
     "aoty_url": "https://www.albumoftheyear.org/album/56124-angel-olsen-my-woman.php",
-    "aoty_user": 83
+    "aoty_user": 83,
+    "discogs": 88
   },
   {
     "artist": "Frank Ocean",
@@ -13701,14 +13704,15 @@
     "year": 2016,
     "metacritic": 87,
     "source": "Metacritic 2016",
-    "consensus": 87,
-    "reviews": 3,
+    "consensus": 90,
+    "reviews": 4,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/aa7e6de00b0810f5051aa60b489f58d8/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 86,
     "aoty_reviews": 42,
     "aoty_url": "https://www.albumoftheyear.org/album/58949-frank-ocean-blonde.php",
-    "aoty_user": 89
+    "aoty_user": 89,
+    "discogs": 98
   },
   {
     "artist": "Mitski",
@@ -13716,14 +13720,15 @@
     "year": 2016,
     "metacritic": 87,
     "source": "Metacritic 2016",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/494fdb6075864c792809c7d9b24d6417/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 30,
     "aoty_url": "https://www.albumoftheyear.org/album/51364-mitski-puberty-2.php",
-    "aoty_user": 84
+    "aoty_user": 84,
+    "discogs": 90
   },
   {
     "artist": "NAILS",
@@ -13731,14 +13736,15 @@
     "year": 2016,
     "metacritic": 87,
     "source": "Metacritic 2016",
-    "consensus": 84,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b8782efee43f8408fbbf9fa6001dce4e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 15,
     "aoty_url": "https://www.albumoftheyear.org/album/53736-nails-you-will-never-be-one-of-us.php",
-    "aoty_user": 81
+    "aoty_user": 81,
+    "discogs": 90
   },
   {
     "artist": "Bon Iver",
@@ -13747,13 +13753,14 @@
     "metacritic": 87,
     "source": "Metacritic 2016",
     "genre": "Pop",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "cover": "https://cdn-images.dzcdn.net/images/cover/bd132a0670b07c6aadc4a7ee0efc8f6f/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 87,
     "aoty_reviews": 49,
     "aoty_url": "https://www.albumoftheyear.org/album/59737-bon-iver-22-a-million.php",
-    "aoty_user": 82
+    "aoty_user": 82,
+    "discogs": 89
   },
   {
     "artist": "Ital Tek",
@@ -15120,13 +15127,14 @@
     "year": 2015,
     "metacritic": 87,
     "source": "Metacritic 2015",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 85,
+    "reviews": 4,
     "genre": "Pop",
     "aoty_critic": 85,
     "aoty_reviews": 8,
     "aoty_url": "https://www.albumoftheyear.org/album/28151-james-mcmurtry-complicated-game.php",
-    "aoty_user": 77
+    "aoty_user": 77,
+    "discogs": 90
   },
   {
     "artist": "Julia Holter",
@@ -15134,14 +15142,15 @@
     "year": 2015,
     "metacritic": 87,
     "source": "Metacritic 2015",
-    "consensus": 87,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/4e787f7dfbea73fd07b776821db411de/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 88,
     "aoty_reviews": 37,
     "aoty_url": "https://www.albumoftheyear.org/album/36433-julia-holter-have-you-in-my-wilderness.php",
-    "aoty_user": 85
+    "aoty_user": 85,
+    "discogs": 86
   },
   {
     "artist": "Jason Isbell",
@@ -15149,14 +15158,15 @@
     "year": 2015,
     "metacritic": 87,
     "source": "Metacritic 2015",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 85,
+    "reviews": 4,
     "genre": "Folk",
     "cover": "https://cdn-images.dzcdn.net/images/cover/e2c776ba1a5b291368193d4281de919b/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 28,
     "aoty_url": "https://www.albumoftheyear.org/album/31372-jason-isbell-something-more-than-free.php",
-    "aoty_user": 79
+    "aoty_user": 79,
+    "discogs": 90
   },
   {
     "artist": "John Howard & The Night Mail",
@@ -15164,14 +15174,15 @@
     "year": 2015,
     "metacritic": 87,
     "source": "Metacritic 2015",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 82,
+    "reviews": 4,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7585c64476508fe5dc61fa4da2d71040/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 7,
     "aoty_url": "https://www.albumoftheyear.org/album/39404-john-howard-the-night-mail-john-howard-the-night-mail.php",
-    "aoty_user": 78
+    "aoty_user": 78,
+    "discogs": 77
   },
   {
     "artist": "Susanne Sundf\u00f8r",
@@ -15179,14 +15190,15 @@
     "year": 2015,
     "metacritic": 87,
     "source": "Metacritic 2015",
-    "consensus": 86,
-    "reviews": 3,
+    "consensus": 88,
+    "reviews": 4,
     "genre": "Pop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/69e556b21f1a609592f2750c23085fcf/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 87,
     "aoty_reviews": 8,
     "aoty_url": "https://www.albumoftheyear.org/album/27235-susanne-sundfor-ten-love-songs.php",
-    "aoty_user": 84
+    "aoty_user": 84,
+    "discogs": 93
   },
   {
     "artist": "Hiatus Kaiyote",
@@ -15209,14 +15221,15 @@
     "year": 2015,
     "metacritic": 87,
     "source": "Metacritic 2015",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 85,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8ba1ad35f21d7784d8b190c032d5c8dc/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 15,
     "aoty_url": "https://www.albumoftheyear.org/album/29100-hop-along-painted-shut.php",
-    "aoty_user": 79
+    "aoty_user": 79,
+    "discogs": 91
   },
   {
     "artist": "Vince Staples",
@@ -15224,14 +15237,15 @@
     "year": 2015,
     "metacritic": 87,
     "source": "Metacritic 2015",
-    "consensus": 84,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Hip Hop",
     "cover": "https://cdn-images.dzcdn.net/images/cover/93392d34e4cc6ef84160119728aa2ee8/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 24,
     "aoty_url": "https://www.albumoftheyear.org/album/32579-vince-staples-summertime-06.php",
-    "aoty_user": 80
+    "aoty_user": 80,
+    "discogs": 93
   },
   {
     "artist": "Bj\u00f6rk",
@@ -15240,13 +15254,14 @@
     "metacritic": 87,
     "source": "Metacritic 2015",
     "consensus": 86,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/09c295ba804da6f9e1de476cfff1d530/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 43,
     "aoty_url": "https://www.albumoftheyear.org/album/26282-bjork-vulnicura.php",
-    "aoty_user": 86
+    "aoty_user": 86,
+    "discogs": 88
   },
   {
     "artist": "Father John Misty",
@@ -15254,13 +15269,14 @@
     "year": 2015,
     "metacritic": 87,
     "source": "Metacritic 2015",
-    "consensus": 86,
-    "reviews": 3,
+    "consensus": 87,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 87,
     "aoty_reviews": 43,
     "aoty_url": "https://www.albumoftheyear.org/album/22669-father-john-misty-i-love-you-honeybear.php",
-    "aoty_user": 84
+    "aoty_user": 84,
+    "discogs": 90
   },
   {
     "artist": "Various Artists",
@@ -15268,9 +15284,10 @@
     "year": 2015,
     "metacritic": 87,
     "source": "Metacritic 2015",
-    "consensus": 87,
-    "reviews": 1,
-    "genre": "Folk"
+    "consensus": 88,
+    "reviews": 2,
+    "genre": "Folk",
+    "discogs": 90
   },
   {
     "artist": "Jamie xx",
@@ -15278,13 +15295,14 @@
     "year": 2015,
     "metacritic": 87,
     "source": "Metacritic 2015",
-    "consensus": 84,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Electronic",
     "aoty_critic": 83,
     "aoty_reviews": 46,
     "aoty_url": "https://www.albumoftheyear.org/album/30078-jamie-xx-in-colour.php",
-    "aoty_user": 81
+    "aoty_user": 81,
+    "discogs": 91
   },
   {
     "artist": "Dave Rawlings Machine",
@@ -15292,13 +15310,14 @@
     "year": 2015,
     "metacritic": 87,
     "source": "Metacritic 2015",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 85,
+    "reviews": 4,
     "genre": "Folk",
     "aoty_critic": 83,
     "aoty_reviews": 8,
     "aoty_url": "https://www.albumoftheyear.org/album/38853-dave-rawlings-machine-nashville-obsolete.php",
-    "aoty_user": 76
+    "aoty_user": 76,
+    "discogs": 93
   },
   {
     "artist": "Natalie Prass",
@@ -16519,14 +16538,15 @@
     "year": 2014,
     "metacritic": 87,
     "source": "Metacritic 2014",
-    "consensus": 78,
-    "reviews": 3,
+    "consensus": 81,
+    "reviews": 4,
     "genre": "Country",
     "cover": "https://cdn-images.dzcdn.net/images/cover/185656eabacf81080497391142435a24/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 13,
     "aoty_url": "https://www.albumoftheyear.org/album/13036-rosanne-cash-the-river-and-the-thread.php",
-    "aoty_user": 68
+    "aoty_user": 68,
+    "discogs": 90
   },
   {
     "artist": "Perfume Genius",
@@ -16535,13 +16555,14 @@
     "metacritic": 87,
     "source": "Metacritic 2014",
     "consensus": 84,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/3bfa40ab43144fd4ab6a262bd43c4a90/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 84,
     "aoty_reviews": 36,
     "aoty_url": "https://www.albumoftheyear.org/album/17453-perfume-genius-too-bright.php",
-    "aoty_user": 81
+    "aoty_user": 81,
+    "discogs": 85
   },
   {
     "artist": "The Delines",
@@ -16549,14 +16570,15 @@
     "year": 2014,
     "metacritic": 87,
     "source": "Metacritic 2014",
-    "consensus": 82,
-    "reviews": 3,
+    "consensus": 83,
+    "reviews": 4,
     "genre": "Rock",
     "cover": "https://cdn-images.dzcdn.net/images/cover/b4e9b812262e2cfa6f490de939abe28e/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 82,
     "aoty_reviews": 11,
     "aoty_url": "https://www.albumoftheyear.org/album/15453-the-delines-colfax.php",
-    "aoty_user": 76
+    "aoty_user": 76,
+    "discogs": 88
   },
   {
     "artist": "Fennesz",
@@ -17896,13 +17918,14 @@
     "year": 2013,
     "metacritic": 87,
     "source": "Metacritic 2013",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Alternative",
     "aoty_critic": 87,
     "aoty_reviews": 43,
     "aoty_url": "https://www.albumoftheyear.org/album/5578-my-bloody-valentine-mbv.php",
-    "aoty_user": 81
+    "aoty_user": 81,
+    "discogs": 87
   },
   {
     "artist": "Jason Isbell",
@@ -17910,13 +17933,14 @@
     "year": 2013,
     "metacritic": 87,
     "source": "Metacritic 2013",
-    "consensus": 84,
-    "reviews": 3,
+    "consensus": 86,
+    "reviews": 4,
     "genre": "Folk",
     "aoty_critic": 84,
     "aoty_reviews": 13,
     "aoty_url": "https://www.albumoftheyear.org/album/7119-jason-isbell-southeastern.php",
-    "aoty_user": 81
+    "aoty_user": 81,
+    "discogs": 91
   },
   {
     "artist": "Tim Hecker",
@@ -17924,13 +17948,14 @@
     "year": 2013,
     "metacritic": 87,
     "source": "Metacritic 2013",
-    "consensus": 85,
-    "reviews": 3,
+    "consensus": 87,
+    "reviews": 4,
     "genre": "Electronic",
     "aoty_critic": 83,
     "aoty_reviews": 29,
     "aoty_url": "https://www.albumoftheyear.org/album/8679-tim-hecker-virgins.php",
-    "aoty_user": 85
+    "aoty_user": 85,
+    "discogs": 92
   },
   {
     "artist": "Daft Punk",
@@ -17938,14 +17963,15 @@
     "year": 2013,
     "metacritic": 87,
     "source": "Metacritic 2013",
-    "consensus": 86,
-    "reviews": 3,
+    "consensus": 87,
+    "reviews": 4,
     "genre": "Electronic",
     "cover": "https://cdn-images.dzcdn.net/images/cover/311bba0fc112d15f72c8b5a65f0456c1/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 83,
     "aoty_reviews": 52,
     "aoty_url": "https://www.albumoftheyear.org/album/6162-daft-punk-random-access-memories.php",
-    "aoty_user": 87
+    "aoty_user": 87,
+    "discogs": 92
   },
   {
     "artist": "Pistol Annies",
@@ -17954,13 +17980,14 @@
     "metacritic": 87,
     "source": "Metacritic 2013",
     "consensus": 80,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Country",
     "cover": "https://cdn-images.dzcdn.net/images/cover/7f932e4e6b327a32f4e656056819c5d6/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 79,
     "aoty_reviews": 8,
     "aoty_url": "https://www.albumoftheyear.org/album/6943-pistol-annies-annie-up.php",
-    "aoty_user": 73
+    "aoty_user": 73,
+    "discogs": 82
   },
   {
     "artist": "Touch\u00e9 Amor\u00e9",
@@ -17969,13 +17996,14 @@
     "metacritic": 87,
     "source": "Metacritic 2013",
     "consensus": 83,
-    "reviews": 3,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/2dc280c8815e3a385ed8bb9919da109d/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 81,
     "aoty_reviews": 15,
     "aoty_url": "https://www.albumoftheyear.org/album/9898-touche-amore-is-survived-by.php",
-    "aoty_user": 80
+    "aoty_user": 80,
+    "discogs": 85
   },
   {
     "artist": "Jenny Hval",
@@ -17983,14 +18011,15 @@
     "year": 2013,
     "metacritic": 87,
     "source": "Metacritic 2013",
-    "consensus": 83,
-    "reviews": 3,
+    "consensus": 85,
+    "reviews": 4,
     "genre": "Alternative",
     "cover": "https://cdn-images.dzcdn.net/images/cover/8b03a69c43f6c90dcef15143670bdc70/1000x1000-000000-80-0-0.jpg",
     "aoty_critic": 85,
     "aoty_reviews": 12,
     "aoty_url": "https://www.albumoftheyear.org/album/6271-jenny-hval-innocence-is-kinky.php",
-    "aoty_user": 78
+    "aoty_user": 78,
+    "discogs": 89
   },
   {
     "artist": "Rokia Traor\u00e9",
